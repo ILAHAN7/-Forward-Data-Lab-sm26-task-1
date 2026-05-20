@@ -1,0 +1,111 @@
+{
+  "query_id": "P20B",
+  "query": "systemic risk financial networks GCN",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:45Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Machine Learning for Systemic Risk Monitoring in Financial Networks",
+    "year": 2023,
+    "abstract": "We apply graph convolutional networks to interbank exposure networks to predict systemic stress events, evaluating model performance against CoVaR and SRISK benchmarks using data from 48 countries.",
+    "domain": [
+      "systemic risk",
+      "financial networks",
+      "GCN",
+      "macroprudential"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Modelling financial contagion in complex equity networks: A decision support framework based on graph neural networks",
+      "link": "https://www.bmij.org/index.php/1/article/view/2682",
+      "snippet": "… financial contagion, has prompted a growing body of research seeking to understand, measure, and forecast systemic risk across increasingly complex financial networks… for the GCN is …",
+      "publication_info": "C Özden - Business & Management Studies: An International …, 2026 - bmij.org",
+      "year": 2026,
+      "citation_count": null
+    },
+    {
+      "rank": 2,
+      "title": "Research on risk assessment and optimization of GCN supply chain financial network based on M estimation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2772941925001462",
+      "snippet": "… , and the risk reduction rate reaches 15.7 %. This study provides a new supply … financial network risk assessment method and a theoretical basis and practical guidance for financial risk …",
+      "publication_info": "X Yu, F Tong, Z Hu - Systems and Soft Computing, 2025 - Elsevier",
+      "year": 2025,
+      "citation_count": 2
+    },
+    {
+      "rank": 3,
+      "title": "Temporal Graph Learning for Default Prediction and Systemic Risk Mitigation in Financial Networks",
+      "link": "https://spj.science.org/doi/full/10.34133/icomputing.0193",
+      "snippet": "… risks. Validated on a large commercial bank dataset with a total loan volume of USD 3 trillion, our system risk … Risk mitigation analysis reveals that targeting the top 1% of predicted high-…",
+      "publication_info": "M Liu, T Li, J Chen, Z Niu, J Zhang - Intelligent Computing, 2025 - spj.science.org",
+      "year": 2025,
+      "citation_count": 2
+    },
+    {
+      "rank": 4,
+      "title": "Graph Neural Networks for Systemic Risk Prediction in Interbank Lending Networks",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11340901/",
+      "snippet": "… , GCN, GAT, TGN, to encode both structural and temporal dynamics of systemic risk spread. … use of GNNs presents a powerful approach to improving the stability of financial networks. …",
+      "publication_info": "B Likhitkar, S Singh, D Pathak… - … and Computer Networks …, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 5,
+      "title": "Deep Learning-Based Dynamic Graph Framework for Robust Corporate Financial Health Risk Prediction",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3783779.3783796",
+      "snippet": "… a temporal graph convolution network (T-GCN) to … systemic risk analysis within industries. It provides reliable support for studying uncertainty mechanisms in dynamic financial networks. …",
+      "publication_info": "C Chiang, D Li, R Ying, Y Wang, Q Gan… - Proceedings of the 2025 …, 2025 - dl.acm.org",
+      "year": 2025,
+      "citation_count": 22
+    },
+    {
+      "rank": 6,
+      "title": "Company relationship modeling and graph neural networks for financial market forecasting",
+      "link": "https://era.ed.ac.uk/server/api/core/bitstreams/3da0970e-9acb-40eb-bcf1-15cd217890d7/content",
+      "snippet": "This thesis presents a series of studies for financial market forecasting, leveraging various graph neural networks based on a novel company relationship modeling scheme. Departing …",
+      "publication_info": "C Luo - 2025 - era.ed.ac.uk",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 7,
+      "title": "Enhanced volatility spillover network prediction of Chinese financial institutions using GCN-LSTM model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1544612325012917",
+      "snippet": "… By constructing the volatility spillover network based on … network and long short-term memory (GCN-LSTM) model to predict the volatility spillover network of 31 listed Chinese financial …",
+      "publication_info": "Q Gu, S Li, J Qin - Finance Research Letters, 2025 - Elsevier",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 8,
+      "title": "Research on Financial Systemic Risk Measurement Based on Investor Sentiment and Network Text Mining",
+      "link": "http://scholar-press.com/uploads/papers/2Ht18VHRw1acyUarbwlUB8Zjyn2NYJ5gdQAoBo0O.pdf",
+      "snippet": "The research on financial systemic risk measurement based on investor sentiment and network text mining focuses on the core value of financial time series prediction in policy …",
+      "publication_info": "J Sun - Socio-Economic Statistics Research (2025), 2025 - scholar-press.com",
+      "year": 2025,
+      "citation_count": 14
+    },
+    {
+      "rank": 9,
+      "title": "Research on financial risk assessment algorithm based on graph neural network",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3718751.3718903",
+      "snippet": "… Graph Convolutional network (GCN) : GCN learns the representation of a … financial network, graph neural network can learn the potential rules and risk characteristics in the network…",
+      "publication_info": "H Sun - … Conference on Big Data, Artificial Intelligence and Risk …, 2024 - dl.acm.org",
+      "year": 2024,
+      "citation_count": 5
+    },
+    {
+      "rank": 10,
+      "title": "Graph Neural Networks for Advanced Financial Risk Modeling in Volatile Markets",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11051611/",
+      "snippet": "… This work uses a combined estimate of systemic risk and … for financial networks, where nodes represent financial … Experiments show that GNN-based models, especially GCN and GAT, …",
+      "publication_info": "KR Narsepalle, SR Bolla - 2025 International Conference on …, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": 4
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "counts": {
+    "Abstract": 153,
+    "Other Sections": 892,
+    "Discussion": 38,
+    "Conclusion": 142,
+    "Related Work": 53,
+    "Introduction": 326,
+    "Background": 22,
+    "Methods": 44,
+    "Literature Review": 43,
+    "Results": 13
+  },
+  "distribution": {
+    "Abstract": 0.0886,
+    "Other Sections": 0.5168,
+    "Discussion": 0.022,
+    "Conclusion": 0.0823,
+    "Related Work": 0.0307,
+    "Introduction": 0.1889,
+    "Background": 0.0127,
+    "Methods": 0.0255,
+    "Literature Review": 0.0249,
+    "Results": 0.0075
+  },
+  "total_snippets": 1726
+}

@@ -1,0 +1,111 @@
+{
+  "query_id": "P17A",
+  "query": "Cross-Border CBDC Interoperability: Technical Standards and Geopolitical Implications",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:18Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Cross-Border CBDC Interoperability: Technical Standards and Geopolitical Implications",
+    "year": 2023,
+    "abstract": "We survey cross-border CBDC initiatives (mBridge, Project Dunbar) and evaluate the role of technical interoperability standards (ISO 20022, atomic swaps) in shaping dollar hegemony under digital currency regimes.",
+    "domain": [
+      "CBDC",
+      "cross-border payments",
+      "interoperability",
+      "geopolitics"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "CENTRAL BANK DIGITAL DIPLOMACY:: LEGAL CHALLENGES AND GEOPOLITICAL IMPLICATIONS",
+      "link": "http://www.abfrjournal.com/index.php/abfr/article/view/393",
+      "snippet": "… legal challenges in cross-border CBDC implementation; to … technical standards remains underexplored, despite its … This legal ambiguity threatens the stability and interoperability …",
+      "publication_info": "ES FASINU, SA ADESEKE… - African Banking and …, 2025 - abfrjournal.com",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 2,
+      "title": "Interoperability of CBDCs: Optimising Cross-Border Settlements through the lens of national and international regulation",
+      "link": "https://www.researchgate.net/profile/Vladyslav-Kamyshanskyi/publication/390940697_Interoperability_of_CBDCs_Optimising_Cross-Border_Settlements_through_the_lens_of_national_and_international_regulation/links/68036503df0e3f544f42ce73/Interoperability-of-CBDCs-Optimising-Cross-Border-Settlements-through-the-lens-of-national-and-international-regulation.pdf",
+      "snippet": "… Service, global economic and geopolitical shifts may lead to a … of CBDC interoperability to optimize cross-border settlements. … status, interoperability, and economic impact on national …",
+      "publication_info": "V Kamyshanskyi - Scientific Journal of the National Academy of …, 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": 4
+    },
+    {
+      "rank": 3,
+      "title": "Towards cross-border CBDC interoperability: insights from a multivocal literature review",
+      "link": "https://www.emerald.com/jeim/article-abstract/36/5/1296/206415",
+      "snippet": "… Practical implications … requires common technical standards (eg message formats) but also aligned … BIS models for CBDC cross-border interoperability and cross-border payments. We …",
+      "publication_info": "M Themistocleous, P Rupino da Cunha… - Journal of Enterprise …, 2023 - emerald.com",
+      "year": 2023,
+      "citation_count": 79
+    },
+    {
+      "rank": 4,
+      "title": "Interoperability of CBDCs: Optimising Cross-Border Settlements through the lens of national and international regulation. Інтероперабельність CBDC: оптимізація …",
+      "link": "https://elar.navs.edu.ua/items/5ff6c2f0-e092-4b7b-9172-8aa5414cacb8",
+      "snippet": "… and geopolitical shifts … technical challenges that require thorough study and resolution. This includes, in particular, issues related to legal status, interoperability, and economic impact on …",
+      "publication_info": "В Камишанський - 2025 - elar.navs.edu.ua",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 5,
+      "title": "International economic policies for cross-border payments in digital money in the context of geopolitical risks",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4815891",
+      "snippet": "… harnessed to ensure seamless interoperability, adhering to international … the technical standards and operational norms among … , mitigating the impact of cross-border capital flows and …",
+      "publication_info": "Y Zhao - Available at SSRN 4815891, 2024 - papers.ssrn.com",
+      "year": 2024,
+      "citation_count": 9
+    },
+    {
+      "rank": 6,
+      "title": "GEOPOLITICAL IMPLICATIONS OF DIGITAL CURRENCIES: NATIONAL SECURITY AND GLOBAL POWER SHIFTS",
+      "link": "https://timjurnal.az/uploads/2025/06/gulnare-eliyeva-konul-1.pdf",
+      "snippet": "… : the geopolitical impact of digital currencies is shaped not only by their technical design, but … systems—are increasingly exploring cross-border CBDC collaborations. These emerging …",
+      "publication_info": "GV Aliyeva - timjurnal.az",
+      "year": null,
+      "citation_count": null
+    },
+    {
+      "rank": 7,
+      "title": "The geopolitics of Central Bank Digital currencies: reflections from the Middle East",
+      "link": "https://cadmus.eui.eu/entities/publication/5a59a24c-f21c-4cf9-ad5c-2e3d17b54441",
+      "snippet": "… issued CBDC could facilitate real cross-border transactions. … currencies on a single interoperable ledger — a feature that … technically sound CBDC risks low uptake and limited impact. …",
+      "publication_info": "H Ismail, IG MUÑOZ GONZÁLEZ - 2025 - cadmus.eui.eu",
+      "year": 2025,
+      "citation_count": 2
+    },
+    {
+      "rank": 8,
+      "title": "The New Architecture of Global Finance: An In-Depth Analysis of Central Bank Digital Currencies and Blockchain-Based Cross-Border Payments",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6380101",
+      "snippet": "… their technological, economic, regulatory, and geopolitical … report evaluates CBDC-based cross-border settlement architectures … technical standards, including ISO 20022 compatibility …",
+      "publication_info": "A Kilinc, Y Karakış, C Eti - 2026 - papers.ssrn.com",
+      "year": 2026,
+      "citation_count": null
+    },
+    {
+      "rank": 9,
+      "title": "Cross-Border Central Bank Digital Currency (CBDC) Corridors: Opportunities, Challenges, and Implementation Considerations",
+      "link": "https://www.researchgate.net/profile/Saheed-Martin/publication/400742497_Cross-Border_Central_Bank_Digital_Currency_CBDC_Corridors_Opportunities_Challenges_and_Implementation_Considerations/links/698ea3a942f94d1212aa7d5b/Cross-Border-Central-Bank-Digital-Currency-CBDC-Corridors-Opportunities-Challenges-and-Implementation-Considerations.pdf",
+      "snippet": "… distributed ledger technology or interoperable systems that … geopolitical considerations, as alignment on CBDC corridor … between digital currency systems, shared technical standards…",
+      "publication_info": "JA Smith, ER Johnson, MT Davis, SL Thompson… - researchgate.net",
+      "year": null,
+      "citation_count": null
+    },
+    {
+      "rank": 10,
+      "title": "CBDC Interoperability Standards",
+      "link": "https://www.researchgate.net/profile/Mariam-Yusuff-6/publication/400742777_CBDC_Interoperability_Standards/links/698e9a7c64ca8a38208c92fc/CBDC-Interoperability-Standards.pdf",
+      "snippet": "… potential economic and social impacts of interoperable CBDCs. Using a … analyzes existing CBDC designs, cross-border payment … Furthermore, geopolitical considerations play a role in …",
+      "publication_info": "J Anderson, E Carter, M Davis, S Thompson, M Yusuff - researchgate.net",
+      "year": null,
+      "citation_count": null
+    }
+  ]
+}

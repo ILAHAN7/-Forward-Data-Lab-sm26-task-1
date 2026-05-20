@@ -1,0 +1,1796 @@
+{
+  "papers": [
+    {
+      "title": "Machine learning for credit scoring: Improving logistic regression with non-linear decision-tree effects",
+      "authors": [
+        {
+          "name": "Elena Dumitrescu",
+          "id": "46188402"
+        },
+        {
+          "name": "Sullivan Hué",
+          "id": "153145099"
+        },
+        {
+          "name": "Christophe Hurlin",
+          "id": "3267813"
+        },
+        {
+          "name": "Sessi Tokpavi",
+          "id": "2762122"
+        }
+      ],
+      "year": 2021,
+      "venue": "European Journal of Operational Research",
+      "score": 0.9928593637442421,
+      "abstract": "",
+      "corpusId": 201087324,
+      "url": "https://doi.org/10.1016/j.ejor.2021.06.053"
+    },
+    {
+      "title": "A benchmark of machine learning approaches for credit score prediction",
+      "authors": [
+        {
+          "name": "V. Moscato",
+          "id": "1707400"
+        },
+        {
+          "name": "A. Picariello",
+          "id": "1695194"
+        },
+        {
+          "name": "Giancarlo Sperlí",
+          "id": "2682488"
+        }
+      ],
+      "year": 2021,
+      "venue": "Expert systems with applications",
+      "score": 0.9907442553075748,
+      "abstract": "",
+      "corpusId": 224909498,
+      "url": "https://doi.org/10.1016/j.eswa.2020.113986"
+    },
+    {
+      "title": "Statistical and machine learning models in credit scoring: A systematic literature survey",
+      "authors": [
+        {
+          "name": "X. Dastile",
+          "id": "69017364"
+        },
+        {
+          "name": "T. Çelik",
+          "id": "48627696"
+        },
+        {
+          "name": "M. Potsane",
+          "id": "97733444"
+        }
+      ],
+      "year": 2020,
+      "venue": "Applied Soft Computing",
+      "score": 0.9903404653827926,
+      "abstract": "",
+      "corpusId": 216384128,
+      "url": "https://doi.org/10.1016/j.asoc.2020.106263"
+    },
+    {
+      "title": "Transparency, auditability, and explainability of machine learning models in credit scoring",
+      "authors": [
+        {
+          "name": "Michael Bücker",
+          "id": "2066651681"
+        },
+        {
+          "name": "G. Szepannek",
+          "id": "1766677"
+        },
+        {
+          "name": "Alicja Gosiewska",
+          "id": "51440580"
+        },
+        {
+          "name": "P. Biecek",
+          "id": "144356944"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of the Operational Research Society",
+      "score": 0.9883349954044643,
+      "abstract": "Abstract A major requirement for credit scoring models is to provide a maximally accurate risk prediction. Additionally, regulators demand these models to be transparent and auditable. Thus, in credit scoring, very simple predictive models such as logistic regression or decision trees are still widely used and the superior predictive power of modern machine learning algorithms cannot be fully leveraged. Significant potential is therefore missed, leading to higher reserves or more credit defaults. This article works out different dimensions that have to be considered for making credit scoring models understandable and presents a framework for making \"black box\" machine learning models transparent, auditable, and explainable. Following this framework, we present an overview of techniques, demonstrate how they can be applied in credit scoring and how results compare to the interpretability of scorecards. A real world case study shows that a comparable degree of interpretability can be achieved while machine learning techniques keep their ability to improve predictive power.",
+      "corpusId": 221971270,
+      "url": "https://api.semanticscholar.org/CorpusId:221971270"
+    },
+    {
+      "title": "Machine Learning (ML) Technologies for Digital Credit Scoring in Rural Finance: A Literature Review",
+      "authors": [
+        {
+          "name": "Anil Kumar K",
+          "id": "2119320183"
+        },
+        {
+          "name": "Suneel Sharma",
+          "id": "2109864289"
+        },
+        {
+          "name": "M. Mahdavi",
+          "id": "2075280769"
+        }
+      ],
+      "year": 2021,
+      "venue": "Risks",
+      "score": 0.9845541183950273,
+      "abstract": "Rural credit is one of the most critical inputs for farm production across the globe. Despite so many advances in digitalization in emerging and developing economies, still a large part of society like small farm holders, rural youth, and women farmers are untouched by the mainstream of banking transactions. Machine learning-based technology is giving a new hope to these individuals. However, it is the banking or non-banking institutions that decide how they will adopt this advanced technology, to have reduced human biases in loan decision making. Therefore, the scope of this study is to highlight the various AI-ML- based methods for credit scoring and their gaps currently in practice by banking or non-banking institutions. For this study, systematic literature review methods have been applied; existing research articles have been empirically reviewed with an attempt to identify and compare the best fit AI-ML-based model adopted by various financial institutions worldwide. The main purpose of this study is to present the various ML algorithms highlighted by earlier researchers that could be fit for a credit assessment of rural borrowers, particularly those who have no or inadequate loan history. However, it would be interesting to recognize further how the financial institutions could be able to blend the traditional and digital methods successfully without any ethical challenges.",
+      "corpusId": 242067903,
+      "url": "https://api.semanticscholar.org/CorpusId:242067903"
+    },
+    {
+      "title": "An Empirical Comparison of Machine-Learning Methods on Bank Client Credit Assessments",
+      "authors": [
+        {
+          "name": "Lkhagvadorj Munkhdalai",
+          "id": "41070543"
+        },
+        {
+          "name": "Tsendsuren Munkhdalai",
+          "id": "2227827"
+        },
+        {
+          "name": "Oyun-Erdene Namsrai",
+          "id": "2710822"
+        },
+        {
+          "name": "Jong Yun Lee",
+          "id": "2108614875"
+        },
+        {
+          "name": "K. Ryu",
+          "id": "3080120"
+        }
+      ],
+      "year": 2019,
+      "venue": "Sustainability",
+      "score": 0.9827000563313827,
+      "abstract": "Machine learning and artificial intelligence have achieved a human-level performance in many application domains, including image classification, speech recognition and machine translation. However, in the financial domain expert-based credit risk models have still been dominating. Establishing meaningful benchmark and comparisons on machine-learning approaches and human expert-based models is a prerequisite in further introducing novel methods. Therefore, our main goal in this study is to establish a new benchmark using real consumer data and to provide machine-learning approaches that can serve as a baseline on this benchmark. We performed an extensive comparison between the machine-learning approaches and a human expert-based model—FICO credit scoring system—by using a Survey of Consumer Finances (SCF) data. As the SCF data is non-synthetic and consists of a large number of real variables, we applied two variable-selection methods: the first method used hypothesis tests, correlation and random forest-based feature importance measures and the second method was only a random forest-based new approach (NAP), to select the best representative features for effective modelling and to compare them. We then built regression models based on various machine-learning algorithms ranging from logistic regression and support vector machines to an ensemble of gradient boosted trees and deep neural networks. Our results demonstrated that if lending institutions in the 2001s had used their own credit scoring model constructed by machine-learning methods explored in this study, their expected credit losses would have been lower, and they would be more sustainable. In addition, the deep neural networks and XGBoost algorithms trained on the subset selected by NAP achieve the highest area under the curve (AUC) and accuracy, respectively.",
+      "corpusId": 141061481,
+      "url": "https://api.semanticscholar.org/CorpusId:141061481"
+    },
+    {
+      "title": "A study on credit scoring modeling with different feature selection and machine learning approaches",
+      "authors": [
+        {
+          "name": "Shrawan Kumar Trivedi",
+          "id": "30421285"
+        }
+      ],
+      "year": 2020,
+      "venue": "unknown",
+      "score": 0.9821555507772489,
+      "abstract": "",
+      "corpusId": 224860704,
+      "url": "https://doi.org/10.1016/J.TECHSOC.2020.101413"
+    },
+    {
+      "title": "Mathematical Modeling and Analysis of Credit Scoring Using the LIME Explainer: A Comprehensive Approach",
+      "authors": [
+        {
+          "name": "Abdussalam Aljadani",
+          "id": "117674593"
+        },
+        {
+          "name": "Bshair Alharthi",
+          "id": "133690524"
+        },
+        {
+          "name": "Mohammed A. Farsi",
+          "id": "2244486722"
+        },
+        {
+          "name": "H. M. Balaha",
+          "id": "1821070450"
+        },
+        {
+          "name": "Mahmoud Badawy",
+          "id": "2244481268"
+        },
+        {
+          "name": "Mostafa A. Elhosseini",
+          "id": "2244487143"
+        }
+      ],
+      "year": 2023,
+      "venue": "Mathematics",
+      "score": 0.9814226644304015,
+      "abstract": "Credit scoring models serve as pivotal instruments for lenders and financial institutions, facilitating the assessment of creditworthiness. Traditional models, while instrumental, grapple with challenges related to efficiency and subjectivity. The advent of machine learning heralds a transformative era, offering data-driven solutions that transcend these limitations. This research delves into a comprehensive analysis of various machine learning algorithms, emphasizing their mathematical underpinnings and their applicability in credit score classification. A comprehensive evaluation is conducted on a range of algorithms, including logistic regression, decision trees, support vector machines, and neural networks, using publicly available credit datasets. Within the research, a unified mathematical framework is introduced, which encompasses preprocessing techniques and critical algorithms such as Particle Swarm Optimization (PSO), the Light Gradient Boosting Model, and Extreme Gradient Boosting (XGB), among others. The focal point of the investigation is the LIME (Local Interpretable Model-agnostic Explanations) explainer. This study offers a comprehensive mathematical model using the LIME explainer, shedding light on its pivotal role in elucidating the intricacies of complex machine learning models. This study’s empirical findings offer compelling evidence of the efficacy of these methodologies in credit scoring, with notable accuracies of 88.84%, 78.30%, and 77.80% for the Australian, German, and South German datasets, respectively. In summation, this research not only amplifies the significance of machine learning in credit scoring but also accentuates the importance of mathematical modeling and the LIME explainer, providing a roadmap for practitioners to navigate the evolving landscape of credit assessment.",
+      "corpusId": 263012527,
+      "url": "https://api.semanticscholar.org/CorpusId:263012527"
+    },
+    {
+      "title": "Machine Learning for Enhanced Credit Risk Assessment: An Empirical Approach",
+      "authors": [
+        {
+          "name": "Nicolas Suhadolnik",
+          "id": "72503903"
+        },
+        {
+          "name": "Jó Ueyama",
+          "id": "2258193525"
+        },
+        {
+          "name": "Sergio Da Silva",
+          "id": "2105489863"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Risk and Financial Management",
+      "score": 0.9814142238311578,
+      "abstract": "Financial institutions and regulators increasingly rely on large-scale data analysis, particularly machine learning, for credit decisions. This paper assesses ten machine learning algorithms using a dataset of over 2.5 million observations from a financial institution. We also summarize key statistical and machine learning models in credit scoring and review current research findings. Our results indicate that ensemble models, particularly XGBoost, outperform traditional algorithms such as logistic regression in credit classification. Researchers and experts in the subject of credit risk can use this work as a practical reference as it covers crucial phases of data processing, exploratory data analysis, modeling, and evaluation metrics.",
+      "corpusId": 265488136,
+      "url": "https://api.semanticscholar.org/CorpusId:265488136"
+    },
+    {
+      "title": "A Machine Learning Approach for Micro-Credit Scoring",
+      "authors": [
+        {
+          "name": "Apostolos Ampountolas",
+          "id": "117144148"
+        },
+        {
+          "name": "Titus Nyarko Nde",
+          "id": "2124106313"
+        },
+        {
+          "name": "P. Date",
+          "id": "1800097"
+        },
+        {
+          "name": "C. Constantinescu",
+          "id": "34904308"
+        }
+      ],
+      "year": 2021,
+      "venue": "Risks",
+      "score": 0.9790319267351597,
+      "abstract": "In micro-lending markets, lack of recorded credit history is a significant impediment to assessing individual borrowers' creditworthiness and therefore deciding fair interest rates. This research compares various machine learning algorithms on real micro-lending data to test their efficacy at classifying borrowers into various credit categories. We demonstrate that off-the-shelf multi-class classifiers such as random forest algorithms can perform this task very well, using readily available data about customers (such as age, occupation, and location). This presents inexpensive and reliable means to micro-lending institutions around the developing world with which to assess creditworthiness in the absence of credit history or central credit databases.",
+      "corpusId": 233617857,
+      "url": "https://api.semanticscholar.org/CorpusId:233617857"
+    },
+    {
+      "title": "A machine learning approach combining expert knowledge with genetic algorithms in feature selection for credit risk assessment",
+      "authors": [
+        {
+          "name": "Pantelis Z. Lappas",
+          "id": "71829407"
+        },
+        {
+          "name": "A. Yannacopoulos",
+          "id": "49207511"
+        }
+      ],
+      "year": 2021,
+      "venue": "Applied Soft Computing",
+      "score": 0.9778274550279503,
+      "abstract": "",
+      "corpusId": 234817632,
+      "url": "https://doi.org/10.1016/J.ASOC.2021.107391"
+    },
+    {
+      "title": "Machine learning techniques for credit risk evaluation: a systematic literature review",
+      "authors": [
+        {
+          "name": "Siddharth Bhatore",
+          "id": "1816699692"
+        },
+        {
+          "name": "Lalit Mohan",
+          "id": "2093639694"
+        },
+        {
+          "name": "Y. R. Reddy",
+          "id": "2285578907"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Banking and Financial Technology",
+      "score": 0.9774403495026116,
+      "abstract": "",
+      "corpusId": 220511973,
+      "url": "https://doi.org/10.1007/s42786-020-00020-3"
+    },
+    {
+      "title": "Analyzing Machine Learning Models for Credit Scoring with Explainable AI and Optimizing Investment Decisions",
+      "authors": [
+        {
+          "name": "Swati Tyagi",
+          "id": "1675335800"
+        }
+      ],
+      "year": 2022,
+      "venue": "arXiv.org",
+      "score": 0.9772299006028069,
+      "abstract": "This paper examines two different yet related questions related to explainable AI (XAI) practices. Machine learning (ML) is increasingly important in financial services, such as pre-approval, credit underwriting, investments, and various front-end and back-end activities. Machine Learning can automatically detect non-linearities and interactions in training data, facilitating faster and more accurate credit decisions. However, machine learning models are opaque and hard to explain, which are critical elements needed for establishing a reliable technology. The study compares various machine learning models, including single classifiers (logistic regression, decision trees, LDA, QDA), heterogeneous ensembles (AdaBoost, Random Forest), and sequential neural networks. The results indicate that ensemble classifiers and neural networks outperform. In addition, two advanced post-hoc model agnostic explainability techniques - LIME and SHAP are utilized to assess ML-based credit scoring models using the open-access datasets offered by US-based P2P Lending Platform, Lending Club. For this study, we are also using machine learning algorithms to develop new investment models and explore portfolio strategies that can maximize profitability while minimizing risk.",
+      "corpusId": 252383544,
+      "url": "https://api.semanticscholar.org/CorpusId:252383544"
+    },
+    {
+      "title": "Machine Learning Models and Data-Balancing Techniques for Credit Scoring: What Is the Best Combination?",
+      "authors": [
+        {
+          "name": "Ahmed Almustfa Hussin Adam Khatir",
+          "id": "2182786092"
+        },
+        {
+          "name": "M. Bee",
+          "id": "1799470"
+        }
+      ],
+      "year": 2022,
+      "venue": "Risks",
+      "score": 0.9765258014386868,
+      "abstract": "Forecasting the creditworthiness of customers is a central issue of banking activity. This task requires the analysis of large datasets with many variables, for which machine learning algorithms and feature selection techniques are a crucial tool. Moreover, the percentages of “good” and “bad” customers are typically imbalanced such that over- and undersampling techniques should be employed. In the literature, most investigations tackle these three issues individually. Since there is little evidence about their joint performance, in this paper, we try to fill this gap. We use five machine learning classifiers, and each of them is combined with different feature selection techniques and various data-balancing approaches. According to the empirical analysis of a retail credit bank dataset, we find that the best combination is given by random forests, random forest recursive feature elimination and random oversampling.",
+      "corpusId": 251822487,
+      "url": "https://api.semanticscholar.org/CorpusId:251822487"
+    },
+    {
+      "title": "Machine learning in internet financial risk management: A systematic literature review",
+      "authors": [
+        {
+          "name": "Xu Tian",
+          "id": "2240097472"
+        },
+        {
+          "name": "ZongYi Tian",
+          "id": "2297432282"
+        },
+        {
+          "name": "S. F. Khatib",
+          "id": "83816105"
+        },
+        {
+          "name": "Yan Wang",
+          "id": "2240467818"
+        }
+      ],
+      "year": 2024,
+      "venue": "PLoS ONE",
+      "score": 0.97584317175876,
+      "abstract": "Internet finance has permeated into myriad households, bringing about lifestyle convenience alongside potential risks. Presently, internet finance enterprises are progressively adopting machine learning and other artificial intelligence methods for risk alertness. What is the current status of the application of various machine learning models and algorithms across different institutions? Is there an optimal machine learning algorithm suited for the majority of internet finance platforms and application scenarios? Scholars have embarked on a series of studies addressing these questions; however, the focus predominantly lies in comparing different algorithms within specific platforms and contexts, lacking a comprehensive discourse and summary on the utilization of machine learning in this domain. Thus, based on the data from Web of Science and Scopus databases, this paper conducts a systematic literature review on all aspects of machine learning in internet finance risk in recent years, based on publications trends, geographical distribution, literature focus, machine learning models and algorithms, and evaluations. The research reveals that machine learning, as a nascent technology, whether through basic algorithms or intricate algorithmic combinations, has made significant strides compared to traditional credit scoring methods in predicting accuracy, time efficiency, and robustness in internet finance risk management. Nonetheless, there exist noticeable disparities among different algorithms, and factors such as model structure, sample data, and parameter settings also influence prediction accuracy, although generally, updated algorithms tend to achieve higher accuracy. Consequently, there is no one-size-fits-all approach applicable to all platforms; each platform should enhance its machine learning models and algorithms based on its unique characteristics, data, and the development of AI technology, starting from key evaluation indicators to mitigate internet finance risks.",
+      "corpusId": 269184648,
+      "url": "https://api.semanticscholar.org/CorpusId:269184648"
+    },
+    {
+      "title": "Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research",
+      "authors": [
+        {
+          "name": "Stefan Lessmann",
+          "id": "2243248158"
+        },
+        {
+          "name": "B. Baesens",
+          "id": "1720683"
+        },
+        {
+          "name": "H. Seow",
+          "id": "69060897"
+        },
+        {
+          "name": "L. Thomas",
+          "id": "2287769466"
+        }
+      ],
+      "year": 2015,
+      "venue": "European Journal of Operational Research",
+      "score": 0.9756783270237454,
+      "abstract": "",
+      "corpusId": 2,
+      "url": "https://doi.org/10.1016/j.ejor.2015.05.030"
+    },
+    {
+      "title": "Quantum Machine Learning for Credit Scoring",
+      "authors": [
+        {
+          "name": "N. Schetakis",
+          "id": "2283117083"
+        },
+        {
+          "name": "D. Aghamalyan",
+          "id": "6625149"
+        },
+        {
+          "name": "M. Boguslavsky",
+          "id": "2349481"
+        },
+        {
+          "name": "Agnieszka Rees",
+          "id": "2228145565"
+        },
+        {
+          "name": "Marc Rakotomalala",
+          "id": "2299687128"
+        },
+        {
+          "name": "P. Griffin",
+          "id": "2140967273"
+        }
+      ],
+      "year": 2023,
+      "venue": "Mathematics",
+      "score": 0.9755840094003141,
+      "abstract": "This study investigates the integration of quantum circuits with classical neural networks for enhancing credit scoring for small- and medium-sized enterprises (SMEs). We introduce a hybrid quantum-classical model, focusing on the synergy between quantum and classical rather than comparing the performance of separate quantum and classical models. Our model incorporates a quantum layer into a traditional neural network, achieving notable reductions in training time. We apply this innovative framework to a binary classification task with a proprietary real-world classical credit default dataset for SMEs in Singapore. The results indicate that our hybrid model achieves efficient training, requiring significantly fewer epochs (350) compared to its classical counterpart (3500) for a similar predictive accuracy. However, we observed a decrease in performance when expanding the model beyond 12 qubits or when adding additional quantum classifier blocks. This paper also considers practical challenges faced when deploying such models on quantum simulators and actual quantum computers. Overall, our quantum-classical hybrid model for credit scoring reveals its potential in industry, despite encountering certain scalability limitations and practical challenges.",
+      "corpusId": 260683026,
+      "url": "https://api.semanticscholar.org/CorpusId:260683026"
+    },
+    {
+      "title": "Empirical Analysis of Ensemble Learning for Imbalanced Credit Scoring Datasets: A Systematic Review",
+      "authors": [
+        {
+          "name": "S. R. Lenka",
+          "id": "46251131"
+        },
+        {
+          "name": "S. Bisoy",
+          "id": "2394152"
+        },
+        {
+          "name": "R. Priyadarshini",
+          "id": "31712192"
+        },
+        {
+          "name": "M. Sain",
+          "id": "31082355"
+        }
+      ],
+      "year": 2022,
+      "venue": "Wireless Communications and Mobile Computing",
+      "score": 0.9743757775688349,
+      "abstract": "Credit scoring analysis has gained tremendous importance for researchers and the financial industries around the globe. It helps the financial industries to grant credits or loans to each deserving applicant with zero or minimal risks. However, developing an accurate and effective credit scoring model is a challenging task due to class imbalance and the presence of some irrelevant features. Recent researches show that ensemble learning has achieved supremacy in this field. In this paper, we performed an extensive comparative analysis of ensemble algorithms to bring further improvements in the algorithm oversampling, and feature selection (FS) techniques are implemented. The relevant features are identified by utilizing three FS techniques, such as information gain (IG), principal component analysis (PCA), and genetic algorithm (GA). Additionally, a comparative performance analysis is performed using 5 base and 14 ensemble models on three credit scoring datasets. The experimental results exhibit that the GA-based FS technique and CatBoost algorithm perform significantly better than other models in terms of five metrics, i.e., accuracy (ACC), area under the curve (AUC), F1-score, Brier score (BS), and Kolmogorov-Smirnov (KS).",
+      "corpusId": 249736877,
+      "url": "https://doi.org/10.1155/2022%2F6584352"
+    },
+    {
+      "title": "A Comparative Assessment of Credit Risk Model Based on Machine Learning ——a case study of bank loan data",
+      "authors": [
+        {
+          "name": "Yuelin Wang",
+          "id": "2108700313"
+        },
+        {
+          "name": "Yihan Zhang",
+          "id": "145140736"
+        },
+        {
+          "name": "Yan Lu",
+          "id": "2146559002"
+        },
+        {
+          "name": "Xinran Yu",
+          "id": "2118211127"
+        }
+      ],
+      "year": 2020,
+      "venue": "unknown",
+      "score": 0.9740405287676318,
+      "abstract": "Abstract Recently some techniques (such as statistical techniques and machine learning techniques) have been developed for evaluating individual credit information to decide whether the person meets the criteria of credit financing, and the process is known as credit scoring. This paper mainly focuses on the comparative assessment of the performances of five popular classifiers involved in machine learning used for credit scoring: Naive Bayesian Model, Logistic Regression Analysis, Random Forest, Decision Tree, and K-Nearest Neighbor Classifier. Each classifier has its own strength and weakness, it is assertive to say which one is the best. However, the results of this experiment pinpoint that Random Forest performs better than others in terms of precision, recall, AUC (area under curve) and accuracy.",
+      "corpusId": 226430864,
+      "url": "https://api.semanticscholar.org/CorpusId:226430864"
+    },
+    {
+      "title": "Credit scoring using machine learning and deep Learning-Based models",
+      "authors": [
+        {
+          "name": "Sami Mestiri",
+          "id": "2284706716"
+        }
+      ],
+      "year": 2024,
+      "venue": "Data Science in Finance and Economics",
+      "score": 0.9734134986805498,
+      "abstract": "Credit scoring is a useful tool for assessing the capability of customers repayments. The purpose of this paper is to compare the predictive abilities of six credit scoring models: Linear Discriminant Analysis (LDA), Random Forests (RF), Logistic Regression (LR), Decision Trees (DT), Support Vector Machines (SVM) and Deep Neural Network (DNN). To compare these models, an empirical study was conducted using a sample of 688 observations and twelve variables. The performance of this model was analyzed using three measures: Accuracy rate, F1 score, and Area Under Curve (AUC). In summary, machine learning techniques exhibited greater accuracy in predicting loan defaults compared to other traditional statistical models.",
+      "corpusId": 269666993,
+      "url": "https://api.semanticscholar.org/CorpusId:269666993"
+    },
+    {
+      "title": "Best practices for responsible machine learning in credit scoring",
+      "authors": [
+        {
+          "name": "Giovani Valdrighi",
+          "id": "2373214840"
+        },
+        {
+          "name": "Athyrson M. Ribeiro",
+          "id": "2389126165"
+        },
+        {
+          "name": "Jansen S. B. Pereira",
+          "id": "2389126159"
+        },
+        {
+          "name": "Vitoria Guardieiro",
+          "id": "2353763645"
+        },
+        {
+          "name": "A. Hendricks",
+          "id": "2071401982"
+        },
+        {
+          "name": "Décio Miranda Filho",
+          "id": "2389130185"
+        },
+        {
+          "name": "Juan David Nieto Garcia",
+          "id": "2389136725"
+        },
+        {
+          "name": "Felipe F. Bocca",
+          "id": "2389124478"
+        },
+        {
+          "name": "Thalita B. Veronese",
+          "id": "2389145794"
+        },
+        {
+          "name": "Lucas Wanner",
+          "id": "2276833543"
+        },
+        {
+          "name": "Marcos Medeiros Raimundo",
+          "id": "2389129845"
+        }
+      ],
+      "year": 2024,
+      "venue": "Neural computing & applications (Print)",
+      "score": 0.9726130747702002,
+      "abstract": "The widespread use of machine learning in credit scoring has brought significant advancements in risk assessment and decision-making. However, it has also raised concerns about potential biases, discrimination, and lack of transparency in these automated systems. This tutorial paper performed a non-systematic literature review to guide best practices for developing responsible machine learning models in credit scoring, focusing on fairness, reject inference, and explainability. We discuss definitions, metrics, and techniques for mitigating biases and ensuring equitable outcomes across different groups. Additionally, we address the issue of limited data representativeness by exploring reject inference methods that incorporate information from rejected loan applications. Finally, we emphasize the importance of transparency and explainability in credit models, discussing techniques that provide insights into the decision-making process and enable individuals to understand and potentially improve their creditworthiness. By adopting these best practices, financial institutions can harness the power of machine learning while upholding ethical and responsible lending practices.",
+      "corpusId": 272986803,
+      "url": "https://api.semanticscholar.org/CorpusId:272986803"
+    },
+    {
+      "title": "Neural network credit scoring models",
+      "authors": [
+        {
+          "name": "D. West",
+          "id": "50384823"
+        }
+      ],
+      "year": 2000,
+      "venue": "Computers & Operations Research",
+      "score": 0.9720719917184639,
+      "abstract": "",
+      "corpusId": 14899020,
+      "url": "https://doi.org/10.1016/S0305-0548%2899%2900149-5"
+    },
+    {
+      "title": "A Partially Interpretable Adaptive Softmax Regression for Credit Scoring",
+      "authors": [
+        {
+          "name": "Lkhagvadorj Munkhdalai",
+          "id": "41070543"
+        },
+        {
+          "name": "K. Ryu",
+          "id": "1694153"
+        },
+        {
+          "name": "Oyun-Erdene Namsrai",
+          "id": "2710822"
+        },
+        {
+          "name": "N. Theera-Umpon",
+          "id": "1398243305"
+        }
+      ],
+      "year": 2021,
+      "venue": "Applied Sciences",
+      "score": 0.9714856450819379,
+      "abstract": "Credit scoring is a process of determining whether a borrower is successful or unsuccessful in repaying a loan using borrowers’ qualitative and quantitative characteristics. In recent years, machine learning algorithms have become widely studied in the development of credit scoring models. Although efficiently classifying good and bad borrowers is a core objective of the credit scoring model, there is still a need for the model that can explain the relationship between input and output. In this work, we propose a novel partially interpretable adaptive softmax (PIA-Soft) regression model to achieve both state-of-the-art predictive performance and marginally interpretation between input and output. We augment softmax regression by neural networks to make it adaptive for each borrower. Our PIA-Soft model consists of two main components: linear (softmax regression) and non-linear (neural network). The linear part explains the fundamental relationship between input and output variables. The non-linear part serves to improve the prediction performance by identifying the non-linear relationship between features for each borrower. The experimental result on public benchmark datasets shows that our proposed model not only outperformed the machine learning baselines but also showed the explanations that logically related to the real-world.",
+      "corpusId": 233601924,
+      "url": "https://api.semanticscholar.org/CorpusId:233601924"
+    },
+    {
+      "title": "Improved ML-Based Technique for Credit Card Scoring in Internet Financial Risk Control",
+      "authors": [
+        {
+          "name": "S. Fan",
+          "id": "153023439"
+        },
+        {
+          "name": "Yanbo Shen",
+          "id": "2115436485"
+        },
+        {
+          "name": "Shengnan Peng",
+          "id": "2072714227"
+        }
+      ],
+      "year": 2020,
+      "venue": "Complex",
+      "score": 0.9712759798310261,
+      "abstract": "With the rapid development of China’s Internet finance industry and the continuous growth of transaction amount in recent years, a variety of financial risks have increased, especially credit risk in the financial industry. Also, the credit risk evaluation is usually made by using the application card scoring model, which has the shortcomings of strict data assumption and inability to process complex data. In order to overcome the limitations of the credit card scoring model and evaluate credit risk better, this paper proposes a credit evaluation model based on extreme gradient boosting tree (XGBoost) machine learning (ML) algorithm to construct a credit risk assessment model for Internet financial institutions. At the same time, an Internet lending company in China is taken as a case study to compare the performance of the traditional credit card scoring model and the proposed machine learning (ML) algorithm model. The results show that ML algorithm has a very significant advantage in the field of Internet financial risk control, it has more accurate prediction results and has no particularly strict assumptions and restrictions on data, and the process of processing data is more convenient and reliable. We should increase the application of ML in the field of financial risk control. The value of this paper lies in enriching the related research of financial technology and providing a new reference for the practice of financial risk control.",
+      "corpusId": 226967916,
+      "url": "https://api.semanticscholar.org/CorpusId:226967916"
+    },
+    {
+      "title": "An Integrated Machine Learning and Deep Learning Framework for Credit Card Approval Prediction",
+      "authors": [
+        {
+          "name": "Kejian Tong",
+          "id": "2368457510"
+        },
+        {
+          "name": "Zonglin Han",
+          "id": "2237133186"
+        },
+        {
+          "name": "Yanxin Shen",
+          "id": "2323050601"
+        },
+        {
+          "name": "Yujian Long",
+          "id": "2323741042"
+        },
+        {
+          "name": "Yijing Wei",
+          "id": "9743656"
+        }
+      ],
+      "year": 2024,
+      "venue": "2024 IEEE 6th International Conference on Power, Intelligent Computing and Systems (ICPICS)",
+      "score": 0.9711904563411647,
+      "abstract": "Credit scoring is vital in the financial industry, assessing the risk of lending to credit card applicants. Traditional credit scoring methods face challenges with large datasets and data imbalance between creditworthy and non-creditworthy applicants. This paper introduces an advanced machine learning and deep learning framework to improve the accuracy and reliability of credit card approval predictions. We utilized extensive datasets of user application records and credit history, implementing a comprehensive preprocessing strategy, feature engineering, and model integration. Our methodology combines neural networks with an ensemble of base models, including logistic regression, support vector machines, k-nearest neighbors, decision trees, random forests, and gradient boosting. The ensemble approach addresses data imbalance using Synthetic Minority Over-sampling Technique (SMOTE) and mitigates overfitting risks. Experimental results show that our integrated model surpasses traditional single-model approaches in precision, recall, F1-score, AUC, and Kappa, providing a robust and scalable solution for credit card approval predictions. This research underscores the potential of advanced machine learning techniques to transform credit risk assessment and financial decisionmaking.",
+      "corpusId": 272881434,
+      "url": "https://api.semanticscholar.org/CorpusId:272881434"
+    },
+    {
+      "title": "Credit card score prediction using machine learning models: A new dataset",
+      "authors": [
+        {
+          "name": "Anas Arram",
+          "id": "3073796"
+        },
+        {
+          "name": "M. Ayob",
+          "id": "2070327105"
+        },
+        {
+          "name": "Musatafa Abbas Abbood Albadr",
+          "id": "13696977"
+        },
+        {
+          "name": "Alaa Sulaiman",
+          "id": "2253570411"
+        },
+        {
+          "name": "Dheeb Albashish",
+          "id": "9332746"
+        }
+      ],
+      "year": 2023,
+      "venue": "arXiv.org",
+      "score": 0.9702176943412252,
+      "abstract": "The use of credit cards has recently increased, creating an essential need for credit card assessment methods to minimize potential risks. This study investigates the utilization of machine learning (ML) models for credit card default prediction system. The main goal here is to investigate the best-performing ML model for new proposed credit card scoring dataset. This new dataset includes credit card transaction histories and customer profiles, is proposed and tested using a variety of machine learning algorithms, including logistic regression, decision trees, random forests, multi-layer perceptron (MLP) neural network, XGBoost, and LightGBM. To prepare the data for machine learning models, we perform data pre-processing, feature extraction, feature selection, and data balancing techniques. Experimental results demonstrate that MLP outperforms logistic regression, decision trees, random forests, LightGBM, and XGBoost in terms of predictive performance in true positive rate, achieving an impressive area under the curve (AUC) of 86.7% and an accuracy rate of 91.6%, with a recall rate exceeding 80%. These results indicate the superiority of MLP in predicting the default customers and assessing the potential risks. Furthermore, they help banks and other financial institutions in predicting loan defaults at an earlier stage.",
+      "corpusId": 263620728,
+      "url": "https://api.semanticscholar.org/CorpusId:263620728"
+    },
+    {
+      "title": "Development Of Credit Scoring Model For Borrowers Using Machine Learning Techniques",
+      "authors": [
+        {
+          "name": "Rebecca Etim Ekong",
+          "id": "2170421823"
+        },
+        {
+          "name": "K. Akintola",
+          "id": "15639763"
+        },
+        {
+          "name": "B. Kuboye",
+          "id": "2397916"
+        }
+      ],
+      "year": 2022,
+      "venue": "Perspektif",
+      "score": 0.9701944138061736,
+      "abstract": "Financial organizations such as banks have experienced an increase in demand for loans from borrowers over the years. These organizations are highly interested in knowing whether a borrower can pay back if granted the loan requested. Granting loans to defaulters can cripple the business, hence, these financial organizations are compelled to evaluate credit worthiness of clients using the vast volume of historical data related to financial position of borrowers. Like other prediction models, credit scoring is a technique used in predicting the probability that a loan applicant, existing borrower, or counterparty will default. Machine learning technique has ability to solve these challenges faced by credit analyst by automating the processing and extraction of knowledge from data. This research focuses on the development of a credit scoring model using Rough Set Theory (RST) and Multi-Layer Perceptron (MLP) Neural Network. RST was used for feature selection while ANN trained with backpropagation was used for classification. This research used two credit scoring datasets; Australian and German credit dataset. Data pre-processing and machine learning were performed using the Anaconda software. This research compares the result obtained from the RST and MLP with Decision Tree, Logistic Regression, Random Forest, Support Vector Machine, Nayes Bayes, K-Nearest Neighbour and ANN using standard evaluation metric to ascertain its performance on the two datasets and conclude the major findings. This research contributes a credit scoring model with improved performance while saving the computational costs.",
+      "corpusId": 249687446,
+      "url": "https://api.semanticscholar.org/CorpusId:249687446"
+    },
+    {
+      "title": "Research on personal credit scoring model based on deep learning",
+      "authors": [
+        {
+          "name": "Tingyu Yan",
+          "id": "2267104789"
+        }
+      ],
+      "year": 2024,
+      "venue": "Applied and Computational Engineering",
+      "score": 0.9696980468581967,
+      "abstract": "<jats:p/>",
+      "corpusId": 271622420,
+      "url": "https://api.semanticscholar.org/CorpusId:271622420"
+    },
+    {
+      "title": "Linear Discriminant Analysis in Credit Scoring: A Transparent Hybrid Model Approach",
+      "authors": [
+        {
+          "name": "Md Shihab Reza",
+          "id": "2322409984"
+        },
+        {
+          "name": "M. I. Mahmud",
+          "id": "2322429675"
+        },
+        {
+          "name": "Ifti Azad Abeer",
+          "id": "51213312"
+        },
+        {
+          "name": "Nova Ahmed",
+          "id": "2289892170"
+        }
+      ],
+      "year": 2024,
+      "venue": "2024 27th International Conference on Computer and Information Technology (ICCIT)",
+      "score": 0.9695260743416901,
+      "abstract": "The development of computing has made credit scoring approaches possible, with various machine learning (ML) and deep learning (DL) techniques becoming more and more valuable. While complex models yield more accurate predictions, their interpretability is often weakened, which is a concern for credit scoring that places importance on decision fairness. As features of the dataset are a crucial factor for the credit scoring system, we implement Linear Discriminant Analysis (LDA) as a feature reduction technique, which reduces the burden of the model’s complexity. We compared 6 different machine learning models, 1 deep learning model, and a hybrid model with and without using LDA. From the result, we have found our hybrid model, ‘XG-DNN,’ outperformed other models with the highest accuracy of 99.45% and a 99% F1 score with LDA. Lastly, to interpret model decisions, we have applied 2 different explainable AI techniques named LIME (local) and Morris Sensitivity Analysis (global). Through this research, we showed how feature reduction techniques can be used without affecting the performance and explainability of the model, which can be very useful in resource-constrained settings to optimize the computational workload.",
+      "corpusId": 274514775,
+      "url": "https://api.semanticscholar.org/CorpusId:274514775"
+    },
+    {
+      "title": "Machine and Deep Learning for Credit Scoring: A compliant approach",
+      "authors": [
+        {
+          "name": "Abdollah Rida",
+          "id": "2337802558"
+        }
+      ],
+      "year": 2024,
+      "venue": "arXiv.org",
+      "score": 0.9694458033004214,
+      "abstract": "Credit Scoring is one of the problems banks and financial institutions have to solve on a daily basis. If the state-of-the-art research in Machine and Deep Learning for finance has reached interesting results about Credit Scoring models, usage of such models in a heavily regulated context such as the one in banks has never been done so far. Our work is thus a tentative to challenge the current regulatory status-quo and introduce new BASEL 2 and 3 compliant techniques, while still answering the Federal Reserve Bank and the European Central Bank requirements. With the help of Gradient Boosting Machines (mainly XGBoost) we challenge an actual model used by BANK A for scoring through the door Auto Loan applicants. We prove that the usage of such algorithms for Credit Scoring models drastically improves performance and default capture rate. Furthermore, we leverage the power of Shapley Values to prove that these relatively simple models are not as black-box as the current regulatory system thinks they are, and we attempt to explain the model outputs and Credit Scores within the BANK A Model Design and Validation framework",
+      "corpusId": 275134454,
+      "url": "https://api.semanticscholar.org/CorpusId:275134454"
+    },
+    {
+      "title": "Machine Learning approach for Credit Scoring",
+      "authors": [
+        {
+          "name": "A. R. Provenzano",
+          "id": "2061475923"
+        },
+        {
+          "name": "D. Trifirò",
+          "id": "10748825"
+        },
+        {
+          "name": "A. Datteo",
+          "id": "29941605"
+        },
+        {
+          "name": "L. Giada",
+          "id": "4320743"
+        },
+        {
+          "name": "N. Jean",
+          "id": "147676314"
+        },
+        {
+          "name": "A. Riciputi",
+          "id": "1857391035"
+        },
+        {
+          "name": "Giacomo Le Pera",
+          "id": "102844712"
+        },
+        {
+          "name": "M. Spadaccino",
+          "id": "1470524219"
+        },
+        {
+          "name": "L. Massaron",
+          "id": "72570294"
+        },
+        {
+          "name": "C. Nordio",
+          "id": "47236656"
+        }
+      ],
+      "year": 2020,
+      "venue": "Social Science Research Network",
+      "score": 0.9692074595529293,
+      "abstract": "In this work we build a stack of machine learning models aimed at composing a state-of-the-art credit rating and default prediction system, obtaining excellent out-of-sample performances. Our approach is an excursion through the most recent ML / AI concepts, starting from natural language processes (NLP) applied to economic sectors' (textual) descriptions using embedding and autoencoders (AE), going through the classification of defaultable firms on the base of a wide range of economic features using gradient boosting machines (GBM) and calibrating their probabilities paying due attention to the treatment of unbalanced samples. Finally we assign credit ratings through genetic algorithms (differential evolution, DE). Model interpretability is achieved by implementing recent techniques such as SHAP and LIME, which explain predictions locally in features' space.",
+      "corpusId": 220961451,
+      "url": "https://api.semanticscholar.org/CorpusId:220961451"
+    },
+    {
+      "title": "Credit Scoring, Statistical Techniques and Evaluation Criteria: A Review of the Literature",
+      "authors": [
+        {
+          "name": "Hussein A. Abdou",
+          "id": "2417147"
+        },
+        {
+          "name": "J. Pointon",
+          "id": "48737062"
+        }
+      ],
+      "year": 2011,
+      "venue": "Intell. Syst. Account. Finance Manag.",
+      "score": 0.968977658959312,
+      "abstract": "",
+      "corpusId": 7089409,
+      "url": "https://doi.org/10.1002/isaf.325"
+    },
+    {
+      "title": "Enabling Machine Learning Algorithms for Credit Scoring - Explainable Artificial Intelligence (XAI) methods for clear understanding complex predictive models",
+      "authors": [
+        {
+          "name": "P. Biecek",
+          "id": "144356944"
+        },
+        {
+          "name": "M. Chlebus",
+          "id": "12611064"
+        },
+        {
+          "name": "Janusz Gajda",
+          "id": "2066946094"
+        },
+        {
+          "name": "Alicja Gosiewska",
+          "id": "51440580"
+        },
+        {
+          "name": "A. Kozak",
+          "id": "40445580"
+        },
+        {
+          "name": "Dominik Ogonowski",
+          "id": "2075341473"
+        },
+        {
+          "name": "Jakub Sztachelski",
+          "id": "2075341475"
+        },
+        {
+          "name": "P. Wojewnik",
+          "id": "2044331"
+        }
+      ],
+      "year": 2021,
+      "venue": "arXiv.org",
+      "score": 0.9688020912805413,
+      "abstract": "Rapid development of advanced modelling techniques gives an opportunity to develop tools that are more and more accurate. However as usually, everything comes with a price and in this case, the price to pay is to loose interpretability of a model while gaining on its accuracy and precision. For managers to control and effectively manage credit risk and for regulators to be convinced with model quality the price to pay is too high. In this paper, we show how to take credit scoring analytics in to the next level, namely we present comparison of various predictive models (logistic regression, logistic regression with weight of evidence transformations and modern artificial intelligence algorithms) and show that advanced tree based models give best results in prediction of client default. What is even more important and valuable we also show how to boost advanced models using techniques which allow to interpret them and made them more accessible for credit risk practitioners, resolving the crucial obstacle in widespread deployment of more complex, 'black box' models like random forests, gradient boosted or extreme gradient boosted trees. All this will be shown on the large dataset obtained from the Polish Credit Bureau to which all the banks and most of the lending companies in the country do report the credit files. In this paper the data from lending companies were used. The paper then compares state of the art best practices in credit risk modelling with new advanced modern statistical tools boosted by the latest developments in the field of interpretability and explainability of artificial intelligence algorithms. We believe that this is a valuable contribution when it comes to presentation of different modelling tools but what is even more important it is showing which methods might be used to get insight and understanding of AI methods in credit risk context.",
+      "corpusId": 233231639,
+      "url": "https://api.semanticscholar.org/CorpusId:233231639"
+    },
+    {
+      "title": "An experimental comparison of ensemble of classifiers for bankruptcy prediction and credit scoring",
+      "authors": [
+        {
+          "name": "L. Nanni",
+          "id": "1804258"
+        },
+        {
+          "name": "A. Lumini",
+          "id": "1707759"
+        }
+      ],
+      "year": 2009,
+      "venue": "Expert systems with applications",
+      "score": 0.9685641851034081,
+      "abstract": "",
+      "corpusId": 207710567,
+      "url": "https://doi.org/10.1016/j.eswa.2008.01.018"
+    },
+    {
+      "title": "Explaining Credit Risk Scoring through Feature Contribution Alignment with Expert Risk Analysts",
+      "authors": [
+        {
+          "name": "Ayoub El Qadi",
+          "id": "2053819643"
+        },
+        {
+          "name": "Natalia Díaz Rodríguez",
+          "id": "2058921025"
+        },
+        {
+          "name": "M. Trocan",
+          "id": "1803889"
+        },
+        {
+          "name": "Thomas Frossard",
+          "id": "2053820375"
+        }
+      ],
+      "year": 2021,
+      "venue": "arXiv.org",
+      "score": 0.9682885228853925,
+      "abstract": "Credit assessments activities are essential for financial institutions and allow the global economy to grow. Building robust, solid and accurate models that estimate the probability of a default of a company is mandatory for credit insurance companies, moreover when it comes to bridging the trade finance gap. Automating the risk assessment process will allow credit risk experts to reduce their workload and focus on the critical and complex cases, as well as to improve the loan approval process by reducing the time to process the application. The recent developments in Artificial Intelligence are offering new powerful opportunities. However, most AI techniques are labelled as blackbox models due to their lack of explainability. For both users and regulators, in order to deploy such technologies at scale, being able to understand the model logic is a must to grant accurate and ethical decision making. In this study, we focus on companies credit scoring and we benchmark different machine learning models. The aim is to build a model to predict whether a company will experience financial problems in a given time horizon. We address the black box problem using eXplainable Artificial Techniques in particular, post-hoc explanations using SHapley Additive exPlanations. We bring light by providing an expert-aligned feature relevance score highlighting the disagreement between a credit risk expert and a model feature attribution explanation in order to better quantify the convergence towards a better human-aligned decision making.",
+      "corpusId": 232232768,
+      "url": "https://api.semanticscholar.org/CorpusId:232232768"
+    },
+    {
+      "title": "Two inherent paradoxes of machine learning approach to credit scoring",
+      "authors": [
+        {
+          "name": "Jin Cao",
+          "id": "2305447030"
+        }
+      ],
+      "year": 2023,
+      "venue": "Applied and Computational Engineering",
+      "score": 0.9682102296074302,
+      "abstract": "This paper reviews existing literature on academic and commercial progress in the machine learning(ML) approach to credit scoring. In doing so this paper proposes two inherent paradoxes to ML(machine learning) approach to credit scoring. The first is the problem involving the transparency of data range and internal algorithms. The second paradox is the problem of data volume and accuracy.",
+      "corpusId": 261845185,
+      "url": "https://api.semanticscholar.org/CorpusId:261845185"
+    },
+    {
+      "title": "The Credit Risk Problem-A Developing Country Case Study",
+      "authors": [
+        {
+          "name": "Doris Fejza",
+          "id": "2179233961"
+        },
+        {
+          "name": "D. Nace",
+          "id": "1680445"
+        },
+        {
+          "name": "Orjada Kulla",
+          "id": "2179231649"
+        }
+      ],
+      "year": 2022,
+      "venue": "Risks",
+      "score": 0.9676039742680838,
+      "abstract": "Crediting represents one of the biggest risks faced by the banking sector, and especially by commercial banks. In the literature, there have been a number of studies concerning credit risk management, often involving credit scoring systems making use of machine learning (ML) techniques. However, the specificity of individual banks’ datasets means that choosing the techniques best suited to the needs of a given bank is far from straightforward. This study was motivated by the need by Credins Bank in Tirana for a reliable customer credit scoring tool suitable for use with that bank’s specific dataset. The dataset in question presents two substantial difficulties: first, a high degree of imbalance, and second, a high level of bias together with a low level of confidence in the recorded data. These shortcomings are largely due to the relatively young age of the private banking system in Albania, which did not exist as such until the early 2000s. They are shortcomings not encountered in the more conventional datasets that feature in the literature. The present study therefore has a real contribution to make to the existing corpus of research on credit scoring. The first important question to be addressed is the level of imbalance. In practice, the proportion of good customers may be many times that of bad customers, making the impact of unbalanced data on classification models an important element to be considered. The second question relates to bias or incompleteness in customer information in emerging and developing countries, where economies tend to function with a large amount of informality. Our objective in this study was identifying the most appropriate ML methods to handle Credins Bank’s specific dataset, and the various tests that we performed for this purpose yielded abundant numerical results. Our overall finding on the strength of these results was that this kind of dataset can best be dealt with using balanced random forest methods.",
+      "corpusId": 251079779,
+      "url": "https://api.semanticscholar.org/CorpusId:251079779"
+    },
+    {
+      "title": "Review of Machine Learning models for Credit Scoring Analysis",
+      "authors": [
+        {
+          "name": "Madapuri Rudra Kumar",
+          "id": "2004720192"
+        },
+        {
+          "name": "Vinit Kumar Gunjan",
+          "id": "9368578"
+        }
+      ],
+      "year": 2020,
+      "venue": "Ingeniería solidaria",
+      "score": 0.9663682287226649,
+      "abstract": "Introduction:Increase in computing power and the deeper usage of the robust computing systems in the financial system is propelling the business growth, improving the operational efficiency of the financial institutions, and increasing the effectiveness of the transaction processing solutions used by the organizations. \nProblem:Despite that the financial institutions are relying on the credit scoring patterns for analyzing the credit worthiness of the clients, still there are many factors that are imminent for improvement in the credit score evaluation patterns.  \nObjective:Machine learning is offering immense potential in Fintech space and determining a personal credit score. Organizations by applying deep learning and machine learning techniques can tap individuals who are not being serviced by traditional financial institutions. \nMethodology:One of the major insights into the system is that the traditional models of banking intelligence solutions are predominantly the programmed models that can align with the information and banking systems that are used by the banks. But in the case of the machine-learning models that rely on algorithmic systems require more integral computation which is intrinsic.  \nResults:The test analysis of the proposed machine learning model indicates effective and enhanced analysis process compared to the non-machine learning solutions. The model in terms of using various classifiers indicate potential ways in which the solution can be significant. \nConclusion: If the systems can be developed to align with more pragmatic terms for analysis, it can help in improving the process conditions of customer profile analysis, wherein the process models have to be developed for comprehensive analysis and the ones that can make a sustainable solution for the credit system management. \nOriginality:The proposed solution is effective and the one conceptualized to improve the credit scoring system patterns.  \nLimitations: The model is tested in isolation and not in comparison to any of the existing credit scoring patterns. ",
+      "corpusId": 226121187,
+      "url": "https://doi.org/10.16925/2357-6014.2020.01.11"
+    },
+    {
+      "title": "Sharpening the Accuracy of Credit Scoring Models with Machine Learning Algorithms",
+      "authors": [
+        {
+          "name": "Massimo Guidolin",
+          "id": "2222967"
+        },
+        {
+          "name": "M. Pedio",
+          "id": "9948195"
+        }
+      ],
+      "year": 2021,
+      "venue": "Data Science for Economics and Finance",
+      "score": 0.9655878539494386,
+      "abstract": "The big data revolution and recent advancements in computing power have increased the interest in credit scoring techniques based on artificial intelligence. This has found easy leverage in the fact that the accuracy of credit scoring models has a crucial impact on the profitability of lending institutions. In this chapter, we survey the most popular supervised credit scoring classification methods (and their combinations through ensemble methods) in an attempt to identify a superior classification technique in the light of the applied literature. There are at least three key insights that emerge from surveying the literature. First, as far as individual classifiers are concerned, linear classification methods often display a performance that is at least as good as that of machine learning methods. Second, ensemble methods tend to outperform individual classifiers. However, a dominant ensemble method cannot be easily identified in the empirical literature. Third, despite the possibility that machine learning techniques could fail to outperform linear classification methods when standard accuracy measures are considered, in the end they lead to significant cost savings compared to the financial implications of using different scoring models.",
+      "corpusId": 238956442,
+      "url": "https://api.semanticscholar.org/CorpusId:238956442"
+    },
+    {
+      "title": "A comparative study on machine learning models combining with outlier detection and balanced sampling methods for credit scoring",
+      "authors": [
+        {
+          "name": "Hongyi Qian",
+          "id": "2657387"
+        },
+        {
+          "name": "Shen Zhang",
+          "id": "2215201037"
+        },
+        {
+          "name": "Baohui Wang",
+          "id": "2118641245"
+        },
+        {
+          "name": "Lei Peng",
+          "id": "2114984740"
+        },
+        {
+          "name": "Songfeng Gao",
+          "id": "2109325201"
+        },
+        {
+          "name": "You Song",
+          "id": "2115415027"
+        }
+      ],
+      "year": 2021,
+      "venue": "arXiv.org",
+      "score": 0.9654123708534452,
+      "abstract": "Peer-to-peer (P2P) lending platforms have grown rapidly over the past decade as the network infrastructure has improved and the demand for personal lending has grown. Such platforms allow users to create peer-to-peer lending relationships without the help of traditional financial institutions. Assessing the borrowers' credit is crucial to reduce the default rate and benign development of P2P platforms. Building a personal credit scoring machine learning model can effectively predict whether users will repay loans on the P2P platform. And the handling of data outliers and sample imbalance problems can affect the final effect of machine learning models. There have been some studies on balanced sampling methods, but the effect of outlier detection methods and their combination with balanced sampling methods on the effectiveness of machine learning models has not been fully studied. In this paper, the influence of using different outlier detection methods and balanced sampling methods on commonly used machine learning models is investigated. Experiments on 44,487 Lending Club samples show that proper outlier detection can improve the effectiveness of the machine learning model, and the balanced sampling method only has a good effect on a few machine learning models, such as MLP.",
+      "corpusId": 245502621,
+      "url": "https://api.semanticscholar.org/CorpusId:245502621"
+    },
+    {
+      "title": "Interpretable Selective Learning in Credit Risk",
+      "authors": [
+        {
+          "name": "Dangxing Chen",
+          "id": "3430262"
+        },
+        {
+          "name": "Weicheng Ye",
+          "id": "13974038"
+        },
+        {
+          "name": "Jiahui Ye",
+          "id": "2402028927"
+        }
+      ],
+      "year": 2022,
+      "venue": "Research In International Business and Finance",
+      "score": 0.9648386312366446,
+      "abstract": "The forecasting of the credit default risk has been an important research field for several decades. Traditionally, logistic regression has been widely recognized as a solution due to its accuracy and interpretability. As a recent trend, researchers tend to use more complex and advanced machine learning methods to improve the accuracy of the prediction. Although certain non-linear machine learning methods have better predictive power, they are often considered to lack interpretability by financial regulators. Thus, they have not been widely applied in credit risk assessment. We introduce a neural network with the selective option to increase interpretability by distinguishing whether the datasets can be explained by the linear models or not. We find that, for most of the datasets, logistic regression will be sufficient, with reasonable accuracy; meanwhile, for some specific data portions, a shallow neural network model leads to much better accuracy without significantly sacrificing the interpretability.",
+      "corpusId": 252408790,
+      "url": "https://api.semanticscholar.org/CorpusId:252408790"
+    },
+    {
+      "title": "DNN2LR: Automatic Feature Crossing for Credit Scoring",
+      "authors": [
+        {
+          "name": "Qiang Liu",
+          "id": "47362268"
+        },
+        {
+          "name": "Zhaocheng Liu",
+          "id": "2118393734"
+        },
+        {
+          "name": "Haoli Zhang",
+          "id": "2315241612"
+        },
+        {
+          "name": "Yuntian Chen",
+          "id": "2144863166"
+        },
+        {
+          "name": "Jun Zhu",
+          "id": "2146279688"
+        }
+      ],
+      "year": 2021,
+      "venue": "arXiv.org",
+      "score": 0.9647450089438665,
+      "abstract": "Credit scoring is a major application of machine learning for financial institutions to decide whether to approve or reject a credit loan. For sake of reliability, it is necessary for credit scoring models to be both accurate and globally interpretable. Simple classifiers, e.g., Logistic Regression (LR), are white-box models, but not powerful enough to model complex nonlinear interactions among features. Fortunately, automatic feature crossing is a promising way to find cross features to make simple classifiers to be more accurate without heavy handcrafted feature engineering. However, credit scoring is usually based on different aspects of users, and the data usually contains hundreds of feature fields. This makes existing automatic feature crossing methods not efficient for credit scoring. In this work, we find local piece-wise interpretations in Deep Neural Networks (DNNs) of a specific feature are usually inconsistent in different samples, which is caused by feature interactions in the hidden layers. Accordingly, we can design an automatic feature crossing method to find feature interactions in DNN, and use them as cross features in LR. We give definition of the interpretation inconsistency in DNN, based on which a novel feature crossing method for credit scoring prediction called DNN2LR is proposed. Apparently, the final model, i.e., a LR model empowered with cross features, generated by DNN2LR is a white-box model. Extensive experiments have been conducted on both public and business datasets from real-world credit scoring applications. Experimental shows that, DNN2LR can outperform the DNN model, as well as several feature crossing methods. Moreover, comparing with the state-of-the-art feature crossing methods, i.e., AutoCross, DNN2LR can accelerate the speed for feature crossing by about 10 to 40 times on datasets with large numbers of feature fields.",
+      "corpusId": 232035861,
+      "url": "https://api.semanticscholar.org/CorpusId:232035861"
+    },
+    {
+      "title": "Responsible Credit Risk Assessment with Machine Learning and Knowledge Acquisition",
+      "authors": [
+        {
+          "name": "Charles Guan",
+          "id": "2061101053"
+        },
+        {
+          "name": "Hendra Suryanto",
+          "id": "1841737"
+        },
+        {
+          "name": "Ashesh Mahidadia",
+          "id": "3200356"
+        },
+        {
+          "name": "Michael Bain",
+          "id": "144041292"
+        },
+        {
+          "name": "P. Compton",
+          "id": "145608771"
+        }
+      ],
+      "year": 2023,
+      "venue": "Human-Centric Intelligent Systems",
+      "score": 0.964678719801863,
+      "abstract": "Making responsible lending decisions involves many factors. There is a growing amount of research on machine learning applied to credit risk evaluation. This promises to enhance diversity in lending without impacting the quality of the credit available by using data on previous lending decisions and their outcomes. However, often the most accurate machine learning methods predict in ways that are not transparent to human domain experts. A consequence is increasing regulation in jurisdictions across the world requiring automated decisions to be explainable. Before the emergence of data-driven technologies lending decisions were based on human expertise, so explainable lending decisions can, in principle, be assessed by human domain experts to ensure they are fair and ethical. In this study we hypothesised that human expertise may be used to overcome the limitations of inadequate data. Using benchmark data, we investigated using machine learning on a small training set and then correcting errors in the training data with human expertise applied through Ripple-Down Rules. We found that the resulting combined model not only performed equivalently to a model learned from a large set of training data, but that the human expert’s rules also improved the decision making of the latter model. The approach is general, and can be used not only to improve the appropriateness of lending decisions, but also potentially to improve responsible decision making in any domain where machine learning training data is limited in quantity or quality.",
+      "corpusId": 259895422,
+      "url": "https://api.semanticscholar.org/CorpusId:259895422"
+    },
+    {
+      "title": "Machine Learning Approach for Credit Score Predictions",
+      "authors": [
+        {
+          "name": "Tsholofelo Mokheleli",
+          "id": "2222068278"
+        },
+        {
+          "name": "Tinofirei Museba",
+          "id": "1516335824"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Information Systems and Informatics",
+      "score": 0.9645645271860451,
+      "abstract": "This paper addresses the problem of managing the significant rise in requests for credit products that banking and financial institutions face. The aim is to propose an adaptive, dynamic heterogeneous ensemble credit model that integrates the XGBoost and Support Vector Machine models to improve the accuracy and reliability of risk assessment credit scoring models. The method employs machine learning techniques to recognise patterns and trends from past data to anticipate future occurrences. The proposed approach is compared with existing credit score models to validate its efficacy using five popular evaluation metrics, Accuracy, ROC AUC, Precision, Recall and F1_Score. The paper highlights credit scoring models’ challenges, such as class imbalance, verification latency and concept drift. The results show that the proposed approach outperforms the existing models regarding the evaluation metrics, achieving a balance between predictive accuracy and computational cost. The conclusion emphasises the significance of the proposed approach for the banking and financial sector in developing robust and reliable credit scoring models to evaluate the creditworthiness of their clients.",
+      "corpusId": 259551401,
+      "url": "https://api.semanticscholar.org/CorpusId:259551401"
+    },
+    {
+      "title": "A novel augmentation strategy for credit scoring modeling",
+      "authors": [
+        {
+          "name": "Valerio La Gatta",
+          "id": "2052105638"
+        },
+        {
+          "name": "Marco Postiglione",
+          "id": "2095559430"
+        },
+        {
+          "name": "Giancarlo Sperlí",
+          "id": "2682488"
+        }
+      ],
+      "year": 2025,
+      "venue": "Neural computing & applications (Print)",
+      "score": 0.964137342755587,
+      "abstract": "In last years, social lending platforms have been increasingly used as virtual environments where borrowers can directly interact with lenders without any intermediary. As a result, a reliable credit scoring strategy, i.e., assessing whether a client is able to fully repay a loan, became of utmost importance to reduce the risk of not repaying the lenders. In this context, machine learning tools are being increasingly adopted to design automatic credit scoring systems but the data imbalance problem still penalizes their predictive performance, i.e., the greatest majority of clients can afford the repayment and learning to classify ”bad” borrowers depends on few instances where the loan was not paid back. In this paper, we target the data imbalance problem and propose a novel data augmentation strategy to improve the predictive performance of credit scoring models. The proposed methodology performs data augmentation by injecting synthetic instances in the dataset generated along the decision boundary of the decision model. We assessed the effectiveness of the proposed augmentation strategy on a million-scale dataset from Lending Club, the largest Social Lending platform, and found that it improves the performance of several classification models, also in comparison to other state-of-the-art approaches.",
+      "corpusId": 275868531,
+      "url": "https://api.semanticscholar.org/CorpusId:275868531"
+    },
+    {
+      "title": "Data Mining for the Adjustment of Credit Scoring Models in Solidarity Economy Entities: A Methodology for Addressing Class Imbalances",
+      "authors": [
+        {
+          "name": "Iván Mauricio Bermúdez Vera",
+          "id": "2126755967"
+        },
+        {
+          "name": "Jaime Mosquera Restrepo",
+          "id": "2341753268"
+        },
+        {
+          "name": "D. Manotas-Duque",
+          "id": "2401387280"
+        }
+      ],
+      "year": 2025,
+      "venue": "Risks",
+      "score": 0.963602228298688,
+      "abstract": "This study addresses the quantification of credit risk in solidarity economy entities, proposing a new methodology to redefine the concept of a “default” in the frequent situations of extreme class imbalances. The objective is to develop and evaluate credit scoring models that enhance risk management by incorporating internal and external data to assess default risk. Data mining techniques are applied to address class imbalances, redefining the term “default” to include external credit information and increasing the representation of the minority class. The effectiveness of machine learning and statistical models is evaluated using class-balancing methods such as under-sampling, over-sampling, and the Synthetic Minority Over-sampling Technique (SMOTE). The evaluation is based on the Balanced Accuracy metric and the holding power of the performance, ensuring a consistent predictive power of the model while avoiding overfitting. While machine learning methods can improve credit scoring, logistic regression-based models remain effective, especially when combined with class-balancing techniques. It is concluded that a balanced sample in a class size is essential to improve predictive performance.",
+      "corpusId": 275825410,
+      "url": "https://api.semanticscholar.org/CorpusId:275825410"
+    },
+    {
+      "title": "The Impact of Feature Selection and Transformation on Machine Learning Methods in Determining the Credit Scoring",
+      "authors": [
+        {
+          "name": "Oguzhan Koc",
+          "id": "122864500"
+        },
+        {
+          "name": "Omur Ugur",
+          "id": "2382917546"
+        },
+        {
+          "name": "A. S. Kestel",
+          "id": "121639568"
+        }
+      ],
+      "year": 2023,
+      "venue": "unknown",
+      "score": 0.9633792560716411,
+      "abstract": "Banks utilize credit scoring as an important indicator of financial strength and eligibility for credit. Scoring models aim to assign statistical odds or probabilities for predicting if there is a risk of nonpayment in relation to many other factors which may be involved in. This paper aims to illustrate the beneficial use of the eight machine learning (ML) methods (Support Vector Machine, Gaussian Naive Bayes, Decision Trees, Random Forest, XGBoost, K-Nearest Neighbors, Multi-layer Perceptron Neural Networks) and Logistic Regression in finding the default risk as well as the features contributing to it. An extensive comparison is made in three aspects: (i) which ML models with and without its own wrapper feature selection performs the best; (ii) how feature selection combined with appropriate data scaling method influences the performance; (iii) which of the most successful combination (algorithm, feature selection, and scaling) delivers the best validation indicators such as accuracy rate, Type I and II errors and AUC. An open-access credit scoring default risk data sets on German and Australian cases are taken into account, for which we determine the best method, scaling, and features contributing to default risk best and compare our findings with the literature ones in related. We illustrate the positive contribution of the selection method and scaling on the performance indicators compared to the existing literature.",
+      "corpusId": 257427597,
+      "url": "https://api.semanticscholar.org/CorpusId:257427597"
+    },
+    {
+      "title": "An experimental study on fairness-aware machine learning for credit scoring problem",
+      "authors": [
+        {
+          "name": "Huyen Giang Thi Thu",
+          "id": "2140538383"
+        },
+        {
+          "name": "Thang Viet Doan",
+          "id": "2307917197"
+        },
+        {
+          "name": "Tai Le Quy",
+          "id": "1488731837"
+        }
+      ],
+      "year": 2024,
+      "venue": "arXiv.org",
+      "score": 0.9631817419062709,
+      "abstract": "The digitalization of credit scoring has become essential for financial institutions and commercial banks, especially in the era of digital transformation. Machine learning techniques are commonly used to evaluate customers'creditworthiness. However, the predicted outcomes of machine learning models can be biased toward protected attributes, such as race or gender. Numerous fairness-aware machine learning models and fairness measures have been proposed. Nevertheless, their performance in the context of credit scoring has not been thoroughly investigated. In this paper, we present a comprehensive experimental study of fairness-aware machine learning in credit scoring. The study explores key aspects of credit scoring, including financial datasets, predictive models, and fairness measures. We also provide a detailed evaluation of fairness-aware predictive models and fairness measures on widely used financial datasets. The experimental results show that fairness-aware models achieve a better balance between predictive accuracy and fairness compared to traditional classification models.",
+      "corpusId": 275134101,
+      "url": "https://api.semanticscholar.org/CorpusId:275134101"
+    },
+    {
+      "title": "Forecasting creditworthiness in credit scoring using machine learning methods",
+      "authors": [
+        {
+          "name": "Ayagoz Mukhanova",
+          "id": "2079180152"
+        },
+        {
+          "name": "Madiyar Baitemirov",
+          "id": "2315734199"
+        },
+        {
+          "name": "A. Amirov",
+          "id": "2078209689"
+        },
+        {
+          "name": "B. Tassuov",
+          "id": "2299613802"
+        },
+        {
+          "name": "V. Makhatova",
+          "id": "9581273"
+        },
+        {
+          "name": "A. Kaipova",
+          "id": "2314477069"
+        },
+        {
+          "name": "Ulzhan Makhazhanova",
+          "id": "2105832627"
+        },
+        {
+          "name": "Tleugaisha Ospanova",
+          "id": "2094931107"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Electrical and Computer Engineering (IJECE)",
+      "score": 0.9630590231313224,
+      "abstract": "This article provides an overview of modern machine learning methods in the context of their active use in credit scoring, with particular attention to the following algorithms: light gradient boosting machine (LGBM) classifier, logistic regression (LR), linear discriminant analysis (LDA), decision tree (DT) classifier, gradient boosting classifier and extreme gradient boosting (XGB) classifier. Each of the methods mentioned is subject to careful analysis to evaluate their applicability and effectiveness in predicting credit risk. The article examines the advantages and limitations of each method, identifying their impact on the accuracy and reliability of borrower creditworthiness assessments. Current trends in machine learning and credit scoring are also covered, warning of challenges and discussing prospects. The analysis highlights the significant contributions of methods such as LGBM classifier, LR, LDA, DT classifier, gradient boosting classifier and XGB classifier to the development of modern credit scoring practices, highlighting their potential for improving the accuracy and reliability of borrower creditworthiness forecasts in the financial services industry. Additionally, the article discusses the importance of careful selection of machine learning models and the need to continually update methodology in light of the rapidly changing nature of the financial market.",
+      "corpusId": 271833185,
+      "url": "https://api.semanticscholar.org/CorpusId:271833185"
+    },
+    {
+      "title": "Credit Scoring System Using Machine Learning",
+      "authors": [
+        {
+          "name": "Abhishek Kumar",
+          "id": "2303959316"
+        },
+        {
+          "name": "Abhijeet Kumar",
+          "id": "2303962626"
+        },
+        {
+          "name": "Aditya Kumar Singh",
+          "id": "2303962208"
+        },
+        {
+          "name": "Ms. Nikita",
+          "id": "2303957339"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Scientific Research in Computer Science Engineering and Information Technology",
+      "score": 0.9629596228591788,
+      "abstract": "This research paper offers a comprehensive examination of credit scoring systems. We will explore the current methodologies employed, the challenges encountered, and potential avenues for improvement. Credit scoring plays a critical role in financial decision-making, impacting both individual access to credit and lender risk management strategies. The paper will analyze traditional credit scoring models alongside emerging trends designed to enhance the accuracy and fairness of credit assessments. Additionally, we will discuss the ethical considerations surrounding credit scoring and propose recommendations for future advancements.",
+      "corpusId": 270144042,
+      "url": "https://api.semanticscholar.org/CorpusId:270144042"
+    },
+    {
+      "title": "Credit Evaluation System Based on FICO",
+      "authors": [
+        {
+          "name": "Yiming Li",
+          "id": "2310198374"
+        },
+        {
+          "name": "Ya-Wen Shi",
+          "id": "2395484801"
+        }
+      ],
+      "year": 2024,
+      "venue": "Applied and Computational Engineering",
+      "score": 0.9629437092813224,
+      "abstract": "Abstract. As credit transactions become more prevalent, financial institutions require effective methods to assess credit risk and reduce the likelihood of borrower default. In the U.S., the Fair Isaac Credit Organization (FICO) score is widely used by banks and insurers to evaluate personal creditworthiness. This paper aims to develop an automated credit scoring tool based on the FICO system to help financial institutions improve risk assessment. The paper leverages the random forest algorithm for data preprocessing and feature engineering to extract key variables, such as the borrower's financial status and credit history. To ensure data stability and interpretability, Information Value and Weight of Evidence techniques are applied to process these variables. Additionally, the Sigmoid function is used to map the model output to a range between 0 and 1, making it suitable for generating credit scores. This random forest algorithm helps handle non-linear relationships and missing data, while cross-validation enhances the models generalization ability. After training, the paper achieved an automated credit scoring system, closely aligned with the FICO scoring system. The models Area Under the Curve (AUC) value reached 0.84, indicating strong predictive accuracy and reliability. This tool enables financial institutions to more accurately assess credit risk, offering a robust, data-driven approach to improve decision-making and risk management.",
+      "corpusId": 274337602,
+      "url": "https://api.semanticscholar.org/CorpusId:274337602"
+    },
+    {
+      "title": "Comparative Analysis of Machine Learning Models for Credit Scoring: A Case Study on the South German Credit Dataset",
+      "authors": [
+        {
+          "name": "Vikas Mendhe",
+          "id": "2284637421"
+        },
+        {
+          "name": "Aamol Gote",
+          "id": "2284633364"
+        },
+        {
+          "name": "Roshan Mahant",
+          "id": "2284633676"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Advanced Research in Science, Communication and Technology",
+      "score": 0.9625650403484955,
+      "abstract": "In this research, proposed a novel hybrid machine learning approach that combines the strengths of Random Forest, Multi-Layer Perceptron (MLP), and LightGBM algorithms for classification tasks. This research work focuses on evaluating the performance of this hybrid model using the South German Credit dataset obtained from Kaggle, comprising bank client data, client last contact information, and labels. With 45,211 records and 16 attributes, this dataset provides a suitable environment for assessing the effectiveness of our proposed approach. Employ various evaluation metrics including accuracy, sensitivity and specificity and Receiver Operating Characteristic (ROC) to comprehensively analyze the model's performance. Through experiments, aim to demonstrate the efficacy of the hybrid approach in accurately classifying instances and providing insights into its potential applications in real-world scenarios",
+      "corpusId": 267747016,
+      "url": "https://api.semanticscholar.org/CorpusId:267747016"
+    },
+    {
+      "title": "Addressing Traditional Credit Scores as a Barrier to Accessing Affordable Credit",
+      "authors": [],
+      "year": 2023,
+      "venue": "The Federal Reserve Bank of Kansas City Economic Review",
+      "score": 0.9623609175360764,
+      "abstract": "Traditional credit scores do not always reflect a consumer’s creditworthiness and may drive disparities in credit access.",
+      "corpusId": 259255758,
+      "url": "https://api.semanticscholar.org/CorpusId:259255758"
+    },
+    {
+      "title": "Machine Learning for Credit Scoring Evaluation: a Survey",
+      "authors": [
+        {
+          "name": "Baidyanath Sou",
+          "id": "2277799729"
+        }
+      ],
+      "year": 2020,
+      "venue": "International Journal For Multidisciplinary Research",
+      "score": 0.9619695456216061,
+      "abstract": "Financial Risk Management (FRM) is a critical component of any organization’s financial success. It helps to protect financial health and long-term growth by identifying and mitigating financial risk. As the risk analysis heavily depends on information-deriving decision making, Machine learning is a promising field for new methods and technologies. In recent decades we have seen increasing adoption of Machine Learning methods for various risk management tasks. Credit Scoring is one of the risk factors involving creditors inability to perform their contractual obligations. This research article examines several scientific literature articles and conference proceedings from reputed databased and found out machine learning methods are applied to predict credit scoring gave promising results than traditional statistical methods.",
+      "corpusId": 266761851,
+      "url": "https://api.semanticscholar.org/CorpusId:266761851"
+    },
+    {
+      "title": "Building MLOps Pipelines in Fintech: Keeping Up with Continuous Machine Learning",
+      "authors": [
+        {
+          "name": "Jayaram Immaneni",
+          "id": "2334392646"
+        }
+      ],
+      "year": 2020,
+      "venue": "International Journal of Science and Research (IJSR)",
+      "score": 0.9618757822234094,
+      "abstract": ": In the fast-evolving world of fintech, integrating machine learning into business processes has transformed how financial services operate. However, as the demand for rapid deployment of machine learning models increases, the need for robust MLOps (Machine Learning Operations) pipelines becomes paramount. This paper explores the essential components of building effective MLOps pipelines tailored for the fintech landscape, emphasizing the importance of continuous integration and continuous deployment (CI/CD) in maintaining the relevance and performance of machine learning models. By leveraging automation and orchestration, fintech organizations can streamline the model development lifecycle, from data preparation and feature engineering to model training and evaluation. The discussion highlights the unique challenges fintech companies face, such as compliance with regulatory standards and the need for data privacy and security. It also underscores the significance of collaboration among data scientists, engineers, and business stakeholders to foster a culture of innovation and agility. Real-world examples demonstrate how leading fintech firms have successfully implemented MLOps practices to enhance operational efficiency, reduce time-to-market, and improve decision-making. Ultimately, this exploration aims to provide a comprehensive understanding of how fintech organizations can harness the power of continuous machine learning through well-structured MLOps pipelines, ensuring they remain competitive in a dynamic marketplace while delivering accurate and timely insights to their customers.",
+      "corpusId": 274586458,
+      "url": "https://api.semanticscholar.org/CorpusId:274586458"
+    },
+    {
+      "title": "Determinants of Credit Ratings and Comparison of the Rating Prediction Performances of Machine Learning Algorithms",
+      "authors": [
+        {
+          "name": "Ali Çetin",
+          "id": "2336615270"
+        },
+        {
+          "name": "S. E. Ahmed",
+          "id": "2109148529"
+        }
+      ],
+      "year": 2023,
+      "venue": "E3S Web of Conferences",
+      "score": 0.9617999349776346,
+      "abstract": "In the literature, new machine learning algorithms are dynamically produced in the field of artificial intelligence engineering and the algorithms are constantly updated with new parameter estimations. The performance of existing algorithms in various business areas is still an important topic of discussion. Also, machine learning algorithms are frequently used in long-term credit ratings, which is an crucially important sub-branch of finance. This study was conducted to determine which popular machine learning model performs better in credit scoring. Artificial Neural Network, Random Forest, Support Vector Machine and K Nearest Neighbor were used to determine the algorithm that is suitable for the structure, attribute content and distribution of the data, and the operating logic of the models. In the study, the long-term credit rating is the target variable and the remaining variables are the features, the prediction performances of these 4 algorithm, which are frequently used in previous studies such as credit rating, credit risk, fraud analysis were compared. After data preprocessing, a classification study was carried out using the features included in the model. The metrics used in the comparison are MSE, RMSE, MAE and accuracy. According to the metrics, RF algorithm showed the best performance in the credit scoring.",
+      "corpusId": 260406692,
+      "url": "https://api.semanticscholar.org/CorpusId:260406692"
+    },
+    {
+      "title": "Machine learning and decision support system on credit scoring",
+      "authors": [
+        {
+          "name": "Gernmanno Teles",
+          "id": "1388496270"
+        },
+        {
+          "name": "J. Rodrigues",
+          "id": "152171655"
+        },
+        {
+          "name": "Kashif Saleem",
+          "id": "144256139"
+        },
+        {
+          "name": "Sergei A. Kozlov",
+          "id": "1388497426"
+        },
+        {
+          "name": "R. Rabêlo",
+          "id": "144751709"
+        }
+      ],
+      "year": 2019,
+      "venue": "Neural computing & applications (Print)",
+      "score": 0.9616431444695649,
+      "abstract": "",
+      "corpusId": 204886977,
+      "url": "https://doi.org/10.1007/s00521-019-04537-7"
+    },
+    {
+      "title": "A Novel GSCI-Based Ensemble Approach for Credit Scoring",
+      "authors": [
+        {
+          "name": "Xiao-hong Chen",
+          "id": "40593360"
+        },
+        {
+          "name": "Siwei Li",
+          "id": "50341729"
+        },
+        {
+          "name": "Xuan-hua Xu",
+          "id": "1849110"
+        },
+        {
+          "name": "F. Meng",
+          "id": "3335363"
+        },
+        {
+          "name": "Wenzhi Cao",
+          "id": "2075437429"
+        }
+      ],
+      "year": 2020,
+      "venue": "IEEE Access",
+      "score": 0.9589327533141119,
+      "abstract": "Credit scoring is an efficient tool for financial institutions to implement credit risk management. In recent years, many novel machine learning models have been developed for credit scoring. Among the existing machine learning models, the heterogeneous ensemble model receives much attention because of its superior performance. This paper presents a new heterogeneous ensemble model based on the generalized Shapley value and the Choquet integral. To do this, the model first uses the fuzzy measure to express the interactive characteristics between any two coalitions of base learners. Based on the accuracy and diversity objective function, a linear programming model for determining the fuzzy measure is built. To retain the original information as much as possible in the training stage, the normal fuzzy number is employed to express the base learner predicted values. Then, the generalized Shapley Choquet integral (GSCI) aggregation operator is defined to calculate the comprehensive predicted value of the ensemble model. Based on the defined aggregation operator and linear programming model, a GSCI approach is proposed for ensemble credit scoring. To illustrate the efficiency and feasibility of the GSCI approach, an experiment of thirteen machine learning models over four public credit scoring datasets and three real-world P2P leading datasets with large volumes of samples is made. Furthermore, robust tests and comparatives analysis are made to demonstrate the adaptability and performance of the GSCI-based ensemble model.",
+      "corpusId": 229376329,
+      "url": "https://api.semanticscholar.org/CorpusId:229376329"
+    },
+    {
+      "title": "Classifier selection and clustering with fuzzy assignment in ensemble model for credit scoring",
+      "authors": [
+        {
+          "name": "Haoting Zhang",
+          "id": "2307886582"
+        },
+        {
+          "name": "Wenyu Zhang",
+          "id": "2157260967"
+        }
+      ],
+      "year": 2018,
+      "venue": "Neurocomputing",
+      "score": 0.9586968904862718,
+      "abstract": "",
+      "corpusId": 52288859,
+      "url": "https://doi.org/10.1016/J.NEUCOM.2018.07.070"
+    },
+    {
+      "title": "Machine learning powered financial credit scoring: a systematic literature review",
+      "authors": [
+        {
+          "name": "Helmi Ayari",
+          "id": "2219028283"
+        },
+        {
+          "name": "R. Guetari",
+          "id": "2013540"
+        },
+        {
+          "name": "Naoufel Kraïem",
+          "id": "1830043"
+        }
+      ],
+      "year": 2025,
+      "venue": "Artificial Intelligence Review",
+      "score": 0.9522698541789631,
+      "abstract": "",
+      "corpusId": 283074125,
+      "url": "https://doi.org/10.1007/s10462-025-11416-2"
+    },
+    {
+      "title": "Machine learning for credit scoring and loan default prediction using behavioral and transactional financial data",
+      "authors": [
+        {
+          "name": "Roland Abi",
+          "id": "2383020285"
+        }
+      ],
+      "year": 2025,
+      "venue": "World Journal of Advanced Research and Reviews",
+      "score": 0.9514564649082118,
+      "abstract": "",
+      "corpusId": 279286658,
+      "url": "https://doi.org/10.30574/wjarr.2025.26.3.2266"
+    },
+    {
+      "title": "Inherently interpretable machine learning for credit scoring: Optimal classification tree with hyperplane splits",
+      "authors": [
+        {
+          "name": "Jiancheng Tu",
+          "id": "2100648154"
+        },
+        {
+          "name": "Zhibin Wu",
+          "id": "2165968408"
+        }
+      ],
+      "year": 2024,
+      "venue": "European Journal of Operational Research",
+      "score": 0.9511443739386588,
+      "abstract": "",
+      "corpusId": 273952163,
+      "url": "https://doi.org/10.1016/j.ejor.2024.10.046"
+    },
+    {
+      "title": "Predicting credit default probabilities using machine learning techniques in the face of unequal class distributions",
+      "authors": [
+        {
+          "name": "Anna Stelzer",
+          "id": "88741335"
+        }
+      ],
+      "year": 2019,
+      "venue": "arXiv.org",
+      "score": 0.9507790145654761,
+      "abstract": "This study conducts a benchmarking study, comparing 23 different statistical and machine learning methods in a credit scoring application. In order to do so, the models' performance is evaluated over four different data sets in combination with five data sampling strategies to tackle existing class imbalances in the data. Six different performance measures are used to cover different aspects of predictive performance. The results indicate a strong superiority of ensemble methods and show that simple sampling strategies deliver better results than more sophisticated ones.",
+      "corpusId": 198986163,
+      "url": "https://api.semanticscholar.org/CorpusId:198986163"
+    },
+    {
+      "title": "Credit Scoring for Loan Applicants Using Machine Learning Models",
+      "authors": [
+        {
+          "name": "Kaivaram Sivarama Krishna",
+          "id": "2310829303"
+        },
+        {
+          "name": "Bommala Deepak Kumar",
+          "id": "2310864313"
+        },
+        {
+          "name": "Morumpalli Deekshith Reddy",
+          "id": "2310894443"
+        },
+        {
+          "name": "Ch. Saketh",
+          "id": "2310828824"
+        },
+        {
+          "name": "Manju Venugopalan",
+          "id": "40393838"
+        }
+      ],
+      "year": 2024,
+      "venue": "2023 4th International Conference on Intelligent Technologies (CONIT)",
+      "score": 0.9507256619657948,
+      "abstract": "",
+      "corpusId": 271900647,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10626212"
+    },
+    {
+      "title": "Credit Scoring Using Machine Learning Algorithms and Blockchain Technology",
+      "authors": [
+        {
+          "name": "Mariam Ossama Kotb",
+          "id": "2233495996"
+        }
+      ],
+      "year": 2023,
+      "venue": "Internet, Multimedia Systems and Applications",
+      "score": 0.950713250684971,
+      "abstract": "",
+      "corpusId": 261126326,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10217411"
+    },
+    {
+      "title": "Machine Learning Techniques for Credit Scoring in Banking with Management, HR, and Organizational Key Components",
+      "authors": [
+        {
+          "name": "D. Saxena",
+          "id": "2369764301"
+        },
+        {
+          "name": "Dr.S. Thandayuthapani",
+          "id": "2308705019"
+        },
+        {
+          "name": "Dr. P. Raman",
+          "id": "2286456329"
+        },
+        {
+          "name": "Dr.ThirumaValavan",
+          "id": "2313133586"
+        },
+        {
+          "name": "Dr.Nihar Ranjan Behera",
+          "id": "2313133579"
+        },
+        {
+          "name": "D. Khatri",
+          "id": "2309841674"
+        }
+      ],
+      "year": 2024,
+      "venue": "2024 International Conference on Advances in Computing, Communication and Applied Informatics (ACCAI)",
+      "score": 0.9506374068158463,
+      "abstract": "",
+      "corpusId": 271463406,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10602032"
+    },
+    {
+      "title": "Credit Scoring: A Comparison of Machine Learning Models and Their\n Modifications",
+      "authors": [
+        {
+          "name": "J. Ong",
+          "id": "2346454569"
+        },
+        {
+          "name": "Lai Soon Lee",
+          "id": "2297365139"
+        }
+      ],
+      "year": 2025,
+      "venue": "Applied mathematics and computational intelligence",
+      "score": 0.9505177781219714,
+      "abstract": "",
+      "corpusId": 276469503,
+      "url": "https://doi.org/10.58915/amci.v14i1.1362"
+    },
+    {
+      "title": "Machine Learning and Artificial Intelligence Method for FinTech Credit Scoring and Risk Management",
+      "authors": [
+        {
+          "name": "Jewel Kumar Roy",
+          "id": "2311961951"
+        },
+        {
+          "name": "László Vasa",
+          "id": "2338490324"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Business Analytics",
+      "score": 0.9505083844658463,
+      "abstract": "The ever-changing landscape of financial technology has undergone significant changes owing to advancements in machine learning, artificial intelligence, blockchains, and digitalization. These changes have had a profound impact on the provision of financial services, specifically, credit scoring and lending. This study examines the intersection of financial technology, artificial intelligence, machine learning, blockchain, and digitalization in the context of credit services with a focus on credit scoring and lending. This study addressed three main research questions: The research followed a comprehensive methodology, considering factors such as population, intervention, comparison, outcomes, and setting to ensure that collected data aligns with research objectives. The research questions were structured using the PICOS framework, and the PRISMA model was used for the systematic review and study selection. The publications analysed covered a wide range of datasets and methodologies.",
+      "corpusId": 271354704,
+      "url": "https://doi.org/10.4018/ijban.347504"
+    },
+    {
+      "title": "MACHINE LEARNING FOR ENHANCED CREDIT SCORING",
+      "authors": [
+        {
+          "name": "Abbey Bakare",
+          "id": "2406897686"
+        },
+        {
+          "name": "Anjola Odunaike",
+          "id": "2406898561"
+        }
+      ],
+      "year": 2024,
+      "venue": "Algora",
+      "score": 0.9505003701455194,
+      "abstract": "",
+      "corpusId": 285062955,
+      "url": "https://doi.org/10.63084/algora.v1i01.33"
+    },
+    {
+      "title": "Comprehensive Literature Survey on Machine Learning for Credit Scoring of Thin File Consumers",
+      "authors": [
+        {
+          "name": "Dr Deepa Shukla",
+          "id": "2338071781"
+        },
+        {
+          "name": "Dr. Sunil Gupta",
+          "id": "2338168353"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Conferences on Computing Advancements",
+      "score": 0.9504408835205193,
+      "abstract": "",
+      "corpusId": 277319598,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10928020"
+    },
+    {
+      "title": "DEVELOPMENT OF A CREDIT SCORING MODEL USING MACHINE LEARNING FOR COMMERCIAL BANKS IN VIETNAM",
+      "authors": [
+        {
+          "name": "Tran van Trung",
+          "id": "2308770483"
+        },
+        {
+          "name": "Ngoc Anh Nguyen Vuong",
+          "id": "2133245529"
+        }
+      ],
+      "year": 2024,
+      "venue": "Advances and Applications in Statistics",
+      "score": 0.9503082480830194,
+      "abstract": "",
+      "corpusId": 274294846,
+      "url": "https://doi.org/10.17654/0972361725006"
+    },
+    {
+      "title": "AI-Driven Credit Scoring Models: Enhancing  Accuracy and Fairness with Explainable Machine Learning",
+      "authors": [
+        {
+          "name": "S. Yadav",
+          "id": "2305780453"
+        }
+      ],
+      "year": 2024,
+      "venue": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+      "score": 0.9499876145437026,
+      "abstract": "",
+      "corpusId": 275415887,
+      "url": "https://doi.org/10.55041/isjem02185"
+    },
+    {
+      "title": "CREDIT SCORING MODELLING USING MACHINE LEARNING METHODS",
+      "authors": [
+        {
+          "name": "Myroslav Datsko",
+          "id": "2210167656"
+        },
+        {
+          "name": "Nazarii Drushchak",
+          "id": "2205540262"
+        }
+      ],
+      "year": 2023,
+      "venue": "Visnyk of the Lviv University. Series Economics",
+      "score": 0.9499118007900149,
+      "abstract": "",
+      "corpusId": 260694257,
+      "url": "https://doi.org/10.30970/ves.2022.63.0.6305"
+    },
+    {
+      "title": "Blockchain Based Trusted Distributed Machine Learning for Credit Scoring",
+      "authors": [
+        {
+          "name": "Daniel Djolev",
+          "id": "2081765172"
+        },
+        {
+          "name": "Milena Lazarova",
+          "id": "35242641"
+        },
+        {
+          "name": "O. Nakov",
+          "id": "66008381"
+        }
+      ],
+      "year": 2023,
+      "venue": "2023 International Scientific Conference on Computer Science (COMSCI)",
+      "score": 0.9494841012900149,
+      "abstract": "",
+      "corpusId": 265256902,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10315878"
+    },
+    {
+      "title": "Regulatory Learning: Credit Scoring Application of Machine Learning",
+      "authors": [
+        {
+          "name": "D. Guégan",
+          "id": "1862998"
+        },
+        {
+          "name": "Bertrand K. Hassani",
+          "id": "26379730"
+        }
+      ],
+      "year": 2017,
+      "venue": "unknown",
+      "score": 0.9310175565503388,
+      "abstract": "",
+      "corpusId": 215929415,
+      "url": "https://api.semanticscholar.org/CorpusId:215929415"
+    }
+  ]
+}

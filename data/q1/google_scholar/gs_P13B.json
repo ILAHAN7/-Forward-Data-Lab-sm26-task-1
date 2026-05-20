@@ -1,0 +1,111 @@
+{
+  "query_id": "P13B",
+  "query": "algorithmic trading Transformer limit order book",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:06:50Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Transformer Architectures for High-Frequency Stock Price Prediction Using Limit Order Book Data",
+    "year": 2024,
+    "abstract": "We apply Transformer and Temporal Fusion Transformer models to predict mid-price movements from limit order book snapshots at millisecond resolution, achieving superior performance over LSTM baselines.",
+    "domain": [
+      "algorithmic trading",
+      "Transformer",
+      "limit order book",
+      "price prediction"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "LiT: limit order book transformer",
+      "link": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1616485/full",
+      "snippet": "… In this work, the transformer layers in our Limit Order Book Transformer model adopt the self-attention mechanism proposed by Vaswani et al. (2017). This mechanism effectively …",
+      "publication_info": "Y Xiao, C Ventre, Y Wang, H Li, Y Huan… - Frontiers in artificial …, 2025 - frontiersin.org",
+      "year": 2025,
+      "citation_count": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tlob: A novel transformer model with dual attention for price trend prediction with limit order book data",
+      "link": "https://arxiv.org/abs/2502.15757",
+      "snippet": "… Limit Order Book (LOB) data, which provides the most granular and complete information on stock trades… Axial-lob: High-frequency trading with axial attention. In 2022 IEEE Symposium …",
+      "publication_info": "L Berti, G Kasneci - arXiv preprint arXiv:2502.15757, 2025 - arxiv.org",
+      "year": 2025,
+      "citation_count": 4
+    },
+    {
+      "rank": 3,
+      "title": "Bitcoin high frequency trading with Transformers",
+      "link": "https://dione.lib.unipi.gr/xmlui/handle/unipi/17815",
+      "snippet": "… By analyzing the patterns and dynamics within limit order books, we can uncover valuable … Specifically, we focus on the retrieval of Limit Order Book data for the BTCUSDT trading pair …",
+      "publication_info": "A Marinis - 2025 - dione.lib.unipi.gr",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 4,
+      "title": "SimLOB: Learning Representations of Limit Order Book for Financial Market Simulation",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11277388/",
+      "snippet": "… This paper proposes an efficient Transformer-based autoencoder to explicitly learn the … momentum traders, high-frequency traders, and so on [7], capturing most of the trading behaviors …",
+      "publication_info": "Y Li, Y Wu, M Zhong, S Liu… - IEEE Transactions on …, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": 17
+    },
+    {
+      "rank": 5,
+      "title": "Deep attentive survival analysis in limit order books: Estimating fill probabilities with convolutional-transformers",
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/14697688.2023.2286351",
+      "snippet": "… -Transformer encoder We propose a convolutional-Transformer encoder to identify patterns in the LOB and to obtain accurate estimates of the fill probabilities of limit orders. The …",
+      "publication_info": "A Arroyo, A Cartea, F Moreno-Pino… - Quantitative Finance, 2024 - Taylor & Francis",
+      "year": 2024,
+      "citation_count": 49
+    },
+    {
+      "rank": 6,
+      "title": "Vit-lob: Efficient vision transformer for stockprice trend prediction using limit order books",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10547868/",
+      "snippet": "… HFT is a form of algorithmic trading characterized by the … stock price trend prediction using a limit order book. The model we propose is based on the structure of the vision transformer, …",
+      "publication_info": "Z Liu, CW Sham, L Ma, C Fu - 2024 10th International …, 2024 - ieeexplore.ieee.org",
+      "year": 2024,
+      "citation_count": 9
+    },
+    {
+      "rank": 7,
+      "title": "Deep reinforcement learning for trading in cryptocurrency markets using limit order book data and synthetic augmentation",
+      "link": "https://upcommons.upc.edu/entities/publication/74602dab-b2a9-43e4-a074-6043c6bbd0c2",
+      "snippet": "… algorithmic trading strategies. The hypothesis posits that … compact discrete representations of limit order book snapshots, … and Transformer architectures for processing sequential market …",
+      "publication_info": "L Palou Masmarti - 2026 - upcommons.upc.edu",
+      "year": 2026,
+      "citation_count": null
+    },
+    {
+      "rank": 8,
+      "title": "Optimizing Cryptocurrency Trading with Machine Learning: Predictive Analytics with Limit Order Book and Sentiment Data",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4867340",
+      "snippet": "… trading signals by utilizing limit order book and the sentiment scores along with price … Moreover, it incorporates sentiment analysis through FinBERT, a transformer-based model …",
+      "publication_info": "D Gorsh - Available at SSRN 4867340, 2024 - papers.ssrn.com",
+      "year": 2024,
+      "citation_count": null
+    },
+    {
+      "rank": 9,
+      "title": "Modelling of the Limit Order Book: From Statistical Methods to Machine Learning Techniques",
+      "link": "https://theses.hal.science/tel-04966271/",
+      "snippet": "… the Transformer ar chitecture by Vaswani et al. in 2017 [43], which eliminated the need for recurrence alto gether. Transformers … The Transformer revolutionised NLP, leading to advance …",
+      "publication_info": "S Elomari - 2024 - theses.hal.science",
+      "year": 2024,
+      "citation_count": null
+    },
+    {
+      "rank": 10,
+      "title": "LOBERT: Generative AI Foundation Model for Limit Order Book Messages",
+      "link": "https://arxiv.org/abs/2511.12563",
+      "snippet": "… Limit Order Books (LOB) at the message level is challenging due to irregular event timing, rapid regime shifts, and the reactions of high-frequency traders to visible order flow… transformer …",
+      "publication_info": "E Linna, K Baltakys, A Iosifidis, J Kanniainen - arXiv preprint arXiv …, 2025 - arxiv.org",
+      "year": 2025,
+      "citation_count": null
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "query_id": "P15A",
+  "query": "Sentiment Analysis of Financial News for Stock Return Prediction Using Large Language Models",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:06Z",
+  "result_count": 1,
+  "ground_truth": {
+    "title": "Sentiment Analysis of Financial News for Stock Return Prediction Using Large Language Models",
+    "year": 2024,
+    "abstract": "We fine-tune FinBERT and GPT-based models on financial news corpora to predict next-day stock returns, analyzing whether LLM-derived sentiment factors generate alpha beyond traditional momentum signals.",
+    "domain": [
+      "NLP",
+      "sentiment analysis",
+      "stock prediction",
+      "LLM",
+      "finance"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Sentiment analysis of financial news for stock price prediction: Empirical evidence from India",
+      "link": "https://www.researchsquare.com/article/rs-2233591/latest",
+      "snippet": "The stock prices are majorly affected by news related to macroeconomic conditions of the country as well as the global economy. The stocks are also affected by news specifically related to them. In this study we tried to understand how news affects the change in stock indices of emerging markets. We have used NIFTY50 and headlines of the Economic Times newspaper for this study. The model gives information on whether the NIFTY50 index will rise or fall given the news headlines. We have made three models based on Random Forest Classifier, Decision Trees Classifier and Multinomial NB Classifier. The Random Forest Classifier based achieved the best precision of 0.73. This model can give the investors greater decision support.",
+      "publication_info": "RL Manogna2022•researchsquare.com",
+      "year": null,
+      "citation_count": 1
+    }
+  ]
+}

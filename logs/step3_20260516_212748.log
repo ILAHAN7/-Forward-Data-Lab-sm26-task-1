@@ -1,0 +1,8 @@
+2026-05-16 21:27:48 [INFO] =======================================================
+2026-05-16 21:27:48 [INFO] STEP 3b — Save Asta results from browser JSON to disk
+2026-05-16 21:27:48 [INFO] Run ID  : 20260516_212748
+2026-05-16 21:27:48 [INFO] Source  : C:\Users\USER\Desktop\UIUC\LAB/data/q1/asta/asta_raw.json
+2026-05-16 21:27:48 [INFO] =======================================================
+2026-05-16 21:27:48 [ERROR] asta_raw.json not found at: C:\Users\USER\Desktop\UIUC\LAB/data/q1/asta/asta_raw.json
+2026-05-16 21:27:48 [ERROR] Run step3a_asta_collect.js in browser first, then move
+2026-05-16 21:27:48 [ERROR] the downloaded asta_raw.json to the path above.

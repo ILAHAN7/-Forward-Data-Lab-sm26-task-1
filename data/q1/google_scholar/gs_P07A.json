@@ -1,0 +1,111 @@
+{
+  "query_id": "P07A",
+  "query": "Explainable AI for Consumer Credit Decisions: SHAP Values and Regulatory Compliance",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:05:34Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Explainable AI for Consumer Credit Decisions: SHAP Values and Regulatory Compliance",
+    "year": 2023,
+    "abstract": "We apply SHAP-based explanations to gradient boosting credit models and evaluate whether model-agnostic explanations satisfy adverse action notice requirements under the Fair Credit Reporting Act.",
+    "domain": [
+      "XAI",
+      "credit scoring",
+      "SHAP",
+      "regulatory compliance"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Explainable AI for credit scoring with SHAP-calibrated ensembles: a multi-market evaluation on public lending data",
+      "link": "https://ssrpublisher.com/wp-content/uploads/2025/09/Explainable-AI-for-Credit-Scoring-with-SHAP-Calibrated-Ensembles-A-Multi-Market-Evaluation-on-Public-Lending-Data.pdf",
+      "snippet": "… reshaped consumer lending, with machine learning systems now central to underwriting decisions. … prediction reasoning, making SHAP integration essential for regulatory compliance. …",
+      "publication_info": "AO Japinye, AA Adedugbe - Risks, 2025 - ssrpublisher.com",
+      "year": 2025,
+      "citation_count": 15
+    },
+    {
+      "rank": 2,
+      "title": "An explainable AI framework for credit evaluation and analysis",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1568494624000814",
+      "snippet": "… rejection since the rejection further diminishes the customers’ credit scores. With the parallel … ) integrated Explainable AI (XAI) framework which can interact with the customer through …",
+      "publication_info": "MK Nallakaruppan, B Balusamy, ML Shri… - Applied Soft …, 2024 - Elsevier",
+      "year": 2024,
+      "citation_count": 88
+    },
+    {
+      "rank": 3,
+      "title": "Explainable AI Using SHAP for Transparent and Interpretable Decision-Making in Financial Risk Assessment and Credit Scoring",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11292578/",
+      "snippet": "… credit guarantees justice, regulatory compliance, and better … SHAP values will assist in identifying the borrower who has … spotting possible biases, and clarifying consumer credit policies. …",
+      "publication_info": "D Patidar, MH Fallah, K Hemalatha… - … on Cyber Resilience …, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 4,
+      "title": "Explainable AI in Banking: Meeting Global Regulatory Requirements with SHAP Models",
+      "link": "https://www.researchgate.net/profile/Stephen-Eteng/publication/397253429_Explainable_AI_in_Banking_Meeting_Global_Regulatory_Requirements_with_SHAP_Models/links/690a09eea2b691617b694cff/Explainable-AI-in-Banking-Meeting-Global-Regulatory-Requirements-with-SHAP-Models.pdf",
+      "snippet": "… AI decisions into auditable and compliant outcomes. … Credit History and High Loan Duration were the primary features pushing the prediction toward 'bad credit' (negative SHAP values). …",
+      "publication_info": "AP Godwin Olaoye, J Jayson - 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 5,
+      "title": "Explainable AI for Credit Risk and Customer Segmentation in Subprime Lending: A Comprehensive Framework with Implementation Protocol",
+      "link": "https://www.researchgate.net/profile/Aishwary-Bodhle/publication/399167551_Explainable_AI_for_Credit_Risk_and_Customer_Segmentation_in_Subprime_Lending_A_Comprehensive_Framework_with_Implementation_Protocol/links/69530bb17e61d05b53145397/Explainable-AI-for-Credit-Risk-and-Customer-Segmentation-in-Subprime-Lending-A-Comprehensive-Framework-with-Implementation-Protocol.pdf",
+      "snippet": "… regulatory compliance and lending in subprime credit markets… became the paradigm of consumer credit scoring because it … Figure 4 illustrates the average absolute SHAP values of the …",
+      "publication_info": "A Bodhale - International Journal of Computer Trends and …, 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": 10
+    },
+    {
+      "rank": 6,
+      "title": "Harnessing explainable AI (XAI) for transparency in credit scoring and risk management in fintech",
+      "link": "https://www.researchgate.net/profile/Saugat-Nayak/publication/387180943_Harnessing_Explainable_AI_XAI_For_Transparency_In_Credit_Scoring_And_Risk_Management_In_Fintech/links/681240daded43315573f9e34/Harnessing-Explainable-AI-XAI-For-Transparency-In-Credit-Scoring-And-Risk-Management-In-Fintech.pdf",
+      "snippet": "… both legal compliance and AI ethics is actually a good example of the advantages of XAI. The feature importance was evaluated by using SHAP values in the credit … in personal lending …",
+      "publication_info": "S Nayak - International Journal of Applied Engineering and …, 2022 - researchgate.net",
+      "year": 2022,
+      "citation_count": 15
+    },
+    {
+      "rank": 7,
+      "title": "Explainable AI for regulatory compliance in financial and healthcare sectors: a comprehensive review",
+      "link": "https://www.researchgate.net/profile/Nikhil-Gupta-29/publication/390115563_Explainable_AI_for_Regulatory_Compliance_in_Financial_and_Healthcare_Sectors_A_comprehensive_review/links/67e0e265e2c0ea36cd9b3c69/Explainable-AI-for-Regulatory-Compliance-in-Financial-and-Healthcare-Sectors-A-comprehensive-review.pdf",
+      "snippet": "… regulatory requirements highlight the need for Explainable AI (XAI), a field of AI that aims to make the decision… SHAP values assign importance to each feature in a model's prediction by …",
+      "publication_info": "N Gupta - International Journal of Advances in Engineering and …, 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": 15
+    },
+    {
+      "rank": 8,
+      "title": "Explainable AI in Credit Risk Models: Enhancing Transparency and Trust in Financial Decision-Making",
+      "link": "https://www.researchgate.net/profile/Mia-Cate/publication/395691329_Explainable_AI_in_Credit_Risk_Models_Enhancing_Transparency_and_Trust_in_Financial_Decision-Making/links/68cebcf611d348252ba6819e/Explainable-AI-in-Credit-Risk-Models-Enhancing-Transparency-and-Trust-in-Financial-Decision-Making.pdf",
+      "snippet": "… of explainable models for regulatory compliance, bias detection, and ethical … SHAP value visualizations and decision plots will provide granular explanations of individual credit …",
+      "publication_info": "M Cate - Journal of Advancement in Big Data Science and Data …, 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 9,
+      "title": "Explainable AI for Financial Risk Mitigation: Governance, Compliance, and Customer Protection in the US Economy",
+      "link": "http://ijeret.org/index.php/ijeret/article/view/515",
+      "snippet": "… to financial institutions trying to explain to regulators and customers why it made automated credit decisions. These model decisions can be studied using explainable AI methods. Local …",
+      "publication_info": "NAG Gamarra - International Journal of Emerging Research in …, 2026 - ijeret.org",
+      "year": 2026,
+      "citation_count": 2
+    },
+    {
+      "rank": 10,
+      "title": "Explainable Artificial Intelligence (XAI) for Commercial Credit Limit Prediction Model: SHAP-LIME Comparison",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-84873-5_44",
+      "snippet": "… that financial institutions comply with legal requirements and … workings and their aim to explain AI decisions independent of the … Features with higher SHAP values are considered more …",
+      "publication_info": "E Kocoglu, F Ersoz - International Congress on 3D Printing (Additive …, 2024 - Springer",
+      "year": 2024,
+      "citation_count": 2
+    }
+  ]
+}

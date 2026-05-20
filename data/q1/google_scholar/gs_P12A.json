@@ -1,0 +1,111 @@
+{
+  "query_id": "P12A",
+  "query": "Multichain DeFi Fraud Detection Using Machine Learning on On-Chain Data",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:06:36Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Multichain DeFi Fraud Detection Using Machine Learning on On-Chain Data",
+    "year": 2023,
+    "abstract": "We extract behavioral features from Ethereum, BSC, and Polygon transactions across 23 DeFi protocols to train XGBoost and neural network classifiers for detecting rug pulls and wash trading.",
+    "domain": [
+      "DeFi",
+      "fraud detection",
+      "blockchain analytics",
+      "machine learning"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Fraud Detection in Decentralized Finance (DeFi) Transactions using ML and Smart Contracts",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11377130/",
+      "snippet": "… methods remain ineffective due to issues of privacy, data … on-chain/off-chain framework leveraging Machine Learning (… Future extensions will also explore multi-chain deployment …",
+      "publication_info": "H Rudrawar, SA Jakhete… - … on Blockchain and …, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 2,
+      "title": "Machine Learning–Driven Detection of Suspicious On-Chain Activity for Strengthening Security in Blockchain-Based Financial Transactions",
+      "link": "https://scienceget.org/index.php/pjbis/article/view/136",
+      "snippet": "… detection systems that operate directly on on-chain data is … tool for enhancing security and anomaly detection in blockchain … monitoring DeFi protocols may use such features to detect …",
+      "publication_info": "AA Shawn - Pacific Journal of Business Innovation and Strategy, 2025 - scienceget.org",
+      "year": 2025,
+      "citation_count": 20
+    },
+    {
+      "rank": 3,
+      "title": "AI-Driven Fraud Detection in Decentralized Finance (DeFi) and Cryptocurrency Transactions",
+      "link": "https://www.researchgate.net/profile/Uthman-Usman-2/publication/396444443_AI-Driven_Fraud_Detection_in_Decentralized_Finance_DeFi_and_Cryptocurrency_Transactions/links/68ec175c7d9a4d4e87090c7a/AI-Driven-Fraud-Detection-in-Decentralized-Finance-DeFi-and-Cryptocurrency-Transactions.pdf",
+      "snippet": "… Intelligence (AI) solutions, including Machine Learning (… data processing, all data handling rigorously adheres to privacy frameworks. While the data itself is publicly available on-chain, …",
+      "publication_info": "SO Usman - researchgate.net",
+      "year": null,
+      "citation_count": null
+    },
+    {
+      "rank": 4,
+      "title": "Improving Trustworthiness in DeFi: Anomaly Detection for Blockchain Oracle Price Feed Data",
+      "link": "https://search.proquest.com/openview/e3ed294f727c1c07524b0e342f98e817/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+      "snippet": "… anomaly detection in blockchain oracle data, providing insights into the effectiveness of various machine learning … One method of achieving price stability is through on-chain collateral, …",
+      "publication_info": "L Gross - 2024 - search.proquest.com",
+      "year": 2024,
+      "citation_count": 1
+    },
+    {
+      "rank": 5,
+      "title": "Real-time fraud detection in crypto-currencies: Leveraging AI and blockchain",
+      "link": "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003518365-3/real-time-fraud-detection-crypto-currencies-raghu-niranjan-kannanugo-trupti-ojashwini-kiran-deepthi",
+      "snippet": "… develop machine learning models capable of detecting anomalies, … By analysing on- chain and off- chain data together, the AI … platforms, DeFi platforms, and collaborative data sharing …",
+      "publication_info": "N Raghu, N Kannanugo, VN Trupti… - … Intelligence in …, 2024 - taylorfrancis.com",
+      "year": 2024,
+      "citation_count": 8
+    },
+    {
+      "rank": 6,
+      "title": "On-Chain Decentralized Learning and Cost-Effective Inference for DeFi Attack Mitigation",
+      "link": "https://arxiv.org/abs/2510.16024",
+      "snippet": "… To explore the feasibility of detecting DeFi attacks using only transaction data observable by … of on-chain machine learning classifiers in detecting previously unseen DeFi exploits. Each …",
+      "publication_info": "A Alhaidari, B Palanisamy, P Krishnamurthy - arXiv preprint arXiv …, 2025 - arxiv.org",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 7,
+      "title": "Real-time adaptive ai models for predicting novel fraud patterns in decentralised financial systems",
+      "link": "https://www.researchgate.net/profile/Salawudeen-Usman/publication/397956404_Real-time_adaptive_ai_models_for_predicting_novel_fraud_patterns_in_decentralised_financial_systems/links/6925f396a130337711bf1e5e/Real-time-adaptive-ai-models-for-predicting-novel-fraud-patterns-in-decentralised-financial-systems.pdf",
+      "snippet": "… , rapidly changing on-chain data streams, adversarial behaviours, protocol upgrades, and multichain … and a strategic roadmap for real-time adaptive fraud detection in DeFi ecosystems. …",
+      "publication_info": "S Alan - 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 8,
+      "title": "Multi-chain graphs of graphs: A new approach to analyzing blockchain datasets",
+      "link": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/3205b048f9cc54b9f7963db0b0f52d53-Abstract-Datasets_and_Benchmarks_Track.html",
+      "snippet": "… traditional GNN methods in anomaly detection, multi-class … [24] utilized both on-chain and off-chain data for predicting … The most popular classes in the dataset include DeFi tokens, …",
+      "publication_info": "B Luo, Z Zhang, Q Wang, B He - Advances in Neural …, 2024 - proceedings.neurips.cc",
+      "year": 2024,
+      "citation_count": 17
+    },
+    {
+      "rank": 9,
+      "title": "A systematic review on the application of artificial intelligence in decentralized finance",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589890",
+      "snippet": "… ’s role in anomaly detection through advanced machine learning and AI as … data sources into these models reflects an understanding that DeFi markets are influenced by both on-chain …",
+      "publication_info": "S Ataei, ST Ataei, AM Saghiri - 2025 - papers.ssrn.com",
+      "year": 2025,
+      "citation_count": 4
+    },
+    {
+      "rank": 10,
+      "title": "Predictive Financial Risk Modeling Using On-Chain Behavioral Analytics and Machine Learning",
+      "link": "https://www.researchgate.net/profile/Oladeji-Toheeb/publication/401437877_Predictive_Financial_Risk_Modeling_Using_On-Chain_Behavioral_Analytics_and_Machine_Learning/links/69a5ba30c7bd2e79e78abc16/Predictive-Financial-Risk-Modeling-Using-On-Chain-Behavioral-Analytics-and-Machine-Learning.pdf",
+      "snippet": "… The exponential growth of decentralized finance (DeFi) … market data, are inadequate for capturing complex on-chain … models and on-chain anomaly detection methods operate largely in …",
+      "publication_info": "C Navarro, T Blake, R Donovan - 2026 - researchgate.net",
+      "year": 2026,
+      "citation_count": null
+    }
+  ]
+}

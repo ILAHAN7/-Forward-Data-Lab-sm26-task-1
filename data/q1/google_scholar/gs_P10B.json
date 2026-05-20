@@ -1,0 +1,111 @@
+{
+  "query_id": "P10B",
+  "query": "fraud detection GNN real-time",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:06:16Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Graph Neural Networks for Real-Time Transaction Fraud Detection",
+    "year": 2024,
+    "abstract": "We model payment networks as dynamic heterogeneous graphs and apply temporal GNNs to detect fraudulent transactions with sub-millisecond latency, outperforming XGBoost baselines on industry datasets.",
+    "domain": [
+      "fraud detection",
+      "GNN",
+      "real-time",
+      "payment systems"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Reinforcement learning with graph neural network (RL-GNN) fusion for real-time financial fraud detection: a context-aware community mining approach",
+      "link": "https://www.nature.com/articles/s41598-025-25200-3",
+      "snippet": "… learning-optimized GNN framework for fraud detection, evaluated … fraudulent transactions while maintaining real-time processing capabilities. The following sections analyze detection …",
+      "publication_info": "RR Devi, JE Raja, YB Chin - Scientific Reports, 2025 - nature.com",
+      "year": 2025,
+      "citation_count": 5
+    },
+    {
+      "rank": 2,
+      "title": "Bright-graph neural networks in real-time fraud detection",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3511808.3557136",
+      "snippet": "… In this paper, we explore how to apply GNN for fraud detection. We present a novel BRIGHT framework for efficient end-to-end learning and real-time inference without the leakage of …",
+      "publication_info": "M Lu, Z Han, SX Rao, Z Zhang, Y Zhao… - Proceedings of the 31st …, 2022 - dl.acm.org",
+      "year": 2022,
+      "citation_count": 81
+    },
+    {
+      "rank": 3,
+      "title": "Detecting financial fraud in real-time transactions using graph neural networks and anomaly detection",
+      "link": "https://al-kindipublishers.org/index.php/jefas/article/view/10159",
+      "snippet": "… for a graph-based realtime anomaly detection framework tailored for financial transactions. The … gaps by proposing a hybrid, GNN-based real-time anomaly detection system for financial …",
+      "publication_info": "I Rasul, SMI Shaboj, MA Rafi, MK Miah… - Journal of …, 2024 - al-kindipublishers.org",
+      "year": 2024,
+      "citation_count": 31
+    },
+    {
+      "rank": 4,
+      "title": "Dynamic Adversarial GNN for Real-Time Fraud Detection on Online Platforms",
+      "link": "https://link.springer.com/article/10.1007/s11063-025-11825-y",
+      "snippet": "… fraud strategies. In response to these limitations, this paper proposes an innovative real-time fraud detection … model robustness against complex fraudulent behaviors, thereby offering a …",
+      "publication_info": "Z Wan, K Li, Y Wu - Neural Processing Letters, 2026 - Springer",
+      "year": 2026,
+      "citation_count": null
+    },
+    {
+      "rank": 5,
+      "title": "Detecting financial fraud in real-time transactions using graph neural networks and anomaly detection techniques",
+      "link": "https://al-kindipublishers.org/index.php/jefas/article/view/11041",
+      "snippet": "… Hybrid pipelines that fuse GNN-based relational reasoning with anomaly detectors for novelty catch both known and emerging schemes, while XAI tools (eg, subgraph rationales) …",
+      "publication_info": "RM Zakaria, MM Rahman, H Rahman… - Journal of …, 2025 - al-kindipublishers.org",
+      "year": 2025,
+      "citation_count": 28
+    },
+    {
+      "rank": 6,
+      "title": "Graph neural network-based framework for real-time financial fraud detection in digital payment ecosystems",
+      "link": "https://journal.krrishpub.com/index.php/jcdt/article/view/12",
+      "snippet": "… Standard systems for finding fraud mostly use rule-based methods or … in modern fraud patterns. This research presents a Graph Neural Network (GNN)-based real-time fraud detection …",
+      "publication_info": "R Penaganti - Journal of Computing and Data Technology, 2025 - journal.krrishpub.com",
+      "year": 2025,
+      "citation_count": 5
+    },
+    {
+      "rank": 7,
+      "title": "Transaction fraud detection via attentional spatial–temporal GNN",
+      "link": "https://link.springer.com/article/10.1007/s11227-025-06983-8",
+      "snippet": "… In [16], the Batch and Real-time Inception GrapH Topology (BRIGHT) system is presented as an innovative method for implementing GNNs in real-time fraud detection. It tackles two …",
+      "publication_info": "S Khosravi, M Kargari, B Teimourpour… - The Journal of …, 2025 - Springer",
+      "year": 2025,
+      "citation_count": 12
+    },
+    {
+      "rank": 8,
+      "title": "Real-time financial fraud detection using adaptive graph neural networks and federated learning",
+      "link": "https://www.researchgate.net/profile/Milad-Rahmati-3/publication/392312648_Real-Time_Financial_Fraud_Detection_Using_Adaptive_Graph_Neural_Networks_and_Federated_Learning/links/683cfe48c33afe388ac97b45/Real-Time-Financial-Fraud-Detection-Using-Adaptive-Graph-Neural-Networks-and-Federated-Learning.pdf",
+      "snippet": "… fraud detection efforts, as financial organizations are often unable to share sensitive transactional data. In this research, we introduce a real-time fraud detection … Our GNN-based …",
+      "publication_info": "M Rahmati - International Journal of Management and Data …, 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": 30
+    },
+    {
+      "rank": 9,
+      "title": "Detecting financial fraud in real-time transactions using graph neural networks and anomaly detection techniques",
+      "link": "https://www.researchgate.net/profile/Anisuzzaman-Minto/publication/403720496_Journal_of_Economics_Finance_and_Accounting_Studies_Detecting_Financial_Fraud_in_Real-Time_Transactions_Using_Graph_Neural_Networks_and_Anomaly_Detection_Techniques/links/69d9c69cc203cd5e34171f6f/Journal-of-Economics-Finance-and-Accounting-Studies-Detecting-Financial-Fraud-in-Real-Time-Transactions-Using-Graph-Neural-Networks-and-Anomaly-Detection-Techniques.pdf",
+      "snippet": "… Hybrid pipelines that fuse GNN-based relational reasoning with anomaly detectors for novelty catch both known and emerging schemes, while XAI tools (eg, subgraph rationales) …",
+      "publication_info": "MAR Rahman, A Minto, MS Hossain, SI Saimon - 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 10,
+      "title": "Scalable Real-Time Fraud Detection Pipelines: Deploying GNN Models in High-Throughput Financial Environments",
+      "link": "https://www.researchgate.net/profile/Bruce-William-2/publication/397527117_Scalable_Real-Time_Fraud_Detection_Pipelines_Deploying_GNN_Models_in_High-Throughput_Financial_Environments/links/6914516ea404d65709a4d03f/Scalable-Real-Time-Fraud-Detection-Pipelines-Deploying-GNN-Models-in-High-Throughput-Financial-Environments.pdf",
+      "snippet": "… GNNs for fraud detection, our study operationalizes this concept at a much larger scale and, crucially, in a real-time context. The significant performance gap on complex fraud patterns …",
+      "publication_info": "A George - researchgate.net",
+      "year": null,
+      "citation_count": null
+    }
+  ]
+}

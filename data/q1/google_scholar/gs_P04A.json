@@ -1,0 +1,100 @@
+{
+  "query_id": "P04A",
+  "query": "Decentralized Oracle Networks and the Oracle Problem in Blockchain Finance",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T17:58:46Z",
+  "result_count": 10,
+  "papers": [
+    {
+      "rank": 1,
+      "title": "The blockchain oracle problem in decentralized finance—a multivocal approach",
+      "link": "https://www.mdpi.com/2076-3417/11/16/7572",
+      "snippet": "… due to the loss of decentralization, had recently drawn … the pattern that identifies the oracle problem in DeFi and outline the … view that the oracle problem in decentralized finance bears …",
+      "publication_info": "G Caldarelli, J Ellul - Applied Sciences, 2021 - mdpi.com",
+      "year": 2021,
+      "citation_count": 239
+    },
+    {
+      "rank": 2,
+      "title": "A decentralized oracle architecture for a blockchain-based iot global market",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10230033/",
+      "snippet": "… to the key concepts and issues that serve as the foundation … not only related to decentralized finance but to other sectors … ChainLink [9], for instance, is a decentralized oracle network …",
+      "publication_info": "L Gigli, I Zyrianoff, F Montori, C Aguzzi… - IEEE …, 2023 - ieeexplore.ieee.org",
+      "year": 2023,
+      "citation_count": 36
+    },
+    {
+      "rank": 3,
+      "title": "Overview of blockchain oracle research",
+      "link": "https://www.mdpi.com/1999-5903/14/6/175",
+      "snippet": "… a robust blockchain application against the oracle problem … used cases belong to the finance/gambling field [41]. … a decentralized reputation-governed trusted oracle network for patient …",
+      "publication_info": "G Caldarelli - Future Internet, 2022 - mdpi.com",
+      "year": 2022,
+      "citation_count": 71
+    },
+    {
+      "rank": 4,
+      "title": "The oracle problem-an analysis of how blockchain oracles undermine the advantages of decentralized ledger systems",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3382343",
+      "snippet": "… be anything from financial transactions (the very … Blockchain is a self-contained peer-to-peer network; it does in principle not have access to any information outside of the decentralized …",
+      "publication_info": "A Egberts - Available at SSRN 3382343, 2017 - papers.ssrn.com",
+      "year": 2017,
+      "citation_count": 95
+    },
+    {
+      "rank": 5,
+      "title": "Decentralising finance using decentralised blockchain oracles",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9154123/",
+      "snippet": "… identified as the root problems enabling all other problems as we know … we have presented a decentralized architecture for data … decentralized blockchain oracle system to ensure error …",
+      "publication_info": "M Kumar, N Nikhil, R Singh - 2020 International Conference for …, 2020 - ieeexplore.ieee.org",
+      "year": 2020,
+      "citation_count": 53
+    },
+    {
+      "rank": 6,
+      "title": "Astraea: A decentralized blockchain oracle",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8726819/",
+      "snippet": "… blockchain but other platforms with similar smart contract characteristics can be utilized as the underlying decentralized network. … This work focuses on a particular issue facing smart con…",
+      "publication_info": "J Adler, R Berryhill, A Veneris, Z Poulos… - … on internet of things …, 2018 - ieeexplore.ieee.org",
+      "year": 2018,
+      "citation_count": 357
+    },
+    {
+      "rank": 7,
+      "title": "Understanding the blockchain oracle problem: A call for action",
+      "link": "https://www.mdpi.com/2078-2489/11/11/509",
+      "snippet": "… the full-nodes of the decentralized network [6]. On the bitcoin … A considerable part of the non-financial blockchain … In particular, decentralized technologies are sought to solve issues …",
+      "publication_info": "G Caldarelli - Information, 2020 - mdpi.com",
+      "year": 2020,
+      "citation_count": 297
+    },
+    {
+      "rank": 8,
+      "title": "A primer on oracle economics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0929119925000689",
+      "snippet": "… data, thus bridging information among digital networks and with the real … oracle problem, introduce the Oracle Trilemma – highlighting the trade-offs between scalability, decentralization…",
+      "publication_info": "LW Cong, L Fox, S Li, L Zhou - Journal of Corporate Finance, 2025 - Elsevier",
+      "year": 2025,
+      "citation_count": 13
+    },
+    {
+      "rank": 9,
+      "title": "Blockchain oracles: State-of-the-art and research directions",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9801856/",
+      "snippet": "… major problems that have been eliminated by blockchains, … and other blockchains to decentralized finance projects. … companies rely on Chainlink Oracle networks, which have already …",
+      "publication_info": "SK Ezzat, YNM Saleh, AA Abdel-Hamid - IEEE Access, 2022 - ieeexplore.ieee.org",
+      "year": 2022,
+      "citation_count": 143
+    },
+    {
+      "rank": 10,
+      "title": "From trust to truth: Advancements in mitigating the Blockchain Oracle problem",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1084804523000917",
+      "snippet": "… some trustless operating mechanisms involving decentralized algorithms based on voting … the Blockchain Oracle problem, its effects on various Blockchain applications, various Oracle …",
+      "publication_info": "A Hassan, I Makhdoom, W Iqbal, A Ahmad… - Journal of Network and …, 2023 - Elsevier",
+      "year": 2023,
+      "citation_count": 72
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "query_id": "P12B",
+  "query": "DeFi fraud detection blockchain analytics",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:06:44Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Multichain DeFi Fraud Detection Using Machine Learning on On-Chain Data",
+    "year": 2023,
+    "abstract": "We extract behavioral features from Ethereum, BSC, and Polygon transactions across 23 DeFi protocols to train XGBoost and neural network classifiers for detecting rug pulls and wash trading.",
+    "domain": [
+      "DeFi",
+      "fraud detection",
+      "blockchain analytics",
+      "machine learning"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "AI-Driven Fraud Detection in Decentralized Finance (DeFi) and Cryptocurrency Transactions",
+      "link": "https://www.researchgate.net/profile/Uthman-Usman-2/publication/396444443_AI-Driven_Fraud_Detection_in_Decentralized_Finance_DeFi_and_Cryptocurrency_Transactions/links/68ec175c7d9a4d4e87090c7a/AI-Driven-Fraud-Detection-in-Decentralized-Finance-DeFi-and-Cryptocurrency-Transactions.pdf",
+      "snippet": "… vector-based models, this research establishes a paradigm capable of complex behavioral analysis that can detect sophisticated, orchestrated fraud rings. Furthermore, the explicit …",
+      "publication_info": "SO Usman - researchgate.net",
+      "year": null,
+      "citation_count": null
+    },
+    {
+      "rank": 2,
+      "title": "Fraud Detection in Decentralized Finance (DeFi) Transactions using ML and Smart Contracts",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11377130/",
+      "snippet": "… to the need for advanced fraud detection in DeFi by presenting a blockchain-based … analysis with on-chain smart contract enforcement for effective, principle-aligned DeFi fraud detection…",
+      "publication_info": "H Rudrawar, SA Jakhete… - … Conference on Blockchain …, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 3,
+      "title": "Fraud Detection Framework for Blockchain Finance: Tackling Arbitrage, Liquidity Exploits, and Money Laundering",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1155/int/3803992",
+      "snippet": "… blockchain-based financial systems [21]. To address the increasing security challenges in DeFi and blockchain … This section provides a comparative analysis of our proposed security …",
+      "publication_info": "A Ozer, M Aydos - International Journal of Intelligent Systems, 2026 - Wiley Online Library",
+      "year": 2026,
+      "citation_count": 1
+    },
+    {
+      "rank": 4,
+      "title": "Real-time fraud detection in crypto-currencies: Leveraging AI and blockchain",
+      "link": "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003518365-3/real-time-fraud-detection-crypto-currencies-raghu-niranjan-kannanugo-trupti-ojashwini-kiran-deepthi",
+      "snippet": "… ) Blockchain, a blockchain analytics tool that provides on- chain data and insights. For this example, we will generate random blockchain analytics data … crypto- currency platforms, DeFi …",
+      "publication_info": "N Raghu, N Kannanugo, VN Trupti… - … of Blockchain and …, 2024 - taylorfrancis.com",
+      "year": 2024,
+      "citation_count": 8
+    },
+    {
+      "rank": 5,
+      "title": "Explainable AI for integrated fraud detection and predictive analytics in decentralized financial systems",
+      "link": "https://www.researchgate.net/profile/Oladeji-Toheeb/publication/401679169_Explainable_AI_for_Integrated_Fraud_Detection_and_Predictive_Analytics_in_Decentralized_Financial_Systems/links/69adc1c6bff9750ad9ca1428/Explainable-AI-for-Integrated-Fraud-Detection-and-Predictive-Analytics-in-Decentralized-Financial-Systems.pdf",
+      "snippet": "… and operational usability for DeFi platforms and regulators. … analytics with fraud detection for decentralized financial systems. By combining behavioral, market, and on-chain blockchain …",
+      "publication_info": "M Holloway, T Blake, A Locke - 2026 - researchgate.net",
+      "year": 2026,
+      "citation_count": 1
+    },
+    {
+      "rank": 6,
+      "title": "Improving Trustworthiness in DeFi: Anomaly Detection for Blockchain Oracle Price Feed Data",
+      "link": "https://search.proquest.com/openview/e3ed294f727c1c07524b0e342f98e817/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+      "snippet": "… analysis … of anomaly detection in blockchain oracle data, providing insights into the effectiveness of various machine learning techniques in enhancing the security and reliability of DeFi …",
+      "publication_info": "L Gross - 2024 - search.proquest.com",
+      "year": 2024,
+      "citation_count": 1
+    },
+    {
+      "rank": 7,
+      "title": "DeFiSentinel: AI-enhanced decentralized finance architecture with advanced cryptographic smart contracts for data integrity and threat resilience",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11000106/",
+      "snippet": "… The blockchain-based anomaly detection and cryptographic … learning in fraud detection suitable for DeFi. Dependency on … in this study through experimental analysis. The transaction …",
+      "publication_info": "SM Rahnama - IEEE Access, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": 10
+    },
+    {
+      "rank": 8,
+      "title": "Pre-transaction fraud risk prediction in DeFi using explainable AI",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11426021/",
+      "snippet": "… crypto graph and multimodal fraudulent activity detection… DeFi fraud risk detection system. The algorithm integrates insights from smart contract static analysis, transaction graph analytics…",
+      "publication_info": "R Thomas, KK Savitha - 2026 Sixth International Conference …, 2026 - ieeexplore.ieee.org",
+      "year": 2026,
+      "citation_count": 1
+    },
+    {
+      "rank": 9,
+      "title": "AI-powered fraud detection in decentralized finance: A project life cycle perspective",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3705296",
+      "snippet": "… : blockchain security, general cryptocurrency fraud, and DeFi … research directions in DeFi fraud detection and regulatory … , our analysis centers on primary financial frauds in DeFi, …",
+      "publication_info": "B Luo, Z Zhang, Q Wang, A Ke, S Lu, B He - ACM Computing Surveys, 2024 - dl.acm.org",
+      "year": 2024,
+      "citation_count": 84
+    },
+    {
+      "rank": 10,
+      "title": "Behavioral Pattern Analysis for Fraud Detection in NFT and DeFi Ecosystems",
+      "link": "https://www.researchgate.net/profile/Adeleye-Adebola/publication/404230125_Behavioral_Pattern_Analysis_for_Fraud_Detection_in_NFT_and_DeFi_Ecosystems/links/69efb1aeacd3d67d71007d55/Behavioral-Pattern-Analysis-for-Fraud-Detection-in-NFT-and-DeFi-Ecosystems.pdf",
+      "snippet": "… By enhancing fraud detection capabilities, the study supports the … on fraud detection and blockchain analytics; the methodology section outlines the research design and data analysis …",
+      "publication_info": "G Perry, A Jenkins, W Coleman - 2026 - researchgate.net",
+      "year": 2026,
+      "citation_count": null
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "query_id": "P07B",
+  "query": "XAI credit scoring SHAP",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:05:45Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Explainable AI for Consumer Credit Decisions: SHAP Values and Regulatory Compliance",
+    "year": 2023,
+    "abstract": "We apply SHAP-based explanations to gradient boosting credit models and evaluate whether model-agnostic explanations satisfy adverse action notice requirements under the Fair Credit Reporting Act.",
+    "domain": [
+      "XAI",
+      "credit scoring",
+      "SHAP",
+      "regulatory compliance"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Explainable AI (XAI) Using SHAP and LIME for Financial Fraud Detection and Credit Scoring",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11005238/",
+      "snippet": "… AI (XAI) in financial fraud detection and credit scoring by proposing a structured approach to integrating XAI methods into machine learning models. It demonstrates how SHAP and …",
+      "publication_info": "SJ Chavakula, CAJ Albert, E Ebenezer… - 2025 International …, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": 12
+    },
+    {
+      "rank": 2,
+      "title": "Explainable AI (XAI) for Credit Scoring and Loan Approvals",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-96-8998-9_29",
+      "snippet": "… of XAI in credit scoring and … XAI applications in credit scoring because they improve transparency and regulatory compliance and enhance accountability. The research utilizes SHAP …",
+      "publication_info": "V Ravi, VK Srivastava, MP Singh, RK Burila… - … Conference on Web 6.0 …, 2025 - Springer",
+      "year": 2025,
+      "citation_count": 19
+    },
+    {
+      "rank": 3,
+      "title": "Harnessing explainable AI (XAI) for transparency in credit scoring and risk management in fintech",
+      "link": "https://www.researchgate.net/profile/Saugat-Nayak/publication/387180943_Harnessing_Explainable_AI_XAI_For_Transparency_In_Credit_Scoring_And_Risk_Management_In_Fintech/links/681240daded43315573f9e34/Harnessing-Explainable-AI-XAI-For-Transparency-In-Credit-Scoring-And-Risk-Management-In-Fintech.pdf",
+      "snippet": "… XAI tools to explain credit scoring decisions, this paper will expound on enhanced transparency of the technique (Hanif, 2021). With the help of SHAP … how XAI, particularly through shap…",
+      "publication_info": "S Nayak - International Journal of Applied Engineering and …, 2022 - researchgate.net",
+      "year": 2022,
+      "citation_count": 15
+    },
+    {
+      "rank": 4,
+      "title": "Explainable AI for credit scoring with SHAP-calibrated ensembles: a multi-market evaluation on public lending data",
+      "link": "https://ssrpublisher.com/wp-content/uploads/2025/09/Explainable-AI-for-Credit-Scoring-with-SHAP-Calibrated-Ensembles-A-Multi-Market-Evaluation-on-Public-Lending-Data.pdf",
+      "snippet": "… This, in turn, provides a strong impetus for the integration of additional external data and for the use of XAI in credit risk evaluation in the more served markets. Examination of temporal …",
+      "publication_info": "AO Japinye, AA Adedugbe - Risks, 2025 - ssrpublisher.com",
+      "year": 2025,
+      "citation_count": 15
+    },
+    {
+      "rank": 5,
+      "title": "Explainable ai for interpretable credit scoring",
+      "link": "https://arxiv.org/abs/2012.03749",
+      "snippet": "… -of-the-art of XAI in credit scoring and is therefore selected as the … an XAI technique that provides similar or better global explanations to BRCG. For this part of the XAI objective, a SHAP+…",
+      "publication_info": "LM Demajo, V Vella, A Dingli - arXiv preprint arXiv:2012.03749, 2020 - arxiv.org",
+      "year": 2012,
+      "citation_count": 127
+    },
+    {
+      "rank": 6,
+      "title": "Explainable AI Using SHAP for Transparent and Interpretable Decision-Making in Financial Risk Assessment and Credit Scoring",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11292578/",
+      "snippet": "… of the SHAP in evaluating financial risks and credit scores. Real… the SHAP concerning several factors like income, credit history, … This work suggests combining Explainable AI (XAI) with …",
+      "publication_info": "D Patidar, MH Fallah, K Hemalatha… - … on Cyber Resilience …, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 7,
+      "title": "Towards better understanding of complex machine learning models using explainable artificial intelligence (XAI): Case of credit scoring modelling",
+      "link": "https://www.wne.uw.edu.pl/files/9815/9355/2268/WNE_WP324.pdf",
+      "snippet": "… question, to what extend XAI enables understanding black-… grounds on AI, such as credit scoring contributed in the paper. … SHAP explanation advocates low score of the model, as the …",
+      "publication_info": "M Kłosok, M Chlebus - 2020 - wne.uw.edu.pl",
+      "year": 2020,
+      "citation_count": 24
+    },
+    {
+      "rank": 8,
+      "title": "Enabling machine learning algorithms for credit scoring--explainable artificial intelligence (XAI) methods for clear understanding complex predictive models",
+      "link": "https://arxiv.org/abs/2104.06735",
+      "snippet": "… and effectively manage credit risk and for regulators to be convinced with model quality the price to pay is too high. In this paper, we show how to take credit scoring analytics in to the …",
+      "publication_info": "PĹ Biecek, M Chlebus, J Gajda, A Gosiewska… - arXiv preprint arXiv …, 2021 - arxiv.org",
+      "year": 2021,
+      "citation_count": 48
+    },
+    {
+      "rank": 9,
+      "title": "Unlocking transparency in credit scoring: leveraging XGBoost with XAI for informed business decision-making",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10467573/",
+      "snippet": "… explainable artificial intelligence (XAI) to increase the comprehensibility of credit scoring models. The strategy depends on an approach known as SHAP values, which measures every …",
+      "publication_info": "M Alblooshi, H Alhajeri, M Almatrooshi… - … , Data Sciences and …, 2024 - ieeexplore.ieee.org",
+      "year": 2024,
+      "citation_count": 13
+    },
+    {
+      "rank": 10,
+      "title": "Explainable Artificial Intelligence (XAI) for Commercial Credit Limit Prediction Model: SHAP-LIME Comparison",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-84873-5_44",
+      "snippet": "… and SHAP to provide local and global explanations for credit … of class imbalance in credit scoring and revealed its negative … adversely affects credit scoring, even when using SHAP and …",
+      "publication_info": "E Kocoglu, F Ersoz - International Congress on 3D Printing (Additive …, 2024 - Springer",
+      "year": 2024,
+      "citation_count": 2
+    }
+  ]
+}

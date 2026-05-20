@@ -1,0 +1,30 @@
+{
+  "query_id": "P11A",
+  "query": "Federated Learning for Cross-Institutional Financial Fraud Detection with Differential Privacy",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:06:24Z",
+  "result_count": 1,
+  "ground_truth": {
+    "title": "Federated Learning for Cross-Institutional Financial Fraud Detection with Differential Privacy",
+    "year": 2024,
+    "abstract": "We develop a federated learning framework allowing banks to collaboratively train fraud detection models without sharing customer data, using DP-SGD to provide formal privacy guarantees.",
+    "domain": [
+      "federated learning",
+      "fraud detection",
+      "differential privacy",
+      "finance"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Federated Learning for Cross-Institutional Synthetic Fraud Detection: Developing a Privacy-Preserving Machine Learning Framework to Combat Systemic …",
+      "link": "https://www.researchgate.net/profile/Abiodun-Okunola-6/publication/396482591_Federated_Learning_for_Cross-Institutional_Synthetic_Fraud_Detection_Developing_a_Privacy-Preserving_Machine_Learning_Framework_to_Combat_Systemic_Financial_Risk/links/68eed1787d9a4d4e87099a84/Federated-Learning-for-Cross-Institutional-Synthetic-Fraud-Detection-Developing-a-Privacy-Preserving-Machine-Learning-Framework-to-Combat-Systemic-Financial-Risk.pdf",
+      "snippet": "The escalating sophistication of synthetic identity fraud, which fabricates identities using a combination of real and fake information, presents a systemic risk to the global financial system. Traditional, centralized machine learning models for fraud detection are hampered by data silos, as no single institution holds a complete view of a synthetic identity's activities across the financial ecosystem. Furthermore, stringent data privacy regulations (eg, GDPR, CCPA) prevent the consolidation of sensitive customer data from multiple institutions. To address this critical challenge, this paper proposes a novel privacy-preserving machine learning framework based on Federated Learning (FL). Our approach enables multiple financial institutions to collaboratively train a robust fraud detection model without sharing or centralizing their raw, proprietary data. Instead, only model parameter updates are exchanged, ensuring data privacy and regulatory compliance. We develop and evaluate a cross-institutional FL system, demonstrating its efficacy in accurately identifying synthetic fraud patterns that are invisible to models trained on isolated datasets. The results indicate that our framework not only enhances fraud detection accuracy and recall but also significantly reduces false positives, thereby fortifying the financial network against a pervasive and evolving threat. This work establishes FL as a foundational technology for building collaborative security infrastructures that mitigate systemic financial risk while upholding the highest standards of data privacy.",
+      "publication_info": "R Kim, A Okunola, L MichealarXiv preprint arXiv:2310.07335, 2025•researchgate.net",
+      "year": 2025,
+      "citation_count": 1
+    }
+  ]
+}

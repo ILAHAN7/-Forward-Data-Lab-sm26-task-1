@@ -1,0 +1,540 @@
+{
+  "asta": {
+    "per_query": {
+      "P01A": {
+        "mean_year": 2021.8,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P01B": {
+        "mean_year": 2022.7,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P02A": {
+        "mean_year": 2022.9,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P02B": {
+        "mean_year": 2021.4,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P03A": {
+        "mean_year": 2022.2,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P03B": {
+        "mean_year": 2022.4,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P04A": {
+        "mean_year": 2021.4,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P04B": {
+        "mean_year": 2022.1,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P05A": {
+        "mean_year": 2022.67,
+        "with_year": 9,
+        "missing_year": 1
+      },
+      "P05B": {
+        "mean_year": 2022.4,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P06A": {
+        "mean_year": 2022.6,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P06B": {
+        "mean_year": 2022.3,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P07A": {
+        "mean_year": 2023.2,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P07B": {
+        "mean_year": 2022.6,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P08A": {
+        "mean_year": 2022.1,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P08B": {
+        "mean_year": 2021.3,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P09A": {
+        "mean_year": 2023.0,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P09B": {
+        "mean_year": 2023.2,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P10A": {
+        "mean_year": 2022.8,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P10B": {
+        "mean_year": 2023.7,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P11A": {
+        "mean_year": 2023.1,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P11B": {
+        "mean_year": 2025.1,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P12A": {
+        "mean_year": 2024.0,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P12B": {
+        "mean_year": 2022.7,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P13A": {
+        "mean_year": 2023.4,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P13B": {
+        "mean_year": 2023.7,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P14A": {
+        "mean_year": 2021.9,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P14B": {
+        "mean_year": 2018.6,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P15A": {
+        "mean_year": 2023.6,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P15B": {
+        "mean_year": 2022.6,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P16A": {
+        "mean_year": 2021.6,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P16B": {
+        "mean_year": 2022.4,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P17A": {
+        "mean_year": 2023.2,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P17B": {
+        "mean_year": 2023.0,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P18A": {
+        "mean_year": 2021.0,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P18B": {
+        "mean_year": 2020.6,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P19A": {
+        "mean_year": 2022.4,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P19B": {
+        "mean_year": 2021.3,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P20A": {
+        "mean_year": 2022.1,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P20B": {
+        "mean_year": 2024.2,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P21A": {
+        "mean_year": 2023.0,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P21B": {
+        "mean_year": 2022.7,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P22A": {
+        "mean_year": 2019.3,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P22B": {
+        "mean_year": 2022.9,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P23A": {
+        "mean_year": 2022.5,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P23B": {
+        "mean_year": 2021.9,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P24A": {
+        "mean_year": 2014.6,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P24B": {
+        "mean_year": 2017.8,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P25A": {
+        "mean_year": 2024.44,
+        "with_year": 9,
+        "missing_year": 1
+      },
+      "P25B": {
+        "mean_year": 2024.2,
+        "with_year": 10,
+        "missing_year": 0
+      }
+    },
+    "overall_mean_year": 2022.25,
+    "bands": {
+      "2025+": 0.1667,
+      "2023-2024": 0.3835,
+      "2020-2022": 0.3655,
+      "pre-2020": 0.0843
+    },
+    "bands_counts": {
+      "2025+": 83,
+      "2023-2024": 191,
+      "2020-2022": 182,
+      "pre-2020": 42
+    },
+    "total_with_year": 498,
+    "total_missing": 2
+  },
+  "google_scholar": {
+    "per_query": {
+      "P01A": {
+        "mean_year": 2024.4,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P01B": {
+        "mean_year": 2022.62,
+        "with_year": 8,
+        "missing_year": 2
+      },
+      "P02A": {
+        "mean_year": 2023.3,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P02B": {
+        "mean_year": 2024.0,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P03A": {
+        "mean_year": 2021.0,
+        "with_year": 1,
+        "missing_year": 0
+      },
+      "P03B": {
+        "mean_year": 2023.7,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P04A": {
+        "mean_year": 2021.1,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P04B": {
+        "mean_year": 2022.5,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P05A": {
+        "mean_year": 2023.38,
+        "with_year": 8,
+        "missing_year": 2
+      },
+      "P05B": {
+        "mean_year": 2025.25,
+        "with_year": 8,
+        "missing_year": 2
+      },
+      "P06A": {
+        "mean_year": 2024.44,
+        "with_year": 9,
+        "missing_year": 1
+      },
+      "P06B": {
+        "mean_year": 2023.6,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P07A": {
+        "mean_year": 2024.6,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P07B": {
+        "mean_year": 2022.3,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P08A": {
+        "mean_year": 2017.0,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P08B": {
+        "mean_year": 2023.43,
+        "with_year": 7,
+        "missing_year": 3
+      },
+      "P09A": {
+        "mean_year": 2023.4,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P09B": {
+        "mean_year": 2023.2,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P10A": {
+        "mean_year": 2023.7,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P10B": {
+        "mean_year": 2024.67,
+        "with_year": 9,
+        "missing_year": 1
+      },
+      "P11A": {
+        "mean_year": 2025.0,
+        "with_year": 1,
+        "missing_year": 0
+      },
+      "P11B": {
+        "mean_year": 2023.5,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P12A": {
+        "mean_year": 2024.78,
+        "with_year": 9,
+        "missing_year": 1
+      },
+      "P12B": {
+        "mean_year": 2025.11,
+        "with_year": 9,
+        "missing_year": 1
+      },
+      "P13A": {
+        "mean_year": 2024.3,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P13B": {
+        "mean_year": 2024.7,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P14A": {
+        "mean_year": 2020.8,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P14B": {
+        "mean_year": 2018.9,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P15A": {
+        "mean_year": null,
+        "with_year": 0,
+        "missing_year": 1
+      },
+      "P15B": {
+        "mean_year": 2020.2,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P16A": {
+        "mean_year": 2022.3,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P16B": {
+        "mean_year": 2023.0,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P17A": {
+        "mean_year": 2024.71,
+        "with_year": 7,
+        "missing_year": 3
+      },
+      "P17B": {
+        "mean_year": 2022.86,
+        "with_year": 7,
+        "missing_year": 3
+      },
+      "P18A": {
+        "mean_year": 2022.3,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P18B": {
+        "mean_year": 2022.0,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P19A": {
+        "mean_year": 2022.7,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P19B": {
+        "mean_year": 2021.4,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P20A": {
+        "mean_year": 2022.4,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P20B": {
+        "mean_year": 2025.0,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P21A": {
+        "mean_year": 2022.5,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P21B": {
+        "mean_year": 2023.3,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P22A": {
+        "mean_year": 2017.8,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P22B": {
+        "mean_year": 2013.2,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P23A": {
+        "mean_year": 2023.3,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P23B": {
+        "mean_year": 2020.4,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P24A": {
+        "mean_year": 2007.0,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P24B": {
+        "mean_year": 2007.0,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P25A": {
+        "mean_year": 2024.2,
+        "with_year": 10,
+        "missing_year": 0
+      },
+      "P25B": {
+        "mean_year": 2025.0,
+        "with_year": 9,
+        "missing_year": 1
+      }
+    },
+    "overall_mean_year": 2022.07,
+    "bands": {
+      "2025+": 0.3673,
+      "2023-2024": 0.2765,
+      "2020-2022": 0.1814,
+      "pre-2020": 0.1748
+    },
+    "bands_counts": {
+      "2025+": 166,
+      "2023-2024": 125,
+      "2020-2022": 82,
+      "pre-2020": 79
+    },
+    "total_with_year": 452,
+    "total_missing": 21
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "query_id": "P08A",
+  "query": "Alternative Data in Credit Underwriting: Rent Payment History and Telecom Data",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:05:48Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Alternative Data in Credit Underwriting: Rent Payment History and Telecom Data",
+    "year": 2023,
+    "abstract": "Using a panel of 2 million US consumers, we estimate the incremental predictive value of rent payment and telecom data for credit scoring thin-file borrowers, with implications for financial inclusion.",
+    "domain": [
+      "alternative data",
+      "credit underwriting",
+      "financial inclusion"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Utility, telecommunications, and rental data in underwriting credit",
+      "link": "https://finreglab.org/wp-content/uploads/2023/12/FinRegLab_2022-03-23_Research-Report_Utility-Telecommunications-and-Rental-Data-in-Underwriting-Credit.pdf",
+      "snippet": "… the history of efforts to tap UTR data for credit underwriting, empirical research on the effects of such data on the inclusiveness and predictiveness of credit … or alternative data that credit …",
+      "publication_info": "KT Cochran, M Stegman, C Foos - Urban Institute, December, 2021 - finreglab.org",
+      "year": 2021,
+      "citation_count": 15
+    },
+    {
+      "rank": 2,
+      "title": "Expanding Access to Credit in the Mortgage Industry: Advantages of Using Telco and Utilities Data in Mortgage Underwriting and Pricing",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959517",
+      "snippet": "… performance using telco and utility payment history data to be … no/thin credit files but with telco and utility data are more credit … alternative data, such as telco and utility payment history …",
+      "publication_info": "V Yao - Available at SSRN 4959517, 2024 - papers.ssrn.com",
+      "year": 2024,
+      "citation_count": null
+    },
+    {
+      "rank": 3,
+      "title": "Examining the use of alternative data in underwriting and credit scoring to expand access to credit",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481102",
+      "snippet": "… credit files to demonstrate a history of timely bill payment. The frequency of telecommunications, utility and rental payments may … track record or consistent, timely bill payment history. …",
+      "publication_info": "KN Johnson - Tulane Public Law Research Paper, 2019 - papers.ssrn.com",
+      "year": 2019,
+      "citation_count": 8
+    },
+    {
+      "rank": 4,
+      "title": "Data-Driven Underwriting: Leveraging Alternative Data Sources Responsibly",
+      "link": "https://www.ijetcsit.org/index.php/ijetcsit/article/view/562",
+      "snippet": "… includes telecommunications data, such as billing history and … suggests that the use of alternative data could help score 8.4 … When rent and utility payments are included in credit files, …",
+      "publication_info": "J Ahmad - International Journal of Emerging Trends in Computer …, 2026 - ijetcsit.org",
+      "year": 2026,
+      "citation_count": null
+    },
+    {
+      "rank": 5,
+      "title": "Predicting financial account delinquencies with utility and telecom payment data",
+      "link": "https://www.microbilt.com/Cms_Data/Contents/Microbilt/Media/docs/Alt-Data-and-Traditional-Accounts.pdf",
+      "snippet": "… ’credit information was used, strongly suggesting that alternative data would be useful to lenders in underwriting … who have little or no payment/credit information available. This alone …",
+      "publication_info": "MA Turner, P Walker - Durham, NC: Policy and Economic Research …, 2015 - microbilt.com",
+      "year": 2015,
+      "citation_count": 5
+    },
+    {
+      "rank": 6,
+      "title": "Give me some credit!: using alternative data to expand credit access",
+      "link": "https://www.kansascityfed.org/documents/9638/PaymentsSystemResearchBriefing23Bradford0628.pdf",
+      "snippet": "… alternative data to facilitate the credit approval processes. Several fintechs leverage alternative data such as rent payments … credit bureaus that use alternative data in their underwriting …",
+      "publication_info": "T Bradford - Payments system research briefing, 2023 - kansascityfed.org",
+      "year": 2023,
+      "citation_count": 8
+    },
+    {
+      "rank": 7,
+      "title": "Utility Payments as Alternative Credit Data: A Reality Check",
+      "link": "https://www.brookings.edu/wp-content/uploads/2016/06/20070319_alternativecredit.pdf",
+      "snippet": "… of alternative data on credit-like payments, such as utility … merits of alternative data furnished by utilities and telecoms. … at Fair Isaac, estimates “underwriting just 3 percent of this market …",
+      "publication_info": "S Burr, V Carlson - 2007 - brookings.edu",
+      "year": 2007,
+      "citation_count": 1
+    },
+    {
+      "rank": 8,
+      "title": "New to credit from alternative data",
+      "link": "https://www.perc.net/wp-content/uploads/2013/09/New_to_Credit_from_Alternative_Data_0.pdf",
+      "snippet": "… pay rent, utility, and mobile phone bills. However, non-financial … are already underwriting loans using alternative data when … or telecom payment histories witnessed greater increases in …",
+      "publication_info": "MA Turner, P Walker, K Dusek - PERC Results and Solutions, 2009 - perc.net",
+      "year": 2009,
+      "citation_count": 7
+    },
+    {
+      "rank": 9,
+      "title": "The predictive value of alternative credit scores",
+      "link": "http://cfsi-innovation-files.s3.amazonaws.com/wp-content/uploads/2017/02/05053225/The-Predictive-Value-of-Alternative-Credit-Scores.pdf",
+      "snippet": "… have created credit scores based on alternative data sources … on analysis of telecommunications payment histories and building … underwriting, rental and job applications, …",
+      "publication_info": "R Schneider, A Schutte - Available at …, 2007 - cfsi-innovation-files.s3.amazonaws …",
+      "year": 2007,
+      "citation_count": 16
+    },
+    {
+      "rank": 10,
+      "title": "The value of alternative data in credit risk prediction: Evidence from a large field experiment",
+      "link": "https://aisel.aisnet.org/context/icis2019/article/1025/viewcontent/1981_doc.pdf",
+      "snippet": "… strong predictive power on credit risk prediction. Furthermore, … new feature sets from alternative data on credit risk assessment, … alternative information source such as telecommunication …",
+      "publication_info": "T Lu, Y Zhang, B Li - 2019 - aisel.aisnet.org",
+      "year": 2019,
+      "citation_count": 36
+    }
+  ]
+}

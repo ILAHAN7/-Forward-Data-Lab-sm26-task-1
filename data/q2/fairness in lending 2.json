@@ -1,0 +1,1833 @@
+{
+  "papers": [
+    {
+      "title": "Fairness in Credit Scoring: Assessment, Implementation and Profit Implications",
+      "authors": [
+        {
+          "name": "Nikita Kozodoi",
+          "id": "108072380"
+        },
+        {
+          "name": "Johannes Jacob",
+          "id": "2053597111"
+        },
+        {
+          "name": "S. Lessmann",
+          "id": "145201337"
+        }
+      ],
+      "year": 2021,
+      "venue": "European Journal of Operational Research",
+      "score": 0.9905672066977628,
+      "abstract": "The rise of algorithmic decision-making has spawned much research on fair machine learning (ML). Financial institutions use ML for building risk scorecards that support a range of credit-related decisions. Yet, the literature on fair ML in credit scoring is scarce. The paper makes three contributions. First, we revisit statistical fairness criteria and examine their adequacy for credit scoring. Second, we catalog algorithmic options for incorporating fairness goals in the ML model development pipeline. Last, we empirically compare different fairness processors in a profit-oriented credit scoring context using real-world data. The empirical results substantiate the evaluation of fairness measures, identify suitable options to implement fair credit scoring, and clarify the profit-fairness trade-off in lending decisions. We find that multiple fairness criteria can be approximately satisfied at once and recommend separation as a proper criterion for measuring the fairness of a scorecard. We also find fair in-processors to deliver a good balance between profit and fairness and show that algorithmic discrimination can be reduced to a reasonable level at a relatively low cost. The codes corresponding to the paper are available on GitHub.",
+      "corpusId": 232092280,
+      "url": "https://api.semanticscholar.org/CorpusId:232092280"
+    },
+    {
+      "title": "Algorithmic discrimination in the credit domain: what do we know about it?",
+      "authors": [
+        {
+          "name": "Ana Cristina Bicharra Garcia",
+          "id": "2117785656"
+        },
+        {
+          "name": "M. Garcia",
+          "id": "40829078"
+        },
+        {
+          "name": "R. Rigobon",
+          "id": "66760261"
+        }
+      ],
+      "year": 2023,
+      "venue": "Ai & Society",
+      "score": 0.9851489791507798,
+      "abstract": "The widespread usage of machine learning systems and econometric methods in the credit domain has transformed the decision-making process for evaluating loan applications. Automated analysis of credit applications diminishes the subjectivity of the decision-making process. On the other hand, since machine learning is based on past decisions recorded in the financial institutions’ datasets, the process very often consolidates existing bias and prejudice against groups defined by race, sex, sexual orientation, and other attributes. Therefore, the interest in identifying, preventing, and mitigating algorithmic discrimination has grown exponentially in many areas, such as Computer Science, Economics, Law, and Social Science. We conducted a comprehensive systematic literature review to understand (1) the research settings, including the discrimination theory foundation, the legal framework, and the applicable fairness metric; (2) the addressed issues and solutions; and (3) the open challenges for potential future research. We explored five sources: ACM Digital Library, Google Scholar, IEEE Digital Library, Springer Link, and Scopus. Following inclusion and exclusion criteria, we selected 78 papers written in English and published between 2017 and 2022. According to the meta-analysis of this literature survey, algorithmic discrimination has been addressed mainly by looking at the CS, Law, and Economics perspectives. There has been great interest in this topic in the financial area, especially the discrimination in providing access to the mortgage market and differential treatment (different fees, number of parcels, and interest rates). Most attention has been devoted to the potential discrimination due to bias in the dataset. Researchers are still only dealing with direct discrimination, addressed by algorithmic fairness, while indirect discrimination (structural discrimination) has not received the same attention.",
+      "corpusId": 258769949,
+      "url": "https://api.semanticscholar.org/CorpusId:258769949"
+    },
+    {
+      "title": "Algorithmic Fairness in Mortgage Lending: from Absolute Conditions to Relational Trade-offs",
+      "authors": [
+        {
+          "name": "M. Lee",
+          "id": "1739477817"
+        },
+        {
+          "name": "L. Floridi",
+          "id": "1982425"
+        }
+      ],
+      "year": 2020,
+      "venue": "Minds and Machines",
+      "score": 0.9840709623223055,
+      "abstract": "To address the rising concern that algorithmic decision-making may reinforce discriminatory biases, researchers have proposed many notions of fairness and corresponding mathematical formalizations. Each of these notions is often presented as a one-size-fits-all, absolute condition; however, in reality, the practical and ethical trade-offs are unavoidable and more complex. We introduce a new approach that considers fairness—not as a binary, absolute mathematical condition—but rather, as a relational notion in comparison to alternative decisionmaking processes. Using US mortgage lending as an example use case, we discuss the ethical foundations of each definition of fairness and demonstrate that our proposed methodology more closely captures the ethical trade-offs of the decision-maker, as well as forcing a more explicit representation of which values and objectives are prioritised.",
+      "corpusId": 216344548,
+      "url": "https://api.semanticscholar.org/CorpusId:216344548"
+    },
+    {
+      "title": "Consumer-lending discrimination in the FinTech Era",
+      "authors": [
+        {
+          "name": "Robert P. Bartlett",
+          "id": "2411737129"
+        },
+        {
+          "name": "Adair Morse",
+          "id": "144516563"
+        },
+        {
+          "name": "Richard Stanton",
+          "id": "145360727"
+        },
+        {
+          "name": "N. Wallace",
+          "id": "145136821"
+        }
+      ],
+      "year": 2019,
+      "venue": "Journal of Financial Economics",
+      "score": 0.9818901288020017,
+      "abstract": "",
+      "corpusId": 4642971,
+      "url": "https://doi.org/10.1016/J.JFINECO.2021.05.047"
+    },
+    {
+      "title": "Delayed Impact of Fair Machine Learning",
+      "authors": [
+        {
+          "name": "Lydia T. Liu",
+          "id": "1748108610"
+        },
+        {
+          "name": "Sarah Dean",
+          "id": "1491339790"
+        },
+        {
+          "name": "Esther Rolf",
+          "id": "144322309"
+        },
+        {
+          "name": "Max Simchowitz",
+          "id": "2285675764"
+        },
+        {
+          "name": "Moritz Hardt",
+          "id": "1775622"
+        }
+      ],
+      "year": 2018,
+      "venue": "International Conference on Machine Learning",
+      "score": 0.9814003020346679,
+      "abstract": "Static classification has been the predominant focus of the study of fairness in machine learning. While most models do not consider how decisions change populations over time, it is conventional wisdom that fairness criteria promote the long-term well-being of groups they aim to protect. This work studies the interaction of static fairness criteria with temporal indicators of well-being. We show a simple one-step feedback model in which common criteria do not generally promote improvement over time, and may in fact cause harm. Our results highlight the importance of temporal modeling in the evaluation of fairness criteria, suggesting a range of new challenges and trade-offs.",
+      "corpusId": 4701888,
+      "url": "https://arxiv.org/pdf/1803.04383.pdf"
+    },
+    {
+      "title": "The Fairness of Credit Scoring Models",
+      "authors": [
+        {
+          "name": "Christophe Hurlin",
+          "id": "3267813"
+        },
+        {
+          "name": "C. Pérignon",
+          "id": "2724178"
+        },
+        {
+          "name": "Sébastien Saurin",
+          "id": "1517749603"
+        }
+      ],
+      "year": 2021,
+      "venue": "Management Sciences",
+      "score": 0.9810856182446329,
+      "abstract": "In credit markets, screening algorithms aim to discriminate between good-type and bad-type borrowers. However, when doing so, they can also discriminate between individuals sharing a protected attribute (e.g., gender, age, racial origin) and the rest of the population. This can be unintentional and originate from the training data set or from the model itself. We show how to formally test the algorithmic fairness of scoring models and how to identify the variables responsible for any lack of fairness. We then use these variables to optimize the fairness-performance tradeoff. Our framework provides guidance on how algorithmic fairness can be monitored by lenders, controlled by their regulators, improved for the benefit of protected groups, while still maintaining a high level of forecasting accuracy. This paper was accepted by Will Cong, finance. Funding: This work was supported by the Autorité de Contrôle Prudentiel et de Résolution (ACPR) Chair in Regulation and Systemic Risk, the Fintech Chair at Dauphine-PSL University, and the French National Research Agency (ANR) [MLEforRisk ANR-21-CE26-0007, Ecodec ANR-11-LABX-0047, and F-STAR ANR-17-CE26-0007-01]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03888 .",
+      "corpusId": 233887083,
+      "url": "https://api.semanticscholar.org/CorpusId:233887083"
+    },
+    {
+      "title": "Equalizing Credit Opportunity in Algorithms: Aligning Algorithmic Fairness Research with U.S. Fair Lending Regulation",
+      "authors": [
+        {
+          "name": "Indra Elizabeth Kumar",
+          "id": "102411992"
+        },
+        {
+          "name": "Keegan E. Hines",
+          "id": "4634403"
+        },
+        {
+          "name": "John P. Dickerson",
+          "id": "1718974"
+        }
+      ],
+      "year": 2022,
+      "venue": "AAAI/ACM Conference on AI, Ethics, and Society",
+      "score": 0.978454806252998,
+      "abstract": "Credit is an essential component of financial wellbeing in America, and unequal access to it is a large factor in the economic disparities between demographic groups that exist today. Today, machine learning algorithms, sometimes trained on alternative data, are increasingly being used to determine access to credit, yet research has shown that machine learning can encode many different versions of \"unfairness,\" thus raising the concern that banks and other financial institutions could---potentially unwittingly---engage in illegal discrimination through the use of this technology. In the US, there are laws in place to make sure discrimination does not happen in lending and agencies charged with enforcing them. However, conversations around fair credit models in computer science and in policy are often misaligned: fair machine learning research often lacks legal and practical considerations specific to existing fair lending policy, and regulators have yet to issue new guidance on how, if at all, credit risk models should be utilizing practices and techniques from the research community. This paper aims to better align these sides of the conversation. We describe the current state of credit discrimination regulation in the United States, contextualize results from fair ML research to identify the specific fairness concerns raised by the use of machine learning in lending, and discuss regulatory opportunities to address these concerns.",
+      "corpusId": 251107151,
+      "url": "https://api.semanticscholar.org/CorpusId:251107151"
+    },
+    {
+      "title": "The Many Faces of Fairness: Exploring the Institutional Logics of Multistakeholder Microlending Recommendation",
+      "authors": [
+        {
+          "name": "Jessie J. Smith",
+          "id": "2109849714"
+        },
+        {
+          "name": "Anas Buhayh",
+          "id": "1506759334"
+        },
+        {
+          "name": "Anushka Kathait",
+          "id": "2219930188"
+        },
+        {
+          "name": "Pradeep Ragothaman",
+          "id": "2219930216"
+        },
+        {
+          "name": "Nicholas Mattei",
+          "id": "143999398"
+        },
+        {
+          "name": "R. Burke",
+          "id": "2056064458"
+        },
+        {
+          "name": "A. Voida",
+          "id": "1805040"
+        }
+      ],
+      "year": 2023,
+      "venue": "Conference on Fairness, Accountability and Transparency",
+      "score": 0.9775773388636304,
+      "abstract": "Recommender systems have a variety of stakeholders. Applying concepts of fairness in such systems requires attention to stakeholders’ complex and often-conflicting needs. Since fairness is socially constructed, there are numerous definitions, both in the social science and machine learning literatures. Still, it is rare for machine learning researchers to develop their metrics in close consideration of their social context. More often, standard definitions are adopted and assumed to be applicable across contexts and stakeholders. Our research starts with a recommendation context and then seeks to understand the breadth of the fairness considerations of associated stakeholders. In this paper, we report on the results of a semi-structured interview study with 23 employees who work for the Kiva microlending platform. We characterize the many different ways in which they enact and strive toward fairness for microlending recommendations in their own work, uncover the ways in which these different enactments of fairness are in tension with each other, and identify how stakeholders are differentially prioritized. Finally, we reflect on the implications of this study for future research and for the design of multistakeholder recommender systems.",
+      "corpusId": 259139781,
+      "url": "http://dl.acm.org/citation.cfm?id=3594106"
+    },
+    {
+      "title": "Predictably Unequal? The Effects of Machine Learning on Credit Markets",
+      "authors": [
+        {
+          "name": "A. Fuster",
+          "id": "48648728"
+        },
+        {
+          "name": "Paul Goldsmith-Pinkham",
+          "id": "1403595476"
+        },
+        {
+          "name": "T. Ramadorai",
+          "id": "46227173"
+        },
+        {
+          "name": "T. Ramadorai",
+          "id": "46227173"
+        },
+        {
+          "name": "Ansgar Walther",
+          "id": "2307447173"
+        },
+        {
+          "name": "Ansgar Walther",
+          "id": "2307447173"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Finance",
+      "score": 0.976906468368458,
+      "abstract": "",
+      "corpusId": 49367164,
+      "url": "https://doi.org/10.2139/SSRN.3072038"
+    },
+    {
+      "title": "On the apparent conflict between individual and group fairness",
+      "authors": [
+        {
+          "name": "Reuben Binns",
+          "id": "144147883"
+        }
+      ],
+      "year": 2019,
+      "venue": "FAT*",
+      "score": 0.9768805781945978,
+      "abstract": "A distinction has been drawn in fair machine learning research between 'group' and 'individual' fairness measures. Many technical research papers assume that both are important, but conflicting, and propose ways to minimise the trade-offs between these measures. This paper argues that this apparent conflict is based on a misconception. It draws on discussions from within the fair machine learning research, and from political and legal philosophy, to argue that individual and group fairness are not fundamentally in conflict. First, it outlines accounts of egalitarian fairness which encompass plausible motivations for both group and individual fairness, thereby suggesting that there need be no conflict in principle. Second, it considers the concept of individual justice, from legal philosophy and jurisprudence, which seems similar but actually contradicts the notion of individual fairness as proposed in the fair machine learning literature. The conclusion is that the apparent conflict between individual and group fairness is more of an artefact of the blunt application of fairness measures, rather than a matter of conflicting principles. In practice, this conflict may be resolved by a nuanced consideration of the sources of 'unfairness' in a particular deployment context, and the carefully justified application of measures to mitigate it.",
+      "corpusId": 209376903,
+      "url": "http://dl.acm.org/citation.cfm?id=3372864"
+    },
+    {
+      "title": "Algorithmic Tradeoffs in Fair Lending: Profitability, Compliance, and Long-Term Impact",
+      "authors": [
+        {
+          "name": "Aayam Bansal",
+          "id": "2327901368"
+        },
+        {
+          "name": "Harsh Vardhan Narsaria",
+          "id": "2368444856"
+        }
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "score": 0.9737819154271853,
+      "abstract": "As financial institutions increasingly rely on machine learning models to automate lending decisions, concerns about algorithmic fairness have risen. This paper explores the tradeoff between enforcing fairness constraints (such as demographic parity or equal opportunity) and maximizing lender profitability. Through simulations on synthetic data that reflects real-world lending patterns, we quantify how different fairness interventions impact profit margins and default rates. Our results demonstrate that equal opportunity constraints typically impose lower profit costs than demographic parity, but surprisingly, removing protected attributes from the model (fairness through unawareness) outperforms explicit fairness interventions in both fairness and profitability metrics. We further identify the specific economic conditions under which fair lending becomes profitable and analyze the feature-specific drivers of unfairness. These findings offer practical guidance for designing lending algorithms that balance ethical considerations with business objectives.",
+      "corpusId": 278768782,
+      "url": "https://api.semanticscholar.org/CorpusId:278768782"
+    },
+    {
+      "title": "Dynamic Fairness-aware Recommendation Through Multi-agent Social Choice",
+      "authors": [
+        {
+          "name": "Amanda Aird",
+          "id": "72509562"
+        },
+        {
+          "name": "Paresha Farastu",
+          "id": "103553571"
+        },
+        {
+          "name": "Joshua Sun",
+          "id": "2210382585"
+        },
+        {
+          "name": "Elena Štefancová",
+          "id": "2287251723"
+        },
+        {
+          "name": "Cassidy All",
+          "id": "2243188835"
+        },
+        {
+          "name": "A. Voida",
+          "id": "1805040"
+        },
+        {
+          "name": "Nicholas Mattei",
+          "id": "143999398"
+        },
+        {
+          "name": "R. Burke",
+          "id": "2056064458"
+        }
+      ],
+      "year": 2023,
+      "venue": "Trans. Recomm. Syst.",
+      "score": 0.9735885660156882,
+      "abstract": "Algorithmic fairness in the context of personalized recommendation presents significantly different challenges to those commonly encountered in classification tasks. Researchers studying classification have generally considered fairness to be a matter of achieving equality of outcomes (or some other metric) between a protected and unprotected group and built algorithmic interventions on this basis. We argue that fairness in real-world application settings in general, and especially in the context of personalized recommendation, is much more complex and multi-faceted, requiring a more general approach. To address the fundamental problem of fairness in the presence of multiple stakeholders, with different definitions of fairness, we propose the Social Choice for Recommendation Under Fairness–Dynamic architecture, which formalizes multistakeholder fairness in recommender systems as a two-stage social choice problem. In particular, we express recommendation fairness as a combination of an allocation and an aggregation problem, which integrate both fairness concerns and personalized recommendation provisions, and derive new recommendation techniques based on this formulation. We demonstrate the ability of our framework to dynamically incorporate multiple fairness concerns using both real-world and synthetic datasets.",
+      "corpusId": 257280128,
+      "url": "https://api.semanticscholar.org/CorpusId:257280128"
+    },
+    {
+      "title": "Selecting for Less Discriminatory Algorithms: A Relational Search Framework for Navigating Fairness-Accuracy Trade-offs in Practice",
+      "authors": [
+        {
+          "name": "H. Samad",
+          "id": "41230616"
+        },
+        {
+          "name": "Michael Akinwumi",
+          "id": "10806038"
+        },
+        {
+          "name": "J. Khan",
+          "id": "2384454767"
+        },
+        {
+          "name": "Christoph Mügge-Durum",
+          "id": "2370492098"
+        },
+        {
+          "name": "E. Ogundimu",
+          "id": "2345266599"
+        }
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "score": 0.973237441421904,
+      "abstract": "As machine learning models are increasingly embedded into society through high-stakes decision-making, selecting the right algorithm for a given task, audience, and sector presents a critical challenge, particularly in the context of fairness. Traditional assessments of model fairness have often framed fairness as an objective mathematical property, treating model selection as an optimization problem under idealized informational conditions. This overlooks model multiplicity as a consideration--that multiple models can deliver similar performance while exhibiting different fairness characteristics. Legal scholars have engaged this challenge through the concept of Less Discriminatory Algorithms (LDAs), which frames model selection as a civil rights obligation. In real-world deployment, this normative challenge is bounded by constraints on fairness experimentation, e.g., regulatory standards, institutional priorities, and resource capacity. Against these considerations, the paper revisits Lee and Floridi (2021)'s relational fairness approach using updated 2021 Home Mortgage Disclosure Act (HMDA) data, and proposes an expansion of the scope of the LDA search process. We argue that extending the LDA search horizontally, considering fairness across model families themselves, provides a lightweight complement, or alternative, to within-model hyperparameter optimization, when operationalizing fairness in non-experimental, resource constrained settings. Fairness metrics alone offer useful, but insufficient signals to accurately evaluate candidate LDAs. Rather, by using a horizontal LDA search approach with the relational trade-off framework, we demonstrate a responsible minimum viable LDA search on real-world lending outcomes. Organizations can modify this approach to systematically compare, evaluate, and select LDAs that optimize fairness and accuracy in a sector-based contextualized manner.",
+      "corpusId": 279118707,
+      "url": "https://api.semanticscholar.org/CorpusId:279118707"
+    },
+    {
+      "title": "Fair Models in Credit: Intersectional Discrimination and the Amplification of Inequity",
+      "authors": [
+        {
+          "name": "Savina Kim",
+          "id": "2224850518"
+        },
+        {
+          "name": "S. Lessmann",
+          "id": "145201337"
+        },
+        {
+          "name": "G. Andreeva",
+          "id": "1867126"
+        },
+        {
+          "name": "Michael Rovatsos",
+          "id": "1724176"
+        }
+      ],
+      "year": 2023,
+      "venue": "arXiv.org",
+      "score": 0.9727439887491472,
+      "abstract": "The increasing usage of new data sources and machine learning (ML) technology in credit modeling raises concerns with regards to potentially unfair decision-making that rely on protected characteristics (e.g., race, sex, age) or other socio-economic and demographic data. The authors demonstrate the impact of such algorithmic bias in the microfinance context. Difficulties in assessing credit are disproportionately experienced among vulnerable groups, however, very little is known about inequities in credit allocation between groups defined, not only by single, but by multiple and intersecting social categories. Drawing from the intersectionality paradigm, the study examines intersectional horizontal inequities in credit access by gender, age, marital status, single parent status and number of children. This paper utilizes data from the Spanish microfinance market as its context to demonstrate how pluralistic realities and intersectional identities can shape patterns of credit allocation when using automated decision-making systems. With ML technology being oblivious to societal good or bad, we find that a more thorough examination of intersectionality can enhance the algorithmic fairness lens to more authentically empower action for equitable outcomes and present a fairer path forward. We demonstrate that while on a high-level, fairness may exist superficially, unfairness can exacerbate at lower levels given combinatorial effects; in other words, the core fairness problem may be more complicated than current literature demonstrates. We find that in addition to legally protected characteristics, sensitive attributes such as single parent status and number of children can result in imbalanced harm. We discuss the implications of these findings for the financial services industry.",
+      "corpusId": 260680436,
+      "url": "https://api.semanticscholar.org/CorpusId:260680436"
+    },
+    {
+      "title": "Transparent reporting and equity in mortgage lending: A comprehensive review",
+      "authors": [
+        {
+          "name": "Taiwo Inumidun Adegoke",
+          "id": "2291388628"
+        },
+        {
+          "name": "Onyeka Chrisanctus Ofodile",
+          "id": "2287952712"
+        },
+        {
+          "name": "Nneka Adaobi Ochuba",
+          "id": "2291384969"
+        },
+        {
+          "name": "Olatunji Akinrinola",
+          "id": "2289638344"
+        }
+      ],
+      "year": 2024,
+      "venue": "World Journal of Advanced Research and Reviews",
+      "score": 0.9722574687016098,
+      "abstract": "This comprehensive review delves into the critical intersection of transparent reporting and equity within the realm of mortgage lending. With the housing market serving as a cornerstone of economic stability and social mobility, the equitable distribution of mortgage loans is paramount for fostering inclusive growth and mitigating systemic disparities. The paper scrutinizes existing literature, regulatory frameworks, and industry practices to assess the extent to which transparency and equity are upheld in mortgage lending processes. By examining key metrics such as loan approval rates, interest rates, and access to credit, this review sheds light on persistent inequities and identifies potential avenues for improvement. Additionally, it explores the role of technology, data analytics, and policy interventions in promoting transparency and equity across various stages of the lending lifecycle. Ultimately, this review underscores the urgent need for concerted efforts from policymakers, financial institutions, and stakeholders to enhance transparency and promote equity in mortgage lending practices. The pursuit of transparent reporting and equity in mortgage lending stands as a cornerstone of fair and accessible housing finance systems globally. This comprehensive review synthesizes current research, regulatory frameworks, and industry practices to illuminate the intricate dynamics shaping mortgage lending equity and transparency. Through a nuanced analysis of factors such as credit scoring mechanisms, discriminatory practices, and regulatory oversight, the review identifies persistent challenges and emerging trends within the mortgage lending landscape. Furthermore, it investigates the potential impact of socioeconomic factors, demographic shifts, and technological advancements on the equitable distribution of mortgage credit. By elucidating the linkages between transparency, equity, and financial stability, this review offers valuable insights for policymakers, practitioners, and researchers seeking to foster more inclusive and resilient mortgage markets. In conclusion, the review calls for concerted action and collaborative initiatives aimed at promoting transparency and equity as foundational principles in mortgage lending practices.",
+      "corpusId": 268490443,
+      "url": "https://api.semanticscholar.org/CorpusId:268490443"
+    },
+    {
+      "title": "FairSense: Long-Term Fairness Analysis of ML-Enabled Systems",
+      "authors": [
+        {
+          "name": "Yining She",
+          "id": "2268785777"
+        },
+        {
+          "name": "Sumon Biswas",
+          "id": "2268785977"
+        },
+        {
+          "name": "Christian Kästner",
+          "id": "2304957906"
+        },
+        {
+          "name": "Eunsuk Kang",
+          "id": "2335909143"
+        }
+      ],
+      "year": 2025,
+      "venue": "International Conference on Software Engineering",
+      "score": 0.9720029410533579,
+      "abstract": "Algorithmic fairness of machine learning (ML) models has raised significant concern in the recent years. Many testing, verification, and bias mitigation techniques have been proposed to identify and reduce fairness issues in ML models. The existing methods are model-centric and designed to detect fairness issues under static settings. However, many ML-enabled systems operate in a dynamic environment where the predictive decisions made by the system impact the environment, which in turn affects future decision-making. Such a self-reinforcing feedback loop can cause fairness violations in the long term, even if the immediate outcomes are fair. In this paper, we propose a simulation-based framework called Fairsenseto detect and analyze long-term unfairness in ML-enabled systems. Given a fairness requirement, Fairsenseperforms Monte-Carlo simulation to enumerate evolution traces for each system configuration. Then, Fairsenseperforms sensitivity analysis on the space of possible configurations to understand the impact of design options and environmental factors on the long-term fairness of the system. We demonstrate Fairsense'spotential utility through three real-world case studies: Loan lending, opioids risk scoring, and predictive policing.",
+      "corpusId": 274827924,
+      "url": "https://api.semanticscholar.org/CorpusId:274827924"
+    },
+    {
+      "title": "One Threshold Doesn’t Fit All: Tailoring Machine Learning Predictions of Consumer Default for Lower-Income Areas",
+      "authors": [
+        {
+          "name": "Vitaly Meursault",
+          "id": "123569346"
+        },
+        {
+          "name": "Daniel Moulton",
+          "id": "72654465"
+        },
+        {
+          "name": "Lawrence Santucci",
+          "id": "4470458"
+        },
+        {
+          "name": "Nathan Schor",
+          "id": "2191027640"
+        }
+      ],
+      "year": 2022,
+      "venue": "Working paper (Federal Reserve Bank of Philadelphia)",
+      "score": 0.9719892002857458,
+      "abstract": "Modeling advances create credit scores that predict default better overall, but raise concerns about their effect on protected groups. Focusing on lowand moderateincome (LMI) areas, we use an approach from the Fairness in Machine Learning literature — fairness constraints via group-specific prediction thresholds — and show that gaps in true positive rates (% of non-defaulters identified by the model as such) can be significantly reduced if separate thresholds can be chosen for non-LMI and LMI tracts. However, the reduction isn’t free as more defaulters are classified as good risks, potentially affecting both consumers’ welfare and lenders’ profits. The trade-offs become more favorable if the introduction of fairness constraints is paired with the introduction of more sophisticated models, suggesting a way forward. Overall, our results highlight the potential benefits of explicitly considering sensitive attributes in the design of loan approval policies and the potential benefits of output-based approaches to fairness in lending.",
+      "corpusId": 253569133,
+      "url": "https://api.semanticscholar.org/CorpusId:253569133"
+    },
+    {
+      "title": "Enhancing Fairness in Credit Assessment: Mitigation Strategies and Implementation",
+      "authors": [
+        {
+          "name": "Melvin Kisten",
+          "id": "2284168142"
+        },
+        {
+          "name": "Marshal Khosa",
+          "id": "2182472076"
+        }
+      ],
+      "year": 2024,
+      "venue": "IEEE Access",
+      "score": 0.97176278612978,
+      "abstract": "Credit assessment remains crucial in determining an individual’s creditworthiness, significantly influencing their financial opportunities. However, traditional credit assessment models have raised concerns about fairness and potential biases, which requires a rigorous evaluation and implementation of fairness in these models. This paper explores the assessment and integration of fairness in credit assessment. It explores various bias mitigation techniques applied across three critical stages: 1) pre-processing; 2) in-processing; and 3) post-processing. By systematically evaluating these techniques, the study demonstrates their effectiveness in reducing disparities and enhancing fairness to varying degrees. The findings underscore the importance of addressing age-based bias in credit assessment predictions through multiple techniques. However, a nuanced analysis is imperative to understand the trade-offs between predictive accuracy and fairness. This critical analysis not only contributes to advancing the theoretical foundations of credit assessment, but also provides practical insights for policymakers and financial institutions striving to adopt more equitable credit evaluation frameworks. Therefore, this paper contributes to the ongoing discourse on enhancing the fairness of credit assessment models, offering actionable recommendations to improve both accuracy and fairness in decision-making processes. By exploring and evaluating a spectrum of bias mitigation strategies, this paper fosters a more inclusive financial landscape where credit decisions are both transparent and accountable.",
+      "corpusId": 274300649,
+      "url": "https://api.semanticscholar.org/CorpusId:274300649"
+    },
+    {
+      "title": "Systemic Fairness",
+      "authors": [
+        {
+          "name": "Arindam Ray",
+          "id": "2178393541"
+        },
+        {
+          "name": "B. Padmanabhan",
+          "id": "2090938618"
+        },
+        {
+          "name": "Lina Bouayad",
+          "id": "3466402"
+        }
+      ],
+      "year": 2023,
+      "venue": "arXiv.org",
+      "score": 0.9706727282917045,
+      "abstract": "Machine learning algorithms are increasingly used to make or support decisions in a wide range of settings. With such expansive use there is also growing concern about the fairness of such methods. Prior literature on algorithmic fairness has extensively addressed risks and in many cases presented approaches to manage some of them. However, most studies have focused on fairness issues that arise from actions taken by a (single) focal decision-maker or agent. In contrast, most real-world systems have many agents that work collectively as part of a larger ecosystem. For example, in a lending scenario, there are multiple lenders who evaluate loans for applicants, along with policymakers and other institutions whose decisions also affect outcomes. Thus, the broader impact of any lending decision of a single decision maker will likely depend on the actions of multiple different agents in the ecosystem. This paper develops formalisms for firm versus systemic fairness, and calls for a greater focus in the algorithmic fairness literature on ecosystem-wide fairness - or more simply systemic fairness - in real-world contexts.",
+      "corpusId": 258170281,
+      "url": "https://api.semanticscholar.org/CorpusId:258170281"
+    },
+    {
+      "title": "A Causal Framework to Measure and Mitigate Non-binary Treatment Discrimination",
+      "authors": [
+        {
+          "name": "Ayan Majumdar",
+          "id": "14124085"
+        },
+        {
+          "name": "D. D. Kanubala",
+          "id": "2135770618"
+        },
+        {
+          "name": "Kavya Gupta",
+          "id": "2347756752"
+        },
+        {
+          "name": "Isabel Valera",
+          "id": "2347733222"
+        }
+      ],
+      "year": 2026,
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "score": 0.9701308815442052,
+      "abstract": "",
+      "corpusId": 277435337,
+      "url": "https://api.semanticscholar.org/CorpusId:277435337"
+    },
+    {
+      "title": "Black Loans Matter: Distributionally Robust Fairness for Fighting Subgroup Discrimination",
+      "authors": [
+        {
+          "name": "M. Yurochkin",
+          "id": "8202372"
+        },
+        {
+          "name": "S. Botros",
+          "id": "33005557"
+        },
+        {
+          "name": "Vanio Markov",
+          "id": "2331363"
+        }
+      ],
+      "year": 2020,
+      "venue": "arXiv.org",
+      "score": 0.9688560952058235,
+      "abstract": "Algorithmic fairness in lending today relies on group fairness metrics for monitoring statistical parity across protected groups. This approach is vulnerable to subgroup discrimination by proxy, carrying significant risks of legal and reputational damage for lenders and blatantly unfair outcomes for borrowers. Practical challenges arise from the many possible combinations and subsets of protected groups. We motivate this problem against the backdrop of historical and residual racism in the United States polluting all available training data and raising public sensitivity to algorithimic bias. We review the current regulatory compliance protocols for fairness in lending and discuss their limitations relative to the contributions state-of-the-art fairness methods may afford. We propose a solution for addressing subgroup discrimination, while adhering to existing group fairness requirements, from recent developments in individual fairness methods and corresponding fair metric learning algorithms.",
+      "corpusId": 227248126,
+      "url": "https://api.semanticscholar.org/CorpusId:227248126"
+    },
+    {
+      "title": "Counterfactual Fairness in Mortgage Lending via Matching and Randomization",
+      "authors": [
+        {
+          "name": "Sama Ghoba",
+          "id": "2143206082"
+        },
+        {
+          "name": "Nathan Colaner",
+          "id": "113276301"
+        }
+      ],
+      "year": 2021,
+      "venue": "arXiv.org",
+      "score": 0.9680862472143789,
+      "abstract": "Unfairness in mortgage lending has created generational inequality among racial and ethnic groups in the US. Many studies address this problem, but most existing work focuses on correlation-based techniques. In our work, we use the framework of counterfactual fairness to train fair machine learning models. We propose a new causal graph for the variables available in the Home Mortgage Disclosure Act (HMDA) data. We use a matching-based approach instead of the latent variable modeling approach, because the former approach does not rely on any modeling assumptions. Furthermore, matching provides us with counterfactual pairs in which the race variable is isolated. We first demonstrate the unfairness in mortgage approval and interest rates between African-American and non-Hispanic White sub-populations. Then, we show that having balanced data using matching does not guarantee perfect counterfactual fairness of the machine learning models.",
+      "corpusId": 244908159,
+      "url": "https://api.semanticscholar.org/CorpusId:244908159"
+    },
+    {
+      "title": "A United States Fair Lending Perspective on Machine Learning",
+      "authors": [
+        {
+          "name": "Patrick Hall",
+          "id": "2055178471"
+        },
+        {
+          "name": "Benjamin G. Cox",
+          "id": "121817053"
+        },
+        {
+          "name": "Steven N. Dickerson",
+          "id": "104913606"
+        },
+        {
+          "name": "Arjun Ravi Kannan",
+          "id": "2007715324"
+        },
+        {
+          "name": "Raghu Kulkarni",
+          "id": "2107043607"
+        },
+        {
+          "name": "N. Schmidt",
+          "id": "2055455483"
+        }
+      ],
+      "year": 2021,
+      "venue": "Frontiers in Artificial Intelligence",
+      "score": 0.9676731952723815,
+      "abstract": "The use of machine learning (ML) has become more widespread in many areas of consumer financial services, including credit underwriting and pricing of loans. ML’s ability to automatically learn nonlinearities and interactions in training data is perceived to facilitate faster and more accurate credit decisions, and ML is now a viable challenger to traditional credit modeling methodologies. In this mini review, we further the discussion of ML in consumer finance by proposing uniform definitions of key ML and legal concepts related to discrimination and interpretability. We use the United States legal and regulatory environment as a foundation to add critical context to the broader discussion of relevant, substantial, and novel ML methodologies in credit underwriting, and we review numerous strategies to mitigate the many potential adverse implications of ML in consumer finance.",
+      "corpusId": 235354789,
+      "url": "https://api.semanticscholar.org/CorpusId:235354789"
+    },
+    {
+      "title": "A Profit-Based Measure of Lending Discrimination",
+      "authors": [
+        {
+          "name": "Madison Coots",
+          "id": "2111679825"
+        },
+        {
+          "name": "Robert P. Bartlett",
+          "id": "2251156395"
+        },
+        {
+          "name": "Julian Nyarko",
+          "id": "2293910260"
+        },
+        {
+          "name": "Sharad Goel",
+          "id": "2287939926"
+        }
+      ],
+      "year": 2025,
+      "venue": "unknown",
+      "score": 0.9675701424218444,
+      "abstract": "Algorithmic lending has transformed the consumer credit landscape, with complex machine learning models now commonly used to make or assist underwriting decisions. To comply with fair lending laws, these algorithms typically exclude legally protected characteristics, such as race and gender. Yet algorithmic underwriting can still inadvertently favor certain groups, prompting new questions about how to audit lending algorithms for potentially discriminatory behavior. Building on prior theoretical work, we introduce a profit-based measure of lending discrimination in loan pricing. Applying our approach to approximately 80,000 personal loans from a major U.S. fintech platform, we find that loans made to men and Black borrowers yielded lower profits than loans to other groups, indicating that men and Black applicants benefited from relatively favorable lending decisions. We trace these disparities to miscalibration in the platform's underwriting model, which underestimates credit risk for Black borrowers and overestimates risk for women. We show that one could correct this miscalibration -- and the corresponding lending disparities -- by explicitly including race and gender in underwriting models, illustrating a tension between competing notions of fairness.",
+      "corpusId": 284153952,
+      "url": "https://api.semanticscholar.org/CorpusId:284153952"
+    },
+    {
+      "title": "Escaping the Subprime Trap in Algorithmic Lending",
+      "authors": [
+        {
+          "name": "Adam Bouyamourn",
+          "id": "2347041069"
+        },
+        {
+          "name": "A. Tolbert",
+          "id": "2184137294"
+        }
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "score": 0.9670471285875701,
+      "abstract": "Disparities in lending to minority applicants persist even as algorithmic lending finds widespread adoption. We study the role of risk-management constraints, specifically Value-at-Risk ($\\VaR$) and Expected Shortfall (ES), in inducing inequality in loan approval decisions, even among applicants who are equally creditworthy. Empirical research finds that disparities in the interest rates charged to minority groups can remain large even when loan applicants from different groups are equally creditworthy. We contribute an original analysis of 431,551 loan applications recorded under the Home Mortgage Disclosure Act, illustrating that disparities in data quality are associated with higher rates of loan denial and higher interest rate spreads for Black borrowers. We develop a formal model in which a mainstream bank (low-interest) is more sensitive to variance risk than a subprime bank (high-interest). If the mainstream bank has an inflated prior belief about the variance of the minority group, it may deny that group credit indefinitely, thus never learning the true risk of lending to that group, while the subprime lender serves this population at higher rates. We call this ``The Subprime Trap'': an equilibrium in which minority lenders can borrow only from high-cost lenders, even when they are as creditworthy as majority applicants. Finally, we show that a finite subsidy can help minority groups escape the trap: subsidies cover enough of the mainstream bank's downside risk so that it can afford to lend to, and thereby learn the true risk of lending to, the minority group. Once the mainstream bank has observed sufficiently many loans, its beliefs converge to the true underlying risk, it approves the applications of minority groups, and competition drives down the interest rates of subprime loans.",
+      "corpusId": 276580742,
+      "url": "https://api.semanticscholar.org/CorpusId:276580742"
+    },
+    {
+      "title": "Developing a Novel Fair-Loan Classifier through a Multi-Sensitive Debiasing Pipeline: DualFair",
+      "authors": [
+        {
+          "name": "Ashutosh Kumar Singh",
+          "id": "47264639"
+        },
+        {
+          "name": "Jashandeep Singh",
+          "id": "2115763917"
+        },
+        {
+          "name": "Ariba Khan",
+          "id": "2108514656"
+        },
+        {
+          "name": "Amar Gupta",
+          "id": "2143747303"
+        }
+      ],
+      "year": 2022,
+      "venue": "Machine Learning and Knowledge Extraction",
+      "score": 0.9658559061536484,
+      "abstract": ": Machine learning (ML) models are increasingly being used for high-stake applications that can greatly impact people’s lives. Sometimes, these models can be biased toward certain social groups on the basis of race, gender, or ethnicity. Many prior works have attempted to mitigate this “model discrimination” by updating the training data (pre-processing), altering the model learning process (in-processing), or manipulating the model output (post-processing). However, more work can be done in extending this situation to intersectional fairness, where we consider multiple sensitive parameters (e.g., race) and sensitive options (e.g., black or white), thus allowing for greater real-world usability. Prior work in fairness has also suffered from an accuracy–fairness trade-off that prevents both accuracy and fairness from being high. Moreover, the previous literature has not clearly presented holistic fairness metrics that work with intersectional fairness. In this paper, we address all three of these problems by (a) creating a bias mitigation technique called DualFair and (b) developing a new fairness metric (i.e., AWI, a measure of bias of an algorithm based upon inconsistent counterfactual predictions) that can handle intersectional fairness. Lastly, we test our novel mitigation method using a comprehensive U.S. mortgage lending dataset and show that our classiﬁer, or fair loan predictor, obtains relatively high fairness and accuracy metrics.",
+      "corpusId": 247461263,
+      "url": "https://api.semanticscholar.org/CorpusId:247461263"
+    },
+    {
+      "title": "Standardizing fairness-evaluation procedures: interdisciplinary insights on machine learning algorithms in creditworthiness assessments for small personal loans",
+      "authors": [
+        {
+          "name": "S. Genovesi",
+          "id": "88634697"
+        },
+        {
+          "name": "J. Mönig",
+          "id": "2093020832"
+        },
+        {
+          "name": "A. Schmitz",
+          "id": "35825920"
+        },
+        {
+          "name": "Maximilian Poretschkin",
+          "id": "2265113903"
+        },
+        {
+          "name": "M. Akila",
+          "id": "34342760"
+        },
+        {
+          "name": "Manoj Kahdan",
+          "id": "2205950998"
+        },
+        {
+          "name": "R. Kleiner",
+          "id": "2312039819"
+        },
+        {
+          "name": "L. Krieger",
+          "id": "88481102"
+        },
+        {
+          "name": "Alexander Zimmermann",
+          "id": "2383530516"
+        }
+      ],
+      "year": 2023,
+      "venue": "AI and Ethics",
+      "score": 0.9655305399302572,
+      "abstract": "In the current European debate on the regulation of Artificial Intelligence there is a consensus that Artificial Intelligence (AI) systems should be fair. However, the multitude of existing indicators allowing an AI system to be labeled as “(un)fair” and the lack of standardized, application field specific criteria to choose among the various fairness-evaluation methods makes it difficult for potential auditors to arrive at a final, consistent judgment. Focusing on a concrete use case in the application field of finance, the main goal of this paper is to define standardizable minimal ethical requirements for AI fairness-evaluation. For the applied case of creditworthiness assessment for small personal loans, we highlighted specific distributive and procedural fairness issues inherent either to the computing process or to the system’s use in a real-world scenario: (1) the unjustified unequal distribution of predictive outcome; (2) the perpetuation of existing bias and discrimination practices; (3) the lack of transparency concerning the processed data and of an explanation of the algorithmic outcome for credit applicants. We addressed these issues proposing minimal ethical requirements for this specific application field: (1) regularly checking algorithmic outcome through the conditional demographic parity metric; (2) excluding from the group of processed parameters those that could lead to discriminatory outcome; (3) guaranteeing transparency about the processed data, in addition to counterfactual explainability of algorithmic decisions. Defining these minimal ethical requirements represents the main contribution of this paper and a starting point toward standards specifically addressing fairness issues in AI systems for creditworthiness assessments aiming at preventing unfair algorithmic outcomes, in addition to unfair practices related to the use of these systems. As a final result, we indicate the next steps that can be taken to begin the standardization of the three use case-specific fairness requirements we propose.",
+      "corpusId": 258575354,
+      "url": "https://doi.org/10.1007/s43681-023-00291-8"
+    },
+    {
+      "title": "Formalising trade-offs beyond algorithmic fairness: lessons from ethical philosophy and welfare economics",
+      "authors": [
+        {
+          "name": "M. Lee",
+          "id": "1739477817"
+        },
+        {
+          "name": "L. Floridi",
+          "id": "1982425"
+        },
+        {
+          "name": "Jatinder Singh",
+          "id": "2109471576"
+        }
+      ],
+      "year": 2021,
+      "venue": "AI and Ethics",
+      "score": 0.9650095109313714,
+      "abstract": "There is growing concern that decision-making informed by machine learning (ML) algorithms may unfairly discriminate based on personal demographic attributes, such as race and gender. Scholars have responded by introducing numerous mathematical definitions of fairness to test the algorithm, many of which are in conflict with one another. However, these reductionist representations of fairness often bear little resemblance to real-life fairness considerations, which in practice are highly contextual. Moreover, fairness metrics tend to be implemented within narrow and targeted fairness toolkits for algorithm assessments that are difficult to integrate into an algorithm’s broader ethical assessment. In this paper, we derive lessons from ethical philosophy and welfare economics as they relate to the contextual factors relevant for fairness. In particular we highlight the debate around the acceptability of particular inequalities and the inextricable links between fairness, welfare and autonomy. We propose Key Ethics Indicators (KEIs) as a way towards providing a more holistic understanding of whether or not an algorithm is aligned to the decision-maker’s ethical values.",
+      "corpusId": 235376691,
+      "url": "https://api.semanticscholar.org/CorpusId:235376691"
+    },
+    {
+      "title": "BeFair: Addressing Fairness in the Banking Sector",
+      "authors": [
+        {
+          "name": "Alessandro Castelnovo",
+          "id": "2117548221"
+        },
+        {
+          "name": "Riccardo Crupi",
+          "id": "2072664908"
+        },
+        {
+          "name": "Giulia Del Gamba",
+          "id": "2071244462"
+        },
+        {
+          "name": "Greta Greco",
+          "id": "2047595248"
+        },
+        {
+          "name": "A. Naseer",
+          "id": "2135730129"
+        },
+        {
+          "name": "D. Regoli",
+          "id": "14773251"
+        },
+        {
+          "name": "Beatriz San Miguel González",
+          "id": "30072887"
+        }
+      ],
+      "year": 2020,
+      "venue": "2020 IEEE International Conference on Big Data (Big Data)",
+      "score": 0.9649983450160378,
+      "abstract": "Algorithmic bias mitigation has been one of the most difficult conundrums for the data science community and Machine Learning (ML) experts. Over several years, there have appeared enormous efforts in the field of fairness in ML. Despite the progress toward identifying biases and designing fair algorithms, translating them into the industry remains a major challenge. In this paper, we present the initial results of an industrial open innovation project in the banking sector: we propose a general roadmap for fairness in ML and the implementation of a toolkit called BeFair that helps to identify and mitigate bias. Results show that training a model without explicit constraints may lead to bias exacerbation in the predictions.",
+      "corpusId": 231786297,
+      "url": "https://api.semanticscholar.org/CorpusId:231786297"
+    },
+    {
+      "title": "Fair Algorithms for Learning in Allocation Problems",
+      "authors": [
+        {
+          "name": "Hadi Elzayn",
+          "id": "51247229"
+        },
+        {
+          "name": "S. Jabbari",
+          "id": "1775136"
+        },
+        {
+          "name": "Christopher Jung",
+          "id": "2069019232"
+        },
+        {
+          "name": "Michael Kearns",
+          "id": "81338045"
+        },
+        {
+          "name": "Seth Neel",
+          "id": "5880154"
+        },
+        {
+          "name": "Aaron Roth",
+          "id": "1682008"
+        },
+        {
+          "name": "Zachary Schutzman",
+          "id": "27599680"
+        }
+      ],
+      "year": 2018,
+      "venue": "FAT",
+      "score": 0.9645034561229896,
+      "abstract": "Settings such as lending and policing can be modeled by a centralized agent allocating a scarce resource (e.g. loans or police officers) amongst several groups, in order to maximize some objective (e.g. loans given that are repaid, or criminals that are apprehended). Often in such problems fairness is also a concern. One natural notion of fairness, based on general principles of equality of opportunity, asks that conditional on an individual being a candidate for the resource in question, the probability of actually receiving it is approximately independent of the individual's group. For example, in lending this would mean that equally creditworthy individuals in different racial groups have roughly equal chances of receiving a loan. In policing it would mean that two individuals committing the same crime in different districts would have roughly equal chances of being arrested. In this paper, we formalize this general notion of fairness for allocation problems and investigate its algorithmic consequences. Our main technical results include an efficient learning algorithm that converges to an optimal fair allocation even when the allocator does not know the frequency of candidates (i.e. creditworthy individuals or criminals) in each group. This algorithm operates in a censored feedback model in which only the number of candidates who received the resource in a given allocation can be observed, rather than the true number of candidates in each group. This models the fact that we do not learn the creditworthiness of individuals we do not give loans to and do not learn about crimes committed if the police presence in a district is low. As an application of our framework and algorithm, we consider the predictive policing problem, in which the resource being allocated to each group is the number of police officers assigned to each district. The learning algorithm is trained on arrest data gathered from its own deployments on previous days, resulting in a potential feedback loop that our algorithm provably overcomes. In this case, the fairness constraint asks that the probability that an individual who has committed a crime is arrested should be independent of the district in which they live. We investigate the performance of our learning algorithm on the Philadelphia Crime Incidents dataset.",
+      "corpusId": 52143168,
+      "url": "http://dl.acm.org/citation.cfm?id=3287571"
+    },
+    {
+      "title": "A Systematic Approach to Group Fairness in Automated Decision Making",
+      "authors": [
+        {
+          "name": "Corinna Hertweck",
+          "id": "1785374742"
+        },
+        {
+          "name": "Christoph Heitz",
+          "id": "151473392"
+        }
+      ],
+      "year": 2021,
+      "venue": "Swiss Conference on Data Science",
+      "score": 0.9643743988034967,
+      "abstract": "While the field of algorithmic fairness has brought forth many ways to measure and improve the fairness of machine learning models, these findings are still not widely used in practice. We suspect that one reason for this is that the field of algorithmic fairness came up with a lot of definitions of fairness, which are difficult to navigate. The goal of this paper is to provide data scientists with an accessible introduction to group fairness metrics and to give some insight into the philosophical reasoning for caring about these metrics. We will do this by considering in which sense socio-demographic groups are compared for making a statement on fairness.",
+      "corpusId": 236187270,
+      "url": "https://api.semanticscholar.org/CorpusId:236187270"
+    },
+    {
+      "title": "Implementing fair lending practices: Advanced data analytics approaches and regulatory compliance",
+      "authors": [
+        {
+          "name": "Godwin Ozoemenam Achumie",
+          "id": "2323823357"
+        },
+        {
+          "name": "Oluwaseun Adeola Bakare",
+          "id": "2323811792"
+        },
+        {
+          "name": "Njideka Ihuoma Okeke",
+          "id": "2323809314"
+        }
+      ],
+      "year": 2024,
+      "venue": "Finance &amp; Accounting Research Journal",
+      "score": 0.9630887578722358,
+      "abstract": "",
+      "corpusId": 273167363,
+      "url": "https://doi.org/10.51594/farj.v6i10.1623"
+    },
+    {
+      "title": "Less Discriminatory Alternative and Interpretable XGBoost Framework for Binary Classification",
+      "authors": [
+        {
+          "name": "Andrew Pangia",
+          "id": "2327863149"
+        },
+        {
+          "name": "Agus Sudjianto",
+          "id": "2275212865"
+        },
+        {
+          "name": "Aijun Zhang",
+          "id": "2052942993"
+        },
+        {
+          "name": "Taufiquar Khan",
+          "id": "2327968177"
+        }
+      ],
+      "year": 2024,
+      "venue": "arXiv.org",
+      "score": 0.9629581544647643,
+      "abstract": "Fair lending practices and model interpretability are crucial concerns in the financial industry, especially given the increasing use of complex machine learning models. In response to the Consumer Financial Protection Bureau's (CFPB) requirement to protect consumers against unlawful discrimination, we introduce LDA-XGB1, a novel less discriminatory alternative (LDA) machine learning model for fair and interpretable binary classification. LDA-XGB1 is developed through biobjective optimization that balances accuracy and fairness, with both objectives formulated using binning and information value. It leverages the predictive power and computational efficiency of XGBoost while ensuring inherent model interpretability, including the enforcement of monotonic constraints. We evaluate LDA-XGB1 on two datasets: SimuCredit, a simulated credit approval dataset, and COMPAS, a real-world recidivism prediction dataset. Our results demonstrate that LDA-XGB1 achieves an effective balance between predictive accuracy, fairness, and interpretability, often outperforming traditional fair lending models. This approach equips financial institutions with a powerful tool to meet regulatory requirements for fair lending while maintaining the advantages of advanced machine learning techniques.",
+      "corpusId": 273638033,
+      "url": "https://api.semanticscholar.org/CorpusId:273638033"
+    },
+    {
+      "title": "Improving Fairness in Credit Lending Models using Subgroup Threshold Optimization",
+      "authors": [
+        {
+          "name": "Cecilia Ying",
+          "id": "2165227837"
+        },
+        {
+          "name": "Stephen Thomas",
+          "id": "2165301306"
+        }
+      ],
+      "year": 2024,
+      "venue": "arXiv.org",
+      "score": 0.9626881475234955,
+      "abstract": "In an effort to improve the accuracy of credit lending decisions, many financial intuitions are now using predictions from machine learning models. While such predictions enjoy many advantages, recent research has shown that the predictions have the potential to be biased and unfair towards certain subgroups of the population. To combat this, several techniques have been introduced to help remove the bias and improve the overall fairness of the predictions. We introduce a new fairness technique, called \\textit{Subgroup Threshold Optimizer} (\\textit{STO}), that does not require any alternations to the input training data nor does it require any changes to the underlying machine learning algorithm, and thus can be used with any existing machine learning pipeline. STO works by optimizing the classification thresholds for individual subgroups in order to minimize the overall discrimination score between them. Our experiments on a real-world credit lending dataset show that STO can reduce gender discrimination by over 90\\%.",
+      "corpusId": 268513471,
+      "url": "https://api.semanticscholar.org/CorpusId:268513471"
+    },
+    {
+      "title": "Evaluating AI fairness in credit scoring with the BRIO tool",
+      "authors": [
+        {
+          "name": "Greta Coraglia",
+          "id": "2141594933"
+        },
+        {
+          "name": "F. Genco",
+          "id": "40475771"
+        },
+        {
+          "name": "Pellegrino Piantadosi",
+          "id": "2243394689"
+        },
+        {
+          "name": "Enrico Bagli",
+          "id": "2304750351"
+        },
+        {
+          "name": "Pietro Giuffrida",
+          "id": "2304750271"
+        },
+        {
+          "name": "Davide Posillipo",
+          "id": "2280916348"
+        },
+        {
+          "name": "Giuseppe Primiero",
+          "id": "2280919609"
+        }
+      ],
+      "year": 2024,
+      "venue": "arXiv.org",
+      "score": 0.9624767161253289,
+      "abstract": "We present a method for quantitative, in-depth analyses of fairness issues in AI systems with an application to credit scoring. To this aim we use BRIO, a tool for the evaluation of AI systems with respect to social unfairness and, more in general, ethically undesirable behaviours. It features a model-agnostic bias detection module, presented in \\cite{DBLP:conf/beware/CoragliaDGGPPQ23}, to which a full-fledged unfairness risk evaluation module is added. As a case study, we focus on the context of credit scoring, analysing the UCI German Credit Dataset \\cite{misc_statlog_(german_credit_data)_144}. We apply the BRIO fairness metrics to several, socially sensitive attributes featured in the German Credit Dataset, quantifying fairness across various demographic segments, with the aim of identifying potential sources of bias and discrimination in a credit scoring model. We conclude by combining our results with a revenue analysis.",
+      "corpusId": 270258224,
+      "url": "https://api.semanticscholar.org/CorpusId:270258224"
+    },
+    {
+      "title": "Developing a novel fair-loan-predictor through a multi-sensitive debiasing pipeline: DualFair",
+      "authors": [
+        {
+          "name": "Ashutosh Kumar Singh",
+          "id": "47264639"
+        },
+        {
+          "name": "Jashandeep Singh",
+          "id": "2115763917"
+        },
+        {
+          "name": "Ariba Khan",
+          "id": "2108514656"
+        },
+        {
+          "name": "Amar Gupta",
+          "id": "2143747303"
+        }
+      ],
+      "year": 2021,
+      "venue": "arXiv.org",
+      "score": 0.9622213826034453,
+      "abstract": "Machine learning (ML) models are increasingly used for high-stake applications that can greatly impact people's lives. Despite their use, these models have the potential to be biased towards certain social groups on the basis of race, gender, or ethnicity. Many prior works have attempted to mitigate this\"model discrimination\"by updating the training data (pre-processing), altering the model learning process (in-processing), or manipulating model output (post-processing). However, these works have not yet been extended to the realm of multi-sensitive parameters and sensitive options (MSPSO), where sensitive parameters are attributes that can be discriminated against (e.g race) and sensitive options are options within sensitive parameters (e.g black or white), thus giving them limited real-world usability. Prior work in fairness has also suffered from an accuracy-fairness tradeoff that prevents both the accuracy and fairness from being high. Moreover, previous literature has failed to provide holistic fairness metrics that work with MSPSO. In this paper, we solve all three of these problems by (a) creating a novel bias mitigation technique called DualFair and (b) developing a new fairness metric (i.e. AWI) that can handle MSPSO. Lastly, we test our novel mitigation method using a comprehensive U.S mortgage lending dataset and show that our classifier, or fair loan predictor, obtains better fairness and accuracy metrics than current state-of-the-art models.",
+      "corpusId": 239016753,
+      "url": "https://api.semanticscholar.org/CorpusId:239016753"
+    },
+    {
+      "title": "Not Enough Data to Be Fair? Evaluating Fairness Implications of Data Scarcity Solutions",
+      "authors": [
+        {
+          "name": "F. Karst",
+          "id": "2277750192"
+        },
+        {
+          "name": "M. Li",
+          "id": "2263394895"
+        },
+        {
+          "name": "Philipp Reinhard",
+          "id": "2213047520"
+        },
+        {
+          "name": "J. Leimeister",
+          "id": "2344439794"
+        }
+      ],
+      "year": 2025,
+      "venue": "Proceedings of the Annual Hawaii International Conference on System Sciences",
+      "score": 0.9621275363124476,
+      "abstract": "This study explores the implications of the use of data scarcity solutions on fairness in machine learning, specifically in consumer credit interest rate prediction. We develop a comprehensive taxonomy of Data Scarcity Solutions (DSS) by analyzing academic literature, data science competitions, and practical implementations. We identify six distinct DSS clusters: Data Extension, Pre-Training, Public Data Inclusion, Data Sharing, Federated Learning, and Active Learning. Our evaluation shows that most DSS enhance both performance and fairness, with minimal negative correlation between the two. Notably, approaches incorporating external or synthetic data significantly improve fairness. This research contributes to understanding DSS beyond algorithmic performance, providing a framework for evaluating their societal impact. Furthermore, it offers practitioners a taxonomy to select the right method for tackling data scarcity and addresses fairness concerns in real-world scenarios.",
+      "corpusId": 276223754,
+      "url": "https://api.semanticscholar.org/CorpusId:276223754"
+    },
+    {
+      "title": "Remembering to Be Fair: Non-Markovian Fairness in Sequential Decision Making",
+      "authors": [
+        {
+          "name": "P. A. Alamdari",
+          "id": "1716200148"
+        },
+        {
+          "name": "Toryn Q. Klassen",
+          "id": "1758085"
+        },
+        {
+          "name": "Elliot Creager",
+          "id": "2286304877"
+        },
+        {
+          "name": "Sheila A. McIlraith",
+          "id": "1683896"
+        }
+      ],
+      "year": 2023,
+      "venue": "International Conference on Machine Learning",
+      "score": 0.9616937670930034,
+      "abstract": "Fair decision making has largely been studied with respect to a single decision. Here we investigate the notion of fairness in the context of sequential decision making where multiple stakeholders can be affected by the outcomes of decisions. We observe that fairness often depends on the history of the sequential decision-making process, and in this sense that it is inherently non-Markovian. We further observe that fairness often needs to be assessed at time points within the process, not just at the end of the process. To advance our understanding of this class of fairness problems, we explore the notion of non-Markovian fairness in the context of sequential decision making. We identify properties of non-Markovian fairness, including notions of long-term, anytime, periodic, and bounded fairness. We explore the interplay between non-Markovian fairness and memory and how memory can support construction of fair policies. Finally, we introduce the FairQCM algorithm, which can automatically augment its training data to improve sample efficiency in the synthesis of fair policies via reinforcement learning.",
+      "corpusId": 267898024,
+      "url": "https://api.semanticscholar.org/CorpusId:267898024"
+    },
+    {
+      "title": "Towards Involving End-users in Interactive Human-in-the-loop AI Fairness",
+      "authors": [
+        {
+          "name": "Yuri Nakao",
+          "id": "82143319"
+        },
+        {
+          "name": "Simone Stumpf",
+          "id": "2066549427"
+        },
+        {
+          "name": "Subeida Ahmed",
+          "id": "1519466210"
+        },
+        {
+          "name": "A. Naseer",
+          "id": "2135730129"
+        },
+        {
+          "name": "Lorenzo Strappelli",
+          "id": "2119616837"
+        }
+      ],
+      "year": 2022,
+      "venue": "arXiv.org",
+      "score": 0.9610529800520383,
+      "abstract": "Ensuring fairness in artificial intelligence (AI) is important to counteract bias and discrimination in far-reaching applications. Recent work has started to investigate how humans judge fairness and how to support machine learning (ML) experts in making their AI models fairer. Drawing inspiration from an Explainable AI (XAI) approach called \\emph{explanatory debugging} used in interactive machine learning, our work explores designing interpretable and interactive human-in-the-loop interfaces that allow ordinary end-users without any technical or domain background to identify potential fairness issues and possibly fix them in the context of loan decisions. Through workshops with end-users, we co-designed and implemented a prototype system that allowed end-users to see why predictions were made, and then to change weights on features to\"debug\"fairness issues. We evaluated the use of this prototype system through an online study. To investigate the implications of diverse human values about fairness around the globe, we also explored how cultural dimensions might play a role in using this prototype. Our results contribute to the design of interfaces to allow end-users to be involved in judging and addressing AI fairness through a human-in-the-loop approach.",
+      "corpusId": 248366683,
+      "url": "https://api.semanticscholar.org/CorpusId:248366683"
+    },
+    {
+      "title": "Prediction-Based Decisions and Fairness: A Catalogue of Choices, Assumptions, and Definitions",
+      "authors": [
+        {
+          "name": "Shira Mitchell",
+          "id": "145051141"
+        },
+        {
+          "name": "E. Potash",
+          "id": "3224444"
+        },
+        {
+          "name": "Solon Barocas",
+          "id": "2881033"
+        }
+      ],
+      "year": 2018,
+      "venue": "unknown",
+      "score": 0.9609450004961456,
+      "abstract": "A recent flurry of research activity has attempted to quantitatively define \"fairness\" for decisions based on statistical and machine learning (ML) predictions. The rapid growth of this new field has led to wildly inconsistent terminology and notation, presenting a serious challenge for cataloguing and comparing definitions. This paper attempts to bring much-needed order. \nFirst, we explicate the various choices and assumptions made---often implicitly---to justify the use of prediction-based decisions. Next, we show how such choices and assumptions can raise concerns about fairness and we present a notationally consistent catalogue of fairness definitions from the ML literature. In doing so, we offer a concise reference for thinking through the choices, assumptions, and fairness considerations of prediction-based decision systems.",
+      "corpusId": 88524010,
+      "url": "https://api.semanticscholar.org/CorpusId:88524010"
+    },
+    {
+      "title": "AI human impact: toward a model for ethical investing in AI-intensive companies",
+      "authors": [
+        {
+          "name": "James Brusseau",
+          "id": "74763342"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Sustainable Finance & Investment",
+      "score": 0.9600947048390424,
+      "abstract": "ABSTRACT Does AI conform to humans, or will we conform to AI? An ethical evaluation of AI-intensive companies will allow investors to knowledgeably participate in the decision. The evaluation is built from nine performance indicators that can be analyzed and scored to reflect a technology’s human-centering. The result is objective investment guidance, as well as investors empowered to act in accordance with their own values. Incorporating ethics into financial decisions is a strategy that will be recognized by participants in environmental, social, and governance investing, however, this paper argues that conventional ESG frameworks are inadequate to companies that function with AI at their core. Fully accounting for contemporary big data, predictive analytics, and machine learning requires specialized metrics customized from established AI ethics principles. With these metrics established, the larger goal is a model for humanist investing in AI-intensive companies that is intellectually robust, manageable for analysts, useful for portfolio managers, and credible for investors.",
+      "corpusId": 234177141,
+      "url": "https://api.semanticscholar.org/CorpusId:234177141"
+    },
+    {
+      "title": "Appropriate Fairness Perceptions? On the Effectiveness of Explanations in Enabling People to Assess the Fairness of Automated Decision Systems",
+      "authors": [
+        {
+          "name": "Jakob Schoeffer",
+          "id": "2096373936"
+        },
+        {
+          "name": "N. Kuehl",
+          "id": "8359709"
+        }
+      ],
+      "year": 2021,
+      "venue": "CSCW Companion",
+      "score": 0.9590226442201516,
+      "abstract": "It is often argued that one goal of explaining automated decision systems (ADS) is to facilitate positive perceptions (e.g., fairness or trustworthiness) of users towards such systems. This viewpoint, however, makes the implicit assumption that a given ADS is fair and trustworthy, to begin with. If the ADS issues unfair outcomes, then one might expect that explanations regarding the system’s workings will reveal its shortcomings and, hence, lead to a decrease in fairness perceptions. Consequently, we suggest that it is more meaningful to evaluate explanations against their effectiveness in enabling people to appropriately assess the quality (e.g., fairness) of an associated ADS. We argue that for an effective explanation, perceptions of fairness should increase if and only if the underlying ADS is fair. In this in-progress work, we introduce the desideratum of appropriate fairness perceptions, propose a novel study design for evaluating it, and outline next steps towards a comprehensive experiment.",
+      "corpusId": 237091720,
+      "url": "https://api.semanticscholar.org/CorpusId:237091720"
+    },
+    {
+      "title": "Algorithmic Decision Making Methods for Fair Credit Scoring",
+      "authors": [
+        {
+          "name": "Darie Moldovan",
+          "id": "31536959"
+        }
+      ],
+      "year": 2022,
+      "venue": "IEEE Access",
+      "score": 0.9589512631201695,
+      "abstract": "The effectiveness of machine learning in evaluating the creditworthiness of loan applicants has been demonstrated for a long time. However, there is concern that the use of automated decision-making processes may result in unequal treatment of groups or individuals, potentially leading to discriminatory outcomes. This paper seeks to address this issue by evaluating the effectiveness of 12 leading bias mitigation methods across 5 different fairness metrics, as well as assessing their accuracy and potential profitability for financial institutions. Through our analysis, we have identified the challenges associated with achieving fairness while maintaining accuracy and profitabiliy, and have highlighted both the most successful and least successful mitigation methods. Ultimately, our research serves to bridge the gap between experimental machine learning and its practical applications in the finance industry.",
+      "corpusId": 255341231,
+      "url": "https://api.semanticscholar.org/CorpusId:255341231"
+    },
+    {
+      "title": "Fair lending needs explainable models for responsible recommendation",
+      "authors": [
+        {
+          "name": "Jiahao Chen",
+          "id": "1720719982"
+        }
+      ],
+      "year": 2018,
+      "venue": "arXiv.org",
+      "score": 0.9586705406932059,
+      "abstract": "The financial services industry has unique explainability and fairness challenges arising from compliance and ethical considerations in credit decisioning. These challenges complicate the use of model machine learning and artificial intelligence methods in business decision processes.",
+      "corpusId": 52273074,
+      "url": "https://api.semanticscholar.org/CorpusId:52273074"
+    },
+    {
+      "title": "Exploring Social Choice Mechanisms for Recommendation Fairness in SCRUF",
+      "authors": [
+        {
+          "name": "Amanda Aird",
+          "id": "72509562"
+        },
+        {
+          "name": "Cassidy All",
+          "id": "2243188835"
+        },
+        {
+          "name": "Paresha Farastu",
+          "id": "103553571"
+        },
+        {
+          "name": "Elena Štefancová",
+          "id": "2287251723"
+        },
+        {
+          "name": "Joshua Sun",
+          "id": "2210382585"
+        },
+        {
+          "name": "Nicholas Mattei",
+          "id": "2243188805"
+        },
+        {
+          "name": "Robin Burke",
+          "id": "2242991005"
+        }
+      ],
+      "year": 2023,
+      "venue": "arXiv.org",
+      "score": 0.958638933605491,
+      "abstract": "Fairness problems in recommender systems often have a complexity in practice that is not adequately captured in simplified research formulations. A social choice formulation of the fairness problem, operating within a multi-agent architecture of fairness concerns, offers a flexible and multi-aspect alternative to fairness-aware recommendation approaches. Leveraging social choice allows for increased generality and the possibility of tapping into well-studied social choice algorithms for resolving the tension between multiple, competing fairness concerns. This paper explores a range of options for choice mechanisms in multi-aspect fairness applications using both real and synthetic data and shows that different classes of choice and allocation mechanisms yield different but consistent fairness / accuracy tradeoffs. We also show that a multi-agent formulation offers flexibility in adapting to user population dynamics.",
+      "corpusId": 262045165,
+      "url": "https://api.semanticscholar.org/CorpusId:262045165"
+    },
+    {
+      "title": "Fairness under Competition",
+      "authors": [
+        {
+          "name": "R. Gradwohl",
+          "id": "1906341"
+        },
+        {
+          "name": "Eilam Shapira",
+          "id": "2217683961"
+        },
+        {
+          "name": "Moshe Tennenholtz",
+          "id": "2281943165"
+        }
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "score": 0.9586125406481444,
+      "abstract": "Algorithmic fairness has emerged as a central issue in ML, and it has become standard practice to adjust ML algorithms so that they will satisfy fairness requirements such as Equal Opportunity. In this paper we consider the effects of adopting such fair classifiers on the overall level of ecosystem fairness. Specifically, we introduce the study of fairness with competing firms, and demonstrate the failure of fair classifiers in yielding fair ecosystems. Our results quantify the loss of fairness in systems, under a variety of conditions, based on classifiers'correlation and the level of their data overlap. We show that even if competing classifiers are individually fair, the ecosystem's outcome may be unfair; and that adjusting biased algorithms to improve their individual fairness may lead to an overall decline in ecosystem fairness. In addition to these theoretical results, we also provide supporting experimental evidence. Together, our model and results provide a novel and essential call for action.",
+      "corpusId": 278789131,
+      "url": "https://api.semanticscholar.org/CorpusId:278789131"
+    },
+    {
+      "title": "Time to Assess Bias in Machine Learning Models for Credit Decisions",
+      "authors": [
+        {
+          "name": "Liming Brotcke",
+          "id": "1396825652"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Risk and Financial Management",
+      "score": 0.9572519316891588,
+      "abstract": "Focus on fair lending has become more intensified recently as bank and non-bank lenders apply artificial-intelligence (AI)-based credit determination approaches. The data analytics technique behind AI and machine learning (ML) has proven to be powerful in many application areas. However, ML can be less transparent and explainable than traditional regression models, which may raise unique questions about its compliance with fair lending laws. ML may also reduce potential for discrimination, by reducing discretionary and judgmental decisions. As financial institutions continue to explore ML applications in loan underwriting and pricing, the fair lending assessments typically led by compliance and legal functions will likely continue to evolve. In this paper, the author discusses unique considerations around ML in the existing fair lending risk assessment practice for underwriting and pricing models and proposes consideration of additional evaluations to be added in the present practice.",
+      "corpusId": 247983044,
+      "url": "https://api.semanticscholar.org/CorpusId:247983044"
+    },
+    {
+      "title": "Dynamic Modeling and Equilibria in Fair Decision Making",
+      "authors": [
+        {
+          "name": "Joshua H. Williams",
+          "id": "48783041"
+        },
+        {
+          "name": "J. Kolter",
+          "id": "145116464"
+        }
+      ],
+      "year": 2019,
+      "venue": "arXiv.org",
+      "score": 0.9570038379277289,
+      "abstract": "Recent studies on fairness in automated decision making systems have both investigated the potential future impact of these decisions on the population at large, and emphasized that imposing ''typical'' fairness constraints such as demographic parity or equality of opportunity does not guarantee a benefit to disadvantaged groups. However, these previous studies have focused on either simple one-step cost/benefit criteria, or on discrete underlying state spaces. In this work, we first propose a natural continuous representation of population state, governed by the Beta distribution, using a loan granting setting as a running example. Next, we apply a model of population dynamics under lending decisions, and show that when conditional payback probabilities are estimated correctly 1) ``optimal'' behavior by lenders can lead to ''Matthew Effect'' bifurcations (i.e., ''the rich get richer and the poor get poorer''), but that 2) many common fairness constraints on the allowable policies cause groups to converge to the same equilibrium point. Last, we contrast our results in the case of misspecified conditional probability estimates with prior work, and show that for this model, different levels of group misestimation guarantees that even fair policies lead to bifurcations. We illustrate some of the modeling conclusions on real data from credit scoring.",
+      "corpusId": 208138181,
+      "url": "https://api.semanticscholar.org/CorpusId:208138181"
+    },
+    {
+      "title": "Online Learning with an Unknown Fairness Metric",
+      "authors": [
+        {
+          "name": "Stephen Gillen",
+          "id": "2075335459"
+        },
+        {
+          "name": "Christopher Jung",
+          "id": "2069019232"
+        },
+        {
+          "name": "Michael Kearns",
+          "id": "81338045"
+        },
+        {
+          "name": "Aaron Roth",
+          "id": "1682008"
+        }
+      ],
+      "year": 2018,
+      "venue": "Neural Information Processing Systems",
+      "score": 0.9560888481722036,
+      "abstract": "We consider the problem of online learning in the linear contextual bandits setting, but in which there are also strong individual fairness constraints governed by an unknown similarity metric. These constraints demand that we select similar actions or individuals with approximately equal probability (arXiv:1104.3913), which may be at odds with optimizing reward, thus modeling settings where profit and social policy are in tension. We assume we learn about an unknown Mahalanobis similarity metric from only weak feedback that identifies fairness violations, but does not quantify their extent. This is intended to represent the interventions of a regulator who \"knows unfairness when he sees it\" but nevertheless cannot enunciate a quantitative fairness metric over individuals. Our main result is an algorithm in the adversarial context setting that has a number of fairness violations that depends only logarithmically on $T$, while obtaining an optimal $O(\\sqrt{T})$ regret bound to the best fair policy.",
+      "corpusId": 3426898,
+      "url": "https://api.semanticscholar.org/CorpusId:3426898"
+    },
+    {
+      "title": "A Justice-Based Framework for the Analysis of Algorithmic Fairness-Utility Trade-Offs",
+      "authors": [
+        {
+          "name": "Corinna Hertweck",
+          "id": "1785374742"
+        },
+        {
+          "name": "J. Baumann",
+          "id": "2058322501"
+        },
+        {
+          "name": "M. Loi",
+          "id": "151501082"
+        },
+        {
+          "name": "Eleonora Viganò",
+          "id": "119655514"
+        },
+        {
+          "name": "Christoph Heitz",
+          "id": "151473392"
+        }
+      ],
+      "year": 2022,
+      "venue": "arXiv.org",
+      "score": 0.9559293937736294,
+      "abstract": "In prediction-based decision-making systems, different perspectives can be at odds: The short-term business goals of the decision makers are often in conflict with the decision subjects' wish to be treated fairly. Balancing these two perspectives is a question of values. However, these values are often hidden in the technicalities of the implementation of the decision-making system. In this paper, we propose a framework to make these value-laden choices clearly visible. We focus on a setting in which we want to find decision rules that balance the perspective of the decision maker and of the decision subjects. We provide an approach to formalize both perspectives, i.e., to assess the utility of the decision maker and the fairness towards the decision subjects. In both cases, the idea is to elicit values from decision makers and decision subjects that are then turned into something measurable. For the fairness evaluation, we build on well-known theories of distributive justice and on the algorithmic literature to ask what a fair distribution of utility (or welfare) looks like. This allows us to derive a fairness score that we then compare to the decision maker's utility. As we focus on a setting in which we are given a trained model and have to choose a decision rule, we use the concept of Pareto efficiency to compare decision rules. Our proposed framework can both guide the implementation of a decision-making system and help with audits, as it allows us to resurface the values implemented in a decision-making system.",
+      "corpusId": 249431368,
+      "url": "https://api.semanticscholar.org/CorpusId:249431368"
+    },
+    {
+      "title": "Beyond Fairness: Reparative Algorithms to Address Historical Injustices of Housing Discrimination in the US",
+      "authors": [
+        {
+          "name": "Wonyoung So",
+          "id": "2059760933"
+        },
+        {
+          "name": "Pranay Lohia",
+          "id": "2145722982"
+        },
+        {
+          "name": "R. Pimplikar",
+          "id": "1999599"
+        },
+        {
+          "name": "A. Hosoi",
+          "id": "2304993035"
+        },
+        {
+          "name": "C. D’Ignazio",
+          "id": "1404354049"
+        }
+      ],
+      "year": 2022,
+      "venue": "Conference on Fairness, Accountability and Transparency",
+      "score": 0.9555382154740623,
+      "abstract": "",
+      "corpusId": 249872648,
+      "url": "http://dl.acm.org/citation.cfm?id=3533160"
+    },
+    {
+      "title": "Discrimination in Mortgage Lending: A Critical Review of the Literature",
+      "authors": [
+        {
+          "name": "Michael LaCour-Little",
+          "id": "1411007222"
+        }
+      ],
+      "year": 1998,
+      "venue": "unknown",
+      "score": 0.9520485592682777,
+      "abstract": "",
+      "corpusId": 152751159,
+      "url": "https://doi.org/10.1023/A%3A1008616203852"
+    },
+    {
+      "title": "Ensuring Fairness in Lending: Deep Learning Approaches for Equitable Approval Prediction",
+      "authors": [
+        {
+          "name": "Nazeer Ahamed M",
+          "id": "2389696361"
+        },
+        {
+          "name": "J. N. Ahamed",
+          "id": "2388305638"
+        }
+      ],
+      "year": 2025,
+      "venue": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+      "score": 0.9507650083201682,
+      "abstract": "",
+      "corpusId": 282630570,
+      "url": "https://doi.org/10.55041/ijsrem53253"
+    },
+    {
+      "title": "Bias and Fairness in Automated Loan Approvals: A Systematic Review of Machine Learning Approaches",
+      "authors": [
+        {
+          "name": "Suraiyo Raziyeva",
+          "id": "2363839919"
+        },
+        {
+          "name": "Meraryslan Meraliyev",
+          "id": "68976113"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Emerging Technologies and Computing",
+      "score": 0.9505961404172985,
+      "abstract": "",
+      "corpusId": 278952083,
+      "url": "https://doi.org/10.47344/jbzmnx25"
+    },
+    {
+      "title": "ALGORITHMICSOLUTIONSFORFAIRCRE DITSCORING",
+      "authors": [
+        {
+          "name": "Kalvapalli Sathish Reddy1",
+          "id": "2356073550"
+        },
+        {
+          "name": "Mrs.P.Sujana2",
+          "id": "2356074019"
+        }
+      ],
+      "year": 2025,
+      "venue": "International Journal of Engineering Technology and Management Sciences",
+      "score": 0.9501983117981444,
+      "abstract": "This paper explores algorithmic decision-making methods to enhance fairness in credit scoring systems, addressing concerns of bias and discrimination. Through the application of machine learning techniques and fairness-aware algorithms, the proposed methods aim to mitigate disparities in credit assessment based on demographic factors such as race, gender, or socioeconomic status.\nBy incorporating fairness constraints into the model training process, these methods strive to achieve equitable outcomes while maintaining predictive accuracy and regulatory compliance.\nThrough extensive experimentation and evaluation on real-world credit datasets, the effectiveness and fairness of the proposed algorithms are demonstrated, highlighting their potential to improve access to credit and financial inclusion for historically marginalized groups.",
+      "corpusId": 277863180,
+      "url": "https://api.semanticscholar.org/CorpusId:277863180"
+    },
+    {
+      "title": "Explainability and Fairness in Machine Learning: Improve Fair End-to-end Lending for Kiva",
+      "authors": [
+        {
+          "name": "Alexander Stevens",
+          "id": "2053987279"
+        },
+        {
+          "name": "Peter Deruyck",
+          "id": "2045764593"
+        },
+        {
+          "name": "Ziboud Van Veldhoven",
+          "id": "1396422929"
+        },
+        {
+          "name": "J. Vanthienen",
+          "id": "1790055"
+        }
+      ],
+      "year": 2020,
+      "venue": "IEEE Symposium Series on Computational Intelligence",
+      "score": 0.9501142941681077,
+      "abstract": "",
+      "corpusId": 230995024,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308371"
+    },
+    {
+      "title": "Bias in Black Boxes: A Framework for Auditing Algorithmic Fairness in Financial Lending Models",
+      "authors": [
+        {
+          "name": "V. Krishna",
+          "id": "2394980633"
+        },
+        {
+          "name": "Bharadwaj Parasaram",
+          "id": "2394985312"
+        }
+      ],
+      "year": 2023,
+      "venue": "Universal Research Reports",
+      "score": 0.9499926083331004,
+      "abstract": "",
+      "corpusId": 283335214,
+      "url": "https://doi.org/10.36676/urr.v10.i3.1631"
+    },
+    {
+      "title": "AI-powered credit risk assessment and algorithmic fairness in digital lending: A comprehensive analysis of the United States digital finance landscape",
+      "authors": [
+        {
+          "name": "K. Taiwo",
+          "id": "2176222124"
+        },
+        {
+          "name": "Abiola",
+          "id": "123659366"
+        }
+      ],
+      "year": 2025,
+      "venue": "World Journal of Advanced Research and Reviews",
+      "score": 0.9499075268701548,
+      "abstract": "",
+      "corpusId": 279577931,
+      "url": "https://doi.org/10.30574/wjarr.2025.26.3.2291"
+    },
+    {
+      "title": "Algorithmic Fairness in Consumer Credit Underwriting: Towards a 'Harm-Based' Framework for AI Fair Lending",
+      "authors": [
+        {
+          "name": "Jason Wu",
+          "id": "46365674"
+        }
+      ],
+      "year": 2023,
+      "venue": "Social Science Research Network",
+      "score": 0.9483935488581003,
+      "abstract": "",
+      "corpusId": 256448176,
+      "url": "https://doi.org/10.2139/ssrn.4320444"
+    },
+    {
+      "title": "Algorithms and Fairness in Lending Markets: When Do Humans and Machines Disagree?",
+      "authors": [
+        {
+          "name": "Tong-yob Nam",
+          "id": "144016751"
+        },
+        {
+          "name": "Hayong Yun",
+          "id": "35359781"
+        }
+      ],
+      "year": 2022,
+      "venue": "Social Science Research Network",
+      "score": 0.9481418764701096,
+      "abstract": "",
+      "corpusId": 253469121,
+      "url": "https://doi.org/10.2139/ssrn.4261484"
+    },
+    {
+      "title": "Algorithmic Lending Bias: Evaluating the Fairness of Historical Redlining in Loan Approvals",
+      "authors": [
+        {
+          "name": "K. Sarwal",
+          "id": "2322684909"
+        },
+        {
+          "name": "Sheikh Rabiul Islam",
+          "id": "2310195887"
+        }
+      ],
+      "year": 2024,
+      "venue": "BigData Congress [Services Society]",
+      "score": 0.9480000508955194,
+      "abstract": "",
+      "corpusId": 275584133,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10825978"
+    },
+    {
+      "title": "A Fairness Approach to Mitigating Racial Bias of Credit Scoring Models by Decision Tree and the Reweighing Fairness Algorithm",
+      "authors": [
+        {
+          "name": "J. Shih",
+          "id": "39622338"
+        },
+        {
+          "name": "Ze-Han Chin",
+          "id": "2221257110"
+        }
+      ],
+      "year": 2023,
+      "venue": "2023 IEEE 3rd International Conference on Electronic Communications, Internet of Things and Big Data (ICEIB)",
+      "score": 0.9464352069150149,
+      "abstract": "",
+      "corpusId": 259364750,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10170339"
+    },
+    {
+      "title": "How fair is machine learning in credit lending?",
+      "authors": [
+        {
+          "name": "G. Babaei",
+          "id": "1572206062"
+        },
+        {
+          "name": "Paolo Giudici",
+          "id": "2263295883"
+        }
+      ],
+      "year": 2024,
+      "venue": "Quality and Reliability Engineering International",
+      "score": 0.9455669119658463,
+      "abstract": "",
+      "corpusId": 270242609,
+      "url": "https://doi.org/10.1002/qre.3579"
+    },
+    {
+      "title": "Lending by Algorithm: Fair or Flawed? An Information-Theoretic View of Credit Decision Pipelines",
+      "authors": [
+        {
+          "name": "Sayyed Khawar Abbas",
+          "id": "101669982"
+        }
+      ],
+      "year": 2025,
+      "venue": "SN Computer Science",
+      "score": 0.9441699866922468,
+      "abstract": "",
+      "corpusId": 280390750,
+      "url": "https://doi.org/10.1007/s42979-025-04222-8"
+    },
+    {
+      "title": "Fairness of Classification Using Users’ Social Relationships in Online Peer-To-Peer Lending",
+      "authors": [
+        {
+          "name": "Yanying Li",
+          "id": "2110507080"
+        },
+        {
+          "name": "Yue Ning",
+          "id": "26426534"
+        },
+        {
+          "name": "Rong Liu",
+          "id": "2112430424"
+        },
+        {
+          "name": "Ying Wu",
+          "id": "2145900710"
+        },
+        {
+          "name": "Wendy Hui Wang",
+          "id": "2108465033"
+        }
+      ],
+      "year": 2020,
+      "venue": "The Web Conference",
+      "score": 0.9438902800722448,
+      "abstract": "",
+      "corpusId": 218521119,
+      "url": "http://dl.acm.org/citation.cfm?id=3383557"
+    },
+    {
+      "title": "Mortgage market conditions and borrower outcomes: evidence from the 2012 HMDA data and matched HMDA–credit record data",
+      "authors": [
+        {
+          "name": "Neil Bhutta",
+          "id": "11448030"
+        },
+        {
+          "name": "Glenn B. Canner",
+          "id": "4529076"
+        }
+      ],
+      "year": 2013,
+      "venue": "unknown",
+      "score": 0.9346891173516312,
+      "abstract": "This article describes mortgage lending activity in 2012 based on newly available data reported under the Home Mortgage Disclosure Act (HMDA). In addition, we present the results of a first look at a new data set composed of HMDA records matched to borrowers' credit records. Using the matched data, we compare borrowers’ credit characteristics at loan origination, and subsequent payment performance, by various HMDA attributes such as income, minority status, and type of lender. Also, because the credit record data are longitudinal and follow individuals rather than just their mortgages, we are able to study long-term outcomes of mortgage borrowers beyond performance on their mortgage, such as whether credit scores recover after delinquency at a different pace for different demographic groups. We focus on loans made in 2006, which reflect lending activity at the height of the housing boom, and loans made in 2010, which reflect the subdued market conditions post crisis. Key findings include: (1) substantive differences in performance across racial and ethnic groups exist even after controlling for credit score, house price appreciation, and higher-priced loan status; (2) credit score recovery after mortgage delinquency, on average, is similar across racial and ethnic groups and takes over four years; and (3) loans originated in 2006 that are the focus of the Community Reinvestment Act (CRA) had a lower delinquency rate than the rate for all loans, inconsistent with the view that the CRA was a principal driver of the mortgage crisis.",
+      "corpusId": 166416807,
+      "url": "https://api.semanticscholar.org/CorpusId:166416807"
+    },
+    {
+      "title": "Fairness in retail banking and lending",
+      "authors": [
+        {
+          "name": "J. Chuah",
+          "id": "40207203"
+        }
+      ],
+      "year": 2009,
+      "venue": "unknown",
+      "score": 0.92620474677986,
+      "abstract": "",
+      "corpusId": 168032183,
+      "url": "https://api.semanticscholar.org/CorpusId:168032183"
+    },
+    {
+      "title": "Rx for Fairness: The Key to Fair Lending Is Treating Similarly Situated People Similarly. Easier Said Than Done",
+      "authors": [
+        {
+          "name": "Steve Cocheo",
+          "id": "75089001"
+        }
+      ],
+      "year": 2012,
+      "venue": "unknown",
+      "score": 0.926178744533607,
+      "abstract": "",
+      "corpusId": 231348467,
+      "url": "https://api.semanticscholar.org/CorpusId:231348467"
+    },
+    {
+      "title": "Fairness, Reciprocity and Informal Lending in Farming Communities: A Comparative Study of China and India",
+      "authors": [
+        {
+          "name": "C. Turvey",
+          "id": "91171381"
+        },
+        {
+          "name": "C. Kumar",
+          "id": "2061594128"
+        },
+        {
+          "name": "K. Rong",
+          "id": "9130129"
+        }
+      ],
+      "year": 2015,
+      "venue": "unknown",
+      "score": 0.9251217148117749,
+      "abstract": "",
+      "corpusId": 56401983,
+      "url": "http://ageconsearch.umn.edu/record/212625/files/Turvey-Fairness_%20Reciprocity%20and%20Informal%20Familial%20Lending-898.pdf"
+    },
+    {
+      "title": "Equality of Opportunity in Supervised Learning",
+      "authors": [
+        {
+          "name": "Moritz Hardt",
+          "id": "1775622"
+        },
+        {
+          "name": "Eric Price",
+          "id": "4989538"
+        },
+        {
+          "name": "N. Srebro",
+          "id": "1706280"
+        }
+      ],
+      "year": 2016,
+      "venue": "Neural Information Processing Systems",
+      "score": 0.4066544978866442,
+      "abstract": "We propose a criterion for discrimination against a specified sensitive attribute in supervised learning, where the goal is to predict some target based on available features. Assuming data about the predictor, target, and membership in the protected group are available, we show how to optimally adjust any learned predictor so as to remove discrimination according to our definition. Our framework also improves incentives by shifting the cost of poor classification from disadvantaged groups to the decision maker, who can respond by improving the classification accuracy. We enourage readers to consult the more complete manuscript on the arXiv.",
+      "corpusId": 7567061,
+      "url": "https://arxiv.org/pdf/1610.02413.pdf"
+    },
+    {
+      "title": "Opportunistic Multi-aspect Fairness through Personalized Re-ranking",
+      "authors": [
+        {
+          "name": "Nasim Sonboli",
+          "id": "14472354"
+        },
+        {
+          "name": "Farzad Eskandanian",
+          "id": "3461947"
+        },
+        {
+          "name": "R. Burke",
+          "id": "1747150"
+        },
+        {
+          "name": "Weiwen Liu",
+          "id": "2109270350"
+        },
+        {
+          "name": "B. Mobasher",
+          "id": "1684679"
+        }
+      ],
+      "year": 2020,
+      "venue": "User Modeling, Adaptation, and Personalization",
+      "score": 0.4047823080003375,
+      "abstract": "As recommender systems have become more widespread and moved into areas with greater social impact, such as employment and housing, researchers have begun to seek ways to ensure fairness in the results that such systems produce. This work has primarily focused on developing recommendation approaches in which fairness metrics are jointly optimized along with recommendation accuracy. However, the previous work had largely ignored how individual preferences may limit the ability of an algorithm to produce fair recommendations. Furthermore, with few exceptions, researchers have only considered scenarios in which fairness is measured relative to a single sensitive feature or attribute (such as race or gender). In this paper, we present a re-ranking approach to fairness-aware recommendation that learns individual preferences across multiple fairness dimensions and uses them to enhance provider fairness in recommendation results. Specifically, we show that our opportunistic and metric-agnostic approach achieves a better trade-off between accuracy and fairness than prior re-ranking approaches and does so across multiple fairness dimensions.",
+      "corpusId": 218900637,
+      "url": "http://dl.acm.org/citation.cfm?id=3394846"
+    },
+    {
+      "title": "Causal Modeling for Fairness in Dynamical Systems",
+      "authors": [
+        {
+          "name": "Elliot Creager",
+          "id": "3422145"
+        },
+        {
+          "name": "David Madras",
+          "id": "40373515"
+        },
+        {
+          "name": "T. Pitassi",
+          "id": "1695317"
+        },
+        {
+          "name": "R. Zemel",
+          "id": "1804104"
+        }
+      ],
+      "year": 2019,
+      "venue": "International Conference on Machine Learning",
+      "score": 0.393418138183381,
+      "abstract": "In many application areas---lending, education, and online recommenders, for example---fairness and equity concerns emerge when a machine learning system interacts with a dynamically changing environment to produce both immediate and long-term effects for individuals and demographic groups. We discuss causal directed acyclic graphs (DAGs) as a unifying framework for the recent literature on fairness in such dynamical systems. We show that this formulation affords several new directions of inquiry to the modeler, where causal assumptions can be expressed and manipulated. We emphasize the importance of computing interventional quantities in the dynamical fairness setting, and show how causal assumptions enable simulation (when environment dynamics are known) and off-policy estimation (when dynamics are unknown) of intervention on short- and long-term outcomes, at both the group and individual levels.",
+      "corpusId": 202712549,
+      "url": "https://arxiv.org/pdf/1909.09141.pdf"
+    },
+    {
+      "title": "Fairness in Relational Domains",
+      "authors": [
+        {
+          "name": "G. Farnadi",
+          "id": "2086602"
+        },
+        {
+          "name": "Behrouz Babaki",
+          "id": "3091806"
+        },
+        {
+          "name": "L. Getoor",
+          "id": "1746034"
+        }
+      ],
+      "year": 2018,
+      "venue": "AAAI/ACM Conference on AI, Ethics, and Society",
+      "score": 0.3747775541892127,
+      "abstract": "",
+      "corpusId": 31851573,
+      "url": "http://dl.acm.org/citation.cfm?id=3278733"
+    },
+    {
+      "title": "Testing Fairness with Utility Tradeoffs: A Wasserstein Projection Approach",
+      "authors": [
+        {
+          "name": "Yan Chen",
+          "id": "2325801343"
+        },
+        {
+          "name": "Zhengtao Tan",
+          "id": "2340178602"
+        },
+        {
+          "name": "Jose Blanchet",
+          "id": "2325729314"
+        },
+        {
+          "name": "Hanzhang Qin",
+          "id": "2348501647"
+        }
+      ],
+      "year": 2025,
+      "venue": "unknown",
+      "score": 0.36976225077015473,
+      "abstract": "Ensuring fairness in data driven decision making has become a central concern across domains such as marketing, lending, and healthcare, but fairness constraints often come at the cost of utility. We propose a statistical hypothesis testing framework that jointly evaluates approximate fairness and utility, relaxing strict fairness requirements while ensuring that overall utility remains above a specified threshold. Our framework builds on the strong demographic parity (SDP) criterion and incorporates a utility measure motivated by the potential outcomes framework. The test statistic is constructed via Wasserstein projections, enabling auditors to assess whether observed fairness-utility tradeoffs are intrinsic to the algorithm or attributable to randomness in the data. We show that the test is computationally tractable, interpretable, broadly applicable across machine learning models, and extendable to more general settings. We apply our approach to multiple real-world datasets, offering new insights into the fairness-utility tradeoff through the perspective of statistical hypothesis testing.",
+      "corpusId": 278740255,
+      "url": "https://arxiv.org/pdf/2505.11678.pdf"
+    },
+    {
+      "title": "Variational Bound of Mutual Information for Fairness in Classification",
+      "authors": [
+        {
+          "name": "Zahir Alsulaimawi",
+          "id": "71472012"
+        }
+      ],
+      "year": 2020,
+      "venue": "IEEE International Workshop on Multimedia Signal Processing",
+      "score": 0.35687456200419077,
+      "abstract": "",
+      "corpusId": 229309414,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9287139"
+    }
+  ]
+}

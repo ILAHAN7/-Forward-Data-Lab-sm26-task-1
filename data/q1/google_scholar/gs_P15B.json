@@ -1,0 +1,112 @@
+{
+  "query_id": "P15B",
+  "query": "NLP sentiment analysis stock prediction",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:10Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Sentiment Analysis of Financial News for Stock Return Prediction Using Large Language Models",
+    "year": 2024,
+    "abstract": "We fine-tune FinBERT and GPT-based models on financial news corpora to predict next-day stock returns, analyzing whether LLM-derived sentiment factors generate alpha beyond traditional momentum signals.",
+    "domain": [
+      "NLP",
+      "sentiment analysis",
+      "stock prediction",
+      "LLM",
+      "finance"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "LSTM-based sentiment analysis for stock price forecast",
+      "link": "https://peerj.com/articles/cs-408/",
+      "snippet": "… networks, stock price forecast, text sentiment analysis, and the BERT model in the following. … However, with the development of natural language processing and text analysis, some …",
+      "publication_info": "CR Ko, HT Chang - PeerJ Computer Science, 2021 - peerj.com",
+      "year": 2021,
+      "citation_count": 103
+    },
+    {
+      "rank": 2,
+      "title": "Sentiment analysis for effective stock market prediction",
+      "link": "https://www.academia.edu/download/54486240/Sentiment_Analysis_for_Effecitve__Stock_Market_Prediction.pdf",
+      "snippet": "… Our regression model works based on sentiment analysis over news headlines using NLP. Furthermore, the model is tested on live data to evaluate how well the model identifies …",
+      "publication_info": "SVS Bharathi - International Journal of Intelligent Engineering and …, 2017 - academia.edu",
+      "year": 2017,
+      "citation_count": 110
+    },
+    {
+      "rank": 3,
+      "title": "Sentiment analysis for Indian stock market prediction using Sensex and nifty",
+      "link": "https://www.sciencedirect.com/science/article/pii/S187705091503207X",
+      "snippet": "… mining, natural language processing (NLP), in order to identify and extract the … , sentiments, attitudes and emotions. In this research work importance of sentiment analysis for stock …",
+      "publication_info": "A Bhardwaj, Y Narayan, M Dutta - Procedia computer science, 2015 - Elsevier",
+      "year": 2015,
+      "citation_count": 220
+    },
+    {
+      "rank": 4,
+      "title": "Stock price prediction using sentiment analysis",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9659283/",
+      "snippet": "… sentiment analysis on financial news headlines and to further investigate whether this analysis can assist in our stock price prediction … on NLP tasks including sentiment analysis instead …",
+      "publication_info": "T Sidogi, R Mbuvha, T Marwala - 2021 IEEE International …, 2021 - ieeexplore.ieee.org",
+      "year": 2021,
+      "citation_count": 70
+    },
+    {
+      "rank": 5,
+      "title": "Stock price prediction using deep learning and natural language processing",
+      "link": "https://books.google.com/books?hl=en&lr=&id=EZF3EQAAQBAJ&oi=fnd&pg=PA1&dq=NLP+sentiment+analysis+stock+prediction&ots=60JuOMzpp8&sig=cYxcnPcW64iDe6ezw42Tjpe0opg",
+      "snippet": "… sentiment analysis of social media data on Twitter so that stock price movements can be predicted … Here, we do not address the forecasting of the short-term movement of the stock price …",
+      "publication_info": "J Sen, S Mehtab - … Learning in the Analysis and Forecasting of …, 2022 - books.google.com",
+      "year": 2022,
+      "citation_count": 10
+    },
+    {
+      "rank": 6,
+      "title": "Stock trend prediction using sentiment analysis",
+      "link": "https://peerj.com/articles/cs-1293.pdf",
+      "snippet": "… Sentiment analysis, a branch of the NLP, identifies and … adopt sentiment analysis technology as the primary text analysis … Service stock AMZN, NFLX, and Technology Stock AAPL, MSFT…",
+      "publication_info": "Q Xiao, B Ihnaini - PeerJ Computer Science, 2023 - peerj.com",
+      "year": 2023,
+      "citation_count": 55
+    },
+    {
+      "rank": 7,
+      "title": "Stock price prediction based on LSTM neural network: the effectiveness of news sentiment analysis",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9434810/",
+      "snippet": "… sentiment on stock prediction, this paper intends to build a forecasting model and conduct result analysis… This paper first uses NLP technical tools to analyze and quantify public emotion, …",
+      "publication_info": "Y Guo - 2020 2nd International Conference on Economic …, 2020 - ieeexplore.ieee.org",
+      "year": 2020,
+      "citation_count": 52
+    },
+    {
+      "rank": 8,
+      "title": "Financial news sentiment analysis using NLP and machine learning for asset price prediction: A systematic review",
+      "link": "https://vfast.org/journals/index.php/VTSE/article/view/2165",
+      "snippet": "… as Natural Language Processing (NLP) and deep learning models. This review contributes to the … literature on sentiment analysis in the context of the relationship between stocks and …",
+      "publication_info": "A Ehsan, S Habib, A Sohail - VFAST Transactions on Software …, 2025 - vfast.org",
+      "year": 2025,
+      "citation_count": 3
+    },
+    {
+      "rank": 9,
+      "title": "Stock closing price prediction based on sentiment analysis and LSTM",
+      "link": "https://link.springer.com/article/10.1007/s00521-019-04504-2",
+      "snippet": "… In addition, reference [13] also emphasized the important role of emotion in investors’ … sentiment and stock price, few works have considered sentiment analysis for stock prediction, …",
+      "publication_info": "Z Jin, Y Yang, Y Liu - Neural Computing and Applications, 2020 - Springer",
+      "year": 2020,
+      "citation_count": 567
+    },
+    {
+      "rank": 10,
+      "title": "Integrating StockTwits with sentiment analysis for better prediction of stock price movement",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8346382/",
+      "snippet": "… them for Natural Language Processing (NLP) and sentiment analysis. After that we applied SVM in order to predict the sentiment of each tweet. After predicting sentiment we extracted …",
+      "publication_info": "R Batra, SM Daudpota - 2018 international conference on …, 2018 - ieeexplore.ieee.org",
+      "year": 2018,
+      "citation_count": 152
+    }
+  ]
+}

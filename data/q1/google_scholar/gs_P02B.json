@@ -1,0 +1,100 @@
+{
+  "query_id": "P02B",
+  "query": "MEV Ethereum blockchain economics",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T17:58:35Z",
+  "result_count": 10,
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Mev ecosystem evolution from ethereum 1.0",
+      "link": "https://arxiv.org/abs/2406.13585",
+      "snippet": "… Consider Figure 3, which shows Ethereum blocks where MEV extracted by ordering … MEV represents a significant economic incentive for miners or validators in blockchain networks. …",
+      "publication_info": "Y Chaurasia, P Desai, S Gujar - arXiv preprint arXiv:2406.13585, 2024 - arxiv.org",
+      "year": 2024,
+      "citation_count": 6
+    },
+    {
+      "rank": 2,
+      "title": "The future of mev",
+      "link": "https://arxiv.org/abs/2404.04262",
+      "snippet": "… on Ethereum Research, unveiling its potential to revolutionize the Ethereum blockchain’s economic … anism poised to redefine how the Ethereum protocol distributes the value associated …",
+      "publication_info": "J Burian - arXiv preprint arXiv:2404.04262, 2024 - arxiv.org",
+      "year": 2024,
+      "citation_count": 1
+    },
+    {
+      "rank": 3,
+      "title": "Analysis of the Behavior of Ethereum Accounts During an Economic Impact Event",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3745773",
+      "snippet": "… To conduct this work, we collected all transactions performed on the Ethereum blockchain … to categories like Tokens, MEV Bots, and Stablecoins, suggesting that Ethereum’s primary …",
+      "publication_info": "PHFS Oliveira, DM Rezende, SM Villela… - ACM Transactions on …, 2025 - dl.acm.org",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 4,
+      "title": "Economics of ethereum",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0929119924001809",
+      "snippet": "… regarding the Ethereum blockchain protocol, focusing especially on the economic incentives of … Recent protocols such as MEV Blocker 2 or MEV-Share 3 auction off the right to prepare …",
+      "publication_info": "K John, B Monnot, P Mueller, F Saleh… - Journal of Corporate …, 2025 - Elsevier",
+      "year": 2025,
+      "citation_count": 69
+    },
+    {
+      "rank": 5,
+      "title": "Analysis of account behaviors in Ethereum during an economic impact event",
+      "link": "https://arxiv.org/abs/2206.11846",
+      "snippet": "… on the Ethereum cryptocurrency during this event. To … of Ethereum transactions, blocks.flashbots.net provides information aimed at extracting MEV revenues, such as the amount of ether …",
+      "publication_info": "PHFS Oliveira, DM Rezende, HS Bernardino… - arXiv preprint arXiv …, 2022 - arxiv.org",
+      "year": 2022,
+      "citation_count": 6
+    },
+    {
+      "rank": 6,
+      "title": "Price of mev: towards a game theoretical approach to mev",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3560832.3563433",
+      "snippet": "… after the introduction of Flashbots MEV auctions on Ethereum. In [10… MEV opportunities we consider in this paper are limited to the profits a player can obtain by modifying the blockchain …",
+      "publication_info": "B Mazorra, M Reynolds, V Daza - Proceedings of the 2022 ACM cCS …, 2022 - dl.acm.org",
+      "year": 2022,
+      "citation_count": 38
+    },
+    {
+      "rank": 7,
+      "title": "Optimistic mev in ethereum layer 2s: Why blockspace is always in demand",
+      "link": "https://arxiv.org/abs/2506.14768",
+      "snippet": "… of optimistic MEV for the MEV ecosystem and Layer 2 design, highlighting its economic impact … [84] analyze MEV on FCFS blockchains such as Algorand, identifying latency optimization …",
+      "publication_info": "O Solmaz, L Heimbach, Y Vonlanthen… - arXiv preprint arXiv …, 2025 - arxiv.org",
+      "year": 2025,
+      "citation_count": 11
+    },
+    {
+      "rank": 8,
+      "title": "Improving proof of stake economic security via MEV redistribution",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3560832.3564259",
+      "snippet": "… parasitic aspect of economic transactions on blockchains that … that MEV is not always bad for social welfare in crypto networks… of MEV redistribution, a proposed mechanism in Ethereum. …",
+      "publication_info": "T Chitra, K Kulkarni - Proceedings of the 2022 ACM CCS Workshop on …, 2022 - dl.acm.org",
+      "year": 2022,
+      "citation_count": 28
+    },
+    {
+      "rank": 9,
+      "title": "Where Does MEV Really Come From? Revisiting CEXDEX Arbitrage on Ethereum",
+      "link": "https://arxiv.org/abs/2604.15973",
+      "snippet": "… It is acceptable if MEV arises from arbitrages between … and yield profits comparable to MEV. Most prior AMM models … exchange data from the Ethereum blockchain and fit the model …",
+      "publication_info": "B Ladóczk, M Rásonyi, J Tapolcai - arXiv preprint arXiv:2604.15973, 2026 - arxiv.org",
+      "year": 2026,
+      "citation_count": null
+    },
+    {
+      "rank": 10,
+      "title": "The Marginal Effects of Ethereum Network MEV Transaction Re-Ordering",
+      "link": "https://arxiv.org/abs/2508.04003",
+      "snippet": "… The Ethereum blockchain has evolved considerably since it … maximum fee per gas, the economic impact of these transaction … in the price of ETH and gas prices, the economic effects can …",
+      "publication_info": "B Mizrach, N Yoshida - arXiv preprint arXiv:2508.04003, 2025 - arxiv.org",
+      "year": 2025,
+      "citation_count": null
+    }
+  ]
+}

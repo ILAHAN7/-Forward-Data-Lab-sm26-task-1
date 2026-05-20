@@ -1,0 +1,111 @@
+{
+  "query_id": "P09A",
+  "query": "Buy Now Pay Later Regulatory Frameworks: Consumer Protection and Credit Risk",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:06:03Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Buy Now Pay Later Regulatory Frameworks: Consumer Protection and Credit Risk",
+    "year": 2024,
+    "abstract": "We compare BNPL regulatory approaches across the US, EU, and Australia, analyze default risk patterns using transaction-level data, and assess systemic risk from BNPL integration with traditional credit markets.",
+    "domain": [
+      "BNPL",
+      "regulation",
+      "consumer credit",
+      "financial risk"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Regulatory and ethical challenges in AI-driven and machine learning credit risk assessment for Buy Now, Pay Later (BNPL) in US e-commerce: Compliance, fair …",
+      "link": "https://al-kindipublishers.org/index.php/jbms/article/view/8945",
+      "snippet": "… recommendations for policymakers, regulators, and financial … safeguarding consumer protection and financial inclusion. … frameworks and ethical guidelines to protect consumer rights …",
+      "publication_info": "A Mishra, SN Mou, J Ara… - Journal of Business and …, 2025 - al-kindipublishers.org",
+      "year": 2025,
+      "citation_count": 24
+    },
+    {
+      "rank": 2,
+      "title": "Regulating buy now, pay later",
+      "link": "https://www.jstor.org/stable/27264956",
+      "snippet": "… consumer protection laws generated “risks of confusion, overlap, and competition between … On a national level, the development of a regulatory framework for consumer protection …",
+      "publication_info": "S Soni - Columbia Law Review, 2023 - JSTOR",
+      "year": 2023,
+      "citation_count": 37
+    },
+    {
+      "rank": 3,
+      "title": "Buy Now, Pay Later: An Analysis of Consumer Financial Protection Bureau Research and Regulatory Actions",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237925",
+      "snippet": "… Regulation Z to BNPL providers, its subsequent revocation, and the implications for consumer protection and regulatory … introduces risks that challenge traditional regulatory frameworks. …",
+      "publication_info": "D Krause - … Later: An Analysis of Consumer Financial Protection …, 2025 - papers.ssrn.com",
+      "year": 2025,
+      "citation_count": 4
+    },
+    {
+      "rank": 4,
+      "title": "'Buy Now, Pay Later'(BNPL) Payment Services: Opportunities and Legal Challenges for EU Consumers and Businesses",
+      "link": "https://orbilu.uni.lu/handle/10993/60784",
+      "snippet": "… taking into account credit history rather than focusing solely on credit risk. Additionally, most … a stronger consumer protection. However, in a framework of a lax regulatory environment for …",
+      "publication_info": "A Machura-Urbaniak, M Lupinu - … European Consumer and Market Law, 2023 - orbilu.uni.lu",
+      "year": 2023,
+      "citation_count": 9
+    },
+    {
+      "rank": 5,
+      "title": "Use now, regulate later?: The competing regulatory approaches of the buy-now, pay-later sector and consumer protection in Australia",
+      "link": "https://search.informit.org/doi/abs/10.3316/informit.828900691362942",
+      "snippet": "… credit risk as they will receive payment by the bNPL provider shortly following the consumers’ purchase.35 … , this is indicative of a regulatory action by aSic under the existing framework. …",
+      "publication_info": "J Rizk - Victoria University Law and Justice Journal, 2021 - search.informit.org",
+      "year": 2021,
+      "citation_count": 4
+    },
+    {
+      "rank": 6,
+      "title": "Data Privacy in Buy Now Pay Later (BNPL)-A Comprehensive PIA Framework",
+      "link": "https://norma.ncirl.ie/8190/",
+      "snippet": "… We could also extend the research to integrate monitoring measures for continuously evaluating the risk factor as new threats and regulations evolve, as this research focuses only on …",
+      "publication_info": "M Antony - 2025 - norma.ncirl.ie",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 7,
+      "title": "The Regulation of\" Buy Now, Pay Later\" Services in South Carolina in the Absence of Federal Consumer Protection Laws",
+      "link": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/sclr75&section=23",
+      "snippet": "… don't just protect [BNPL lender] from excess risk, we protect our … ] to buy something, you have to ask (or apply, in credit lingo) … , but we still look at your credit situation at that very moment …",
+      "publication_info": "EL Eggleston - SCL Rev., 2023 - HeinOnline",
+      "year": 2023,
+      "citation_count": 1
+    },
+    {
+      "rank": 8,
+      "title": "Buy Now, Pay Later: The New Face of Consumer Credit",
+      "link": "https://www.progressivepolicy.org/wp-content/uploads/2024/08/PPI_Buy-Now-Pay-Later.pdf",
+      "snippet": "… today, buy now, pay later still presents opportunities for risk … By putting in place these regulations, buy now, pay later can continue … Balancing consumer protection, economic growth, …",
+      "publication_info": "A FUNG - … -content/uploads/2024/08/PPI_Buy-Now-Pay-Later …, 2024 - progressivepolicy.org",
+      "year": 2024,
+      "citation_count": 1
+    },
+    {
+      "rank": 9,
+      "title": "Analyzing the impacts of financial services regulation to make the case that buy-now-pay-later regulation is failing",
+      "link": "https://www.mdpi.com/2071-1050/13/4/1992",
+      "snippet": "… this analysis—is the risk of regulatory capture. Institutional and … as “a multi-regulatory framework with strong corporatist … of consumer protection when compared to the National Credit Act. …",
+      "publication_info": "D Johnson, J Rodwell, T Hendry - Sustainability, 2021 - mdpi.com",
+      "year": 2021,
+      "citation_count": 66
+    },
+    {
+      "rank": 10,
+      "title": "Consumer in the buy now, pay later market–Opportunities and threats",
+      "link": "https://www.ceeol.com/search/article-detail?id=1276687",
+      "snippet": "… opportunities and risks related to deferred payments for consumers. As a … of regulations on so-called free credit. These measures are aimed primarily at increasing consumer protection. …",
+      "publication_info": "M Ziemba - Finanse i Prawo Finansowe, 2024 - ceeol.com",
+      "year": 2024,
+      "citation_count": 5
+    }
+  ]
+}

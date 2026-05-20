@@ -1,0 +1,111 @@
+{
+  "query_id": "P24B",
+  "query": "RTGS payment systems systemic risk",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:08:16Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Real-Time Gross Settlement Systems and Systemic Liquidity Risk",
+    "year": 2023,
+    "abstract": "We model intraday liquidity dynamics in RTGS payment systems using agent-based simulation, identifying conditions under which gridlock cascades propagate across settlement participants.",
+    "domain": [
+      "RTGS",
+      "payment systems",
+      "systemic risk",
+      "liquidity"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Using synthetic data to evaluate the impact of RTGS on systemic risk in the Australian payments system",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1572308909000436",
+      "snippet": "… central banks to test the extent of payment system risk, and applies this methodology to an … real time gross settlement (RTGS) had on systemic risk in the Australian payments system. …",
+      "publication_info": "P Docherty, G Wang - Journal of Financial Stability, 2010 - Elsevier",
+      "year": 2010,
+      "citation_count": 35
+    },
+    {
+      "rank": 2,
+      "title": "Systemic risks control as a determinant of payment systems development in WB countries",
+      "link": "http://35.240.28.64/id/eprint/225/",
+      "snippet": "… events, but we will point the case of “double failure of the firewalls surrounding the RTGS processor on 7 July 2008 in UK payment system. When the main firewall at the secondary site, …",
+      "publication_info": "A Bradić-Martinović - 2011 - 35.240.28.64",
+      "year": 2011,
+      "citation_count": 1
+    },
+    {
+      "rank": 3,
+      "title": "Systemic risk in the Angolan interbank payment system–a network approach",
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/00036846.2020.1751052",
+      "snippet": "… system (RTGS) of the Angolan payment system (APS) during the fourth quarter of 2016, with the aim of discussing the APS resilience to systemic risk, … Angolan RTGS payment network is …",
+      "publication_info": "MR Borges, L Ulica, M Gubareva - Applied Economics, 2020 - Taylor & Francis",
+      "year": 2020,
+      "citation_count": 19
+    },
+    {
+      "rank": 4,
+      "title": "The impact of payment system design on tiering incentives",
+      "link": "https://www.researchgate.net/profile/Miguel-Sarmiento-3/publication/261026735_Systemic_risk_in_large_value_payment_systems_in_Colombia_a_network_topology_and_payments_simulation_approach/links/0a85e5330717a73a52000000/Systemic-risk-in-large-value-payment-systems-in-Colombia-a-network-topology-and-payments-simulation-approach.pdf#page=380",
+      "snippet": "… Most central payment systems settle high-value payments on an RTGS basis. This prevents the … However, RTGS systems require participants to hold substantial liquidity in order to make …",
+      "publication_info": "R Arculus, J Hancock, G Moran - 2012 - researchgate.net",
+      "year": 2012,
+      "citation_count": 11
+    },
+    {
+      "rank": 5,
+      "title": "Analysis of systemic risk in multilateral net settlement systems",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1042443199000220",
+      "snippet": "… of the payment system. The payment system operator can reduce systemic risk by imposing … The central bank can provide sufficient liquidity to prevent a systemic collapse but may face …",
+      "publication_info": "S Chakravorti - Journal of International Financial Markets, Institutions …, 2000 - Elsevier",
+      "year": 2000,
+      "citation_count": 45
+    },
+    {
+      "rank": 6,
+      "title": "Liquidity, gridlocks and bank failures in large value payment systems",
+      "link": "https://www.academia.edu/download/43398040/Liquidity_gridlocks_and_bank_failures_in20160305-1507-cl0mpt.pdf",
+      "snippet": "… Settlement in RTGS systems carries no credit risk and thus a low level of systemic risks. The reduction in these risks is however traded against increased liquidity requirements and …",
+      "publication_info": "M Bech, K Soramäki - E-money and Payment Systems Review, 2002 - academia.edu",
+      "year": 2002,
+      "citation_count": 58
+    },
+    {
+      "rank": 7,
+      "title": "The evolution of payment systems",
+      "link": "http://www2.bbweb-arena.com/nakaji8/European%20Financial%20Review%20Feb2012.pdf",
+      "snippet": "… achieves finality earlier, which reduces credit and liquidity risk. On top of this, there is no “systemic risk” in the RTGS systemWith the recognition of increased settlement risk, the central …",
+      "publication_info": "M Nakajima - The European Financial Review, 2012 - bbweb-arena.com",
+      "year": 2012,
+      "citation_count": 26
+    },
+    {
+      "rank": 8,
+      "title": "Reducing systemic risk in payment and securities settlement systems",
+      "link": "https://www.emerald.com/jfrc/article/6/2/107/218378",
+      "snippet": "… systemic risk in payment systems. Secondly, payment systems and securities settlement systems … Since RTGS permits the final transfer of funds at any time during the day (subject to the …",
+      "publication_info": "M Vereecken - Journal of Financial Regulation and Compliance, 1998 - emerald.com",
+      "year": 1998,
+      "citation_count": 3
+    },
+    {
+      "rank": 9,
+      "title": "Risks in Payment Systems, Oversight and Security",
+      "link": "https://link.springer.com/content/pdf/10.1057/9780230227217_4?pdf=chapter%20toc",
+      "snippet": "… to risk and its management within payment systems are subject to several factors: The amounts and volumes involved: we have seen how RTGS systems … • systemic risk: the risk that the …",
+      "publication_info": "D Rambure, A Nacamuli - Payment Systems: From the Salt Mines to the …, 2008 - Springer",
+      "year": 2008,
+      "citation_count": null
+    },
+    {
+      "rank": 10,
+      "title": "Settlement risk in large-value payments systems",
+      "link": "https://www.kansascityfed.org/documents/1191/1997-Settlement%20Risk%20in%20Large-Value%20Payments%20Systems.pdf",
+      "snippet": "… In the example shown in the table, Cedar Bank pays the payment system $10 million at the … major systemic risk concern in an RTGS system is the risk of a liquidity shortage. This risk can …",
+      "publication_info": "P Shen - Economic Review-Federal Reserve Bank of Kansas …, 1997 - kansascityfed.org",
+      "year": 1997,
+      "citation_count": 35
+    }
+  ]
+}

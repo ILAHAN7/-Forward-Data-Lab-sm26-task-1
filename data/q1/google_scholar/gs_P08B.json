@@ -1,0 +1,110 @@
+{
+  "query_id": "P08B",
+  "query": "alternative data credit underwriting financial inclusion",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:05:53Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Alternative Data in Credit Underwriting: Rent Payment History and Telecom Data",
+    "year": 2023,
+    "abstract": "Using a panel of 2 million US consumers, we estimate the incremental predictive value of rent payment and telecom data for credit scoring thin-file borrowers, with implications for financial inclusion.",
+    "domain": [
+      "alternative data",
+      "credit underwriting",
+      "financial inclusion"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Examining the use of alternative data in underwriting and credit scoring to expand access to credit",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481102",
+      "snippet": "… the use of alternative data in credit underwriting and credit scoring to expand access to credit. … traditional bank accounts still rely on alternative financial services outlets. Jason Furman, …",
+      "publication_info": "KN Johnson - Tulane Public Law Research Paper, 2019 - papers.ssrn.com",
+      "year": 2019,
+      "citation_count": 8
+    },
+    {
+      "rank": 2,
+      "title": "Data-Driven Underwriting: Leveraging Alternative Data Sources Responsibly",
+      "link": "https://www.ijetcsit.org/index.php/ijetcsit/article/view/562",
+      "snippet": "… required by traditional credit reporting agencies. This report provides an exhaustive … of alternative data as a primary tool for enhancing predictive accuracy and financial inclusion. It …",
+      "publication_info": "J Ahmad - International Journal of Emerging Trends in Computer …, 2026 - ijetcsit.org",
+      "year": 2026,
+      "citation_count": null
+    },
+    {
+      "rank": 3,
+      "title": "Enhancing Credit Scoring with Alternative Data and Machine Learning for Financial Inclusion",
+      "link": "https://www.researchgate.net/profile/Anil-Kumar-Jonnalagadda/publication/404390753_Enhancing_Credit_Scoring_with_Alternative_Data_and_Machine_Learning_for_Financial_Inclusion/links/69f7149adb00ec75d02e788f/Enhancing-Credit-Scoring-with-Alternative-Data-and-Machine-Learning-for-Financial-Inclusion.pdf",
+      "snippet": "… that machine learning models leveraging alternative data outperform traditional credit scoring methods in terms … risk assessment of the loan applicants and the underwriting processes. …",
+      "publication_info": "JA Kumar, SR Babu - researchgate.net",
+      "year": null,
+      "citation_count": null
+    },
+    {
+      "rank": 4,
+      "title": "AI-Driven Credit Scoring and Alternative Data: Expanding Financial Inclusion and Access to Credit for Underserved Populations",
+      "link": "http://iphopen.org/index.php/ssh/article/view/345",
+      "snippet": "… Research demonstrates that digital credit scoring applications in rural finance environments … enhance financial inclusion by processing alternative data sources that traditional credit …",
+      "publication_info": "N Chitturi - IPHO-Journal of Advance Research in Social Science …, 2025 - iphopen.org",
+      "year": 2025,
+      "citation_count": 4
+    },
+    {
+      "rank": 5,
+      "title": "Advancing financial inclusion and data ethics: the role of alternative credit scoring",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-71412-2_17",
+      "snippet": "… This research investigates alternative data sources and credit… the dynamics between alternative data and credit-scoring … in credit assessments, thereby fostering financial inclusion …",
+      "publication_info": "K Machikape, D Oluwadele - International Conference on Society 5.0, 2024 - Springer",
+      "year": 2024,
+      "citation_count": 13
+    },
+    {
+      "rank": 6,
+      "title": "Harnessing AI and Alternative Data to Enhance Decision-Making in Small Business Lending for Financial Inclusion",
+      "link": "https://www.researchgate.net/profile/Sadi-Badi/publication/384902954_Harnessing_AI_and_Alternative_Data_to_Enhance_Decision-Making_in_Small_Business_Lending_for_Financial_Inclusion/links/670d67eefe22924808ada167/Harnessing-AI-and-Alternative-Data-to-Enhance-Decision-Making-in-Small-Business-Lending-for-Financial-Inclusion.pdf",
+      "snippet": "… Promoting Financial Inclusion One of the most compelling advantages of utilizing alternative data is its potential to promote financial inclusion. … , may lack a robust credit history, making it …",
+      "publication_info": "H Wasif - researchgate.net",
+      "year": null,
+      "citation_count": null
+    },
+    {
+      "rank": 7,
+      "title": "Financial inclusion and alternate credit scoring: Role of big data and machine learning in Fintech",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3507827",
+      "snippet": "… alternate data can be used to assess credit risk of individuals who lack a traditional credit … credit scoring models based on alternative data captured from mobile devices could expand …",
+      "publication_info": "S Agarwal, S Alok, P Ghosh, S Gupta - Indian School of Business, 2019 - papers.ssrn.com",
+      "year": 2019,
+      "citation_count": 162
+    },
+    {
+      "rank": 8,
+      "title": "AI-Driven Credit Scoring and Financial Inclusion: Performance, Fairness, And Transparency in Alternative-Data Lending",
+      "link": "https://www.aijfr.com/papers/2025/6/2229.pdf",
+      "snippet": "… lenders to incorporate richer, consented alternative data into credit assessment, offering a … financial inclusion. This paper evaluates whether AI-driven credit scoring models improve loan …",
+      "publication_info": "AV Dang - AIJFR-Advanced International Journal for Research, 2025 - aijfr.com",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 9,
+      "title": "Beyond FICO: Exploring Alternative Credit Underwriting Practices That Expand Financial Access In Rural, Low-to-Moderate Income Communities",
+      "link": "https://rave.ohiolink.edu/etdc/view?acc_num=dayton1774995094314393",
+      "snippet": "… , and balance financial inclusion with institutional sustainability. … on inclusive lending by demonstrating that financial inclusion and … and widely understood, alternative data such as utility …",
+      "publication_info": "M Barr - 2026 - rave.ohiolink.edu",
+      "year": 2026,
+      "citation_count": null
+    },
+    {
+      "rank": 10,
+      "title": "Using Alternative Data and Machine Learning for Predictive Credit Scoring to Promote Financial Inclusion in the US",
+      "link": "https://www.researchgate.net/profile/Fahad-Ahmed-63/publication/401373631_Using_Alternative_Data_and_Machine_Learning_for_Predictive_Credit_Scoring_to_Promote_Financial_Inclusion_in_the_US/links/69a3b2a0c7bd2e79e78a4e4f/Using-Alternative-Data-and-Machine-Learning-for-Predictive-Credit-Scoring-to-Promote-Financial-Inclusion-in-the-US.pdf",
+      "snippet": "… credit scoring has the potential to reshape financial inclusion in the United States. However, realizing this promise will require addressing data … credit institutions to reduce underwriting …",
+      "publication_info": "AA Sabeena, A Ahmed, S Sharmin, A Hassan… - researchgate.net",
+      "year": null,
+      "citation_count": null
+    }
+  ]
+}

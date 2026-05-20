@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-05-17T01:19:18Z",
+  "run_id": "20260517_011917",
+  "config": {
+    "top_k": 10,
+    "overlap_threshold": 0.85,
+    "currency_cutoff": 2023
+  },
+  "metric_1_overlap": {
+    "mean_overlap_fraction": 0.12,
+    "zero_overlap_queries": 20,
+    "total_queries": 50
+  },
+  "metric_2_topical_hit_rate": {
+    "asta_raw": 0.65,
+    "gs_raw": 0.8,
+    "asta_normalized_GS1": 0.8125
+  },
+  "metric_3_topical_breadth": {
+    "asta_raw": 1.52,
+    "gs_raw": 1.3,
+    "asta_normalized_GS1": 1.1692
+  },
+  "metric_4_currency": {
+    "asta_mean_year": 2022.25,
+    "gs_mean_year": 2022.07,
+    "lift_years_asta_minus_gs": 0.18,
+    "asta_bands": {
+      "2025+": 0.1667,
+      "2023-2024": 0.3835,
+      "2020-2022": 0.3655,
+      "pre-2020": 0.0843
+    },
+    "gs_bands": {
+      "2025+": 0.3673,
+      "2023-2024": 0.2765,
+      "2020-2022": 0.1814,
+      "pre-2020": 0.1748
+    }
+  },
+  "metric_5_citation_influence": {
+    "asta_mean_log": 3.0842,
+    "gs_mean_log": 2.9336,
+    "asta_normalized_GS1": 1.0513
+  },
+  "metric_6_evidence_depth_asta_only": {
+    "section_distribution": {
+      "Abstract": 0.0886,
+      "Other Sections": 0.5168,
+      "Discussion": 0.022,
+      "Conclusion": 0.0823,
+      "Related Work": 0.0307,
+      "Introduction": 0.1889,
+      "Background": 0.0127,
+      "Methods": 0.0255,
+      "Literature Review": 0.0249,
+      "Results": 0.0075
+    },
+    "total_snippets": 1726
+  },
+  "metric_7a_calibration_asta_only": {
+    "calibration_rate": 0.6635,
+    "n_perfectly_relevant_claims": 416,
+    "n_on_topic": 276,
+    "skipped_queries": 0
+  },
+  "metric_7b_summary_coverage_asta_only": {
+    "mean_coverage": 0.4935,
+    "n_scored": 428,
+    "n_skipped": 72
+  },
+  "limitations": "Strict hallucination check on Report mode (claim sampling vs cited papers) and synthesis 1-10 rubric require Report-mode data not collected in this run; deferred as future work."
+}

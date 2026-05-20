@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Q3 Pipeline + Mind Map — Sanity Check (offline)</title>
+
+  <!-- Q3 algorithm + viz modules -->
+  <script src="../extension/lib/parse.js"></script>
+  <script src="../extension/lib/nlp.js"></script>
+  <script src="../extension/lib/thesaurus.js"></script>
+  <script src="../extension/lib/cluster.js"></script>
+  <script src="../extension/lib/label.js"></script>
+  <script src="../extension/lib/visualize.js"></script>
+
+  <link rel="stylesheet" href="../extension/popup.css">
+
+  <style>
+    body { background: #f5f6f8; }
+    h1 { color: #2a4a6b; margin: 12px 14px 6px; font-size: 18px; }
+    .pageControls {
+      background: #fff; padding: 10px 14px; border-bottom: 1px solid #e0e0e0;
+      display: flex; gap: 14px; align-items: center;
+    }
+    .pageControls button {
+      background: #2a4a6b; color: #fff; border: none;
+      padding: 6px 14px; border-radius: 3px; cursor: pointer;
+    }
+    .pageControls button:hover { background: #3a5a7b; }
+    .error { color: #c00; background: #fee; padding: 10px; border-radius: 4px; }
+    pre { font-size: 11px; }
+  </style>
+</head>
+<body>
+
+<h1>Q3 Cluster + Mind Map Pipeline — Sanity Check (offline)</h1>
+
+<div class="pageControls">
+  <label>Sample query: <select id="querySelect"></select></label>
+  <button id="runBtn">Cluster</button>
+  <span id="status" class="status idle">Pick a sample query.</span>
+</div>
+
+<main>
+  <div id="mindmap-container"></div>
+  <aside id="detail">
+    <div class="detail-placeholder">Click a cluster bubble or a paper bubble to inspect.</div>
+  </aside>
+</main>
+
+<script>
+const SAMPLE_IDS = [
+  'P01A','P01B','P02A','P02B','P03A','P03B','P04A','P04B','P05A','P05B',
+  'P06A','P06B','P07A','P07B','P08A','P08B','P09A','P09B','P10A','P10B',
+  'P11A','P11B','P12A','P12B','P13A','P13B','P14A','P14B','P15A','P15B',
+  'P16A','P16B','P17A','P17B','P18A','P18B','P19A','P19B','P20A','P20B',
+  'P21A','P21B','P22A','P22B','P23A','P23B','P24A','P24B','P25A','P25B'
+];
+
+const TOP_K_LABELS = 3;
+const SEC_AFF_THRESHOLD = 0.40;
+
+const sel = document.getElementById('querySelect');
+SAMPLE_IDS.forEach(id => {
+  const o = document.createElement('option');
+  o.value = id; o.textContent = id;
+  sel.appendChild(o);
+});
+
+function setStatus(text, cls) {
+  const el = document.getElementById('status');
+  el.className = 'status ' + (cls || '');
+  el.innerHTML = text;
+}
+
+async function run() {
+  const id = sel.value;
+  const mount = document.getElementById('mindmap-container');
+  const detail = document.getElementById('detail');
+  mount.innerHTML = '';
+  detail.innerHTML = '<div class="detail-placeholder">Click a cluster bubble or a paper bubble to inspect.</div>';
+  setStatus('Loading…', 'idle');
+
+  try {
+    // Try local samples first, then LAB-root /data/q1/asta/.
+    let resp = await fetch(`../data/samples/asta_${id}.json`).catch(() => null);
+    if (!resp || !resp.ok) {
+      resp = await fetch(`../../../data/q1/asta/asta_${id}.json`);
+    }
+    if (!resp.ok) throw new Error(`Failed to load asta_${id}.json: ${resp.status}`);
+    const data = await resp.json();
+
+    const t0 = performance.now();
+    const parsed = AstaParse.parseAstaResponse(data);
+    const conceptBags = parsed.papers.map(p =>
+      AstaThesaurus.normalizeAll(AstaNLP.extractConcepts(p.clusterText))
+    );
+    const vocab = AstaCluster.buildVocabulary(conceptBags);
+    const vectors = AstaCluster.computeTFIDF(conceptBags, vocab);
+    const targetCount = AstaCluster.autoTargetCount(parsed.papers.length);
+    const clusters = AstaCluster.clusterToTarget(vectors, targetCount);
+    const labels = AstaLabel.computeClusterLabels(conceptBags, clusters, vocab, TOP_K_LABELS);
+    const affinities = AstaCluster.computeAffinities(vectors, clusters);
+    const elapsed = (performance.now() - t0).toFixed(0);
+
+    setStatus(
+      `<b>${parsed.papers.length}</b> papers · <b>${clusters.length}</b> clusters ` +
+      `(target ${targetCount}) · <b>${Object.keys(vocab).length}</b> concepts · ${elapsed} ms`,
+      'ok'
+    );
+
+    AstaViz.renderMindMap(parsed, clusters, labels, affinities, mount, {
+      secAffThreshold: SEC_AFF_THRESHOLD,
+      width: 880,
+      height: 600
+    });
+  } catch (e) {
+    mount.innerHTML = `<div class="error">Error: ${escapeHtml(e.message)}<br><pre>${escapeHtml(e.stack)}</pre></div>`;
+    setStatus('Error', 'warn');
+  }
+}
+
+function escapeHtml(s) {
+  return String(s||'').replace(/[<>&"]/g, c => ({'<':'&lt;','>':'&gt;','&':'&amp;','"':'&quot;'}[c]));
+}
+
+document.getElementById('runBtn').addEventListener('click', run);
+sel.addEventListener('change', run);
+window.addEventListener('DOMContentLoaded', run);
+</script>
+
+</body>
+</html>

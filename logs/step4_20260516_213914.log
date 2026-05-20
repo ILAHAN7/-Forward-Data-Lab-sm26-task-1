@@ -1,0 +1,57 @@
+2026-05-16 21:39:14 [INFO] ============================================================
+2026-05-16 21:39:14 [INFO] STEP 4 — Score Asta vs Google Scholar (P / C / F / S)
+2026-05-16 21:39:14 [INFO] Run ID : 20260516_213914
+2026-05-16 21:39:14 [INFO] Top-K  : 10
+2026-05-16 21:39:14 [INFO] ============================================================
+2026-05-16 21:39:14 [INFO] Loaded queries     : 50 from /sessions/modest-eager-feynman/mnt/LAB/data/q1/queries.json
+2026-05-16 21:39:15 [INFO] Loaded Asta results: 50
+2026-05-16 21:39:15 [INFO] Loaded GS   results: 50
+2026-05-16 21:39:15 [INFO] ------------------------------------------------------------
+2026-05-16 21:39:15 [INFO] Metric 1/4 — Precision
+2026-05-16 21:39:15 [INFO]   Computing Precision for asta ...
+2026-05-16 21:39:15 [INFO]     Type A hit rate : 0.040  (1/25)
+2026-05-16 21:39:15 [INFO]     Type B mean     : 0.476  (25 queries)
+2026-05-16 21:39:15 [INFO]   Computing Precision for google_scholar ...
+2026-05-16 21:39:15 [INFO]     Type A hit rate : 0.040  (1/25)
+2026-05-16 21:39:15 [INFO]     Type B mean     : 0.872  (25 queries)
+2026-05-16 21:39:15 [INFO] ------------------------------------------------------------
+2026-05-16 21:39:15 [INFO] Metric 2/4 — Currency
+2026-05-16 21:39:15 [INFO]   Computing Currency  for asta ...
+2026-05-16 21:39:15 [INFO]     Mean Currency   : 0.548  (cutoff year 2023)
+2026-05-16 21:39:15 [INFO]   Computing Currency  for google_scholar ...
+2026-05-16 21:39:15 [INFO]     Mean Currency   : 0.600  (cutoff year 2023)
+2026-05-16 21:39:15 [INFO] ------------------------------------------------------------
+2026-05-16 21:39:15 [INFO] Metric 3/4 — Faithfulness (Asta only)
+2026-05-16 21:39:15 [INFO]   Computing Faithfulness for asta (TF-IDF) ...
+2026-05-16 21:39:18 [INFO]     Mean Faithfulness: 0.427  (50 queries scored)
+2026-05-16 21:39:18 [INFO] ------------------------------------------------------------
+2026-05-16 21:39:18 [INFO] Metric 4/4 — Synthesis Coherence
+2026-05-16 21:39:18 [WARNING]     sentence-transformers unavailable (ModuleNotFoundError); using TF-IDF fallback
+2026-05-16 21:39:18 [INFO]   Computing Synthesis  for asta ...
+2026-05-16 21:39:18 [INFO]     Mean Synthesis   : 0.900  (50 queries)
+2026-05-16 21:39:18 [INFO]   Computing Synthesis  for google_scholar ...
+2026-05-16 21:39:18 [INFO]     Mean Synthesis   : 0.849  (47 queries)
+2026-05-16 21:39:18 [INFO] ------------------------------------------------------------
+2026-05-16 21:39:18 [INFO] Aggregating ...
+2026-05-16 21:39:18 [INFO]   final_scores.csv : 350 rows
+2026-05-16 21:39:18 [INFO]   summary.json     : saved
+2026-05-16 21:39:18 [INFO] ------------------------------------------------------------
+2026-05-16 21:39:18 [INFO] Generating figures ...
+2026-05-16 21:39:21 [INFO] generated new fontManager
+2026-05-16 21:39:22 [INFO]   4 PNG files saved to /sessions/modest-eager-feynman/mnt/LAB/reports/q1/results/figures
+2026-05-16 21:39:22 [INFO] ============================================================
+2026-05-16 21:39:22 [INFO] RUN SUMMARY — step4_score
+2026-05-16 21:39:22 [INFO] ============================================================
+2026-05-16 21:39:22 [INFO]   Top-K            : 10
+2026-05-16 21:39:22 [INFO]   Currency cutoff  : year >= 2023
+2026-05-16 21:39:22 [INFO]   Embedder         : tfidf
+2026-05-16 21:39:22 [INFO] 
+2026-05-16 21:39:22 [INFO]   By engine — mean metric scores:
+2026-05-16 21:39:22 [INFO]               engine   precision    currency  faithfulness   synthesis
+2026-05-16 21:39:22 [INFO]                 Asta      0.2580      0.5480        0.4275      0.8996
+2026-05-16 21:39:22 [INFO]       Google Scholar      0.4560      0.6000        n/a         0.7978
+2026-05-16 21:39:22 [INFO] 
+2026-05-16 21:39:22 [INFO]   Elapsed          : 7.8s
+2026-05-16 21:39:22 [INFO]   Reports dir      : /sessions/modest-eager-feynman/mnt/LAB/reports/q1
+2026-05-16 21:39:22 [INFO]   Log file         : /sessions/modest-eager-feynman/mnt/LAB/logs/step4_20260516_213914.log
+2026-05-16 21:39:22 [INFO] ============================================================

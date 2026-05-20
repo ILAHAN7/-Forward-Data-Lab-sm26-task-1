@@ -1,0 +1,19 @@
+{
+  "query_id": "P03A",
+  "query": "Smart Contract Vulnerability Detection Using Graph Neural Networks",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T17:58:40Z",
+  "result_count": 1,
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Smart contract vulnerability detection using graph neural networks",
+      "link": "https://www.ijcai.org/Proceedings/2020/0454.pdf",
+      "snippet": "The security problems of smart contracts have drawn extensive attention due to the enormous financial losses caused by vulnerabilities. Existing methods on smart contract vulnerability detection heavily rely on fixed expert rules, leading to low detection accuracy. In this paper, we explore using graph neural networks (GNNs) for smart contract vulnerability detection. Particularly, we construct a contract graph to represent both syntactic and semantic structures of a smart contract function. To highlight the major nodes, we design an elimination phase to normalize the graph. Then, we propose a degree-free graph convolutional neural network (DR-GCN) and a novel temporal message propagation network (TMP) to learn from the normalized graphs for vulnerability detection. Extensive experiments show that our proposed approach significantly outperforms state-of-the-art methods in detecting three different types of vulnerabilities.",
+      "publication_info": "Y Zhuang, Z Liu, P Qian, Q Liu, X Wang, Q HeProceedings of the twenty-ninth international conference on international joint …, 2021•ijcai.org",
+      "year": 2021,
+      "citation_count": 557
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "query_id": "P25B",
+  "query": "LLM financial NLP regulatory reporting",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:08:41Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Large Language Models for Financial Document Understanding and Regulatory Reporting",
+    "year": 2024,
+    "abstract": "We benchmark GPT-4, LLaMA, and FinLLM on XBRL regulatory filing extraction, SEC 10-K question answering, and Basel III capital ratio computation tasks, analyzing hallucination rates in financial contexts.",
+    "domain": [
+      "LLM",
+      "financial NLP",
+      "regulatory reporting",
+      "XBRL",
+      "hallucination"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Susgen-gpt: A data-centric llm for financial nlp and sustainability report generation",
+      "link": "https://aclanthology.org/2025.findings-naacl.66/",
+      "snippet": "… general finance and ESG domains, such as generating ESG reports. … seven financial NLP tasks and ESG report generation. In … financial statements for a discussion of rate and regulatory …",
+      "publication_info": "Q Wu, X Xiang, H Hejia, X Wang, YW Jie… - Findings of the …, 2025 - aclanthology.org",
+      "year": 2025,
+      "citation_count": 13
+    },
+    {
+      "rank": 2,
+      "title": "Impact of EU non-financial reporting regulation on Spanish companies' environmental disclosure: a cutting-edge natural language processing approach",
+      "link": "https://link.springer.com/article/10.1186/s12302-025-01067-z",
+      "snippet": "… To this end, this paper presents a novel approach to evaluating environmental disclosure by utilizing cutting-edge NLP techniques, chiefly ClimateBERT (a transformer-LLM developed …",
+      "publication_info": "J Villacampa-Porta, M Coronado-Vaca… - Environmental Sciences …, 2025 - Springer",
+      "year": 2025,
+      "citation_count": 25
+    },
+    {
+      "rank": 3,
+      "title": "Evaluating Large Language Models (LLMs) in Financial NLP: A Comparative Study on Financial Report Analysis",
+      "link": "https://arxiv.org/abs/2507.22936",
+      "snippet": "… Our work makes the following three contributions: (i) We test how sensitive LLM is to the … industries, or by other regulatory reports, such as MD&A or 10-Q reports. The small sample size …",
+      "publication_info": "MT Mohsin - arXiv preprint arXiv:2507.22936, 2025 - arxiv.org",
+      "year": 2025,
+      "citation_count": 4
+    },
+    {
+      "rank": 4,
+      "title": "LLMs for Financial Document Processing",
+      "link": "https://ijaidsml.org/index.php/ijaidsml/article/view/392",
+      "snippet": "… LLM architecture, which makes use of financial reports to … design, ie the natural language processing and deep learning … based on regulatory filings, sustainability reports and corporate …",
+      "publication_info": "VSN Kanikanti - International Journal of Artificial Intelligence, Data …, 2024 - ijaidsml.org",
+      "year": 2024,
+      "citation_count": 2
+    },
+    {
+      "rank": 5,
+      "title": "LLM-ENHANCED NLP PIPELINES FOR AUTOMATED FINANCIAL DOCUMENT PROCESSING AND MARKET SIGNAL EXTRACTION",
+      "link": "https://www.researchgate.net/profile/Oghenevwede-Ogheneochuko/publication/400236063_LLM-ENHANCED_NLP_PIPELINES_FOR_AUTOMATED_FINANCIAL_DOCUMENT_PROCESSING_AND_MARKET_SIGNAL_EXTRACTION/links/697c0ac57247bc6473dc8688/LLM-ENHANCED-NLP-PIPELINES-FOR-AUTOMATED-FINANCIAL-DOCUMENT-PROCESSING-AND-MARKET-SIGNAL-EXTRACTION.pdf",
+      "snippet": "… Model (LLM)-enhanced NLP pipeline designed for automated financial document processing … , and document summarization across heterogeneous financial sources. By integrating …",
+      "publication_info": "R Lawson, J Nicole, F Jones - researchgate.net",
+      "year": null,
+      "citation_count": null
+    },
+    {
+      "rank": 6,
+      "title": "Ai-driven regulatory compliance: Transforming financial oversight through large language models and automation",
+      "link": "https://www.researchgate.net/profile/Hariharan-Pappil-Kothandapani-2/publication/388231248_AI-Driven_Regulatory_Compliance_Transforming_Financial_Oversight_through_Large_Language_Models_and_Automation/links/679050de1ec9f9589f573906/AI-Driven-Regulatory-Compliance-Transforming-Financial-Oversight-through-Large-Language-Models-and-Automation.pdf",
+      "snippet": "… regulatory updates leverage natural language processing to rapidly analyze, interpret, and disseminate new regulatory … An LLM processes the document, extracts the relevant clauses, …",
+      "publication_info": "HP Kothandapani - Emerging Science Research, 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": 64
+    },
+    {
+      "rank": 7,
+      "title": "Applications of Large Language Models in the Innovative Analysis of Economic and Accounting Documentation: A Systematic Review of Recent Advances and …",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-032-00549-6_40",
+      "snippet": "… , reproducibility, and regulatory compliance. We suggest … Recent advances in natural language processing (NLP), particularly … The surge in LLM adoption for financial statement analysis …",
+      "publication_info": "D Trachova, V Trachov, O Demchuk… - … Conference on Business …, 2025 - Springer",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 8,
+      "title": "Generative Large Language Models in Clinical, Legal and Financial Domains",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-88988-2_9",
+      "snippet": "… In relation to NLP, generative LLM models can produce … With the generative power of LLM, NLP can now be used to … to have compliance with financial regulations. Providing real …",
+      "publication_info": "G Garg, S Bhatt - … Natural Language Processing: Bridging Ambiguity in …, 2025 - Springer",
+      "year": 2025,
+      "citation_count": 2
+    },
+    {
+      "rank": 9,
+      "title": "Semantic Understanding Meets Financial Decision Support: A Review of LLM-Augmented Analysis of Unstructured Financial Reports",
+      "link": "https://www.techrxiv.org/doi/full/10.36227/techrxiv.175825794.48682435",
+      "snippet": "… refining prompts to ensure accurate financial terminology and regulatory compliance. Figure 2 … multiple financial NLP dimensions, particularly in accuracy and regulatory compliance for …",
+      "publication_info": "TS Reams, A Carter, J Nguyen - Authorea Preprints, 2025 - techrxiv.org",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 10,
+      "title": "TrustLLM-Fin: A Privacy-Centric and Auditable Impact Assessment Framework for Large Language Models in Automated Financial Reporting",
+      "link": "https://www.preprints.org/manuscript/202601.1596",
+      "snippet": "… Strikingly, a standard general-purpose LLM scored a TS of … metrology that connects abstract regulatory mandates, such … Research in financial natural language processing has evolved …",
+      "publication_info": "Y Chen, L Song, Z Liu, J Yao, K Liu, Q Liao - 2026 - preprints.org",
+      "year": 2026,
+      "citation_count": 1
+    }
+  ]
+}

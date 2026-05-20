@@ -1,0 +1,111 @@
+{
+  "query_id": "P22B",
+  "query": "cyber risk operational risk Bayesian networks",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:59Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Cyber Risk Quantification for Financial Institutions Using Bayesian Networks",
+    "year": 2023,
+    "abstract": "We develop a Bayesian network model for quantifying operational cyber risk in banking, calibrated on FDIC loss data and publicly disclosed breach events, and estimate cyber VaR for stress testing.",
+    "domain": [
+      "cyber risk",
+      "operational risk",
+      "Bayesian networks",
+      "banking"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Modeling operational risk with Bayesian networks",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1539-6975.2007.00235.x",
+      "snippet": "… interaction between operational risk variables, … : Bayesian networks. Using an idealized example of a fictitious on line business, we construct a Bayesian network that models various risk …",
+      "publication_info": "RG Cowell, RJ Verrall, YK Yoon - Journal of Risk and …, 2007 - Wiley Online Library",
+      "year": 2007,
+      "citation_count": 194
+    },
+    {
+      "rank": 2,
+      "title": "Bayesian network based dynamic operational risk assessment",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0950423015300759",
+      "snippet": "… proposes a risk assessment methodology for dynamic systems based on Bayesian network, … of variables over time by the dynamic Bayesian network. This study proposes to develop …",
+      "publication_info": "S Barua, X Gao, H Pasman, MS Mannan - Journal of Loss Prevention in the …, 2016 - Elsevier",
+      "year": 2016,
+      "citation_count": 191
+    },
+    {
+      "rank": 3,
+      "title": "A Bayesian networks approach to operational risk",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0378437109010577",
+      "snippet": "… Operational Risk management based on the computational paradigm of Bayesian Networks … The algorithm allows the construction of a Bayesian Network targeted for each bank and …",
+      "publication_info": "V Aquaro, M Bardoscia, R Bellotti, A Consiglio… - Physica A: Statistical …, 2010 - Elsevier",
+      "year": 2010,
+      "citation_count": 60
+    },
+    {
+      "rank": 4,
+      "title": "Development of a cyber security risk model using Bayesian networks",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0951832014002464",
+      "snippet": "… be used for cyber security evaluation is required. In this work, a cyber security risk model based on a Bayesian network is suggested for evaluating cyber security for nuclear facilities in …",
+      "publication_info": "J Shin, H Son, G Heo - Reliability Engineering & System Safety, 2015 - Elsevier",
+      "year": 2015,
+      "citation_count": 154
+    },
+    {
+      "rank": 5,
+      "title": "A hybrid approach combining Bayesian networks and logistic regression for enhancing risk assessment",
+      "link": "https://www.nature.com/articles/s41598-025-10291-9",
+      "snippet": "… The Bayesian Network model developed in this study can yield short-term forecasts of the probabilities of cyber risk events. Concerning the nine scenarios delineated in Section BT …",
+      "publication_info": "X Wei, Y Dong - Scientific Reports, 2025 - nature.com",
+      "year": 2025,
+      "citation_count": 12
+    },
+    {
+      "rank": 6,
+      "title": "Modeling operational risk in financial institutions using hybrid dynamic Bayesian networks",
+      "link": "https://www.researchgate.net/profile/Martin-Neil-2/publication/228356143_Modelling_Operational_Risk_in_Financial_Institutions_using_Hybrid_Dynamic_Bayesian_Networks/links/00b7d53c3c3ca54205000000/Modelling-Operational-Risk-in-Financial-Institutions-using-Hybrid-Dynamic-Bayesian-Networks.pdf",
+      "snippet": "… This paper describes the use of Hybrid Dynamic Bayesian Networks (HDBNs) to model operational risk in an AMA context. The approach focuses on causeeffect modelling including …",
+      "publication_info": "M Neil, D Hager, LB Andersen - Journal of Operational Risk, 2009 - researchgate.net",
+      "year": 2009,
+      "citation_count": 68
+    },
+    {
+      "rank": 7,
+      "title": "Using Bayesian networks to model the operational risk to information technology infrastructure in financial institutions",
+      "link": "https://www.academia.edu/download/43928904/Using_Bayesian_networks_to_model_the_ope20160320-19907-1xlmf8z.pdf",
+      "snippet": "… This paper describes the use of Bayesian networks (BNs) to model the operational risk to … might result from operational risk scenarios involving data centers and operational locations, …",
+      "publication_info": "N Fenton - 2008 - academia.edu",
+      "year": 2008,
+      "citation_count": 35
+    },
+    {
+      "rank": 8,
+      "title": "A fuzzy probability Bayesian network approach for dynamic cybersecurity risk assessment in industrial control systems",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8093698/",
+      "snippet": "… risk assessment. First, an FPBN is established for analysis and prediction of the propagation of cybersecurity risks… probabilities used in standard Bayesian networks are replaced in our …",
+      "publication_info": "Q Zhang, C Zhou, YC Tian, N Xiong… - IEEE Transactions on …, 2017 - ieeexplore.ieee.org",
+      "year": 2017,
+      "citation_count": 236
+    },
+    {
+      "rank": 9,
+      "title": "Operational risk modelling and organizational learning in structured finance operations: A Bayesian network approach",
+      "link": "https://www.tandfonline.com/doi/abs/10.1057/jors.2013.49",
+      "snippet": "… in this paper is a Bayesian network model that encapsulates the probabilistic and causal features of the domain. The design of the model's network structure was developed and …",
+      "publication_info": "A Sanford, I Moosa - Journal of the Operational Research Society, 2015 - Taylor & Francis",
+      "year": 2015,
+      "citation_count": 73
+    },
+    {
+      "rank": 10,
+      "title": "Modeling dependencies in operational risk with hybrid Bayesian networks",
+      "link": "https://link.springer.com/article/10.1007/s11009-007-9066-y",
+      "snippet": "… risk classes. We represent the operational risk taxonomy by hybrid Bayesian networks (BNs)… for modeling causal relationships between internal and external risk drivers. Specifically, we …",
+      "publication_info": "S Mittnik, I Starobinskaya - Methodology and Computing in Applied …, 2010 - Springer",
+      "year": 2010,
+      "citation_count": 36
+    }
+  ]
+}

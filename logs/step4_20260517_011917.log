@@ -1,0 +1,43 @@
+2026-05-17 01:19:17 [INFO] ==============================================================
+2026-05-17 01:19:17 [INFO] STEP 4 — Q1 evaluation (v2)
+2026-05-17 01:19:17 [INFO] Run ID: 20260517_011917
+2026-05-17 01:19:17 [INFO] ==============================================================
+2026-05-17 01:19:17 [INFO] queries=50, asta=50, gs=50
+2026-05-17 01:19:17 [INFO] Metric 1/7 — Overlap
+2026-05-17 01:19:18 [INFO]     Mean overlap: 0.1200, zero-overlap queries: 20
+2026-05-17 01:19:18 [INFO] Metric 2&3/7 — Topical Hit Rate + Breadth
+2026-05-17 01:19:18 [INFO]   Topical for asta ...
+2026-05-17 01:19:18 [INFO]   Topical for google_scholar ...
+2026-05-17 01:19:18 [INFO] Metric 4/7 — Currency
+2026-05-17 01:19:18 [INFO]   Currency for asta ...
+2026-05-17 01:19:18 [INFO]   Currency for google_scholar ...
+2026-05-17 01:19:18 [INFO] Metric 5/7 — Citation Influence
+2026-05-17 01:19:18 [INFO]   Citation for asta ...
+2026-05-17 01:19:18 [INFO]   Citation for google_scholar ...
+2026-05-17 01:19:18 [INFO] Metric 6/7 — Evidence Depth (Asta-only)
+2026-05-17 01:19:18 [INFO]     1726 snippets, top: Other Sections 51.7%, Introduction 18.9%, Abstract 8.9%
+2026-05-17 01:19:18 [INFO] Metric 7a/7 — Self-Confidence Calibration (Asta-only)
+2026-05-17 01:19:18 [INFO]     'Perfectly Relevant' claims: 416, on-topic: 276 (66.3%), skipped: 0
+2026-05-17 01:19:18 [INFO] Metric 7b/7 — Summary Concept Coverage (Asta-only)
+2026-05-17 01:19:18 [INFO]     Papers scored: 428, mean coverage: 0.4935
+2026-05-17 01:19:18 [INFO] final_scores.csv: 499 rows
+2026-05-17 01:19:18 [INFO] Generating figures ...
+2026-05-17 01:19:20 [INFO] 6 figures saved
+2026-05-17 01:19:20 [INFO] ==============================================================
+2026-05-17 01:19:20 [INFO] RUN SUMMARY — step4_score (v2)
+2026-05-17 01:19:20 [INFO] ==============================================================
+2026-05-17 01:19:20 [INFO]   Run ID            : 20260517_011917
+2026-05-17 01:19:20 [INFO]   Top-K             : 10
+2026-05-17 01:19:20 [INFO]   Overlap threshold : 0.85
+2026-05-17 01:19:20 [INFO]   [1] Mean Overlap        : 0.12  (zero-overlap: 20/50)
+2026-05-17 01:19:20 [INFO]   [2] Topical Hit Rate    : Asta 0.6500  GS 0.8000  -> Asta/GS = 0.8125
+2026-05-17 01:19:20 [INFO]   [3] Topical Breadth     : Asta 1.52/8  GS 1.30/8  -> Asta/GS = 1.1692
+2026-05-17 01:19:20 [INFO]   [4] Currency mean year  : Asta 2022.25  GS 2022.07  -> lift = 0.18 years
+2026-05-17 01:19:20 [INFO]   [5] Citation mean log   : Asta 3.0842  GS 2.9336  -> Asta/GS = 1.0513
+2026-05-17 01:19:20 [INFO]   [6] Evidence            : 1726 snippets, top: Other Sections 52%, Introduction 19%, Abstract 9%
+2026-05-17 01:19:20 [INFO]   [7a] Calibration        : 0.6635  (276/416)
+2026-05-17 01:19:20 [INFO]   [7b] Summary Coverage   : 0.4935  (n=428)
+2026-05-17 01:19:20 [INFO]   Elapsed                 : 3.2s
+2026-05-17 01:19:20 [INFO]   Outputs                 : /sessions/modest-eager-feynman/mnt/LAB/reports/q1
+2026-05-17 01:19:20 [INFO]   Log                     : /sessions/modest-eager-feynman/mnt/LAB/logs/step4_20260517_011917.log
+2026-05-17 01:19:20 [INFO] ==============================================================

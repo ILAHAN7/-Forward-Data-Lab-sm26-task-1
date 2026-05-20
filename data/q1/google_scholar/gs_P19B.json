@@ -1,0 +1,112 @@
+{
+  "query_id": "P19B",
+  "query": "AML network analysis NLP",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:36Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Anti-Money Laundering Compliance Using Network Analysis and NLP",
+    "year": 2024,
+    "abstract": "We combine transaction graph analysis with NLP processing of SWIFT message narratives to identify money laundering typologies, reducing false positive rates by 60% compared to rule-based systems.",
+    "domain": [
+      "AML",
+      "network analysis",
+      "NLP",
+      "compliance",
+      "SWIFT"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "NextGen AML: Distributed deep learning based language technologies to augment anti money laundering investigation",
+      "link": "https://aclanthology.org/P18-4007/",
+      "snippet": "… ation AML by applying and visualizing deep learning-driven natural language processing (NLP) technologies in a distributed and scalable manner to augment AML monitoring and …",
+      "publication_info": "J Han, U Barman, J Hayes, J Du… - Proceedings of ACL …, 2018 - aclanthology.org",
+      "year": 2018,
+      "citation_count": 66
+    },
+    {
+      "rank": 2,
+      "title": "Designing a relational model to identify relationships between suspicious customers in anti-money laundering (AML) using social network analysis (SNA)",
+      "link": "https://link.springer.com/article/10.1186/s40537-021-00411-3",
+      "snippet": "… artificial intelligence, machine learning including our Social Network Analysis (SNA) based solutions. As our study utilises social network functions to identify groups involved in the …",
+      "publication_info": "AK Shaikh, M Al-Shamli, A Nazir - Journal of Big Data, 2021 - Springer",
+      "year": 2021,
+      "citation_count": 45
+    },
+    {
+      "rank": 3,
+      "title": "Network Analytics for Anti-money Laundering—A Systematic Literature Review and Experimental Evaluation",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/ijds.2024.0042",
+      "snippet": "… We conclude (1) that network analytics increases the … neural networks in the face of class imbalance and network topology … for the analysis and evaluation of network analytics for AML. …",
+      "publication_info": "B Deprez, T Vanderschueren… - … Journal on Data …, 2025 - pubsonline.informs.org",
+      "year": 2025,
+      "citation_count": 33
+    },
+    {
+      "rank": 4,
+      "title": "Complex networks-based anomaly detection for financial transactions in anti-money laundering",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2666281725001453",
+      "snippet": "… based on complex network techniques to support investigating financial transactions of individuals suspected of money laundering. The study includes analyses for anomaly detection, …",
+      "publication_info": "RMA Oliveira, AMO Sant'Anna, PH Ferreira - Forensic Science International …, 2025 - Elsevier",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 5,
+      "title": "A semantic network analysis of laundering drug money",
+      "link": "https://journals.docuracy.co.uk/jota/article/view/138",
+      "snippet": "… were reconstructed from the textual data, using the natural language processing techniques … Moreover, the international anti-money-laundering regime is only weakly based on scientific …",
+      "publication_info": "M Neumann, N Sartor - Journal of Tax Administration, 2016 - journals.docuracy.co.uk",
+      "year": 2016,
+      "citation_count": 19
+    },
+    {
+      "rank": 6,
+      "title": "Unveiling Hidden Money Laundering Networks: The Application of Graph Neural Networks in Financial Transaction Analysis",
+      "link": "https://www.researchgate.net/profile/Oluwabukola-Tiamiyu-2/publication/398103130_Unveiling_Hidden_Money_Laundering_Networks_The_Application_of_Graph_Neural_Networks_in_Financial_Transaction_Analysis/links/692a4ce0a130337711c04209/Unveiling-Hidden-Money-Laundering-Networks-The-Application-of-Graph-Neural-Networks-in-Financial-Transaction-Analysis.pdf",
+      "snippet": "… information, traditional network analysis tools often struggled with … and precise approach to anti-money laundering (AML). … modalities, such as natural language processing for analyzing …",
+      "publication_info": "OR Tiamiyu - Journal of Computational Analysis and Applications, 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": 11
+    },
+    {
+      "rank": 7,
+      "title": "Artificial intelligence for anti-money laundering: a review and extension",
+      "link": "https://link.springer.com/article/10.1007/s42521-020-00023-1",
+      "snippet": "… AML and extend the discussion by proposing a framework that utilizes advanced natural language processing … Network analysis in the AML research field typically refers to those studies …",
+      "publication_info": "J Han, Y Huang, S Liu, K Towey - Digital Finance, 2020 - Springer",
+      "year": 2020,
+      "citation_count": 176
+    },
+    {
+      "rank": 8,
+      "title": "Detecting anomalous cryptocurrency transactions: An AML/CFT application of machine learning-based forensics",
+      "link": "https://link.springer.com/article/10.1007/s12525-023-00654-3",
+      "snippet": "… , AML/CFT analytics could benefit from novel graph analysis … Networks (GCN) and Graph Attention Networks (GAT). … GAT neural network typologies are promising solutions for AML/…",
+      "publication_info": "N Pocher, M Zichichi, F Merizzi, MZ Shafiq, S Ferretti - Electronic Markets, 2023 - Springer",
+      "year": 2023,
+      "citation_count": 145
+    },
+    {
+      "rank": 9,
+      "title": "Integrating Natural Language Processing (NLP) in AML Compliance and Monitoring",
+      "link": "https://www.researchgate.net/profile/Rajarshi-Roy-16/publication/380972184_Integrating_Natural_Language_Processing_NLP_in_AML_Compliance_and_Monitoring/links/6657c6030b0d284574651f16/Integrating-Natural-Language-Processing-NLP-in-AML-Compliance-and-Monitoring.pdf",
+      "snippet": "… of Natural Language Processing (NLP) technology in Anti-Money Laundering (AML) … This paper explores the role of NLP in enhancing AML compliance processes, automating …",
+      "publication_info": "R Roy, P Banerjee - … Journal on Recent and Innovation Trends in …, 2023 - researchgate.net",
+      "year": 2023,
+      "citation_count": 2
+    },
+    {
+      "rank": 10,
+      "title": "Scalable graph learning for anti-money laundering: A first look",
+      "link": "https://arxiv.org/abs/1812.00076",
+      "snippet": "… AML methods, current and emergent. We provide a first look at scalable graph convolutional neural networks for forensic analysis of … Natural Language Processing (NLP) is a newer tool …",
+      "publication_info": "M Weber, J Chen, T Suzumura, A Pareja, T Ma… - arXiv preprint arXiv …, 2018 - arxiv.org",
+      "year": 2018,
+      "citation_count": 184
+    }
+  ]
+}

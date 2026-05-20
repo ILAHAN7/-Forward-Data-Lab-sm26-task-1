@@ -1,0 +1,110 @@
+{
+  "query_id": "P14B",
+  "query": "reinforcement learning portfolio optimization algorithmic trading",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:03Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Deep Reinforcement Learning for Portfolio Optimization Under Transaction Costs",
+    "year": 2023,
+    "abstract": "We formulate multi-asset portfolio optimization as a Markov Decision Process and train a proximal policy optimization agent that learns to trade while minimizing transaction costs and maximizing risk-adjusted returns.",
+    "domain": [
+      "reinforcement learning",
+      "portfolio optimization",
+      "algorithmic trading"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Deep reinforcement learning in quantitative algorithmic trading: A review",
+      "link": "https://arxiv.org/abs/2106.00123",
+      "snippet": "… challenges that reinforcement learning faces when dealing with financial trading: data quality … proposed approach to a larger portfolio, even from our own experiments doing algorithmic …",
+      "publication_info": "TV Pricope - arXiv preprint arXiv:2106.00123, 2021 - arxiv.org",
+      "year": 2021,
+      "citation_count": 121
+    },
+    {
+      "rank": 2,
+      "title": "Deep robust reinforcement learning for practical algorithmic trading",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8786132/",
+      "snippet": "… Meanwhile, risk management and portfolio management are … algorithmic trading using deep robust reinforcement learning, … The framework is more suitable for the practical trading …",
+      "publication_info": "Y Li, W Zheng, Z Zheng - IEEE Access, 2019 - ieeexplore.ieee.org",
+      "year": 2019,
+      "citation_count": 228
+    },
+    {
+      "rank": 3,
+      "title": "A mean-VaR based deep reinforcement learning framework for practical algorithmic trading",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10076454/",
+      "snippet": "… reinforcement learning in financial trading. As mentioned in the introduction, the algorithms used in financial trading … pects:First, we build a portfolio optimization model solved by an …",
+      "publication_info": "B Jin - IEEE Access, 2023 - ieeexplore.ieee.org",
+      "year": 2023,
+      "citation_count": 26
+    },
+    {
+      "rank": 4,
+      "title": "An application of deep reinforcement learning to algorithmic trading",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0957417421000737",
+      "snippet": "… reinforcement learning (DRL) to solve the algorithmic trading problem of determining the optimal trading position at any point in time during a trading … It proposes a novel DRL trading …",
+      "publication_info": "T Théate, D Ernst - Expert systems with applications, 2021 - Elsevier",
+      "year": 2021,
+      "citation_count": 355
+    },
+    {
+      "rank": 5,
+      "title": "MetaTrader: An reinforcement learning approach integrating diverse policies for portfolio optimization",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3511808.3557363",
+      "snippet": "… trading environment is challenging for RL algorithms. Furthermore, learning via optimizing a … On the other hand, extracting trading knowledge from various expert datasets might help …",
+      "publication_info": "H Niu, S Li, J Li - Proceedings of the 31st ACM international conference …, 2022 - dl.acm.org",
+      "year": 2022,
+      "citation_count": 72
+    },
+    {
+      "rank": 6,
+      "title": "Intelligent algorithmic trading strategy using reinforcement learning and directional change",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9514595/",
+      "snippet": "… Thus, RL methods learn to change actions to maximize future … an algorithmic trading strategy using a machine learning … portfolio trading system: A riskreturn portfolio optimization …",
+      "publication_info": "ME Aloud, N Alkhamees - IEEE Access, 2021 - ieeexplore.ieee.org",
+      "year": 2021,
+      "citation_count": 63
+    },
+    {
+      "rank": 7,
+      "title": "AI and Reinforcement Learning in Algorithmic Trading: Optimizing Market Execution, Liquidity, and Risk Exposure",
+      "link": "https://www.researchgate.net/profile/Precious-Orekha/publication/389652844_AI_AND_REINFORCEMENT_LEARNING_IN_ALGORITHMIC_TRADING_OPTIMIZING_MARKET_EXECUTION_LIQUIDITY_AND_RISK_EXPOSURE/links/67e21675e2c0ea36cd9df8d8/AI-and-Reinforcement-Learning-in-Algorithmic-Trading-Optimizing-Market-Execution-Liquidity-and-Risk-Exposure.pdf",
+      "snippet": "… algorithmic trading, focusing on its evolution, challenges, and future prospects. By exploring reinforcement learning and deep learning … high-frequency trading and portfolio optimization …",
+      "publication_info": "PO Orekha - International Research Journal of Modernization in …, 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 8,
+      "title": "Prediction and portfolio optimization in quantitative trading using machine learning techniques",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3287921.3287963",
+      "snippet": "… This work studies core components of a quantitative trading system. Machine learning offers a number of important advantages over traditional algorithmic trading. With …",
+      "publication_info": "VD Ta, CM Liu, D Addis - … of the 9th International Symposium on …, 2018 - dl.acm.org",
+      "year": 2018,
+      "citation_count": 48
+    },
+    {
+      "rank": 9,
+      "title": "FinRL: Deep reinforcement learning framework to automate trading in quantitative finance",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3490354.3494366",
+      "snippet": "… On the application layer, users map an algorithmic trading … that features Deep Reinforcement Learning in finance for all-… algorithms, finance tasks (portfolio allocation, cryptocurrency …",
+      "publication_info": "XY Liu, H Yang, J Gao, CD Wang - Proceedings of the second ACM …, 2021 - dl.acm.org",
+      "year": 2021,
+      "citation_count": 234
+    },
+    {
+      "rank": 10,
+      "title": "Performance functions and reinforcement learning for trading systems and portfolios",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-131X(1998090)17:5/6%3C441::AID-FOR707%3E3.0.CO;2-%23",
+      "snippet": "… propose to use reinforcement learning algorithms (on-line learning methods that … optimize such trading system performance functions.* When transactions costs are included, the trading …",
+      "publication_info": "J Moody, L Wu, Y Liao, M Saffell - Journal of forecasting, 1998 - Wiley Online Library",
+      "year": 1998,
+      "citation_count": 484
+    }
+  ]
+}

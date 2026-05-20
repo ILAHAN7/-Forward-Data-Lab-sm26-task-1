@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Asta Cluster Mind Map</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+
+<header>
+  <div class="title-row">
+    <h2>Asta Cluster Mind Map</h2>
+    <div class="toolbar">
+      <label class="ctrl">
+        <span class="ctrl-label">Clusters</span>
+        <input type="range" id="clusterSlider" min="3" max="20" value="5">
+        <span id="clusterCountLabel" class="ctrl-value">5</span>
+      </label>
+      <input type="search" id="filterInput"
+             class="ctrl filter-input"
+             placeholder="Filter papers (title / author)…">
+      <button id="reloadBtn" title="Re-fetch the latest rich data from Asta">Reload</button>
+    </div>
+  </div>
+  <div id="status" class="status idle">
+    Waiting for Asta search results — run a query at <code>asta.allen.ai/chat</code>.
+  </div>
+</header>
+
+<main>
+  <div class="mindmap-area">
+    <div id="mindmap-container"></div>
+    <div class="zoom-controls" role="toolbar" aria-label="Zoom controls">
+      <button id="zoomInBtn"  title="Zoom in (mouse wheel up)">+</button>
+      <button id="zoomOutBtn" title="Zoom out (mouse wheel down)">&minus;</button>
+      <button id="zoomFitBtn" title="Reset zoom &amp; pan">&#x2922;</button>
+    </div>
+    <div class="zoom-hint">Wheel to zoom · drag to pan</div>
+  </div>
+  <aside id="detail">
+    <div class="detail-placeholder">Click a cluster bubble or a paper bubble to inspect.</div>
+  </aside>
+</main>
+
+<!-- Algorithm modules -->
+<script src="lib/parse.js"></script>
+<script src="lib/nlp.js"></script>
+<script src="lib/thesaurus.js"></script>
+<script src="lib/cluster.js"></script>
+<script src="lib/label.js"></script>
+<script src="lib/visualize.js"></script>
+<script src="popup.js"></script>
+
+</body>
+</html>

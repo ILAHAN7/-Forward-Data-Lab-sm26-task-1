@@ -1,0 +1,111 @@
+{
+  "query_id": "P11B",
+  "query": "federated learning fraud detection differential privacy",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:06:27Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Federated Learning for Cross-Institutional Financial Fraud Detection with Differential Privacy",
+    "year": 2024,
+    "abstract": "We develop a federated learning framework allowing banks to collaboratively train fraud detection models without sharing customer data, using DP-SGD to provide formal privacy guarantees.",
+    "domain": [
+      "federated learning",
+      "fraud detection",
+      "differential privacy",
+      "finance"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Transparency and privacy: the role of explainable ai and federated learning in financial fraud detection",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10509682/",
+      "snippet": "… This data imbalance can affect the performance or reliability of the fraud detection model. Moreover, due to the data privacy laws that all financial institutions are subject to follow, …",
+      "publication_info": "T Awosika, RM Shukla, B Pranggono - IEEE access, 2024 - ieeexplore.ieee.org",
+      "year": 2024,
+      "citation_count": 232
+    },
+    {
+      "rank": 2,
+      "title": "Federated learning and data privacy: A review of challenges and opportunities",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086425",
+      "snippet": "… of federated learning (FL) and data privacy. Federated learning is a distributed machine learning paradigm enabling collaborative model training across decentralized devices without …",
+      "publication_info": "PK Myakala, AK Jonnalagadda… - International Journal of …, 2024 - papers.ssrn.com",
+      "year": 2024,
+      "citation_count": 63
+    },
+    {
+      "rank": 3,
+      "title": "GuardianAI: Privacy-preserving federated anomaly detection with differential privacy",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590005625000086",
+      "snippet": "… privacy and scalability, making federated learning a promising alternative. However, … , a novel federated anomaly detection framework that incorporates advanced differential privacy …",
+      "publication_info": "A Alabdulatif - Array, 2025 - Elsevier",
+      "year": 2025,
+      "citation_count": 27
+    },
+    {
+      "rank": 4,
+      "title": "Starlit: Privacy-preserving federated learning to enhance financial fraud detection",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11336591/",
+      "snippet": "… Unlike the scheme in [3], which depends on an adhoc approach to preserve data privacy during training, our solution, Starlit, uses SecureBoost, a well-known scheme. Thus, compared …",
+      "publication_info": "A Abadi, M Naseri, B Doyle, F Gini… - … Federated Learning …, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": 54
+    },
+    {
+      "rank": 5,
+      "title": "Differential Privacy Federated Graph Based Fraud Detection",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-96-5318-8_58",
+      "snippet": "… differential privacy federated fake review detection framework, called FGFD (Federated Graph Fraud Detection)… a federated learning framework to address related problems in the field of …",
+      "publication_info": "X Deng, Y Dai, T Zhang - … on Frontiers of Electronics, Information and …, 2024 - Springer",
+      "year": 2024,
+      "citation_count": null
+    },
+    {
+      "rank": 6,
+      "title": "Financial fraud recognition model based on privacy preserving and federated learning",
+      "link": "https://bit.kuas.edu.tw/~jni/2024/vol9/s4/27.JNI-S-2024-01-023.pdf",
+      "snippet": "… framework, this paper proposes a differential privacy-preserving federated meta-learning … for financial fraud. The model objective is to train the metamodel collaboratively using data …",
+      "publication_info": "QX Liu, JG Zhang, B Tan - Journal of Network Intelligence, 2024 - bit.kuas.edu.tw",
+      "year": 2024,
+      "citation_count": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ffd: A federated learning based method for credit card fraud detection",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-23551-2_2",
+      "snippet": "… fraud detection system. First, we focus on a fraud detection system which can protect the data privacy, … A federated fraud detection framework with data balance approach is proposed to …",
+      "publication_info": "W Yang, Y Zhang, K Ye, L Li, CZ Xu - International conference on big data, 2019 - Springer",
+      "year": 2019,
+      "citation_count": 377
+    },
+    {
+      "rank": 8,
+      "title": "Federated learning with differential privacy: Algorithms and performance analysis",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9069945/",
+      "snippet": "… In this paper, to effectively prevent information leakage, we propose a novel framework based on the concept of differential privacy (DP), in which artificial noise is added to parameters …",
+      "publication_info": "K Wei, J Li, M Ding, C Ma, HH Yang… - IEEE transactions on …, 2020 - ieeexplore.ieee.org",
+      "year": 2020,
+      "citation_count": 3175
+    },
+    {
+      "rank": 9,
+      "title": "Privacy-preserving financial anomaly detection via federated learning & multi-party computation",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10918128/",
+      "snippet": "… to jointly train accurate anomaly detection models. Our framework combines federated learning with multiparty computation and noisy aggregates inspired by differential privacy. This …",
+      "publication_info": "S Arora, A Beams, P Chatzigiannis… - 2024 annual …, 2024 - ieeexplore.ieee.org",
+      "year": 2024,
+      "citation_count": 28
+    },
+    {
+      "rank": 10,
+      "title": "Privacy-Preserving Anomaly Detection in Cloud Services Using Hierarchical Federated Learning with Differential Privacy",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11484374/",
+      "snippet": "… a hierarchical federated learning framework with local differential privacy for anomaly detection … ● We design a three-tier hierarchical federated learning architecture where clients apply …",
+      "publication_info": "S Li, B Chen, Y Li, Z Wang, Y Xue… - … Symposium on Big Data …, 2026 - ieeexplore.ieee.org",
+      "year": 2026,
+      "citation_count": 5
+    }
+  ]
+}

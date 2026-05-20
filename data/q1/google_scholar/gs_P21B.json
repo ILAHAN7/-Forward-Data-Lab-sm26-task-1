@@ -1,0 +1,111 @@
+{
+  "query_id": "P21B",
+  "query": "insurtech parametric insurance smart contracts",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:51Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Parametric Insurance Smart Contracts for Climate Risk Using Satellite Data",
+    "year": 2024,
+    "abstract": "We design and simulate parametric crop insurance contracts on Ethereum that automatically trigger payouts when NDVI satellite indices fall below drought thresholds, eliminating claims adjustment costs.",
+    "domain": [
+      "insurtech",
+      "parametric insurance",
+      "smart contracts",
+      "climate risk"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Blockchain, smart contracts and parametric insurance: Made for each other",
+      "link": "https://www.crowell.com/a/web/p9UpZkvqJfgPbV3otnXXoy/4TtkFW/20181116-blockchain-smart-contracts-and-parametric-insurance-made-for-each-other.pdf",
+      "snippet": "… Parametric insurance has been characterized as the “lowesthanging fruit” that will benefit from smart contracts … a blockchainbased, parametric insurance smart contract is that it lends …",
+      "publication_info": "LA Foggan, CE Cwiertny - 2018 - crowell.com",
+      "year": 2018,
+      "citation_count": 6
+    },
+    {
+      "rank": 2,
+      "title": "Smart Contracts and the'Oracle Problem'in the Context of InsurTech",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390271",
+      "snippet": "… fundamental idea underlying the use of smart contracts in InsurTech is that the verification of the … only parametric insurance is a viable candidate for blockchain-based smart contracts. …",
+      "publication_info": "E Mik - European Insurance Contract Law: The Promises and …, 2023 - papers.ssrn.com",
+      "year": 2023,
+      "citation_count": 5
+    },
+    {
+      "rank": 3,
+      "title": "Collaborative and parametric insurance on the Ethereum blockchain",
+      "link": "https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/collaborative-and-parametric-insurance-on-the-ethereum-blockchain/3370B52F68FB52707D9B0F8F838B4A4C",
+      "snippet": "… of parametric insurance, we refer the reader to the press article by Clere (2022) in InsurTech … This article proposes a framework for a smart contract suited to parametric insurance and …",
+      "publication_info": "PO Goffard, S Loisel - ASTIN Bulletin: The Journal of the IAA, 2026 - cambridge.org",
+      "year": 2026,
+      "citation_count": 5
+    },
+    {
+      "rank": 4,
+      "title": "Smart contracts in insurance: a law and futurology perspective",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-27386-6_5",
+      "snippet": "… for the application of smart contracts in insurance both in the … identifying potential applications of smart contracts in the near-… Footnote 28 Moreover, index-based agricultural insurance …",
+      "publication_info": "A Borselli - InsurTech: A Legal and Regulatory View, 2019 - Springer",
+      "year": 2019,
+      "citation_count": 75
+    },
+    {
+      "rank": 5,
+      "title": "Smart contracts and the “Oracle Problem” in the context of InsurTech",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-96496-1_12",
+      "snippet": "… fundamental idea underlying the use of smart contracts in InsurTech is that the verification of the … , parametric insurance is the only viable candidate for blockchain-based smart contracts. …",
+      "publication_info": "E Mik - European Insurance Law within the Digital Age, 2025 - Springer",
+      "year": 2025,
+      "citation_count": 2
+    },
+    {
+      "rank": 6,
+      "title": "Smart Contracts and Blockchain: The Next Frontier in Trustworthy P&C Insurance",
+      "link": "https://www.researchgate.net/profile/Pavan-Kumar-Gollapudi/publication/390990227_Application_Programming_Interface_Native_Cryptocurrency_API3/links/68070510df0e3f544f444f33/Application-Programming-Interface-Native-Cryptocurrency-API3.pdf",
+      "snippet": "… smart contractbased insurance products, namely parametric and microinsurance policies. Lemonade and InsurTech … driven by artificial intelligence, parametric insurance, and blockchain…",
+      "publication_info": "RG Subbian, PK Gollapudi - 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 7,
+      "title": "Parametric insurance",
+      "link": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003319054-6/parametric-insurance-wynne-lawrence-julie-anne-tarr-nigel-brook-meg-chaperon-arnaud-sorel",
+      "snippet": "… the insured to its customers under a “take or pay”27 system. For instance, a solar energy provider’s parametric insurance … the blockchain/smart contract/parametric interface. The policy, …",
+      "publication_info": "W Lawrence, JA Tarr, N Brook… - The global insurance …, 2023 - taylorfrancis.com",
+      "year": 2023,
+      "citation_count": 12
+    },
+    {
+      "rank": 8,
+      "title": "Smart Contracts in Insurance Law",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-96496-1_11",
+      "snippet": "… Footnote 34 As an example, Etherisc, an insurtech startup, aims to speed up insurance … during disasters, and parametric insurance models may allow insurance underwriters to pool risks…",
+      "publication_info": "A Durovic Simikic - European Insurance Law within the Digital Age, 2025 - Springer",
+      "year": 2025,
+      "citation_count": 3
+    },
+    {
+      "rank": 9,
+      "title": "Smart contracts: balancing innovation and consumer protection in insurance law and regulation",
+      "link": "https://www.elgaronline.com/abstract/book/9781802205893/chapter22.xml",
+      "snippet": "… makes smart contracts technology particularly suitable for deployment in parametric insurance … are based on the differences between InsurTech-driven insurance markets and traditional …",
+      "publication_info": "M Goldby, J Okonjo - … Handbook on International Insurance Law …, 2023 - elgaronline.com",
+      "year": 2023,
+      "citation_count": 3
+    },
+    {
+      "rank": 10,
+      "title": "Smart Contracts and Al in Insurance: Legal Implications Under",
+      "link": "https://books.google.com/books?hl=en&lr=&id=SxjFEQAAQBAJ&oi=fnd&pg=PA259&dq=insurtech+parametric+insurance+smart+contracts&ots=LCDtUvTN2U&sig=O3Rg7StiWNS0oSoHztXE1pYhXto",
+      "snippet": "… , blockchain, and AI is revolutionizing insurance by boosting … how smart contracts can be effectively adopted in insurance … enforceability, use in parametric and marine insurance, and the …",
+      "publication_info": "C Law, EU Al Act - Legal and Regulatory Impacts on AI …, 2026 - books.google.com",
+      "year": 2026,
+      "citation_count": null
+    }
+  ]
+}

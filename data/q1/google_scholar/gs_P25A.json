@@ -1,0 +1,112 @@
+{
+  "query_id": "P25A",
+  "query": "Large Language Models for Financial Document Understanding and Regulatory Reporting",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:08:20Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Large Language Models for Financial Document Understanding and Regulatory Reporting",
+    "year": 2024,
+    "abstract": "We benchmark GPT-4, LLaMA, and FinLLM on XBRL regulatory filing extraction, SEC 10-K question answering, and Basel III capital ratio computation tasks, analyzing hallucination rates in financial contexts.",
+    "domain": [
+      "LLM",
+      "financial NLP",
+      "regulatory reporting",
+      "XBRL",
+      "hallucination"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Large language model in financial regulatory interpretation",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10772991/",
+      "snippet": "… This novel approach aims to streamline the implementation of regulatory mandates within the financial reporting and risk management systems of global banking institutions. A case …",
+      "publication_info": "Z Cao, Z Feinstein - … on Computational Intelligence for Financial …, 2024 - ieeexplore.ieee.org",
+      "year": 2024,
+      "citation_count": 31
+    },
+    {
+      "rank": 2,
+      "title": "Ai-driven regulatory compliance: Transforming financial oversight through large language models and automation",
+      "link": "https://www.researchgate.net/profile/Hariharan-Pappil-Kothandapani-2/publication/388231248_AI-Driven_Regulatory_Compliance_Transforming_Financial_Oversight_through_Large_Language_Models_and_Automation/links/679050de1ec9f9589f573906/AI-Driven-Regulatory-Compliance-Transforming-Financial-Oversight-through-Large-Language-Models-and-Automation.pdf",
+      "snippet": "… role of Large Language Models (LLMs) in interpreting and implementing complex regulatory … Reports show that financial institutions implementing AI for compliance management can …",
+      "publication_info": "HP Kothandapani - Emerging Science Research, 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": 64
+    },
+    {
+      "rank": 3,
+      "title": "Applications of Large Language Models in the Innovative Analysis of Economic and Accounting Documentation: A Systematic Review of Recent Advances and …",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-032-00549-6_40",
+      "snippet": "… examines how Large Language Models (LLMs) have transformed financial statement analysis by … by companies in regulatory filings such as annual reports (Form 10-K) and quarterly …",
+      "publication_info": "D Trachova, V Trachov, O Demchuk… - … Conference on Business …, 2025 - Springer",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 4,
+      "title": "Integrating Large Language Models and Knowledge Graphs for Intelligent Financial Regulatory Risk Identification",
+      "link": "https://pspress.org/index.php/tcsm/article/view/303",
+      "snippet": "… , the integration of large language models and knowledge graphs for financial regulatory risk … Knowledge-augmented financial market analysis and report generation[C]//Proceedings of …",
+      "publication_info": "Y Wang - Transactions on Computational and Scientific Methods, 2024 - pspress.org",
+      "year": 2024,
+      "citation_count": 11
+    },
+    {
+      "rank": 5,
+      "title": "Generative Large Language Models in Clinical, Legal and Financial Domains",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-88988-2_9",
+      "snippet": "… used for generating reports of financial analysis and predicting market trends and future risks. Automatization of drafting work and summarization of legal documents has unburdened …",
+      "publication_info": "G Garg, S Bhatt - … Natural Language Processing: Bridging Ambiguity in …, 2025 - Springer",
+      "year": 2025,
+      "citation_count": 2
+    },
+    {
+      "rank": 6,
+      "title": "Towards automated regulatory compliance verification in financial auditing with large language models",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10386518/",
+      "snippet": "… current state-ofthe-art Large Language Models can be deployed in an auditing setting to validate the compliance of financial report passages with regulatory standards. To evaluate this, …",
+      "publication_info": "A Berger, L Hillebrand, D Leonhard… - … Conference on Big …, 2023 - ieeexplore.ieee.org",
+      "year": 2023,
+      "citation_count": 53
+    },
+    {
+      "rank": 7,
+      "title": "Large Language Models for Automated Financial Code Generation and Documentation in Data Pipelines",
+      "link": "https://www.ijetcsit.org/index.php/ijetcsit/article/view/372",
+      "snippet": "… strict regulatory compliance and risk management standards [1][2]. Financial data pipelines … calculations for risk assessment and regulatory reporting, and maintain detailed audit trails …",
+      "publication_info": "N Paladugu - International Journal of Emerging Trends in Computer …, 2023 - ijetcsit.org",
+      "year": 2023,
+      "citation_count": null
+    },
+    {
+      "rank": 8,
+      "title": "FinBERT: A large language model for extracting information from financial text",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1911-3846.12832",
+      "snippet": "… incorporates finance knowledge and can better summarize contextual information in financial texts. Using a sample of researcher-labeled sentences from analyst reports, we document …",
+      "publication_info": "AH Huang, H Wang, Y Yang - Contemporary Accounting …, 2023 - Wiley Online Library",
+      "year": 2023,
+      "citation_count": 1042
+    },
+    {
+      "rank": 9,
+      "title": "Integrating AI-powered knowledge graphs and NLP for intelligent interpretation, summarization, and cross-border financial reporting harmonization",
+      "link": "https://www.researchgate.net/profile/Olumide-Ikumapayi/publication/393509566_Integrating_AI-powered_knowledge_graphs_and_NLP_for_intelligent_interpretation_summarization_and_cross-border_financial_reporting_harmonization/links/686d79a892697d42903dda1b/Integrating-AI-powered-knowledge-graphs-and-NLP-for-intelligent-interpretation-summarization-and-cross-border-financial-reporting-harmonization.pdf",
+      "snippet": "… -the-art NLP models like transformers and domain-specific large language models (LLMs), … , and summarize financial disclosures, audit reports, and regulatory filings. These capabilities …",
+      "publication_info": "O Badmus, OJ Ikumapayi, RO Toromade… - World Journal of …, 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": 5
+    },
+    {
+      "rank": 10,
+      "title": "Large language models in finance: An overview",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-96-5833-6_1",
+      "snippet": "… from complex financial documents. They explored how LLMs could be fine-tuned to generate coherent summaries from regulatory filings and market analysis reports. Utilizing datasets …",
+      "publication_info": "PMS Choi, SH Huang, Q Wang - Finance and Large Language Models, 2025 - Springer",
+      "year": 2025,
+      "citation_count": 4
+    }
+  ]
+}

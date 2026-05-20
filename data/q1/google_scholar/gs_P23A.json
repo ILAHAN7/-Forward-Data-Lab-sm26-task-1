@@ -1,0 +1,112 @@
+{
+  "query_id": "P23A",
+  "query": "Open Banking API Adoption and Consumer Financial Outcomes: Evidence from PSD2",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:08:03Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Open Banking API Adoption and Consumer Financial Outcomes: Evidence from PSD2",
+    "year": 2024,
+    "abstract": "Using transaction-level data from the EU Payment Services Directive 2 rollout, we estimate the causal effect of open banking API adoption on consumer saving behavior, credit access, and financial literacy.",
+    "domain": [
+      "open banking",
+      "PSD2",
+      "API",
+      "consumer finance",
+      "policy"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Open Banking: Application difficulties & API security, under PSD2.",
+      "link": "https://www.diva-portal.org/smash/get/diva2:1793048/FULLTEXT01.pdf",
+      "snippet": "… culty of applying the PSD2 directive in their institution as long as the security level of the Open banking APIs. This work analyzes the struggles that financial institutions had to overcome …",
+      "publication_info": "E Tsanakas - 2023 - diva-portal.org",
+      "year": 2023,
+      "citation_count": 4
+    },
+    {
+      "rank": 2,
+      "title": "Secure API Product Design for Open Banking and PSD2 Compliant Platforms",
+      "link": "https://famousjournalsgroup.com/index.php/fjcst/article/view/53",
+      "snippet": "… data leakage, and service disruption in open financial ecosystems. This paper examines secure api product design principles tAIlored for open banking and psd2-compliant platforms. It …",
+      "publication_info": "E Victor - Famous Journal of computer science and …, 2025 - famousjournalsgroup.com",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 3,
+      "title": "Open Banking and APIs: Research on how open banking frameworks and APIs are reshaping the financial ecosystem",
+      "link": "https://www.researchgate.net/profile/Amer-Mohammed-17/publication/390410273_Open_Banking_and_APIs_Research_on_how_open_banking_frameworks_and_APIs_are_reshaping_the_financial_ecosystem/links/67ecd69476d4923a1aee846a/Open-Banking-and-APIs-Research-on-how-open-banking-frameworks-and-APIs-are-reshaping-the-financial-ecosystem.pdf",
+      "snippet": "… Banks under PSD2 and Open Banking Standard rules must … open banking regulations which the Consumer Financial … its tamper-proof nature blockchain preserves open bank APIs data …",
+      "publication_info": "A Mohammed - International Journal of Advances in Engineering …, 2024 - researchgate.net",
+      "year": 2024,
+      "citation_count": 20
+    },
+    {
+      "rank": 4,
+      "title": "Open Banking and the API Economy: Transforming the Financial Services Landscape",
+      "link": "https://books.google.com/books?hl=en&lr=&id=OE2CEQAAQBAJ&oi=fnd&pg=PA42&dq=Open+Banking+API+Adoption+and+Consumer+Financial+Outcomes:+Evidence+from+PSD2&ots=hpZ4MGjHUI&sig=rEoM5_dIybNM-u71rN77nWAleE8",
+      "snippet": "… operating across jurisdictions face a patchwork of Open Banking laws (eg, PSD2 in EU, CDR in Australia, AA in India). Aligning operations with multiple regulatory standards can be …",
+      "publication_info": "M Padia - FinTech-Innovations, Opportunities and Challenges, 2025 - books.google.com",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 5,
+      "title": "The API economy and digital transformation in financial services: The case of open banking",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2975199",
+      "snippet": "… underpinning open banking in the UK. In contrast to PSD2, the Open Banking initiative in the … and development of the required APIs, as well as the security and messaging standards. …",
+      "publication_info": "M Zachariadis, P Ozcan - 2017 - papers.ssrn.com",
+      "year": 2017,
+      "citation_count": 397
+    },
+    {
+      "rank": 6,
+      "title": "The evolution of open banking: Transforming financial services with data-driven technologies",
+      "link": "https://pubs.aip.org/aip/acp/article-abstract/3306/1/030026/3348787",
+      "snippet": "… Open Banking Initiative, reflecting several objectives of PSD2. The project mandated the nine major banks in the UK to create open APIs … using access to consumer financial data. Unlike …",
+      "publication_info": "NA Khamitdkhanovich, C Senthilkumar… - AIP Conference …, 2025 - pubs.aip.org",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 7,
+      "title": "Open banking Api implementation: Implications for financial services competition and innovation",
+      "link": "https://wikep.net/index.php/IJEFE/article/view/134",
+      "snippet": "… of Open Banking APIs in the UK through PSD2 has increased the fintech market share to 14% of total financial … While in Brazil, Banco Central implemented Open Banking Brasil which …",
+      "publication_info": "R Fitriana, L Judijanto - INTERNATIONAL JOURNAL OF FINANCIAL …, 2025 - wikep.net",
+      "year": 2025,
+      "citation_count": 3
+    },
+    {
+      "rank": 8,
+      "title": "Open Banking and APIs: Revolutionizing Financial Data Access and Innovation in the US Financial Sector",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5104845",
+      "snippet": "… Challenges in the US Regulatory Landscape for Open Banking Adoption … landscape for Open Banking adoption in the US Unlike the comprehensive Payment Services Directive (PSD2) …",
+      "publication_info": "R Kopperapu - Available at SSRN 5104845, 2024 - papers.ssrn.com",
+      "year": 2024,
+      "citation_count": 5
+    },
+    {
+      "rank": 9,
+      "title": "State of open banking in India and UK",
+      "link": "https://knowledge.lancashire.ac.uk/id/eprint/52899/",
+      "snippet": "… enabling secure access to customer financial data. The primary … Open banking can range from basic compliance with PSD2 … empirical evidence on the impact of open banking policies in …",
+      "publication_info": "A Khan, V Murinde, R Mcgarrell, T Arun, V Goel… - 2024 - knowledge.lancashire.ac.uk",
+      "year": 2024,
+      "citation_count": 3
+    },
+    {
+      "rank": 10,
+      "title": "Open banking & banking-as-a-service (BaaS): a delicate turnout for the banking sector",
+      "link": "https://search.proquest.com/openview/d9d2743d7ea61b91cb6e45fc40c685b2/1?pq-origsite=gscholar&cbl=7100262",
+      "snippet": "… Following the UK Open Banking initiative5 and the PSD2, open banking regulatory initiatives have … (eg the PSD2).Open banking is about sharing data and using APIs with other parties; …",
+      "publication_info": "A Atabey - Global privacy law review, 2021 - search.proquest.com",
+      "year": 2021,
+      "citation_count": 19
+    }
+  ]
+}

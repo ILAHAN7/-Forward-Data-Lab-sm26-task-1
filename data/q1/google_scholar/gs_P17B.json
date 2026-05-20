@@ -1,0 +1,111 @@
+{
+  "query_id": "P17B",
+  "query": "CBDC cross-border payments interoperability",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:21Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Cross-Border CBDC Interoperability: Technical Standards and Geopolitical Implications",
+    "year": 2023,
+    "abstract": "We survey cross-border CBDC initiatives (mBridge, Project Dunbar) and evaluate the role of technical interoperability standards (ISO 20022, atomic swaps) in shaping dollar hegemony under digital currency regimes.",
+    "domain": [
+      "CBDC",
+      "cross-border payments",
+      "interoperability",
+      "geopolitics"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Towards cross-border CBDC interoperability: insights from a multivocal literature review",
+      "link": "https://www.emerald.com/jeim/article-abstract/36/5/1296/206415",
+      "snippet": "… that showcase the BIS models for CBDC cross-border interoperability and cross-border payments. We selected one project per BIS CBDC interoperability model, specifically those that …",
+      "publication_info": "M Themistocleous, P Rupino da Cunha… - Journal of Enterprise …, 2023 - emerald.com",
+      "year": 2023,
+      "citation_count": 79
+    },
+    {
+      "rank": 2,
+      "title": "Interoperability of CBDCs: Optimising Cross-Border Settlements through the lens of national and international regulation",
+      "link": "https://www.researchgate.net/profile/Vladyslav-Kamyshanskyi/publication/390940697_Interoperability_of_CBDCs_Optimising_Cross-Border_Settlements_through_the_lens_of_national_and_international_regulation/links/68036503df0e3f544f42ce73/Interoperability-of-CBDCs-Optimising-Cross-Border-Settlements-through-the-lens-of-national-and-international-regulation.pdf",
+      "snippet": "… options for CBDC interoperability in cross-border payments, … proposed: compatibility (separate CBDC systems adopting … , and operational components between CBDC systems), and a …",
+      "publication_info": "V Kamyshanskyi - Scientific Journal of the National Academy of …, 2025 - researchgate.net",
+      "year": 2025,
+      "citation_count": 4
+    },
+    {
+      "rank": 3,
+      "title": "Interoperability of CBDCs: Optimising Cross-Border Settlements through the lens of national and international regulation. Інтероперабельність CBDC: оптимізація …",
+      "link": "https://elar.navs.edu.ua/items/5ff6c2f0-e092-4b7b-9172-8aa5414cacb8",
+      "snippet": "… options for CBDC interoperability in cross-border payments, … proposed: compatibility (separate CBDC systems adopting … , and operational components between CBDC systems), and a …",
+      "publication_info": "В Камишанський - 2025 - elar.navs.edu.ua",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 4,
+      "title": "Digitalization of cross-border payments",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/17538963.2020.1870272",
+      "snippet": "… CBDC could be used for cross-border payments in different ways. A domestic CBDC could be used directly for payments from… to interoperate to facilitate cross-border and cross-currency …",
+      "publication_info": "D He - China Economic Journal, 2021 - Taylor & Francis",
+      "year": 2021,
+      "citation_count": 41
+    },
+    {
+      "rank": 5,
+      "title": "Towards digital money interoperability: Data governance coordination for cross-border payments",
+      "link": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/hujil45&section=11",
+      "snippet": "… by the CBDC. Central banks and governments have made some efforts for cross-border payment … Cross-border data sharing is crucial in the international proliferation and acceptance of …",
+      "publication_info": "S Li - Hous. J. Int'l L., 2022 - HeinOnline",
+      "year": 2022,
+      "citation_count": 8
+    },
+    {
+      "rank": 6,
+      "title": "CBDC Interoperability for Cross-Border Transactions Technical and Regulatory Perspectives",
+      "link": "http://openviewjournal.com/index.php/mira/article/view/43",
+      "snippet": "… CBDC initiatives focus primarily on domestic financial inclusion and settlement efficiency, the lack of standardized interoperability … of CBDC interoperability for cross-border transactions, …",
+      "publication_info": "HN Dai, H Halaburda… - … Innovations & Research …, 2021 - openviewjournal.com",
+      "year": 2021,
+      "citation_count": null
+    },
+    {
+      "rank": 7,
+      "title": "CBDC and Cross-Border Payment Efficiency",
+      "link": "https://www.researchgate.net/profile/Jonathan-John-6/publication/400746365_CBDC_and_Cross-Border_Payment_Efficiency/links/698ec35364ca8a38208c9db3/CBDC-and-Cross-Border-Payment-Efficiency.pdf",
+      "snippet": "… CBDC systems designed for realtime settlement can enable … to interoperability solutions that allow different CBDC platforms to … by CBDC platforms also contributes to improved payment …",
+      "publication_info": "JA Smith, ER Johnson, MT Davis, SL Williams… - researchgate.net",
+      "year": null,
+      "citation_count": null
+    },
+    {
+      "rank": 8,
+      "title": "Interoperability Between Central Bank Digital Currencies",
+      "link": "https://www.researchgate.net/profile/Elijah-William-2/publication/400718589_Interoperability_Between_Central_Bank_Digital_Currencies/links/698e009642f94d1212aa57d6/Interoperability-Between-Central-Bank-Digital-Currencies.pdf",
+      "snippet": "… in policy dialogues around cross-border payments, where … cross-border payments, expanding financial inclusion, and strengthening economic resilience. Realizing interoperable CBDC …",
+      "publication_info": "JM Reynolds, AT Brooks, ME Carter, SL James… - researchgate.net",
+      "year": null,
+      "citation_count": null
+    },
+    {
+      "rank": 9,
+      "title": "Interoperability Frameworks for CBDC Integration",
+      "link": "https://www.researchgate.net/profile/Jonathan-John-6/publication/400818333_Interoperability_Frameworks_for_CBDC_Integration/links/6992cf21ca66ef6ab992ce81/Interoperability-Frameworks-for-CBDC-Integration.pdf",
+      "snippet": "… cross‐border payment initiatives and existing multirail payment networks to extrapolate lessons relevant to CBDC … Our findings indicate that interoperability in CBDC systems cannot be …",
+      "publication_info": "JA Williams, ER Thompson, MB Carter, SL Ramirez - researchgate.net",
+      "year": null,
+      "citation_count": null
+    },
+    {
+      "rank": 10,
+      "title": "Interoperability aspects of central bank digital currency across ecosystems and borders",
+      "link": "https://www.ingentaconnect.com/content/hsp/jpss/2023/00000017/00000004/art00007",
+      "snippet": "… option is suitable for the interoperability with IPS and across domestic CBDC. This could aid … Among the most effective measures to address the FSB’s goal to enhance cross-border pay…",
+      "publication_info": "L Hupel - Journal of Payments Strategy & Systems, 2023 - ingentaconnect.com",
+      "year": 2023,
+      "citation_count": 5
+    }
+  ]
+}

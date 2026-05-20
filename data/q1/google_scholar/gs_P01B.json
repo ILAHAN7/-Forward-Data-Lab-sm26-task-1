@@ -1,0 +1,100 @@
+{
+  "query_id": "P01B",
+  "query": "DeFi game theory blockchain",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T17:58:27Z",
+  "result_count": 10,
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Game-Theory Approach Using Blockchain to Enhance Trust in Decentralized Finance Systems",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-032-18985-1_1",
+      "snippet": "… whether the Theories of Games and Strategies … of Blockchain based Decentralized Finance. This paper delves into the application of game theory models within the constraints of DeFi …",
+      "publication_info": "K Dubey, P Mukherjee, S Chakraborty… - … Symposium on Applied …, 2025 - Springer",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 2,
+      "title": "A study on blockchain sandwich attack strategies based on mechanism design game theory",
+      "link": "https://www.mdpi.com/2079-9292/12/21/4417",
+      "snippet": "… In the context of the swift evolution of blockchain technology and DeFi, DEX have emerged as a focal component, attracting considerable attention. Nevertheless, the inherent openness …",
+      "publication_info": "Y Liang, X Wang, YC Wu, H Fu, M Zhou - Electronics, 2023 - mdpi.com",
+      "year": 2023,
+      "citation_count": 33
+    },
+    {
+      "rank": 3,
+      "title": "Game theory on the blockchain: a model for games with smart contracts",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-85947-3_11",
+      "snippet": "… We propose a game-theoretic model for games in which players have shared access to a blockchain that allows the players to deploy smart contracts to act on their behalf in the games. …",
+      "publication_info": "M Hall-Andersen, NI Schwartzbach - … on Algorithmic Game Theory, 2021 - Springer",
+      "year": 2021,
+      "citation_count": 23
+    },
+    {
+      "rank": 4,
+      "title": "A survey on applications of game theory in blockchain",
+      "link": "https://arxiv.org/abs/1902.10865",
+      "snippet": "… Additionally, we discuss advantages and disadvantages of these selected game … game theoretical approaches to incentive mechanism design, and the combination of blockchain with …",
+      "publication_info": "Z Liu, NC Luong, W Wang, D Niyato, P Wang… - arXiv preprint arXiv …, 2019 - arxiv.org",
+      "year": 2019,
+      "citation_count": 170
+    },
+    {
+      "rank": 5,
+      "title": "A survey on blockchain: A game theoretical perspective",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8684838/",
+      "snippet": "… use of game theory, as an efficient analysis tool, in blockchain … review on the game models in the blockchain network. For … of sub-issues in the blockchain network. These major issues …",
+      "publication_info": "Z Liu, NC Luong, W Wang, D Niyato, P Wang… - IEEE …, 2019 - ieeexplore.ieee.org",
+      "year": 2019,
+      "citation_count": 220
+    },
+    {
+      "rank": 6,
+      "title": "Game theory applications in finance: a review of literature",
+      "link": "https://www.emerald.com/jcms/article/doi/10.1108/JCMS-04-2025-0044/1302821",
+      "snippet": "… this analysis: How can game theory be adapted to incorporate … like fintech and blockchain for game theory applications in finance… ESG, blockchain, and decentralized finance (DeFi), the …",
+      "publication_info": "O Paseda - Journal of Capital Markets Studies, 2025 - emerald.com",
+      "year": 2025,
+      "citation_count": 3
+    },
+    {
+      "rank": 7,
+      "title": "Equilibrium and efficiency in decentralized finance: A game-theoretic analysis of DeFi pools",
+      "link": "https://ki-it.com/xml/41413/41413.pdf",
+      "snippet": "… The integration of Decentralized Finance(DeFi) and blockchain technology heralds a transformative shift in the financial landscape, promising unparalleled transparency, inclusivity, and …",
+      "publication_info": "H Kim, D Kim - 한국정보기술학회논문지, 2024 - ki-it.com",
+      "year": 2024,
+      "citation_count": 1
+    },
+    {
+      "rank": 8,
+      "title": "On Financial-Stability, Game Theory And",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5206579",
+      "snippet": "… First, the trading volumes and popularity of blockchains, DeFi platforms … cryptoAssets and DeFi products on one hand, and stock markets, FX and commodities. Fourth, as blockchains …",
+      "publication_info": "MCI Nwogugu - Game Theory And\" Blended-Security\" Attacks In …, 2025 - papers.ssrn.com",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 9,
+      "title": "Decentralized Insurance Mechanisms: A Game-Theoretic Model for Risk Distribution in Blockchain Ecosystems",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5364157",
+      "snippet": "… contributions include a novel application of cooperative and non-cooperative game theory … blockchain platforms. This study bridges gaps in the literature on decentralized finance (DeFi) …",
+      "publication_info": "M Reyhani - Available at SSRN 5364157 - papers.ssrn.com",
+      "year": null,
+      "citation_count": null
+    },
+    {
+      "rank": 10,
+      "title": "On Financial-Stability, Game Theory And “Blended-Security” Attacks In DLTs/Blockchains And Associated AI-Agents.",
+      "link": "https://www.researchgate.net/profile/Michael-Nwogugu/publication/389893352_On_Financial-Stability_Game_Theory_And_Blended-Security_Attacks_In_Blockchains_And_Associated_AI-Agents/links/6861cd1fb991270ef3000e49/On-Financial-Stability-Game-Theory-And-Blended-Security-Attacks-In-Blockchains-And-Associated-AI-Agents.pdf",
+      "snippet": "… As blockchains/DLTs, DeFi platforms and DEXes grow in popularity and trading volumes, … Empirical studies have confirmed links between crypto-Assets and DeFi products on one hand, …",
+      "publication_info": "MIC Nwogugu - researchgate.net",
+      "year": null,
+      "citation_count": null
+    }
+  ]
+}

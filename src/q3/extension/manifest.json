@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Asta Cluster Mind Map",
+  "version": "0.3.0",
+  "description": "Detects Asta Paper Finder API responses on asta.allen.ai and visualizes the result set as a clustered mind map in a separate popup window. Q3 deliverable for Forward Data Lab.",
+  "minimum_chrome_version": "111",
+  "permissions": ["storage", "scripting", "activeTab"],
+  "host_permissions": [
+    "https://asta.allen.ai/*",
+    "https://*.allen.ai/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://asta.allen.ai/*"],
+      "js": ["inject.js"],
+      "run_at": "document_start",
+      "world": "MAIN",
+      "all_frames": false
+    },
+    {
+      "matches": ["https://asta.allen.ai/*"],
+      "js": ["content_script.js"],
+      "run_at": "document_start",
+      "all_frames": false
+    }
+  ],
+  "action": {
+    "default_title": "Open Cluster Mind Map"
+  }
+}

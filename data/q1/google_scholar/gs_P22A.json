@@ -1,0 +1,111 @@
+{
+  "query_id": "P22A",
+  "query": "Cyber Risk Quantification for Financial Institutions Using Bayesian Networks",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:54Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Cyber Risk Quantification for Financial Institutions Using Bayesian Networks",
+    "year": 2023,
+    "abstract": "We develop a Bayesian network model for quantifying operational cyber risk in banking, calibrated on FDIC loss data and publicly disclosed breach events, and estimate cyber VaR for stress testing.",
+    "domain": [
+      "cyber risk",
+      "operational risk",
+      "Bayesian networks",
+      "banking"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "The Impact of Machine Learning on Cyber Risk Quantification in Financial Services: A Qualitative Evaluation of Threat Scoring Frameworks",
+      "link": "https://ajates-scholarly.com/index.php/ajates/article/view/80",
+      "snippet": "… machine learning–enhanced threat scoring frameworks on cyber risk quantification within a … financial services environment. Using a cross-sectional comparative design, 18,742 security …",
+      "publication_info": "I Ahmed, R Sarkar - American Journal of Advanced …, 2025 - ajates-scholarly.com",
+      "year": 2025,
+      "citation_count": 19
+    },
+    {
+      "rank": 2,
+      "title": "Designing a financial quantification model for cyber risk: A case study in a bank",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0925753522003617",
+      "snippet": "… process maturity, there is a continued perception that the impact of a cyber incident remains … in banks currently manage their cyber risk exposure and how a financial quantification …",
+      "publication_info": "S Pollmeier, I Bongiovanni, S Slapničar - Safety Science, 2023 - Elsevier",
+      "year": 2023,
+      "citation_count": 43
+    },
+    {
+      "rank": 3,
+      "title": "Application of Bayesian algorithm in risk quantification for network security",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/7512289",
+      "snippet": "… and quantifies the network security risks caused by various threat sources through a network security risk quantification … Bayesian network has been widely used in the field of prediction …",
+      "publication_info": "L Wei - Computational Intelligence and Neuroscience, 2022 - Wiley Online Library",
+      "year": 2022,
+      "citation_count": 10
+    },
+    {
+      "rank": 4,
+      "title": "Statistical Analysis of Cyber Risk Exposure And Fraud Detection In Cloud-Based Banking Ecosystems",
+      "link": "https://global.asrcconference.com/index.php/asrc/article/view/62",
+      "snippet": "… fraudulent transactions across financial institutions operating in … Bayesian networks further encode conditional probabilities, … the analytical horizon of cyber risk assessment by capturing …",
+      "publication_info": "MN Hossain - ASRC Procedia: Global Perspectives in …, 2022 - global.asrcconference.com",
+      "year": 2022,
+      "citation_count": 57
+    },
+    {
+      "rank": 5,
+      "title": "Quantitative assessment of cyber security risk using Bayesian Network-based model",
+      "link": "https://ieeexplore.ieee.org/abstract/document/5166177/",
+      "snippet": "… the security readiness of firms in the marketplace through … a Bayesian network methodology that can be used to generate a cyber security risk score that takes as input a firm’s security …",
+      "publication_info": "SYK Mo, PA Beling, KG Crowther - 2009 Systems and …, 2009 - ieeexplore.ieee.org",
+      "year": 2009,
+      "citation_count": 29
+    },
+    {
+      "rank": 6,
+      "title": "Cyber risk for the financial sector: A framework for quantitative assessment",
+      "link": "https://books.google.com/books?hl=en&lr=&id=n7QZEAAAQBAJ&oi=fnd&pg=PA3&dq=Cyber+Risk+Quantification+for+Financial+Institutions+Using+Bayesian+Networks&ots=48B7WXtv40&sig=Z1kcSN8XuPgQs2O4GDhU3q4joIk",
+      "snippet": "… Cyber risk has emerged as a key threat to financial stability, following recent attacks on financial institutions. This … documentation of cyber risk around the world for financial institutions by …",
+      "publication_info": "A Bouveret - 2018 - books.google.com",
+      "year": 2018,
+      "citation_count": 369
+    },
+    {
+      "rank": 7,
+      "title": "Using Bayesian networks to model the operational risk to information technology infrastructure in financial institutions",
+      "link": "https://www.academia.edu/download/43928904/Using_Bayesian_networks_to_model_the_ope20160320-19907-1xlmf8z.pdf",
+      "snippet": "… statistics to overcome those deficiencies of traditional statistical approaches in risk measurement through incorporating expert opinions in the statistical process. We show the …",
+      "publication_info": "N Fenton - 2008 - academia.edu",
+      "year": 2008,
+      "citation_count": 35
+    },
+    {
+      "rank": 8,
+      "title": "A hybrid approach combining Bayesian networks and logistic regression for enhancing risk assessment",
+      "link": "https://www.nature.com/articles/s41598-025-10291-9",
+      "snippet": "… This study enhances cybersecurity risk assessment by integrating Bayesian Networks (BN) and Logistic Regression (LR) models, using data from the CISA Known Exploited …",
+      "publication_info": "X Wei, Y Dong - Scientific Reports, 2025 - nature.com",
+      "year": 2025,
+      "citation_count": 12
+    },
+    {
+      "rank": 9,
+      "title": "A fuzzy probability Bayesian network approach for dynamic cybersecurity risk assessment in industrial control systems",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8093698/",
+      "snippet": "… risk assessment. First, an FPBN is established for analysis and prediction of the propagation of cybersecurity risks. … probabilities used in standard Bayesian networks are replaced in our …",
+      "publication_info": "Q Zhang, C Zhou, YC Tian, N Xiong… - IEEE Transactions on …, 2017 - ieeexplore.ieee.org",
+      "year": 2017,
+      "citation_count": 236
+    },
+    {
+      "rank": 10,
+      "title": "Modeling operational risk in financial institutions using hybrid dynamic Bayesian networks",
+      "link": "https://www.researchgate.net/profile/Martin-Neil-2/publication/228356143_Modelling_Operational_Risk_in_Financial_Institutions_using_Hybrid_Dynamic_Bayesian_Networks/links/00b7d53c3c3ca54205000000/Modelling-Operational-Risk-in-Financial-Institutions-using-Hybrid-Dynamic-Bayesian-Networks.pdf",
+      "snippet": "… use of Hybrid Dynamic Bayesian Networks (HDBNs) to model the operational risk faced by financial institutions in … Even though these tools have dominated quantitative risk assessment …",
+      "publication_info": "M Neil, D Hager, LB Andersen - Journal of Operational Risk, 2009 - researchgate.net",
+      "year": 2009,
+      "citation_count": 68
+    }
+  ]
+}

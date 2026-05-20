@@ -1,0 +1,1510 @@
+{
+  "papers": [
+    {
+      "title": "Transparent reporting and equity in mortgage lending: A comprehensive review",
+      "authors": [
+        {
+          "name": "Taiwo Inumidun Adegoke",
+          "id": "2291388628"
+        },
+        {
+          "name": "Onyeka Chrisanctus Ofodile",
+          "id": "2287952712"
+        },
+        {
+          "name": "Nneka Adaobi Ochuba",
+          "id": "2291384969"
+        },
+        {
+          "name": "Olatunji Akinrinola",
+          "id": "2289638344"
+        }
+      ],
+      "year": 2024,
+      "venue": "World Journal of Advanced Research and Reviews",
+      "score": 0.964725032743776,
+      "abstract": "This comprehensive review delves into the critical intersection of transparent reporting and equity within the realm of mortgage lending. With the housing market serving as a cornerstone of economic stability and social mobility, the equitable distribution of mortgage loans is paramount for fostering inclusive growth and mitigating systemic disparities. The paper scrutinizes existing literature, regulatory frameworks, and industry practices to assess the extent to which transparency and equity are upheld in mortgage lending processes. By examining key metrics such as loan approval rates, interest rates, and access to credit, this review sheds light on persistent inequities and identifies potential avenues for improvement. Additionally, it explores the role of technology, data analytics, and policy interventions in promoting transparency and equity across various stages of the lending lifecycle. Ultimately, this review underscores the urgent need for concerted efforts from policymakers, financial institutions, and stakeholders to enhance transparency and promote equity in mortgage lending practices. The pursuit of transparent reporting and equity in mortgage lending stands as a cornerstone of fair and accessible housing finance systems globally. This comprehensive review synthesizes current research, regulatory frameworks, and industry practices to illuminate the intricate dynamics shaping mortgage lending equity and transparency. Through a nuanced analysis of factors such as credit scoring mechanisms, discriminatory practices, and regulatory oversight, the review identifies persistent challenges and emerging trends within the mortgage lending landscape. Furthermore, it investigates the potential impact of socioeconomic factors, demographic shifts, and technological advancements on the equitable distribution of mortgage credit. By elucidating the linkages between transparency, equity, and financial stability, this review offers valuable insights for policymakers, practitioners, and researchers seeking to foster more inclusive and resilient mortgage markets. In conclusion, the review calls for concerted action and collaborative initiatives aimed at promoting transparency and equity as foundational principles in mortgage lending practices.",
+      "corpusId": 268490443,
+      "url": "https://api.semanticscholar.org/CorpusId:268490443"
+    },
+    {
+      "title": "On the economic impacts of mortgage credit expansion policies: Evidence from help to buy",
+      "authors": [
+        {
+          "name": "Felipe Carozzi",
+          "id": "46908740"
+        },
+        {
+          "name": "C. Hilber",
+          "id": "12611451"
+        },
+        {
+          "name": "Xiao Yu",
+          "id": "2139766479"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Urban Economics",
+      "score": 0.9642422585957116,
+      "abstract": "Mortgage credit expansion policies â?? such as UK's Help to Buy (HtB) â?? aim to increase access to and affordability of owner-occupied housing and are widespread around the world. We take advantage of spatial discontinuities in the HtB equity loan scheme, introduced in 2013, to explore the causal economic impacts and the effectiveness of this type of policies. Employing a Difference-in-Discontinuities design, we find that HtB increased house prices by more than the expected present value of the implied interest rate subsidy and had no discernible effect on construction volumes in the Greater London Authority (GLA), where housing supply is subject to severe long-run constraints and housing is already extremely unaffordable. HtB did increase construction numbers without affecting prices near the English/Welsh border, an area with less binding supply constraints and comparably affordable housing. HtB also led to bunching of newly built units below the price threshold, building of smaller new units and an improvement in the financial performance of developers. We conclude that credit expansion policies such as HtB may be ineffective in tightly supply constrained and already unaffordable areas.",
+      "corpusId": 214700849,
+      "url": "https://api.semanticscholar.org/CorpusId:214700849"
+    },
+    {
+      "title": "Effects of non-performing loans on return on equity of selected commercial banks in Nigeria",
+      "authors": [
+        {
+          "name": "Olumide Kelvin",
+          "id": "2290206353"
+        },
+        {
+          "name": "Chukwugoziem Tom Odebode",
+          "id": "2290206196"
+        },
+        {
+          "name": "E. Bernhard",
+          "id": "2290207049"
+        },
+        {
+          "name": "Ozofere Ishioro",
+          "id": "2290207595"
+        }
+      ],
+      "year": 2024,
+      "venue": "World Journal of Advanced Research and Reviews",
+      "score": 0.9608120966548138,
+      "abstract": "The study examined the effect of Non-Performing Loans (NPL) on return on equity (ROE) of selected Commercial Banks in Nigeria covering the period 2010 - 2021 with special emphasis on Fidelity Bank, Union Bank and Wema Bank Plc. It specifically determined the effect of non-performing loans (NPL) and Bank Size (SIZE) on the profitable of commercial banks measured by Return on Equity (ROE). The study utilized secondary data obtained from the annual financial report and accounts of the selected commercial banks in Nigeria for the period of study. The data were analyzed using panel least square method of analysis. The results revealed that while non-performing loans have negative outcome on return on equity of the selected commercial banks, Bank Size (SIZE) has a positive impact on return on equity of the selected commercial banks within the period of study. The study concludes that there exists a negative effect of non-performing loans on performance of commercial banks in Nigeria and the effect cannot be underestimated because it poses a fundamental threat to the existence and growth of commercial banks as corporate business entities. Based on the above findings, the study recommends that banks should maintain high credit standards while the apex bank (CBN) and other regulatory agencies should maintain high surveillance on commercial banks’ credit operations. A decrease in level of loan default will lead to decline in non-performing loans, and successively enhance return on equity of affected banks in Nigeria.",
+      "corpusId": 267485358,
+      "url": "https://api.semanticscholar.org/CorpusId:267485358"
+    },
+    {
+      "title": "Firm equity risk, bank lending standards, and the macroeconomy",
+      "authors": [
+        {
+          "name": "H. Nguyen",
+          "id": "50343211"
+        }
+      ],
+      "year": 2022,
+      "venue": "Cogent Economics & Finance",
+      "score": 0.9572801634124982,
+      "abstract": "Abstract This paper analyzes the impact of US firms’ equity risk on bank lending standards and on the macroeconomy for two groups: small and medium-large firms. The results indicate that a higher level of firm risk leads to a higher percentage of banks tightening their lending standards on commercial and industrial (C&I) loans, with a much larger effect for medium-large firms. The finding provides support for the Risk Management Hypothesis, under which banks decrease lending to risky borrowers to reduce credit risk. In addition, we found a one-for-one relationship between firm equity risk and C&I loan spread, signaling the channel of how firm risk transfers through the banking system to the rest of the economy. Finally, the impacts of an increase in firm risk on bank lending standards and the economy are amplified in a recession compared to an expansion.",
+      "corpusId": 53996623,
+      "url": "https://api.semanticscholar.org/CorpusId:53996623"
+    },
+    {
+      "title": "Modeling the Behaviour of Corporate Demand for Credit in Mauritius before and after the Global Financial Crisis Under Conditions of Excess Liquidity by Banks",
+      "authors": [
+        {
+          "name": "Chakeel Prayagsing",
+          "id": "121280725"
+        }
+      ],
+      "year": 2020,
+      "venue": "unknown",
+      "score": 0.9552657084181894,
+      "abstract": "This Paper proves that the global financial crisis (GFC) has had a major influence in altering the pattern and subsequent demand for corporate finance in Mauritius. By applying probability models, it is found that bonus issuance is a key factor that influences the demand and supply for both debt and equity financing. Firms consider debt repayment variable of upmost essence to loan application and provision responses. Large companies, comprising of entities falling under the wing of the manufacturing, industrial and retail sector found ease in obtaining bank loans prior to the crisis due to the positive rating and nature of their respective businesses. Conversely, small and medium enterprises found themselves relaying heavily on startup loans, of limited amounts, as they failed to qualify for greater loan applications due to their inability to meet the adequate requirements. Corporate entities on their end, had a much greater preference for equity financing prior to the crisis. The aftermath of the crisis nevertheless negatively influenced the pattern of financing for all categories of businesses. A more regulated framework was adopted by banks, on an international level which caused banks to be more cautious and limited in providing finance to entities. Even with excess liquidity, banks have declined demand for bank loans.",
+      "corpusId": 225938333,
+      "url": "https://api.semanticscholar.org/CorpusId:225938333"
+    },
+    {
+      "title": "The Impact of Equity Financing on the Performance of Capital-Constrained Supply Chain under Consumers’ Low-Carbon Preference",
+      "authors": [
+        {
+          "name": "Xiaoli Zhang",
+          "id": "2397864693"
+        },
+        {
+          "name": "Guoyi Xiu",
+          "id": "2596470"
+        },
+        {
+          "name": "Fakhar Shahzad",
+          "id": "66567533"
+        },
+        {
+          "name": "Caiquan Duan",
+          "id": "153773163"
+        }
+      ],
+      "year": 2021,
+      "venue": "International Journal of Environmental Research and Public Health",
+      "score": 0.9521484613142371,
+      "abstract": "The reduction in carbon emissions by industrial enterprises is an important means for promoting environmental protection and achieving sustainable development. To determine the impact of carbon emissions reduction on supply chain operation and financing decision-making, in this study we designed three financing strategies, i.e., bank loan financing, equity financing, and hybrid financing (a combination of bank loan financing and equity financing), for a manufacturer (leader) and a low-carbon supply chain composed of a capital-constrained retailer, constructed Stackelberg game models, solved the equilibrium results under each financing strategy using the reverse recursion method, and revealed the financing preference of the supply chain member companies through comparative analysis. The results showed that the increase in the consumers’ low-carbon preference and equity financing ratio have positive impacts on supply chain equilibrium, a result that is opposite that for the impact of the interest rate of bank loan financing; additionally, the abovementioned three factors jointly determine the profit of the manufacturer of the low-carbon supply chain, while the retailer’s profit is affected by the equity dividend ratio. Finally, we present the conditions for the financing preference of the manufacturer and the retailer. The findings of this study can provide references for low-carbon supply chain companies to make appropriate management decisions.",
+      "corpusId": 232131649,
+      "url": "https://api.semanticscholar.org/CorpusId:232131649"
+    },
+    {
+      "title": "COVID Impact to Equity Margin Loans—A Practical Approach to Measure Risk with the Client Behavior Assumptions",
+      "authors": [
+        {
+          "name": "Renlong Miao",
+          "id": "103352270"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Financial Risk Management",
+      "score": 0.9516505048498891,
+      "abstract": "Equity margin loan deals are loans to counterparties secured by collateral in the form of equities. Credit exposure arises when the equity collateral falls below the value of loan. During the life of the deal, the counterparty has to give more shares (or cash) to banks or brokerage houses in case of a fall in the share price, so that the level of the collateral amount stays approximately the same and does not deteriorate. The objective of this paper is to attempt to review the risks associated to margin loan deals and propose some suggestions to factor in certain margin call delays or liquidation uncertainties under the stressed COVID-19 situation. Moreover, we also showed a sample practical approach to measure the tail risk of margin loan which included the counterparty’s likely behavior under stress and used a callable bond pricing logic to assess the likely time and moral hazard problem of the counterparty to walk away from margin loans.",
+      "corpusId": 247465343,
+      "url": "https://api.semanticscholar.org/CorpusId:247465343"
+    },
+    {
+      "title": "Unlocking SME Value: A Comparative Analysis of Equity Financing and Bank Loans",
+      "authors": [
+        {
+          "name": "Govind Vinod Kalal",
+          "id": "2400833325"
+        },
+        {
+          "name": "Ashish S. Thete",
+          "id": "2400831721"
+        },
+        {
+          "name": "Tejas V. Kalal",
+          "id": "2348561618"
+        }
+      ],
+      "year": 2025,
+      "venue": "International journal  of research and innovation in applied science",
+      "score": 0.9493954928326682,
+      "abstract": "",
+      "corpusId": 284215102,
+      "url": "https://doi.org/10.51584/ijrias.2025.101100098"
+    },
+    {
+      "title": "The Impact of COVID-19 on Bank Equity and Performance: The Case of Central Eastern South European Countries",
+      "authors": [
+        {
+          "name": "S. Kozak",
+          "id": "121726335"
+        }
+      ],
+      "year": 2021,
+      "venue": "Sustainability",
+      "score": 0.9459055099683273,
+      "abstract": "The purpose of this article is to examine the impact of the shock increase, in the value of nonperforming loans, on the equity level and profitability of 141 banks in 18 countries of Central Eastern South Europe (CESE). This study is important for assessing the financial stability of banks in this region in the face of the continuing negative effects of the COVID-19 pandemic. Based on the annual data, as of the end of 2020, from the S&P Global database, stress tests were carried out to check what value of NPL growth, over the next year, will lead to breach the regulatory capital requirements in domestic sectors and in individual groups of banks. The results indicate that the banks in CESE were well capitalized and had the ability to maintain capital requirements with a 12% increase in nonperforming loans. The resilience of domestic banking sectors varies, and it is higher in non-EU countries. Smaller and non-public banks show a greater ability to preserve the appropriate level of equity, although there is a risk that they may postpone the time of provisioning credit risk and additionally increase lending to lower the NPL ratio. Larger banks are more profitable in times of crisis. The results of the research are important for assessing the stability of the banking sector in CESE during the crisis and can be used by financial supervision of the region’s countries and banking market analysts.",
+      "corpusId": 242118172,
+      "url": "https://doi.org/10.3390/su131911036"
+    },
+    {
+      "title": "Equity Capital as a Safety Cushion in the US Banking Sector",
+      "authors": [
+        {
+          "name": "Raymond A. K. Cox",
+          "id": "32637162"
+        },
+        {
+          "name": "Randall K. Kimmel",
+          "id": "103009762"
+        },
+        {
+          "name": "G. Wang",
+          "id": "2107897132"
+        }
+      ],
+      "year": 2016,
+      "venue": "unknown",
+      "score": 0.9443888567222789,
+      "abstract": "The incidence of US bank failures soared in the financial crisis and economic recession starting in 2008. Financial regulations promulgated by the Federal Reserve and issued through the Basel III Accord raised the minimum equity capital requirements of banks. The intent of the increase in equity capital was to serve as a greater safety cushion to reduce the probability of failure. The purpose of this study is to examine the financial statement variables that distinguish failed (zero equity capital) and nonfailed US banks. The methods employed to investigate our research question are: 1. univariate t-test, and 2. tobit regression analysis with equity capital as the dependent variable. Our results show that the factors explaining equity capital include real estate loans to assets, equity capital to total assets, log of total assets, return on equity, loan loss allowance to total loans, non-performing loans to total assets, total loans to total assets, mortgage-backed securities to total assets, total short-term debt securities to total assets, net gains on sales of loans to total non-interest income, and insured deposits to total deposits. Bank management and financial regulators need to focus on these financial characteristics to ensure adequate equity capital as a safety cushion.",
+      "corpusId": 157161459,
+      "url": "https://api.semanticscholar.org/CorpusId:157161459"
+    },
+    {
+      "title": "The impact of short selling on market efficiency",
+      "authors": [
+        {
+          "name": "D. Castro",
+          "id": "2119299546"
+        }
+      ],
+      "year": 2015,
+      "venue": "unknown",
+      "score": 0.9416102461523737,
+      "abstract": "This article studies how short-sale constraints affect price efficiency in Brazilian stocks. The study uses a data set with all equity loan deals done in Brazil between January 2009 and July 2011. The main findings are the mapping of efficiency stock characteristics (i.e. stocks with more liquidity, larger size and greater book-to-market); an evidence of efficiency risk premium paid for investors that keep price-inefficient stocks in their portfolio; a positive relation between short selling and price efficiency and the event study of tax arbitrage, where it’s possible to check that price inefficiency is positively related to short selling during the payment of interest on net equity.",
+      "corpusId": 167461841,
+      "url": "https://api.semanticscholar.org/CorpusId:167461841"
+    },
+    {
+      "title": "Equity in student finance: Cross-UK comparisons",
+      "authors": [
+        {
+          "name": "L. Blackburn",
+          "id": "79714901"
+        }
+      ],
+      "year": 2016,
+      "venue": "Scottish Educational Review",
+      "score": 0.9405753414549451,
+      "abstract": "Comparisons with other parts of the United Kingdom have played an important role in justifying decisions made in relation to student funding in Scotland since devolution. This article considers first what comparative claims have been made for the content of student funding policy in four areas: fees, debt, total living cost support and ‘ability to pay’. It compares the position of Scotland with other parts of the UK for each of these in turn. After considering what sort of relationship might exist between student funding policy and widening participation, it then examines what issues for equity and social justice in Scotland are brought out by detailed cross-UK comparisons and questions whether claims that the arrangements in Scotland are more supportive of widening access and more socially equitable than those adopted elsewhere in the UK can be sustained. It argues that while some short term effects may be uncertain, one long term effect of the Scottish system is highly predictable: a regressive distribution of student loan means that the cost of expanding higher education to enable wider participation will be borne disproportionately by graduates from more disadvantaged backgrounds. It concludes that a different approach is needed to the use of cross-UK comparisons if these are to be used to support rather than distract from the achievement of greater social justice in higher education student support policy.",
+      "corpusId": 2445796,
+      "url": "https://api.semanticscholar.org/CorpusId:2445796"
+    },
+    {
+      "title": "Internal and External Factors of Future Returns in the Banking Business: Time Series Analysis of Interrelationship",
+      "authors": [
+        {
+          "name": "K. Kyei",
+          "id": "39026410"
+        },
+        {
+          "name": "Albert Antwi",
+          "id": "123811908"
+        }
+      ],
+      "year": 2017,
+      "venue": "unknown",
+      "score": 0.9383759648736419,
+      "abstract": "The paper seeks to find the interrelationship between internal and external factors of future returns in the banking business. A multivariate time series regression models are fitted for the dependent variable: return on equity (ROE) against the lag one independent variables, namely: deposit, size, loan, capital, inflation, gross domestic product (GDP) and stock market capitalization (SMC), for ABSA bank; using secondary data, which span from 1998 to 2014 fiscal years. Logarithm transformation of the absolute value of the de-trended data and first differencing at lag one were the smoothing techniques applied to the data. Multivariate time series regression by the least square approach with special consideration of the stepwise method was used in fitting the models to the data. Results indicated that first, there is a positive linear relationship between ROE and loans, a negative linear relationship between ROE and inflation from the differencing techniques; and equally a negative log-linear relationship between ROE and capital as well as a positive log-linear relationship between ROE and ROA for the logarithm de-trend technique.",
+      "corpusId": 157148572,
+      "url": "https://api.semanticscholar.org/CorpusId:157148572"
+    },
+    {
+      "title": "RECHARACTERIZATION OF DEBT TO EQUITY UNDER U.S. LAW AND ITS EFFECTS ON CORPORATE GOVERNANCE",
+      "authors": [
+        {
+          "name": "A. Dardano",
+          "id": "3553939"
+        },
+        {
+          "name": "A. S. Ginevri",
+          "id": "113614349"
+        },
+        {
+          "name": "F. Sbarbaro",
+          "id": "123116659"
+        }
+      ],
+      "year": 2013,
+      "venue": "unknown",
+      "score": 0.9382162370722338,
+      "abstract": "This Essay examines the practice of recharacterization under U.S. law and focuses, in particular, on the standard of review applied by bankruptcy courts in order to determine whether a purported debt transaction should be considered as an equity contribution and on the effect of such a recharacterization of debt to equity on corporate governance. In doing so, Paragraph 2 provides a brief overview of the concept of recharacterization in general. Paragraphs 3 to 6 describe some of the most commonly accepted factors taken into account by bankruptcy courts and try to identify two main approaches that may be taken in weighting these factors. Finally, Paragraph 7 identifies some of the policy reasons underlying the concept of recharacterization and explores whether this practice has an impact on corporate governance****.",
+      "corpusId": 168312391,
+      "url": "https://api.semanticscholar.org/CorpusId:168312391"
+    },
+    {
+      "title": "Bank Equity Claims in Borrowing Firms and Loan Availability",
+      "authors": [
+        {
+          "name": "Mervi Niskanen",
+          "id": "11400216"
+        }
+      ],
+      "year": 2008,
+      "venue": "unknown",
+      "score": 0.9367733249960571,
+      "abstract": "This study investigates empirically the effect that bank equity claims in borrowing firms have on the availability of finance to the firm. The results suggest that allowing banks to hold equity claims in borrowing firms enhance debt availability to the firm. The results are consistent with arguments that equity claims may be helpful in transferring the benefits of an ongoing relationships to the borrowers, and thus eventually also enhance investment efficiency in the economy as a whole. The results, however, also suggest that very small or very large bank equity claims in borrowing firms do not have this impact.",
+      "corpusId": 166801730,
+      "url": "https://api.semanticscholar.org/CorpusId:166801730"
+    },
+    {
+      "title": "Bank risk-taking and optimal bailout resources",
+      "authors": [
+        {
+          "name": "Andreas Krause",
+          "id": "2313648518"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Banking Regulation",
+      "score": 0.9366172880231444,
+      "abstract": "We develop a model in which regulators determine optimally the resources they commit to bank bailouts, balancing the costs of bailouts against those of bank failures. Banks, on the other hand, balance the costs of reducing their risk with the benefits of bailouts. We find that as the costs of risk reduction increases, the actual risk taken reduces, also reducing the need for bailouts. The reason for our counter-intuitive result is that as these costs increase for banks, the regulator reacts by reducing bailouts and thus induces an actual reduction in risks taken by banks. Similarly, we find that increasing the costs of not bailing out banks reduces bank risks and the resources committed to bailouts.",
+      "corpusId": 278414013,
+      "url": "https://api.semanticscholar.org/CorpusId:278414013"
+    },
+    {
+      "title": "Discrimination in lending? Evidence from the Paycheck Protection Program",
+      "authors": [
+        {
+          "name": "R. Atkins",
+          "id": "112966611"
+        },
+        {
+          "name": "L. Cook",
+          "id": "39810993"
+        },
+        {
+          "name": "Robert C. Seamans",
+          "id": "2093183"
+        }
+      ],
+      "year": 2021,
+      "venue": "Small Business Economics",
+      "score": 0.9342710922308634,
+      "abstract": "We assess the role of race in loans made through the Paycheck Protection Program (PPP). The PPP program, created by the U.S. government as a response to the Covid-19 pandemic, provides loans to small businesses so they can keep employees on their payroll. We argue that the historical record and PPP program design choices made it likely that many Black-owned businesses received smaller PPP loans than White-owned businesses. Using newly released data on the PPP program, we find that Black-owned businesses received loans that were approximately 50% lower than observationally similar White-owned businesses. The effect is marginally smaller in areas with more bank competition and disappeared over time as changes to the PPP program were implemented allowing for entry by fintechs and other non-traditional lenders. We find that Black-owned businesses received loans through the Paycheck Protection Program that were approximately 50 percent lower than White-owned businesses with similar characteristics. However, this difference in loan size shrank over time as more non-bank lenders such as fintechs were allowed to participate in the program and began approving PPP loans. Loan size differences were also slightly smaller in zip codes containing a larger number of bank branches. These results are consistent with prior research which shows lending discrimination by commercial banks against Black borrowers. It is also consistent with studies showing that greater access to and competition among banks and other lenders can reduce discrimination. In light of these results we recommend that policy makers account for existing racial inequalities within banking or other systems in their program design to produce more equitable outcomes.",
+      "corpusId": 233757002,
+      "url": "https://api.semanticscholar.org/CorpusId:233757002"
+    },
+    {
+      "title": "Why do banks choose to finance with equity",
+      "authors": [
+        {
+          "name": "N. Sorokina",
+          "id": "144829502"
+        },
+        {
+          "name": "John H. Thornton",
+          "id": "144218455"
+        },
+        {
+          "name": "A. Patel",
+          "id": "49486062"
+        }
+      ],
+      "year": 2017,
+      "venue": "unknown",
+      "score": 0.9340821329708736,
+      "abstract": "",
+      "corpusId": 158010895,
+      "url": "https://doi.org/10.1016/J.JFS.2017.04.002"
+    },
+    {
+      "title": "The Case of Minority Small Business Owners: Empirical Evidence of Problems in Loan Financing",
+      "authors": [
+        {
+          "name": "Roman Bohdan",
+          "id": "118753214"
+        },
+        {
+          "name": "Elizabeth Tipton",
+          "id": "3381105"
+        },
+        {
+          "name": "Dean B. Kiefer",
+          "id": "98466551"
+        },
+        {
+          "name": "Arsen Djatej",
+          "id": "2159059"
+        }
+      ],
+      "year": 2016,
+      "venue": "unknown",
+      "score": 0.9332191060740956,
+      "abstract": "This academic research explores the availability of loan financing to minority-owned businesses and examines a potential relationship between the size of a loan and the characteristics of a business in the USA. It also investigates the possible impact of different characteristics and quantifiable criteria on credit loan denial across different demographic groups. Probit models are used to evaluate the potential existence of racial or ethnic discrimination in the availability and approval of credit. Regression analysis is used to assess the impact that t he race of a small business owner has on the relative size of a denied loan, the size of portioned credit, or the size of the company. When other variables suspected of influencing credit approval and rationing are controlled, black-owned and Asian-owned businesses appear to be less likely to be approved for loans and more likely to experience significantly greater credit rationing than their white counterparts.",
+      "corpusId": 152423088,
+      "url": "https://api.semanticscholar.org/CorpusId:152423088"
+    },
+    {
+      "title": "Equity Implications of State Tuition Policy and Student Loans",
+      "authors": [
+        {
+          "name": "R. W. Hartman",
+          "id": "153165488"
+        }
+      ],
+      "year": 1972,
+      "venue": "Journal of Political Economy",
+      "score": 0.9323123256926632,
+      "abstract": "",
+      "corpusId": 153482331,
+      "url": "https://doi.org/10.1086/259992"
+    },
+    {
+      "title": "Equity Compensation and the Pricing of Syndicated Loans",
+      "authors": [
+        {
+          "name": "F. Vasvari",
+          "id": "16084281"
+        }
+      ],
+      "year": 2008,
+      "venue": "unknown",
+      "score": 0.928097268478408,
+      "abstract": "",
+      "corpusId": 166483850,
+      "url": "https://doi.org/10.2139/SSRN.1128249"
+    },
+    {
+      "title": "Supporting SMEs during COVID-19: The case for targeted equity injections",
+      "authors": [
+        {
+          "name": "Federico J. Díez",
+          "id": "46271827"
+        },
+        {
+          "name": "R. Duval",
+          "id": "145475509"
+        },
+        {
+          "name": "Chiara Maggi",
+          "id": "2069617775"
+        }
+      ],
+      "year": 2022,
+      "venue": "Economics Letters",
+      "score": 0.9266103911500106,
+      "abstract": "We analyze the potential role of equity injections in addressing solvency risks among small and medium-sized enterprises (SMEs) after the COVID-19 crisis. Building on firm-level balance sheet projections for a sample of European economies, we simulate selected policy interventions and find that equity injections are quite effective at dampening the rise in insolvencies. Cost effectiveness requires careful targeting, however; under an illustrative scenario, leaving aside any costs arising from imperfect information and implementation, the cost of a program targeting only those SMEs worth saving is just a tenth of the cost of an untargeted approach directed to all insolvent firms. Overall, our paper provides a case for governments to rely more on targeted equity injections in responding to major shocks that trigger mass solvency risks.",
+      "corpusId": 245063078,
+      "url": "https://api.semanticscholar.org/CorpusId:245063078"
+    },
+    {
+      "title": "Equity in the Distribution of HELB Loans in Kenya in Relation to Students Characteristics: An Empirical Analysis.",
+      "authors": [
+        {
+          "name": "S. Odebero",
+          "id": "73098946"
+        },
+        {
+          "name": "J. Bosire",
+          "id": "73928251"
+        },
+        {
+          "name": "A. Sang",
+          "id": "47210452"
+        },
+        {
+          "name": "Fredrick B. J. Ngala",
+          "id": "2266298551"
+        },
+        {
+          "name": "M. Ngware",
+          "id": "5161205"
+        }
+      ],
+      "year": 2007,
+      "venue": "unknown",
+      "score": 0.9264688790978924,
+      "abstract": "",
+      "corpusId": 145622571,
+      "url": "https://academicjournals.org-www.academicjournals.org/article/article1379600264_Odebero%20et%20al.pdf"
+    },
+    {
+      "title": "Financial Development, International Capital Flows, and Aggregate Output",
+      "authors": [
+        {
+          "name": "J. Hagen",
+          "id": "2114727"
+        },
+        {
+          "name": "Haiping Zhang",
+          "id": "2195341388"
+        }
+      ],
+      "year": 2014,
+      "venue": "unknown",
+      "score": 0.9260409310357285,
+      "abstract": "We develop a general equilibrium model with financial frictions in which internal capital (equity capital) and external capital (bank loans) have di erent rates of return. Financial development raises the rate of return on external capital but has a non-monotonic effect on the rate of return on internal capital. We then show in a two-country model that capital account liberalization leads to out ow of financial capital from the country with less developed financial system. However, the direction of foreign direct investment (FDI, henceforth) depends on the exact degrees of financial development in the two countries as well as the specific capital controls policy. Our model helps explain the Lucas Paradox (Lucas, 1990). Countries with least developed financial system have the out ows of both financial capital and FDI; countries with most developed financial system witness two-way capital fl ows, i.e., the in ow of financial capital and the out ow of FDI; countries with intermediate level of financial development have the out ow of financial capital and the in ow of FDI. It is consistent with the fact that FDI ows not to the poorest countries but to the middle-income countries.",
+      "corpusId": 14790284,
+      "url": "https://api.semanticscholar.org/CorpusId:14790284"
+    },
+    {
+      "title": "Subordination of Shareholder Loans between Creditor Protection and Rescue Culture",
+      "authors": [
+        {
+          "name": "Luigi Pecorella",
+          "id": "2190565636"
+        }
+      ],
+      "year": 2021,
+      "venue": "IALS Student Law Review",
+      "score": 0.9254305316268787,
+      "abstract": "In financially distressed companies, shareholders have the tendency, as recorded throughout all major jurisdictions, to provide finance by way of loans for purposes of accomplishing a better position in the prospective insolvency proceedings to the detriment of the external creditors while “gambling” on the company’s resurrection. Insolvency Law seeks to intervene to limit such practices by subordinating this type of shareholder loans to the claims of the other creditors, thus upholding its nature of “creditor protection law”.This paper provides a critical overview of the existing legal framework concerning the subordination of shareholder loans and, in doing so, examines the function of Insolvency Law when dealing with it. In the first place, this paper describes the conflict in corporate law between shareholders and creditors brought about by the practice of shareholder loans. Secondly, it discusses and examines some of the rules that US Bankruptcy Law and German Insolvency Law developed in this area. Thirdly, in light of the resulting findings, the paper will focus on the issue raised concerning the lack in the norms with respect to the role that shareholder loans could efficiently perform in rescuing companies on the eve of their insolvency.It is argued in this paper that an unselective subordination of shareholder loans and the unconditioned protection of creditors should not be persistently regarded as the “panacea” . It is rather the opinion of this paper that the function of Insolvency Law in the context of shareholder loans should be reviewed by policymakers to encompass the benefit of the company as a whole.",
+      "corpusId": 253475410,
+      "url": "https://api.semanticscholar.org/CorpusId:253475410"
+    },
+    {
+      "title": "Ratio of loans to equity for large, medium, and small companies",
+      "authors": [
+        {
+          "name": "Jinbang Kim",
+          "id": "102361296"
+        }
+      ],
+      "year": 2018,
+      "venue": "unknown",
+      "score": 0.9254034675707958,
+      "abstract": "",
+      "corpusId": 169716430,
+      "url": "https://api.semanticscholar.org/CorpusId:169716430"
+    },
+    {
+      "title": "Non-standard issues in business finance: an overview",
+      "authors": [
+        {
+          "name": "Wolfgang Breuer",
+          "id": "144634090"
+        },
+        {
+          "name": "A. Pfingsten",
+          "id": "2050782166"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Business Economics",
+      "score": 0.9195106166730723,
+      "abstract": "This special issue is about “non-standard issues in business finance”. Apparently, in order to decide which papers are eligible for this special issue it is necessary to define some kind of “standard” in business finance as a benchmark, so that any deviation from this standard qualifies for this issue. Alas, when singling out some “standard”, this certainly is not independent of time and place. Taking payments as a simple example from another area, cash payments have lost market share over the last decade but are still dominating in Germany (Deutsche Bundesbank 2022), whereas in the U.S. with its ample evidence of the relevance of credit card payments, several cities and states have deemed it necessary to establish regulations requiring retail stores to accept cash (Tarlin 2021, p. 2). There are various dimensions according to which one may distinguish between a standard-case and a non-standard one in business financing. First of all, “standard” may be defined according to the financial instruments under consideration with (common) equity (i.e. issuing shares) and debt (i.e. issuing bonds or borrowing from a bank) traditionally being regarded as standard while all other kinds of financial instruments, in particular the “hybrid” mezzanine instruments, are classified as “non-standard issues”. In a similar way, the analysis of the whole domain of supporting legal or contractual rights that stabilize financial decisions may give rise to non-standard issues. Alternatively, cultural differences, frequently related to geographical origins, may provide benchmarks. As a rather rough classification one may simply single out the",
+      "corpusId": 253653933,
+      "url": "https://api.semanticscholar.org/CorpusId:253653933"
+    },
+    {
+      "title": "Equity and Inclusion Correlates for Higher Education Financing in Uganda: Policies, Principles and Practices",
+      "authors": [
+        {
+          "name": "Nannyanzi Joyce Harriet",
+          "id": "2372880822"
+        },
+        {
+          "name": "Muweesi Charles",
+          "id": "2372881554"
+        },
+        {
+          "name": "Kyagulanyi Ronald",
+          "id": "2372883657"
+        },
+        {
+          "name": "Kaweesi Muhamadi",
+          "id": "2372881481"
+        },
+        {
+          "name": "Bwowe Patrick",
+          "id": "2372880991"
+        }
+      ],
+      "year": 2025,
+      "venue": "Research and Advances in Education",
+      "score": 0.9193556734576682,
+      "abstract": "",
+      "corpusId": 280104736,
+      "url": "https://doi.org/10.63593/rae.2788-7057.2025.07.001"
+    },
+    {
+      "title": "Modelling home equity conversion loans with life insurance models",
+      "authors": [
+        {
+          "name": "Bojan Baškot",
+          "id": "118636569"
+        }
+      ],
+      "year": 2013,
+      "venue": "unknown",
+      "score": 0.9177850329828079,
+      "abstract": "Home equity represents a reserve that can be used for providing additional money for its owners during their retirement. Life insurance models can be successfully applied to model home equity conversion loans. The home equity conversion loan is a financial product that provides a certain flexibility by using home equity as a resource for a quality life during retirement. Home equity conversion loans do not have a predetermined maturity date, as do conventional loans. But, like every loan, it must be repaid. One potential advantage of using a home equity conversion loan during tough financial times instead of some types of need-based assistance is that eligibility is straightforward. Home equity conversion loans can be useful tools in the process of pension system reform.",
+      "corpusId": 153618306,
+      "url": "https://api.semanticscholar.org/CorpusId:153618306"
+    },
+    {
+      "title": "When the Going Gets Tough, the Tough Get Going",
+      "authors": [
+        {
+          "name": "Antti Fredriksson",
+          "id": "118788119"
+        },
+        {
+          "name": "D. Maresch",
+          "id": "6325285"
+        },
+        {
+          "name": "M. Fink",
+          "id": "144573072"
+        }
+      ],
+      "year": 2017,
+      "venue": "The Journal of Entrepreneurial Finance",
+      "score": 0.9174585031395552,
+      "abstract": "A bank’s lending decision is affected by the amount of information it can access and by its capability to manage this information. The latter aspect implies that the bank has to decide whether borrowers should be managed in a local branch of the bank or in its headquarters. By looking at a sample of Finnish banks, the present research investigates a bank’s capability to extract profitability from both locally and centrally managed firms. We find that banks are able to properly discriminate bet ween firms: those which should be managed by loan managers with expert knowledge in the bank’s headquarters due to their complexity, and those firms which should be managed in the bank’s local branch because they are simpler and need standard products and services. As a result, banks are able to extract risk - adjusted profitability (RAP) from both centrally and locally managed customers. Our findings clearly support the argument that the decision to centralise or decentralise the lending decision process is not an either/or decision: banks should implement both approaches and apply according to the type of firm they serve.",
+      "corpusId": 11625849,
+      "url": "https://api.semanticscholar.org/CorpusId:11625849"
+    },
+    {
+      "title": "The interactive relationship between credit growth and profitability of people's credit funds in Vietnam",
+      "authors": [
+        {
+          "name": "Van Duong Ha",
+          "id": "1388019293"
+        }
+      ],
+      "year": 2020,
+      "venue": "unknown",
+      "score": 0.9173655338377524,
+      "abstract": "Article history: Received October 3",
+      "corpusId": 213115602,
+      "url": "https://api.semanticscholar.org/CorpusId:213115602"
+    },
+    {
+      "title": "Trade and credit reallocation: How banks help shape comparative advantage",
+      "authors": [
+        {
+          "name": "C. Keuschnigg",
+          "id": "93835760"
+        },
+        {
+          "name": "M. Kogler",
+          "id": "3881398"
+        }
+      ],
+      "year": 2021,
+      "venue": "Review of International Economics",
+      "score": 0.9153855101159968,
+      "abstract": "Innovation and trade are major sources of structural change. Innovative firms with better products expand on world markets, while less productive firms shrink. Capital and labor must flow from declining toward expanding firms. Reallocation is especially important in innovative sectors with short product cycles and high turnover. But this process is, by no means, without frictions. Whenever capital and labor are locked into current uses, a country cannot fully exploit its comparative advantage in reallocationintensive, innovative sectors. Received: 23 November 2020 | Revised: 4 May 2021 | Accepted: 1 June 2021 DOI: 10.1111/roie.12564",
+      "corpusId": 267861343,
+      "url": "https://api.semanticscholar.org/CorpusId:267861343"
+    },
+    {
+      "title": "What Determines Return Risks for Bank Equities in Turkey",
+      "authors": [
+        {
+          "name": "Emre Ozsoz",
+          "id": "119028230"
+        },
+        {
+          "name": "E. Rengifo",
+          "id": "34931107"
+        },
+        {
+          "name": "M. Akinkunmi",
+          "id": "51217467"
+        }
+      ],
+      "year": 2014,
+      "venue": "unknown",
+      "score": 0.911223312759259,
+      "abstract": "By using data from thirteen publicly traded commercial and deposit banks this paper estimates the determinants of market risk for bank equities in the case of an emerging market setting, Turkey. The analysis reveals that maturity composition of a bank’s loans, the share of trading income in a banks’ overall revenue stream and foreign-ownership structure are important indicators of the volatility of its equity returns. Banks with shorter loan maturity positions are regarded by investors as safer companies to invest in while increases in trading income as a source of bank’s overall revenue increases the volatility of its equity returns. Foreign ownership of a bank also lowers its equity return risk.",
+      "corpusId": 167641456,
+      "url": "https://doi.org/10.1016/J.BIR.2013.12.002"
+    },
+    {
+      "title": "Impact of Bank Equity Capital on Bank Cost of Capital ∗",
+      "authors": [
+        {
+          "name": "Saad Alnahedh",
+          "id": "120884724"
+        },
+        {
+          "name": "Sanjai Bhagat",
+          "id": "32081377"
+        }
+      ],
+      "year": 2017,
+      "venue": "unknown",
+      "score": 0.9099298105264982,
+      "abstract": "",
+      "corpusId": 202890855,
+      "url": "http://leeds-faculty.colorado.edu/bhagat/Bank-Capital-Lending.pdf"
+    },
+    {
+      "title": "On Using an Efficiency Matrix in Analysing Profit per Employee (on the Basis of the Estonian SME Software Sector)",
+      "authors": [
+        {
+          "name": "Paavo Siimann",
+          "id": "2099898919"
+        },
+        {
+          "name": "Jaan Alver",
+          "id": "70107441"
+        }
+      ],
+      "year": 2015,
+      "venue": "unknown",
+      "score": 0.9079112156629344,
+      "abstract": "Service companies earn their profit mainly due to their employees’ intellectual skills, therefore, increasing profit per employee is one opportunity to increase profit and thereby also the company’s market value. In this article the number of employees, the value of owners’ equity and loan capital, operating expenses, net sales and profit before income tax have been used to analyse the change in profit per employee of the Estonian software small and medium-sized enterprise (SME) sector in total, and for small and medium-sized companies separately in the years 2009–2013. Furthermore, this article demonstrates that the efficiency matrix methodology and its developments that were refined in Estonia and Russia from the 1960s to the 1990s can be deployed nowadays as well. Of all the components, profit margin and owners’ equity per employee showed the most rapid growth during the analysed period. Profit per employee was higher in the small enterprises segment and lowest among medium-sized enterprises, where owners’ equity per employee, net sales to operating expenses, and profit margin were lower than in small enterprises over the whole period analysed.",
+      "corpusId": 59031303,
+      "url": "https://api.semanticscholar.org/CorpusId:59031303"
+    },
+    {
+      "title": "Technological Innovation in Mortgage Underwriting and the Growth in Credit: 1985–2015",
+      "authors": [
+        {
+          "name": "Christopher L. Foote",
+          "id": "143816232"
+        },
+        {
+          "name": "L. Loewenstein",
+          "id": "46240177"
+        }
+      ],
+      "year": 2018,
+      "venue": "Federal Reserve Bank of Boston Research Department Working Papers",
+      "score": 0.9053102156652438,
+      "abstract": "The application of information technology to finance, or “fintech,” is expected to revolutionize many aspects of borrowing and lending in the future, but technology has been reshaping consumer and mortgage lending for many years. During the 1990s computerization allowed mortgage lenders to reduce loan-processing times and largely replace human-based assessment of credit risk with default predictions generated by sophisticated empirical models. Debt-to-income ratios at origination add little to the predictive power of these models, so the new automated underwriting systems allowed higher debt-to-income ratios than previous underwriting guidelines would have typically accepted. In this way, technology brought about an exogenous change in lending standards, which helped raise the homeownership rate and encourage the conversion of rental properties to owner-occupied ones, but did not have large effects on housing prices. Technological innovation in mortgage underwriting may have allowed the 2000s housing boom to grow, however, because it enhanced the ability of both borrowers and lenders to act on optimistic beliefs about future house-price growth.",
+      "corpusId": 169091474,
+      "url": "https://api.semanticscholar.org/CorpusId:169091474"
+    },
+    {
+      "title": "Feature Selection to Optimize Credit Banking Risk Evaluation Decisions for the Example of Home Equity Loans",
+      "authors": [
+        {
+          "name": "A. Pérez-Martín",
+          "id": "1411248727"
+        },
+        {
+          "name": "A. Pérez-Torregrosa",
+          "id": "2036604259"
+        },
+        {
+          "name": "A. Rabasa",
+          "id": "2849259"
+        },
+        {
+          "name": "M. Vaca",
+          "id": "2036217192"
+        }
+      ],
+      "year": 2020,
+      "venue": "Prime Archives in Applied Mathematics",
+      "score": 0.9026824632911822,
+      "abstract": "Measuring credit risk is essential for financial institutions because there is a high risk level associated with incorrect credit decisions. The Basel II agreement recommended the use of advanced credit scoring methods in order to improve the efficiency of capital allocation. The latest Basel agreement (Basel III) states that the requirements for reserves based on risk have increased. Financial institutions currently have exhaustive datasets regarding their operations; this is a problem that can be addressed by applying a good feature selection method combined with big data techniques for data management. A comparative study of selection techniques is conducted in this work to find the selector that reduces the mean square error and requires the least execution time.",
+      "corpusId": 228815725,
+      "url": "https://pdfs.semanticscholar.org/9110/f321a46a5e2969b8369a5a5d6840f64e4fab.pdf"
+    },
+    {
+      "title": "Equity Participation without Equity: An Analysis of Hope Notes",
+      "authors": [
+        {
+          "name": "J. F. Mcdonald",
+          "id": "50616450"
+        }
+      ],
+      "year": 2013,
+      "venue": "unknown",
+      "score": 0.9019616464222338,
+      "abstract": "The paper examines the case of splitting \na defaulted mortgage loan on a commercial property into an A note that earns interest and a B note that earns a return only if the value of the property \nincreases. The B note is known as a \n“hope note.” The paper shows that the current methods for structuring such a \ndeal often produce a B note that is \nworthless. A state-preference model is employed.",
+      "corpusId": 153492388,
+      "url": "https://api.semanticscholar.org/CorpusId:153492388"
+    },
+    {
+      "title": "The impact of IMF term loans on US bank creditors’ equity values: an event study of South Korea's case",
+      "authors": [
+        {
+          "name": "Zhaohui Zhang",
+          "id": "50316596"
+        }
+      ],
+      "year": 2001,
+      "venue": "unknown",
+      "score": 0.8989067183479236,
+      "abstract": "",
+      "corpusId": 153778251,
+      "url": "https://doi.org/10.1016/S1042-4431%2801%2900044-0"
+    },
+    {
+      "title": "Cost-Sharing and Equity in Higher Education: Implications of Income Contingent Loans",
+      "authors": [
+        {
+          "name": "D. Johnstone",
+          "id": "2317301260"
+        }
+      ],
+      "year": 2004,
+      "venue": "unknown",
+      "score": 0.8983867589833989,
+      "abstract": "",
+      "corpusId": 154277462,
+      "url": "https://doi.org/10.1007/1-4020-2835-0_3"
+    },
+    {
+      "title": "Recourse as Shadow Equity: Evidence from Commercial Real Estate Loans",
+      "authors": [
+        {
+          "name": "David P. Glancy",
+          "id": "122882189"
+        },
+        {
+          "name": "Robert J. Kurtzman",
+          "id": "39129720"
+        },
+        {
+          "name": "L. Loewenstein",
+          "id": "46240177"
+        },
+        {
+          "name": "Joseph B. Nichols",
+          "id": "144593689"
+        }
+      ],
+      "year": 2021,
+      "venue": "Working paper (Federal Reserve Bank of Cleveland)",
+      "score": 0.8967487590426012,
+      "abstract": "",
+      "corpusId": 238191956,
+      "url": "https://doi.org/10.26509/frbc-wp-202120"
+    },
+    {
+      "title": "Identifying and structuring the factors affecting sustainable banking resources with using interpretive structural modeling",
+      "authors": [
+        {
+          "name": "S. Mahdi",
+          "id": "2313673412"
+        },
+        {
+          "name": "Alireza Yamoula",
+          "id": "123911485"
+        },
+        {
+          "name": "Mohsen Khoshroo",
+          "id": "2090130216"
+        }
+      ],
+      "year": 2017,
+      "venue": "unknown",
+      "score": 0.8950100382515116,
+      "abstract": "Considering the recent developments in banking system, banks are able to increase their power of partnership in different areas of manufacturing, industrial, agricultural and else by attracting more resource approach, and creating competitive advantage, which result in expansion and increase of earnings or benefits of the bank as well as creating competitive advantage. Considering the limitation on resources and time, the ability to jointly invest in all of the influential factors on creating sustainable banking resources cannot be achieved. The main aim of the present research is to provide a model of the influential factors on creating sustainable banking resources so with usage of which, managers can identify the factors that have the highest influence on the others and plan on the them. For this purpose, 10 influencing factors on creating sustainable banking resources such as financial risks, amount and quality of equity, amount of assets, etc. by taking into account the relevant studies as well as benefiting from specialist’s opinions are chosen. Then the influential structure of these factors with usage of interpretive structural modeling method is drawn. The obtained results show that management of equities and human resources, are the most influential factors on providing sustainable banking resources.",
+      "corpusId": 158863068,
+      "url": "https://api.semanticscholar.org/CorpusId:158863068"
+    },
+    {
+      "title": "Substance vs. Form in Shareholder Financing: How Does This Affect the Corporate Interest? *",
+      "authors": [
+        {
+          "name": "Ferruccio",
+          "id": "95841748"
+        },
+        {
+          "name": "Mária",
+          "id": "2053239812"
+        },
+        {
+          "name": "Sbarbaro",
+          "id": "1492016590"
+        },
+        {
+          "name": "Andréa",
+          "id": "2075627265"
+        },
+        {
+          "name": "Sacco",
+          "id": "117572148"
+        },
+        {
+          "name": "Ginevri",
+          "id": "1394171225"
+        }
+      ],
+      "year": 2014,
+      "venue": "unknown",
+      "score": 0.8893106455735632,
+      "abstract": "This article analyzes the “substance versus form” contrast in the context of shareholders’ financing, exploring how it simultaneously affects both the corporate creditors’ protections and the long-term growth of the company. In particular, the paper describes the role of shareholders’ financing in the corporation capitalization and its qualification under the current “substance versus form” debate; then it illustrates the substantial approach commonly taken by the case law and explores the effects of the above mentioned debate on the corporate creditors’ protections; finally, the paper examines the impact of this practice on the governance side. This article argues that, in a context where substance should govern over form, the most acceptable standards of review should be those that refuse a mechanical application of the formal factors and privilege a comprehensive approach that can lead to a common sense evaluation of the facts and circumstances surrounding a transaction. In other words, the so-called “substantial factors” should certainly be helpful in reaching such a common sense understanding of the transaction since they may show the objective intent of the parties. In short, judicial tools that legitimate and expand the recharacterization of debt to equity are advisable devices because at the same time (1) they strengthen the (actual) corporate creditors’ protections; and (2) they foster a long-term growth of the company which benefiting from a conversion of its financial resources into equity (i.e., perpetual capital), may pursue a business strategy more focused on a sustainable and careful development of the enterprise.",
+      "corpusId": 166299983,
+      "url": "https://api.semanticscholar.org/CorpusId:166299983"
+    },
+    {
+      "title": "Down payment and mortgage rates: evidence from equity loans",
+      "authors": [
+        {
+          "name": "M. Benetton",
+          "id": "123253928"
+        },
+        {
+          "name": "P. Bracke",
+          "id": "102433244"
+        },
+        {
+          "name": "Nicola Garbarino",
+          "id": "120076551"
+        }
+      ],
+      "year": 2018,
+      "venue": "unknown",
+      "score": 0.8888019224994326,
+      "abstract": "",
+      "corpusId": 169904655,
+      "url": "https://doi.org/10.2139/ssrn.3130061"
+    },
+    {
+      "title": "Government Equity Investments in Coronavirus Bailouts: Why, How, When?",
+      "authors": [
+        {
+          "name": "W. Megginson",
+          "id": "102223016"
+        },
+        {
+          "name": "Veljko Fotak",
+          "id": "70067023"
+        }
+      ],
+      "year": 2021,
+      "venue": "Journal of Law, Finance, and Accounting",
+      "score": 0.7033940725445053,
+      "abstract": "",
+      "corpusId": 216297464,
+      "url": "https://doi.org/10.1561/108.00000050"
+    },
+    {
+      "title": "Does higher capital maintenance drive up banks cost of equity? Evidence from Bangladesh",
+      "authors": [
+        {
+          "name": "Md. Shah Naoaj",
+          "id": "2088457244"
+        },
+        {
+          "name": "Mir Md Moyazzem Hosen",
+          "id": "2187481694"
+        }
+      ],
+      "year": 2023,
+      "venue": "unknown",
+      "score": 0.683202013130491,
+      "abstract": "This paper assesses whether the higher capital maintenance drives up banks cost of equity. We investigate the hypothesis using fixed effect panel estimation with the data from a sample of 28 publicly listed commercial banks over the 2013 to 2019 periods. We find a significant negative relationship between banks capital and cost of equity. Empirically our baseline estimates entail that a 10 percent increase in capital would reduce the cost of equity by 4.39 percent.",
+      "corpusId": 256616010,
+      "url": "https://api.semanticscholar.org/CorpusId:256616010"
+    },
+    {
+      "title": "What Do State-Owned Development Banks Do? Evidence from BNDES, 2002–09",
+      "authors": [
+        {
+          "name": "S. Lazzarini",
+          "id": "1859007"
+        },
+        {
+          "name": "A. Musacchio",
+          "id": "4085346"
+        },
+        {
+          "name": "Rodrigo Bandeira-de-Mello",
+          "id": "1398283775"
+        },
+        {
+          "name": "Rosilene Marcon",
+          "id": "79522786"
+        }
+      ],
+      "year": 2015,
+      "venue": "unknown",
+      "score": 0.6064181255345841,
+      "abstract": "Defendants of state-owned development banks emphasize their role in reducing capital constraints and fostering productive investment; detractors point out that they may benefit politically connected capitalists or bail out inefficient firms. We study the effect of loans and equity investments of the Brazilian National Development Bank (BNDES) and find that they do not have any consistent effect on firm-level performance and investment, except for a reduction in financial expenditures due to the subsidies accompanying loans. However, BNDES does not systematically lend to underperforming firms. Our results indicate that BNDES subsidizes firms that could fund their projects with other sources of capital.",
+      "corpusId": 40741440,
+      "url": "https://api.semanticscholar.org/CorpusId:40741440"
+    },
+    {
+      "title": "Private placements of equity and accessibility of bank loans",
+      "authors": [
+        {
+          "name": "Xin Song",
+          "id": "2187624154"
+        },
+        {
+          "name": "Chao-Shin Liu",
+          "id": "47535690"
+        },
+        {
+          "name": "Zijie Ding",
+          "id": "2112355284"
+        },
+        {
+          "name": "Chen Huang",
+          "id": "2209571197"
+        },
+        {
+          "name": "Qiongyao Zhang",
+          "id": "2128136412"
+        }
+      ],
+      "year": 2023,
+      "venue": "PLoS ONE",
+      "score": 0.6007964527526347,
+      "abstract": "This study investigates the changes in quantity and cost of bank loans after a private placement of common stocks by A-share listed companies in China from 2011 to 2021. This research is derived from the signaling theory and is based on a difference-in-difference design. Through propensity score matching, the sample comprises companies that placed equity privately in the experiment group and companies that did not place equity privately in the control group. We find evidence that the increase in bank loans slowed down, and the cost of bank loans increased after the private placement. The signaling effect of private placements is robust to various additional tests. Further analysis indicates that when state-owned enterprises place equity privately, their access to bank loans is not affected. When institutional investors participate in the private placement, the company’s access to bank credit does not go through significant changes. In addition, private placements by companies located in regions with higher levels of marketization of the financial market do not reduce the cost of bank loans.",
+      "corpusId": 257535113,
+      "url": "https://api.semanticscholar.org/CorpusId:257535113"
+    },
+    {
+      "title": "Cross-Border Lending, Government Capital Injection, and Bank Performance",
+      "authors": [
+        {
+          "name": "Jyh-Horng Lin",
+          "id": "1770262"
+        },
+        {
+          "name": "Pei-Chi Lii",
+          "id": "123086105"
+        },
+        {
+          "name": "Fu-Wei Huang",
+          "id": "12195097"
+        },
+        {
+          "name": "Shi Chen",
+          "id": "2352985713"
+        }
+      ],
+      "year": 2019,
+      "venue": "International Journal of Financial Studies",
+      "score": 0.5991051586923887,
+      "abstract": "In this paper, we develop a contingent claim model to examine the optimal bank interest margin, i.e., the spread between the domestic loan rate and the deposit market rate of an international bank in distress. The framework is used to evaluate the cross-border lending efficiency for a bank that participates in a government capital injection program, a government intervention used in response to the 2008 financial crisis. This paper suggests that government capital injection is an appropriate way to recapitalize the distressed bank, enhancing the bank interest margin and survival probability. Nevertheless, the government capital injection lacks efficiency when the bank’s cross-border lending is high. Stringent capital regulation, suggested to prevent future crises by literature, leads to superior lending efficiency when the government capital injection is low.",
+      "corpusId": 121177850,
+      "url": "https://api.semanticscholar.org/CorpusId:121177850"
+    },
+    {
+      "title": "Business Aggression, Institutional Loans, and Credit Crisis: Evidence from Lending Practices in Leveraged Buyouts",
+      "authors": [
+        {
+          "name": "Joseph R. Mason",
+          "id": "2412074434"
+        },
+        {
+          "name": "Joseph R. Mason",
+          "id": "2412074434"
+        },
+        {
+          "name": "Weiling Song",
+          "id": "49918041"
+        },
+        {
+          "name": "Jerry Cao",
+          "id": "2410220646"
+        }
+      ],
+      "year": 2009,
+      "venue": "unknown",
+      "score": 0.5859147556699777,
+      "abstract": "This paper investigates the lending practices related to leverage buyouts (LBOs) market between high and low write-down institutions. The write-downs, which are a proxy for business aggression of institutions, are mainly related to credit crisis from the beginning of 2007 to August 10, 2008. We find that high (low) write-down institutions increase (decrease) loan market share dramatically during the period of 2001-2006. The increase is mainly driven by the segment of loans sold to institutional investors, such as collateralized loan obligations vehicle, hedge fund, and insurance companies. Institutional loans originated by high write-down institutions carry significantly fewer covenants and higher interest spread than those by low write-down institutions during 2001-2006. However, there are no such differences during 1995-2000. The aggressive lending practice by high write-down institutions to lower quality borrowers during 2001-2006 appeared to be mitigated by reputable private equity (PE) investors. High write-down institutions arranged loans with more covenants and lower interest spread for borrowers with investments from more reputable private equity investors. We contribute to extant literature in the area of financial crisis by providing empirical evidence that both business aggression of some institutions and the increase demand for institutional loans drive the peculiar lending practice during the easy credit period, which subsequently leads to declines in values of assets associated with these loans. Our focus on the role of PE reputation in mitigating aggressive lending practice complements recent studies in the area of LBO loans market and PE reputation, such as Demiroglu and James (2008) and Ivashina and Kovner (2008). The findings of demand pressure (credit supply) from institutional loans add to the analyses of Ivashina and Sun (2008) and Wang (2008). We provide additional evidence that such increase in institutional loans demand is filled by some aggressive financial institutions, which ex post incur high write-downs during the credit crisis. Many such institutions pay horrendous prices for their business aggression and have ceased to exist in the market.",
+      "corpusId": 55484708,
+      "url": "https://api.semanticscholar.org/CorpusId:55484708"
+    },
+    {
+      "title": "Factors Affecting Bank Profitability in Pakistan",
+      "authors": [
+        {
+          "name": "Sehrish Gul",
+          "id": "16041780"
+        }
+      ],
+      "year": 2011,
+      "venue": "unknown",
+      "score": 0.5844140080588422,
+      "abstract": "",
+      "corpusId": 14611464,
+      "url": "http://www.rejournal.eu/sites/rejournal.versatech.ro/files/articole/2011-02-28/2101/guletal-je39.pdf"
+    },
+    {
+      "title": "Do dual holders enhance or hinder managerial efficiency?",
+      "authors": [
+        {
+          "name": "SeungWon Lee",
+          "id": "2283405099"
+        },
+        {
+          "name": "Heeick Choi",
+          "id": "123881339"
+        },
+        {
+          "name": "Soomi Jang",
+          "id": "2224569626"
+        }
+      ],
+      "year": 2024,
+      "venue": "Applied Economics",
+      "score": 0.5843953897986048,
+      "abstract": "ABSTRACT This study examines the influence of dual ownership on managerial efficiency using panel data from a dataset of U.S. firms spanning 1996 to 2017. Our findings indicate that dual ownership negatively affects managerial efficiency, demonstrating diminishing productivity in resource utilization when dual ownership is present or increases. Cross-sectional analyses suggest that the adverse effect of dual holders on managerial efficiency is more pronounced in dual-held firms with weaker corporate governance and greater financial constraints. Additional analyses, including propensity score matching, change specifications, Lewbel’s instrumental variable approach, and alternative measures of managerial efficiency, corroborate our findings.",
+      "corpusId": 273907989,
+      "url": "https://api.semanticscholar.org/CorpusId:273907989"
+    },
+    {
+      "title": "The influence of behavioral factors on SMES’ owners intention to adopt private finance",
+      "authors": [
+        {
+          "name": "P. Kijkasiwat",
+          "id": "147807534"
+        }
+      ],
+      "year": 2021,
+      "venue": "unknown",
+      "score": 0.5843480337334722,
+      "abstract": "Abstract This study examines how behavioral factors of business owners impact on the intention to use private finance in small and medium enterprises (SMEs). The study adopts the theory of planned behavior to investigate the effect of attitudes, subjective norms and perceived behavioral control on the choice and use of retained earnings and private equity by SMEs. The research samples are firms across 29 countries from Eastern Europe and Central Asia. The study uses partial least square structural equation modeling for the analysis. It was found that attitudes, subjective norms and perceived behavioral control of owners of SMEs’ impact on their intention to use private finance at a statistically significant level of 1 percent. These findings are discussed and the implications and suggestions for future study are proposed in this paper.",
+      "corpusId": 233547917,
+      "url": "https://api.semanticscholar.org/CorpusId:233547917"
+    },
+    {
+      "title": "Bank capital and the cost of equity",
+      "authors": [
+        {
+          "name": "M. Belkhir",
+          "id": "2606856"
+        },
+        {
+          "name": "Sami Ben Naceur",
+          "id": "115309393"
+        },
+        {
+          "name": "R. Chami",
+          "id": "40573426"
+        },
+        {
+          "name": "Anis Semet",
+          "id": "1581703069"
+        }
+      ],
+      "year": 2019,
+      "venue": "Journal of Financial Stability",
+      "score": 0.5773070412079842,
+      "abstract": "Using a sample of publicly listed banks from 62 countries over the 1991-2017 period, we investigate the impact of capital on banks’ cost of equity. Consistent with the theoretical prediction that more equity in the capital mix leads to a fall in firms’ costs of equity, we find that better capitalized banks enjoy lower equity costs. Our baseline estimations indicate that a 1 percentage point increase in a bank’s equity-to-assets ratio lowers its cost of equity by about 18 basis points. Our results also suggest that the form of capital that investors value the most is sheer equity capital; other forms of capital, such as Tier 2 regulatory capital, are less (or not at all) valued by investors. Additionally, our main finding that capital has a negative effect on banks’ cost of equity holds in both developed and developing countries. The results of this paper provide the missing evidence in the debate on the effects of higher capital requirements on banks’ funding costs.",
+      "corpusId": 213823048,
+      "url": "https://api.semanticscholar.org/CorpusId:213823048"
+    },
+    {
+      "title": "Sources of Finance for Public-Private Partnership (PPP) in Poland",
+      "authors": [
+        {
+          "name": "Roman Osinski",
+          "id": "2151273284"
+        }
+      ],
+      "year": 2022,
+      "venue": "Central European Economic Journal",
+      "score": 0.576257416166158,
+      "abstract": "Abstract This paper aims to present and discuss the already existing studies and try to uncover possible potential for further research on the topic of financial resources in public–private partnership (PPP) projects. The article presents the main relevant papers regarding financial resources and examines how deep the topic of financial sources has been explored in both academic and practical literature. Moreover, the article reviews Poland’s PPP market and, particularly, types of used financial sources. The ‘Literature review’ results show that there is a gap in studying the private sector and financial resources, especially in Polish PPPs. We attempt to close this gap by summarising the main factors that influence the choice of the source of financing PPPs. The Polish case shows that the main source of financing of PPP projects in Poland is bank loans and many projects have partial funding from various European Union (EU) programmes. Policymakers should pay attention to other financial resources in PPPs. Moreover, it would be fruitful to extend the Polish database of PPP projects with new factors that can simplify ex-post and ex-ante analysis.",
+      "corpusId": 246297896,
+      "url": "https://api.semanticscholar.org/CorpusId:246297896"
+    },
+    {
+      "title": "EFFICIENCY MARKET HYPOTHESIS, RANDOM WALK THEORY, AND FINANCIAL RATIOS-STOCK RETURNS: A COMPARATIVE STUDY OF BANKS IN INDONESIA, INDIA, AND CHINA IN THE POST-COVID ERA",
+      "authors": [
+        {
+          "name": "Triana Eva Adiningsih",
+          "id": "2277972336"
+        }
+      ],
+      "year": 2023,
+      "venue": "Berkala Akuntansi dan Keuangan Indonesia",
+      "score": 0.5753214483323078,
+      "abstract": "\n\n\nThis research aims to analyze how financial ratios affect firm value, utilizing the Efficiency Market Hypothesis and Random Walk Theory for analysis. It focuses on banking sector companies listed on the Indonesia Stock Exchange (XIDX), India Stock Exchange (XBOM), and China Stock Exchange (XSHG) from 2022 to 2023. This quantitative study employs purposive sampling, resulting in 184 firm- year samples, with data gathered from annual reports. Regression analysis using SPSS version 26 is the chosen method. The findings suggest that India has the most efficient market, while Indonesia aligns with the random walk theory, indicating weaker market efficiency. Notably, variables like \"Return on Average Equity\" in Indonesia and India and \"Impairment Loans to Equity\" in India and China significantly impact stock returns. These varying influences underscore the importance of considering country-specific factors in stock return predictions. However, it's essential to acknowledge tha the models explain only a portion of the variance in the dependent variable.\n\n\n",
+      "corpusId": 266783567,
+      "url": "https://api.semanticscholar.org/CorpusId:266783567"
+    },
+    {
+      "title": "Big Data techniques to measure credit banking risk in home equity loans",
+      "authors": [
+        {
+          "name": "A. Pérez-Martín",
+          "id": "1411248727"
+        },
+        {
+          "name": "A. Pérez-Torregrosa",
+          "id": "2036604259"
+        },
+        {
+          "name": "M. Vaca",
+          "id": "2036217192"
+        },
+        {
+          "name": "M. Carlo",
+          "id": "2286492100"
+        }
+      ],
+      "year": 2018,
+      "venue": "Journal of business research",
+      "score": 0.5752220711734356,
+      "abstract": "",
+      "corpusId": 96424303,
+      "url": "https://doi.org/10.1016/J.JBUSRES.2018.02.008"
+    },
+    {
+      "title": "Impact of Credit Risk Management on Profitability of Commercial Banks in Bangladesh: An estimation of Dynamic Panel Data Model",
+      "authors": [
+        {
+          "name": "R. Lalon",
+          "id": "119009922"
+        },
+        {
+          "name": "Farhana Morshada",
+          "id": "2044997021"
+        }
+      ],
+      "year": 2020,
+      "venue": "International Journal of Finance & Banking Studies",
+      "score": 0.5673972180271232,
+      "abstract": "This paper attempts to reveal how several credit risk factors are affecting the profitability of commercial banks considering the econometric models estimated with Random effect, Fixed effect, Pooled OLS and Cross-sectional Generalized least square (GLS) method followed by dynamic panel data model estimated with one-step GMM (generalized methods of moments) approach to incorporate the issue of endogeneity, unobserved heterogeneity and profit persistence of data set collected from annual report of banks covering from year 2010 to 2019 in Bangladesh. We have also adopted several diagnostic checks such as Model specification test, test of heteroskedasticty, cross sectional dependence test followed by test of autocorrelation and unit root test to examine the validity of the models selected for this study. The first part of our empirical investigation of the estimated models considering all methods reveals that out of all the independent credit risk factors such as Total loans to total assets ratio, Total loans to equity ratio, NPL to total loans, NPL to Total equity ratio, Provision for loan losses to total equity, total equity to total assets ratio, Total loans to total deposits ratio and provision for loan losses to NPL ratio, only provision for loan losses to NPL ratio is significantly affecting the dependent variable measured with NIM (Net interest margin) ratio of banks under fixed effect method. The next part of our empirical results of estimated models considering same methods divulges that NPL to total loans ratio, NPL to Total equity ratio and Provision for loan losses to total equity are also significantly affecting the dependent variable measured with ROE (Return on equity) of banks. The third segment of our empirical findings of estimated models considering same approaches shows that only NPL to total loans ratio is statistically significant under all methods but the NPL to total equity ratio is significant under fixed effect and GLS method and Provision for loan losses to total equity is significant under GLS method only in explaining the changes in ROA (Return on equity) measuring profitability of banks. Further investigation reveals that the dynamic impact of the said credit risk factors on profitability measured with ROE of banks has been successfully adopted by one-step system GMM approach considering all conditions required for estimation.",
+      "corpusId": 230659097,
+      "url": "https://api.semanticscholar.org/CorpusId:230659097"
+    },
+    {
+      "title": "Credit Activities Of Cooperative Banks In Poland",
+      "authors": [
+        {
+          "name": "A. Bieniasz",
+          "id": "14629746"
+        },
+        {
+          "name": "P. Krysztofiak",
+          "id": "2103673959"
+        }
+      ],
+      "year": 2017,
+      "venue": "unknown",
+      "score": 0.5637958732265118,
+      "abstract": "The aim of the study was to analyze the lending activities of cooperative banks in Poland in the years 2010– 2014, in a size of banks. Elaboration is a review, based on the data of the Polish Financial Supervision Authority. Research indicates that the value of own funds of the cooperative banks was reflected in both the volume of lending, and in the structure of loans. Banks with capital of 5 million euro loans for primarily farmers, individuals, and individual entrepreneurs. In turn, the banks with capital of more than 5 million euro were most involved in the financing of small and medium enterprises and individual farmers. Regardless of the size of banks, the most important in lending loans were investment and operating",
+      "corpusId": 158220897,
+      "url": "https://api.semanticscholar.org/CorpusId:158220897"
+    },
+    {
+      "title": "The Reputation Effect: A Case Study of Credit Contracts in Transition Countries",
+      "authors": [
+        {
+          "name": "Lionel Artige",
+          "id": "103553197"
+        },
+        {
+          "name": "Rosella Nicolini",
+          "id": "50642749"
+        }
+      ],
+      "year": 2016,
+      "venue": "unknown",
+      "score": 0.5601231115299453,
+      "abstract": "This paper proposes an empirical analysis associated with a case study. It focuses on the financing strategy adopted by the European Bank for Reconstruction and Development in the period 1991–2003. Our added value is an original exploration concerning the role of institutional memory. By exploiting information on the number and type of contracts by client, we test different indicators to approximate the client's reputation. Our results unambiguously show that the value of the first-investment project financed by the EBRD (as a proxy for reputation) was the most effective screening device for established clients.",
+      "corpusId": 88507618,
+      "url": "https://api.semanticscholar.org/CorpusId:88507618"
+    },
+    {
+      "title": "Regional Variables that Influence the Allocation of Venture Capital: The Role of Banks",
+      "authors": [
+        {
+          "name": "G. Pulver",
+          "id": "21000571"
+        },
+        {
+          "name": "Ronald J. Hustedde",
+          "id": "114667606"
+        }
+      ],
+      "year": 1988,
+      "venue": "unknown",
+      "score": 0.5558081184073326,
+      "abstract": "The major focus of this paper is to examine the regional variables that have the strongest influence on the allocation of venture capital with special emphasis on the information role of banks. The paper is divided into five sections: a description of venture capital markets, a summary of the factors that venture capitalists perceive as important in market transactions, an analysis of bankers' involvement in venture capital markets, some general conclusions, and policy recommendations.",
+      "corpusId": 59334117,
+      "url": "https://api.semanticscholar.org/CorpusId:59334117"
+    },
+    {
+      "title": "Relevance of Capital Structure Theories in the Service Sector",
+      "authors": [
+        {
+          "name": "Judit Szemán",
+          "id": "79776085"
+        }
+      ],
+      "year": 2017,
+      "venue": "unknown",
+      "score": 0.5547030909033149,
+      "abstract": "The aim of this study is to examine the relevance of capital structure theories in the Hungarian service sector between 2008 and 2014. The service sector stands in the centre of research, as the role of this sector is becoming more and more important. Whereas the importance of other sectors has decreased in the previous years and decades, the role of services shows an increasing trend in developed societies. The paper focuses on three factors. Firstly, I examine whether the classical theory is relevant, in which there is a negative linkage between profitability and capital leverage. Secondly, I examine the linkage between liquidity and capital leverage. Finally, I examine the principle of maturity matching, namely if firms in the service sector keep the golden rule to finance their non-current assets from non-current liabilities and equity.",
+      "corpusId": 168944405,
+      "url": "https://api.semanticscholar.org/CorpusId:168944405"
+    },
+    {
+      "title": "Impact of Increasing Minimum Wage on Homeownership and Home Equity Loans",
+      "authors": [
+        {
+          "name": "Hoa Nguyen",
+          "id": "143800966"
+        }
+      ],
+      "year": 2019,
+      "venue": "International Advances in Economic Research",
+      "score": 0.5451933197375001,
+      "abstract": "",
+      "corpusId": 255132319,
+      "url": "https://doi.org/10.1007/s11294-019-09736-5"
+    },
+    {
+      "title": "Banks in an environment of higher interest rates",
+      "authors": [
+        {
+          "name": "Antonio Sánchez Serrano",
+          "id": "1392982034"
+        }
+      ],
+      "year": 2024,
+      "venue": "Latin American Journal of Central Banking",
+      "score": 0.43927961063132265,
+      "abstract": "The core financial intermediation function of banks, providing loans and taking deposits, is closely related to the level of interest rates. We construct a simplified balance sheet of a representative bank and assess how increases in interest rates may affect its profitability (through changes in net interest income, the fair value of financial assets, and credit losses) as well as the market value of its assets and liabilities (i.e., market value of equity). Using a sample of 103 EU banks from the 2022 EBA Transparency Exercise, we find that, mainly on account of higher net interest income, higher interest rates increase bank profits, with an inverted-U shaped curve over time. There is however a non-negligible share of banks reporting losses, mainly because of their high share of loans at fixed-rates or of debt securities at fair value. Looking at the market value of equity, it declines for most of the banks in our sample, confirming the negative relation between interest rates and banks’ assets and liabilities. Disclaimer: The views expressed in this paper are those of the author and do not necessarily represent the views of the European Systemic Risk Board (ESRB), any of its Member Institutions or the ESRB Secretariat. Comments by participants at the 2024 Latin American Journal of Central Banking Conference and by Carlos Segura-Rodriguez (discussant) are gratefully appreciated. All remaining errors are mine.",
+      "corpusId": 273956761,
+      "url": "https://api.semanticscholar.org/CorpusId:273956761"
+    },
+    {
+      "title": "Mortgage affordability and entrepreneurship: Evidence from spatial discontinuity in Help-to-Buy equity loans",
+      "authors": [
+        {
+          "name": "Nikodem Szumilo",
+          "id": "104965487"
+        },
+        {
+          "name": "E. Vanino",
+          "id": "4834351"
+        }
+      ],
+      "year": 2021,
+      "venue": "Journal of Business Venturing",
+      "score": 0.43497262788688357,
+      "abstract": "Abstract We exploit a policy change in the UK Help-to-Buy (HTB) equity loan scheme in order to identify the causal link between mortgage affordability and entrepreneurship activity at the local level. We contribute to the literature on the relationship between housing finance and entrepreneurship by demonstrating the impact of government equity loans on entrepreneurship through the release of trapped liquidity. When less equity is required to buy a house, households could use the ‘additional’ liquidity to start a business. We use a spatial discontinuity in treatment methodology to take advantage of the reform of the Help-to-Buy scheme in 2016, which increased the limit of equity loans provided in London. By using data on business population at the postcode sector level, we are able to measure the impact of the new policy by comparing similar areas on the opposite sides of the Greater London Authority boundary. Our results show that an increase in mortgage affordability fosters entrepreneurial activity in affected areas by 20%, resulting in 1 more start-up on average per postcode per year. The new businesses are mainly single-plant micro enterprises in capital intensive sectors with low income volatility.",
+      "corpusId": 233568913,
+      "url": "https://api.semanticscholar.org/CorpusId:233568913"
+    },
+    {
+      "title": "Non-Performing Loan and its Impact on Stock Price Index Through Return on Equity in the Banking Industry",
+      "authors": [
+        {
+          "name": "Z. Zakaria",
+          "id": "153939026"
+        },
+        {
+          "name": "Khusnul Khotimah",
+          "id": "2279390290"
+        },
+        {
+          "name": "Saling Saling",
+          "id": "2231493731"
+        },
+        {
+          "name": "Abdul Rasyid",
+          "id": "2314658119"
+        }
+      ],
+      "year": 2023,
+      "venue": "Innovation Business Management and Accounting Journal",
+      "score": 0.4309648763948078,
+      "abstract": "This research aims to examine and analyze the influence of non-performing loans on the stock price index through return on equity in the banking industry listed on the Indonesia Stock Exchange. The study employs secondary data from 30 banking industries obtained from ICMD (Indonesia Capital Market Directory) for the period 2016 to 2020, as well as data from the Central Bureau of Statistics, Bank Indonesia, Jakarta Stock Exchange website, and Bank Indonesia. The data is analyzed using path analysis with AMOS version 7 to test the data and analyze the hypotheses. The research findings indicate the following: 1) Non-performing loans have a significant negative influence on return on equity, meaning that lower non-performing loan values in an industry lead to higher profitability levels measured by return on equity; 2) Return on equity has a significant positive influence on the stock price index, explaining that higher profits for banks, as measured by return on equity, correspond to higher stock prices as measured by the stock price index; 3) Non-performing loans have a significant negative influence on the stock price index through return on equity. This suggests that investors are more responsive to changes in non-performing loans rather than waiting for financial performance information, as measured by return on equity, to assess stock price developments.",
+      "corpusId": 260861230,
+      "url": "https://api.semanticscholar.org/CorpusId:260861230"
+    },
+    {
+      "title": "The role of venture capital in SME loans in China",
+      "authors": [
+        {
+          "name": "Long Wu",
+          "id": "145678669"
+        },
+        {
+          "name": "Lei Xu",
+          "id": "145949101"
+        }
+      ],
+      "year": 2020,
+      "venue": "unknown",
+      "score": 0.42850888942505355,
+      "abstract": "",
+      "corpusId": 202298193,
+      "url": "https://doi.org/10.1016/J.RIBAF.2019.101081"
+    },
+    {
+      "title": "Equity Incentives and Earnings Management",
+      "authors": [
+        {
+          "name": "Q. Cheng",
+          "id": "145231644"
+        },
+        {
+          "name": "Terry D. Warfield",
+          "id": "97295349"
+        },
+        {
+          "name": "Minlei Ye",
+          "id": "119514088"
+        }
+      ],
+      "year": 2011,
+      "venue": "unknown",
+      "score": 0.4165329792144305,
+      "abstract": "We examine the relationship between equity incentives and earnings management in the banking industry. By focusing on this regulated industry and using industry-specific earnings management proxies, we provide evidence on the impact of regulation on earnings management arising from chief executive officers’ equity incentives. We find that bank managers with high equity incentives are more likely to manage earnings, but only when capital ratios are closer to the minimums required by regulators. This finding indicates that, in the banking industry, potential regulatory intervention induces, rather than mitigates, earnings management arising from equity incentives.",
+      "corpusId": 219369370,
+      "url": "https://api.semanticscholar.org/CorpusId:219369370"
+    },
+    {
+      "title": "Cyclical patterns in profits , provisioning and lending of banks and procyclicality of the new Basel capital requirements *",
+      "authors": [
+        {
+          "name": "acob",
+          "id": "150929906"
+        },
+        {
+          "name": "B. A",
+          "id": "2267529850"
+        },
+        {
+          "name": "Ikker",
+          "id": "2267648008"
+        },
+        {
+          "name": "Aixia",
+          "id": "2267649411"
+        }
+      ],
+      "year": 2003,
+      "venue": "unknown",
+      "score": 0.404073857980544,
+      "abstract": "",
+      "corpusId": 62805810,
+      "url": "https://ojs.uniroma1.it/index.php/PSLQuarterlyReview/article/download/9907/9789"
+    },
+    {
+      "title": "Survey of Finance Companies, 2015",
+      "authors": [
+        {
+          "name": "Lisa Chen",
+          "id": "2118058438"
+        },
+        {
+          "name": "Gregory E. Elliehausen",
+          "id": "116985606"
+        },
+        {
+          "name": "M. Wicks",
+          "id": "48254157"
+        }
+      ],
+      "year": 2018,
+      "venue": "unknown",
+      "score": 0.4024095725755753,
+      "abstract": "Finance companies are nondepository financial firms whose primary business is providing debt and lease financing to consumers and businesses. At the end of 2015, finance companies held nearly $747 billion of consumer credit and lease receivables, $160 billion of real estate debt, and $405 billion of business credit and lease receivables. Of note, finance companies are the third-largest institutional supplier of consumer credit, behind banks and the federal government, holding nearly one-third of consumer motor vehicle debt and providing a substantial amount of lease financing of motor vehicles. By contrast, while finance companies continue to account for a substantial share of residential mortgage originations, they hold only a modest share of such credit. In addition, finance companies’ business portfolios include shortand medium-term credit and leases to finance inventory, accounts receivable, and acquisition of motor vehicles and equipment. Finance companies hold a small amount of commercial real estate debt as well.",
+      "corpusId": 216961459,
+      "url": "https://api.semanticscholar.org/CorpusId:216961459"
+    },
+    {
+      "title": "Impact of Increasing Minimum Wage on Homeownership and Home Equity Loans",
+      "authors": [
+        {
+          "name": "Hoa Nguyen",
+          "id": "143800966"
+        }
+      ],
+      "year": 2018,
+      "venue": "International Advances in Economic Research",
+      "score": 0.36996775844579594,
+      "abstract": "",
+      "corpusId": 158312290,
+      "url": "https://doi.org/10.1007/S11294-019-09736-5"
+    },
+    {
+      "title": "IMPUTED EQUITY RETURNS ON REAL ESTATE FINANCED WITH LIFE INSURANCE COMPANY LOANS",
+      "authors": [
+        {
+          "name": "R. Ricks",
+          "id": "1991115"
+        }
+      ],
+      "year": 1969,
+      "venue": "unknown",
+      "score": 0.36912131893532707,
+      "abstract": "",
+      "corpusId": 154472002,
+      "url": "https://doi.org/10.1111/J.1540-6261.1969.TB01703.X"
+    },
+    {
+      "title": "Research on the impact of equity pledge loans on financial distress and forecasting ability--Based on the \"Factor-Logit\" model",
+      "authors": [
+        {
+          "name": "Yiran Zhou",
+          "id": "2381135257"
+        }
+      ],
+      "year": 2024,
+      "venue": "Highlights in Business, Economics and Management",
+      "score": 0.3368860005937161,
+      "abstract": "",
+      "corpusId": 275702105,
+      "url": "https://doi.org/10.54097/xz0tx478"
+    },
+    {
+      "title": "The Impact of Major Shareholders' Equity Pledges on Audit Pricing: Empirical Evidence from China's Private Listed Companies",
+      "authors": [
+        {
+          "name": "Mengmeng Chen",
+          "id": "2125046146"
+        }
+      ],
+      "year": 2025,
+      "venue": "Highlights in Business, Economics and Management",
+      "score": 0.33014836920766816,
+      "abstract": "",
+      "corpusId": 282877758,
+      "url": "https://doi.org/10.54097/x4ndye89"
+    }
+  ]
+}

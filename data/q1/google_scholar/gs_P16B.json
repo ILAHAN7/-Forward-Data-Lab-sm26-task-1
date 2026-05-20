@@ -1,0 +1,111 @@
+{
+  "query_id": "P16B",
+  "query": "CBDC monetary policy financial stability",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:15Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Central Bank Digital Currency Design: Privacy, Financial Stability, and Monetary Policy Transmission",
+    "year": 2024,
+    "abstract": "We model CBDC design choices along three dimensions - anonymity, programmability, and interest-bearing features - and analyze their implications for bank disintermediation and monetary policy effectiveness.",
+    "domain": [
+      "CBDC",
+      "monetary policy",
+      "financial stability",
+      "privacy"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Central bank digital currency and the monetary policy and financial stability implications",
+      "link": "https://www.igi-global.com/chapter/central-bank-digital-currency-and-the-monetary-policy-and-financial-stability-implications/336722",
+      "snippet": "… digital currency on financial stability and monetary policy are … have not issued an operational CBDC at the time of writing this … financial stability and monetary policy implications of CBDC …",
+      "publication_info": "PK Ozili - Digital Currency Assets and Challenges to Financial …, 2024 - igi-global.com",
+      "year": 2024,
+      "citation_count": 12
+    },
+    {
+      "rank": 2,
+      "title": "Retail CBDC: Implications for banking and financial stability",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-financial-082123-105958",
+      "snippet": "… Third and finally, we edge our way into the literature on macroeconomic modeling to examine how the introduction of a CBDC could alter the design of monetary policies. …",
+      "publication_info": "S Infante, K Kim, A Orlik, AF Silva… - … Review of Financial …, 2024 - annualreviews.org",
+      "year": 2024,
+      "citation_count": 64
+    },
+    {
+      "rank": 3,
+      "title": "CBDC, Fintech and cryptocurrency for financial inclusion and financial stability",
+      "link": "https://www.emerald.com/dprg/article/25/1/40/101692",
+      "snippet": "… to the financial stability literature by showing that Fintech, CBDC … increase or decrease financial stability risks under specific … financial inclusion literature by showing that Fintech, CBDC …",
+      "publication_info": "PK Ozili - Digital Policy, Regulation and Governance, 2023 - emerald.com",
+      "year": 2023,
+      "citation_count": 156
+    },
+    {
+      "rank": 4,
+      "title": "Central bank digital currency and financial stability",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3330914",
+      "snippet": "… digital currency (CBDC) for financial stability using a monetary … liquidity in the form of fiat currency, and (ii) commercial bank … policy, the interaction between monetary policy and financial …",
+      "publication_info": "YS Kim, O Kwon - Bank of Korea WP, 2019 - papers.ssrn.com",
+      "year": 2019,
+      "citation_count": 105
+    },
+    {
+      "rank": 5,
+      "title": "More than an intellectual game: exploring the monetary policy and financial stability implications of central bank digital currencies",
+      "link": "https://www.suerf.org/wp-content/uploads/2023/12/f_e2bbb6c289a1f6fc299b4c365e04ea7c_45505_suerf.pdf",
+      "snippet": "… for financial stability and monetary policy. CBDCs must do no harm. In particular, they should not become a source of financial … CBDC could accelerate and strengthen monetary policy …",
+      "publication_info": "F Panetta - … Initiative Conference on Technology and Finance, 2022 - suerf.org",
+      "year": 2022,
+      "citation_count": 37
+    },
+    {
+      "rank": 6,
+      "title": "Monetary Policy Dynamics in the Digital Era: Its Impact on Economic Growth and Global Market Stability",
+      "link": "https://www.syariah.jurnalikhac.ac.id/index.php/majapahit/article/view/820",
+      "snippet": "… monetary policies have become increasingly important in maintaining economic stability … by central banks (CBDC), has the potential to enhance global market stability. However, this …",
+      "publication_info": "E Efendi - Majapahit Journal of Islamic Finance and …, 2026 - syariah.jurnalikhac.ac.id",
+      "year": 2026,
+      "citation_count": 1
+    },
+    {
+      "rank": 7,
+      "title": "Financial stability implications of CBDC",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4811761",
+      "snippet": "… Bank Digital Currency (CBDC) is a form of digital money that is … the financial stability risks and benefits of issuing a CBDC … The ON RRP is a supplementary monetary policy tool that …",
+      "publication_info": "F Carapella, JW Chang, S Infante, M Leistra, A Lubis… - 2024 - papers.ssrn.com",
+      "year": 2024,
+      "citation_count": 31
+    },
+    {
+      "rank": 8,
+      "title": "MONETARY POLICY AS A TOOL FOR ENSURING THE FINANCIAL STABILITY OF THE BANKING SYSTEM AND ECONOMIC SECURITY OF UKRAINE",
+      "link": "https://inneco.org/index.php/innecoen/article/view/1573",
+      "snippet": "… OF THE BANKING SYSTEM AND ECONOMIC SECURITY OF … of monetary policy as a key instrument for ensuring financial stability and economic security in the context of financial …",
+      "publication_info": "M Stetsko - INNOVATIVE ECONOMY, 2025 - inneco.org",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 9,
+      "title": "A study on the influence mechanism of CBDC on monetary policy: An analysis based on e-CNY",
+      "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268471",
+      "snippet": "… the related needs to provide external funds from different sources caused by CBDC do pose challenges to financial stability and have a potential impact on the efficiency of the entire …",
+      "publication_info": "J Yang, G Zhou - Plos one, 2022 - journals.plos.org",
+      "year": 2022,
+      "citation_count": 95
+    },
+    {
+      "rank": 10,
+      "title": "Central bank digital currencies—Design principles for financial stability",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0313592621000898",
+      "snippet": "… digital currency (CBDC) is first introduced into an economy, and when there is an attempt at a large-scale run out of bank deposits into CBDC. We find that if the introduction of CBDC …",
+      "publication_info": "M Kumhof, C Noone - Economic Analysis and Policy, 2021 - Elsevier",
+      "year": 2021,
+      "citation_count": 199
+    }
+  ]
+}

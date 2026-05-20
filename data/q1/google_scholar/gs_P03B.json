@@ -1,0 +1,100 @@
+{
+  "query_id": "P03B",
+  "query": "smart contracts GNN vulnerability detection",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T17:58:42Z",
+  "result_count": 10,
+  "papers": [
+    {
+      "rank": 1,
+      "title": "DA-GNN: A smart contract vulnerability detection method based on Dual Attention Graph Neural Network",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1389128624000707",
+      "snippet": "… low accuracy in traditional smart contract vulnerability detection methods and the insufficient … for smart contracts, this paper introduces an intelligent contract vulnerability identification …",
+      "publication_info": "Z Zhen, X Zhao, J Zhang, Y Wang, H Chen - Computer Networks, 2024 - Elsevier",
+      "year": 2024,
+      "citation_count": 71
+    },
+    {
+      "rank": 2,
+      "title": "Contractgnn: Ethereum smart contract vulnerability detection based on vulnerability sub-graphs and graph neural networks",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10700860/",
+      "snippet": "… of GNN classification models and select the best one to implement ContractGNN. We then test ContractGNN on 58,190 real-world smart contracts, … (GNN) models to detect vulnerabilities …",
+      "publication_info": "Y Wang, X Zhao, L He, Z Zhen… - IEEE Transactions on …, 2024 - ieeexplore.ieee.org",
+      "year": 2024,
+      "citation_count": 23
+    },
+    {
+      "rank": 3,
+      "title": "Gnn-based ethereum smart contract multi-label vulnerability detection",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10572078/",
+      "snippet": "… detecting only a single type of vulnerability. To solve this problem, this study proposes a model for detecting multiple vulnerabilities in smart contracts… Opcodes of smart contracts' source …",
+      "publication_info": "YY Cheong, J Shin, T Kim, J Ahn… - 2024 International …, 2024 - ieeexplore.ieee.org",
+      "year": 2024,
+      "citation_count": 13
+    },
+    {
+      "rank": 4,
+      "title": "Vulnerability detection in smart contracts: A comprehensive survey",
+      "link": "https://arxiv.org/abs/2407.07922",
+      "snippet": "… face challenges in the form of security vulnerabilities, posing … methods to detect and mitigate vulnerabilities in smart contracts are … a GNN model and expert rules to enhance detection, …",
+      "publication_info": "C De Baets, B Suleiman, A Chitizadeh… - arXiv preprint arXiv …, 2024 - arxiv.org",
+      "year": 2024,
+      "citation_count": 24
+    },
+    {
+      "rank": 5,
+      "title": "Enhancing vulnerability detection in smart contracts using transformer-based embeddings and graph neural networks",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10974898/",
+      "snippet": "… The GNN captures both relational patterns and critical … approach for detecting vulnerabilities in smart contracts using graph… smart contracts, enabling more robust and accurate detection. …",
+      "publication_info": "VK Kasula, AR Yadulla, M Yenugula… - … on Computer Theory …, 2024 - ieeexplore.ieee.org",
+      "year": 2024,
+      "citation_count": 21
+    },
+    {
+      "rank": 6,
+      "title": "EtherGIS: A vulnerability detection framework for Ethereum smart contracts based on graph learning features",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9842713/",
+      "snippet": "… EtherGIS, a vulnerability detection framework that utilizes graph neural networks (GNN) and … : • This paper advances a vulnerability detection framework called EtherGIS on Ethereum …",
+      "publication_info": "Q Zeng, J He, G Zhao, S Li, J Yang… - 2022 IEEE 46th …, 2022 - ieeexplore.ieee.org",
+      "year": 2022,
+      "citation_count": 54
+    },
+    {
+      "rank": 7,
+      "title": "Toward vulnerability detection for ethereum smart contracts using graph-matching network",
+      "link": "https://www.mdpi.com/1999-5903/14/11/326",
+      "snippet": "… We apply a graph-matching network model based on the ASG representation for vulnerability detection in smart contracts. We adopt two different training models, ie, GNN and GMN, to …",
+      "publication_info": "Y Zhang, D Liu - Future Internet, 2022 - mdpi.com",
+      "year": 2022,
+      "citation_count": 32
+    },
+    {
+      "rank": 8,
+      "title": "Graph-based contract sensing framework for smart contract vulnerability detection",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11104930/",
+      "snippet": "… GNN-based Contract Sensing Framework for Smart Contract … robust vulnerability detection mechanisms in smart contracts … The detection of smart contract vulnerabilities in blockchains …",
+      "publication_info": "Y Pang, X Liu, T Huang, Y Hong… - … Transactions on Big …, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": 13
+    },
+    {
+      "rank": 9,
+      "title": "A smart contract vulnerability detection mechanism based on deep learning and expert rules",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10190630/",
+      "snippet": "… In this paper, we present a smart contract vulnerability detection … of the two detection approaches and improve smart contract … In this paper, we study the work of combining GNN …",
+      "publication_info": "Z Liu, M Jiang, S Zhang, J Zhang, Y Liu - IEEE Access, 2023 - ieeexplore.ieee.org",
+      "year": 2023,
+      "citation_count": 58
+    },
+    {
+      "rank": 10,
+      "title": "Vulnsense: efficient vulnerability detection in ethereum smart contracts by multimodal learning with graph neural network and language model: PT Duy et al.",
+      "link": "https://link.springer.com/article/10.1007/s10207-024-00965-2",
+      "snippet": "… a vulnerability detection tool for smart contracts called VulnSense. Different features provide unique insights into vulnerabilities in smart contracts. … a CFG-based GNN model which is the …",
+      "publication_info": "PT Duy, NH Khoa, NH Quyen, LC Trinh, VT Kien… - International Journal of …, 2025 - Springer",
+      "year": 2025,
+      "citation_count": 38
+    }
+  ]
+}

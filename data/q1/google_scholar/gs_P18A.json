@@ -1,0 +1,111 @@
+{
+  "query_id": "P18A",
+  "query": "Regulatory Sandbox Effects on FinTech Innovation: Evidence from Southeast Asia",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:24Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Regulatory Sandbox Effects on FinTech Innovation: Evidence from Southeast Asia",
+    "year": 2023,
+    "abstract": "Using a difference-in-differences design, we estimate the causal effect of regulatory sandbox programs in Singapore, Malaysia, and Thailand on FinTech startup formation, funding, and product launches.",
+    "domain": [
+      "regulatory sandbox",
+      "FinTech innovation",
+      "Southeast Asia",
+      "policy"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "The impact of the regulatory sandbox on the fintech industry, with a discussion on the relation between regulatory sandboxes and open innovation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2199853122004383",
+      "snippet": "… sandboxes have been adopted. The regulatory sandboxes are beneficial to create a fintech … This study aims to find the expected effects of regulatory sandboxes on fintech venture …",
+      "publication_info": "JJ Goo, JY Heo - Journal of Open Innovation: Technology, Market, and …, 2020 - Elsevier",
+      "year": 2020,
+      "citation_count": 238
+    },
+    {
+      "rank": 2,
+      "title": "Regulatory Sandboxes as Catalysts for Fintech Innovation: Evaluating the Impact on Start-Up Success and Policy Evolution",
+      "link": "https://generatedp.com/index.php/sft/article/view/106",
+      "snippet": "… FinTech innovation while maintaining regulatory stability. This study aims to comprehensively … regulatory sandboxes as a Crucial policy innovation instrument in the Fin Tech landscape. …",
+      "publication_info": "DP Sari, AD Yanti - Start-up and Financial Technology, 2025 - generatedp.com",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 3,
+      "title": "Navigating regulatory sandbox initiatives for innovation diffusion in FinTech lending: A systematic review",
+      "link": "https://journal.uii.ac.id/AMBR/article/view/35151",
+      "snippet": "… The study identified 10 issues in the FinTech lending sector … regulatory sandboxes using the Diffusion of Innovation (DOI) … of how regulatory sandboxes can mitigate these issues. …",
+      "publication_info": "RD Prastowo, DI Sensuse, S Lusa… - Asian Management and …, 2024 - journal.uii.ac.id",
+      "year": 2024,
+      "citation_count": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sandboxes and bridges–the impact of fintech on regulatory convergence and coordination in Asia",
+      "link": "https://www.elgaronline.com/abstract/edcoll/9781849804554/9781849804554.00038.xml",
+      "snippet": "… responses to Fintech innovation involves the weighing-up of the potential risks and benefits … Fintech offices/innovation hubs. This section will outline the regulatory sandboxes in four …",
+      "publication_info": "L Bromberg, A Godwin, I Ramsay - Research handbook on asian …, 2020 - elgaronline.com",
+      "year": 2020,
+      "citation_count": 5
+    },
+    {
+      "rank": 5,
+      "title": "Regulatory Sandbox in Indonesia's Financial Sector: Between Legal Experimentation, Institutional Fragmentation and the Pursuit of Responsive Law",
+      "link": "https://jurnal.hkhsk.id/index.php/jfslp/article/view/123",
+      "snippet": "… fintech innovations through an omnibus framework.To operationalize this, OJK introduced the regulatory sandbox through OJK Regulation … platform across Southeast Asia.Furthermore, …",
+      "publication_info": "O Turyansyah - Journal of Financial Sector Law & Policy, 2025 - jurnal.hkhsk.id",
+      "year": 2025,
+      "citation_count": 2
+    },
+    {
+      "rank": 6,
+      "title": "Regulators nurturing fintech innovation: Global evolution of the regulatory sandbox as opportunity-based regulation",
+      "link": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/indiajoula15&section=12",
+      "snippet": "… Dissecting the regulatory sandbox phenomenon … regulation, this article presents the regulatory sandbox as agile, opportunity-based regulation, characterised by an original regulatory …",
+      "publication_info": "D Ahern - Indian JL & Tech., 2019 - HeinOnline",
+      "year": 2019,
+      "citation_count": 60
+    },
+    {
+      "rank": 7,
+      "title": "Functioning of regulatory\" sandboxes\": tasks, problems, prospects",
+      "link": "http://journals.nupp.edu.ua/eir/article/view/2870",
+      "snippet": "… (60%) of fintech sandboxes focus on general fintech innovation, some specifically use topics such as advancing blockchain technology for insurance technology innovation or to support …",
+      "publication_info": "A Kushchyk, N Kairachka - Економіка і регіон/Economics …, 2023 - journals.nupp.edu.ua",
+      "year": 2023,
+      "citation_count": 8
+    },
+    {
+      "rank": 8,
+      "title": "Regulating Fintech in Asia: An Introduction",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-15-5819-1_1",
+      "snippet": "… in markets in Africa, South America, and South-East Asia. The range of such services is … regulatory sandbox is to facilitate the development of fintech, especially the ‘disruptive innovation…",
+      "publication_info": "M Fenwick, S Van Uytsel, B Ying - Regulating FinTech in Asia: Global …, 2020 - Springer",
+      "year": 2020,
+      "citation_count": 1
+    },
+    {
+      "rank": 9,
+      "title": "The role of regulatory sandboxes in FinTech innovation: A comparative case study of the UK, Singapore, and Hungary",
+      "link": "https://www.mdpi.com/2674-1032/4/2/26",
+      "snippet": "… solutions that were subsequently exported to broader regional markets, notably in Southeast Asia and the Middle East, including Malaysia and the United Arab Emirates. This ability to …",
+      "publication_info": "J Kálmán - FinTech, 2025 - mdpi.com",
+      "year": 2025,
+      "citation_count": 31
+    },
+    {
+      "rank": 10,
+      "title": "The sandbox approach to FinTech regulation: A case study of China",
+      "link": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/rechilde49&section=24",
+      "snippet": "… Amongst, the regulatory sandbox (sandbox), formalized by the Financial Conduct Authority (… the sandbox should be employed to signal regulator's commitment towards innovations but …",
+      "publication_info": "M Han, D Xu - Revista Chilena de Derecho, 2022 - HeinOnline",
+      "year": 2022,
+      "citation_count": 12
+    }
+  ]
+}

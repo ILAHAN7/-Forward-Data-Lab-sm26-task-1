@@ -1,0 +1,1534 @@
+{
+  "papers": [
+    {
+      "title": "PayOff: A Regulated Central Bank Digital Currency with Private Offline Payments",
+      "authors": [
+        {
+          "name": "Carolin Beer",
+          "id": "47561213"
+        },
+        {
+          "name": "Sheila Zingg",
+          "id": "2121244277"
+        },
+        {
+          "name": "Kari Kostiainen",
+          "id": "145243802"
+        },
+        {
+          "name": "Karl Wüst",
+          "id": "40068934"
+        },
+        {
+          "name": "V. Capkun",
+          "id": "34982038"
+        },
+        {
+          "name": "Srdjan Capkun",
+          "id": "1791522"
+        }
+      ],
+      "year": 2024,
+      "venue": "arXiv.org",
+      "score": 0.9696818261469663,
+      "abstract": "The European Central Bank is preparing for the potential issuance of a central bank digital currency (CBDC), called the digital euro. A recent regulatory proposal by the European Commission defines several requirements for the digital euro, such as support for both online and offline payments. Offline payments are expected to enable cash-like privacy, local payment settlement, and the enforcement of holding limits. While other central banks have expressed similar desired functionality, achieving such offline payments poses a novel technical challenge. We observe that none of the existing research solutions, including offline E-cash schemes, are fully compliant. Proposed solutions based on secure elements offer no guarantees in case of compromise and can therefore lead to significant payment fraud. The main contribution of this paper is PayOff, a novel CBDC design motivated by the digital euro regulation, which focuses on offline payments. We analyze the security implications of local payment settlement and identify new security objectives. PayOff protects user privacy, supports complex regulations such as holding limits, and implements safeguards to increase robustness against secure element failure. Our analysis shows that PayOff provides strong privacy and identifies residual leakages that may arise in real-world deployments. Our evaluation shows that offline payments can be fast and that the central bank can handle high payment loads with moderate computing resources. However, the main limitation of PayOff is that offline payment messages and storage requirements grow in the number of payments that the sender makes or receives without going online in between.",
+      "corpusId": 271860071,
+      "url": "https://api.semanticscholar.org/CorpusId:271860071"
+    },
+    {
+      "title": "Central bank digital currency, economic growth and inflation",
+      "authors": [
+        {
+          "name": "Peterson K. Ozili",
+          "id": "113773639"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Money and Business",
+      "score": 0.9695499261826807,
+      "abstract": "PurposeThis study aims to investigate the effect of CBDC issuance on economic growth rate and inflation rate in Nigeria. We are interested in determining whether the rate of economic growth and inflation changed significantly after the issuance of a non-interest bearing CBDC in Nigeria.Design/methodology/approachTwo-stage least squares regression and granger causality test were used to analyze the data.FindingsInflation significantly increased in the CBDC period, implying that CBDC issuance did not decrease the rate of inflation in Nigeria. Economic growth rate significantly increased in the CBDC period, implying that CBDC issuance improved economic growth in Nigeria. The financial sector, agricultural sector and manufacturing sector witnessed a much stronger contribution to gross domestic product (GDP) after CBDC issuance. There is one-way granger causality between CBDC issuance and monthly inflation, implying that CBDC issuance causes a significant change in monthly inflation in Nigeria. The implication of the result is that the non-interest bearing eNaira CBDC is not able to solve the twin economic problem of “controlling inflation which stifles economic growth” and “stimulating economic growth which leads to more inflation.” Policy makers should therefore use the eNaira CBDC alongside other monetary policy tools at their disposal to control inflation while stimulating growth in the economy.Originality/valueThere are no empirical studies on the effect of CBDC issuance on economic growth or inflation using real-world data. We add to the monetary economics literature by analyzing the effect of CBDC issuance on economic growth and inflation.",
+      "corpusId": 270009170,
+      "url": "https://api.semanticscholar.org/CorpusId:270009170"
+    },
+    {
+      "title": "Money and Banking with Reserves and CBDC",
+      "authors": [
+        {
+          "name": "Dirk Niepelt",
+          "id": "101065010"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Finance",
+      "score": 0.9691532622218476,
+      "abstract": "We analyze the role of retail central bank digital currency (CBDC) and reserves when banks exert deposit market power and liquidity transformation entails externalities. Optimal monetary architecture minimizes the social costs of liquidity provision, and optimal monetary policy follows modified Friedman rules. Interest rates on reserves and CBDC should differ. Calibrations robustly suggest that CBDC provides liquidity more efficiently than deposits unless the central bank must refinance banks and this is very costly. Accordingly, the optimal share of CBDC in payments tends to exceed that of deposits.",
+      "corpusId": 259359147,
+      "url": "https://api.semanticscholar.org/CorpusId:259359147"
+    },
+    {
+      "title": "Blockchain-Based Central Bank Digital Currency: Empowering Centralized Oversight With Decentralized Transactions",
+      "authors": [
+        {
+          "name": "Tayrin Tunzina",
+          "id": "2335723335"
+        },
+        {
+          "name": "Md Asif Karim Chayon",
+          "id": "2335712566"
+        },
+        {
+          "name": "Pritam Gupta Jitu",
+          "id": "2335722212"
+        },
+        {
+          "name": "Mosammed Upnan Ankon",
+          "id": "2335712568"
+        },
+        {
+          "name": "Sheikh Nahiduzzaman Joy",
+          "id": "2335722336"
+        },
+        {
+          "name": "Redoy Kumar Shaha",
+          "id": "2335727686"
+        },
+        {
+          "name": "Md. Motaharul Islam",
+          "id": "3309048"
+        },
+        {
+          "name": "M. Hussain",
+          "id": "2336032751"
+        },
+        {
+          "name": "M. M. Hassan",
+          "id": "2114796567"
+        },
+        {
+          "name": "Phuoc Hung Pham",
+          "id": "2329807127"
+        }
+      ],
+      "year": 2024,
+      "venue": "IEEE Access",
+      "score": 0.962714312800244,
+      "abstract": "The advent of Central Bank Digital Currencies (CBDCs) represents a significant evolution in monetary systems, enhancing transparency, efficiency, and resilience in financial transactions. This research presents a comprehensive CBDC framework that integrates centralized databases with decentralized blockchain technology, aimed at strengthening monetary oversight and tackling challenges such as money laundering and financial irregularities. By employing blockchain’s immutable ledger, the proposed system supports secure and transparent digital transactions, thereby fostering trust and accountability in the financial ecosystem. Furthermore, the framework promotes financial inclusion by offering various transaction methods, such as internet-based payments, smart cards, and offline One-Time Password (OTP) systems. This diverse approach helps users in areas with limited internet access, effectively bridging critical gaps in digital accessibility and ensuring that everyone can participate in the digital economy. Through prototype development and empirical evaluation using tools like Ethereum, Geth, and web3.js, the study explores CBDC’s potential for sustainable economic development, offering insights into practical applications and future scalability.",
+      "corpusId": 274796797,
+      "url": "https://api.semanticscholar.org/CorpusId:274796797"
+    },
+    {
+      "title": "Certainties and Uncertainties Surrounding Central Bank Digital Currencies (CBDC) vis-à-vis the EU Anti-Money Laundering Regulatory Framework",
+      "authors": [
+        {
+          "name": "Andrea Minto",
+          "id": "2315729117"
+        }
+      ],
+      "year": 2024,
+      "venue": "European Company and Financial Law Review",
+      "score": 0.9499587335809992,
+      "abstract": "",
+      "corpusId": 277883497,
+      "url": "https://doi.org/10.1515/ecfr-2024-0020"
+    },
+    {
+      "title": "An Auditable, Privacy-Preserving, Transparent Unspent Transaction Output Model for Blockchain-Based Central Bank Digital Currency",
+      "authors": [
+        {
+          "name": "Md. Mainul Islam",
+          "id": "46977722"
+        },
+        {
+          "name": "H. In",
+          "id": "2280771569"
+        }
+      ],
+      "year": 2024,
+      "venue": "IEEE Open Journal of the Computer Society",
+      "score": 0.9489753371809992,
+      "abstract": "Auditability, privacy, transparency, and resiliency are four essential properties of a central bank digital currency (CBDC) system. However, it is difficult to satisfy these properties at once. This issue has become a crucial challenge to ongoing CBDC projects worldwide. In this article, we propose a novel unspent transaction output (UTXO) model, which offers auditable, privacy-preserving, transparent CBDC payments in a consortium blockchain network. The proposed model adopts a high-speed, non-interactive zero-knowledge proof scheme named zero-knowledge Lightweight Transparent ARgument of Knowledge (zk-LTARK) scheme to verify the ownership of UTXOs. The scheme provides low-latency proof generation and verification while maintaining 128-bit security with a smaller proof size. It also provides memory-efficient, privacy-preserving multi-party computation and multi-signature protocols. By using zk-LTARKs, users do not require numerous private–public key pairs to preserve privacy, which reduces risks in key management. Decentralized identifiers are used to authenticate users without interacting with any centralized server and avoid a single point of failure. The model was implemented in a customized consortium blockchain network with the proof-of-authority consensus algorithm.",
+      "corpusId": 273604831,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10734236"
+    },
+    {
+      "title": "A literature review on the design and implementation of central bank digital currencies",
+      "authors": [
+        {
+          "name": "Huseyin Oguz Genc",
+          "id": "2280925726"
+        },
+        {
+          "name": "S. Takagi",
+          "id": "2773458"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Economic Policy Studies",
+      "score": 0.7813359299442374,
+      "abstract": "Within the last five years, research on Central Bank Digital Currencies (CBDCs) has increased with increased momentum. Particular events, such as the growth of private digital currencies, Facebook’s attempt to release a stablecoin, the long-term development of Chinese CBDC, and Covid-19, are the leading causes for this growing significant interest. Most recently, the interest converged in more specific design and implementation directions. Many scholars show particular interest in account-based retail CBDCs with interest-bearing capabilities. In contrast, few others urge caution by favoring a wholesale model that is representative of the setting of the current financial system. Unsurprisingly, the primary source of such literature stems from global financial institutions and their close central banking networks. Academia and research institutions have recently increased their focus on the potential economic and social impacts of such purported design choices. As specific design principles for CBDCs have started to take shape, the policy objectives of implementing different CBDC designs are studied from the perspective of benefits and risks. These trade-offs are either generic or related to macroeconomic and financial stability implications. Evidence exists that purported generic benefits can often be achieved without CBDCs, while the purported monetary and fiscal policy benefits rely on theoretical results that lack real-world data. Some of the risks could be amplified depending on CBDC design choices. Theoretical and alternative literature is reviewed along with the evidence from use-case applications to spot the possible shortcomings in the current stage of the design and implementation literature of CBDCs. The scope is limited to the impact on economic policies and the relevant potential socioeconomic impact. The results show that further research and debate are needed from a multidisciplinary perspective.",
+      "corpusId": 267201076,
+      "url": "https://api.semanticscholar.org/CorpusId:267201076"
+    },
+    {
+      "title": "The rise in popularity of central bank digital currencies. A systematic review",
+      "authors": [
+        {
+          "name": "Silvana Prodan",
+          "id": "2178883193"
+        },
+        {
+          "name": "Peter Konhäusner",
+          "id": "2089009278"
+        },
+        {
+          "name": "Dan‐Cristian Dabija",
+          "id": "2254497198"
+        },
+        {
+          "name": "George Lăzăroiu",
+          "id": "2073665008"
+        },
+        {
+          "name": "Leonardo Marincean",
+          "id": "2223377667"
+        }
+      ],
+      "year": 2024,
+      "venue": "Heliyon",
+      "score": 0.7806599075885712,
+      "abstract": "Central bank digital currencies (CBDCs) have been growing in popularity since 2018, as worldwide countries explore their impact and implementation options. This article analyzes the state of research around central bank digital currencies and the evolving landscape of CBDCs, and explores emerging areas of research and trends by using the PRISMA method and VOSviewer, with the goal of showing the main opportunities and challenges related to them. AMSTAR, DistillerSR, Eppi-Reviewer, ROBIS, and SRDR were the screening and quality evaluation tools employed for study eligibility criteria, design screening and content selection, text analysis data extraction, methodological quality predictors, and reliable and reproducible evidence assessment. A total of 1024 articles on central bank digital currencies were identified in Scopus and the Web of Science, out of which 747 have been included in the review (documents which were not in English language and not categorized as journal articles were excluded). Through an analysis of the relevant literature, the study categorizes CBDC research into positive, negative and neutral research, with a particular focus on sustainability issues, and conducts a keyword co-occurrence analysis using VOSviewer, following a narrowing down of the relevant articles to be included in the study by applying the PRISMA framework. This generates an overall view for experts and researchers who can use the main analyzed features of CBDCs and adapt them accordingly, taking into account relevant macroeconomic characteristics. The study highlights the need to continue interdisciplinary research, by adapting the research and CBDC characteristics to keep up with the latest technologies and with the shift towards green finance, and explores the elaborate relationship between finance, technology and sustainability.",
+      "corpusId": 269493415,
+      "url": "https://api.semanticscholar.org/CorpusId:269493415"
+    },
+    {
+      "title": "Navigating the digital frontier: a comparative examination of Central Bank Digital Currency (CBDC) and the Quantum Financial System (QFS)",
+      "authors": [
+        {
+          "name": "K. Shafranova",
+          "id": "2238784825"
+        },
+        {
+          "name": "Nataliia Navolska",
+          "id": "2297065124"
+        },
+        {
+          "name": "Artem Koldovskyi",
+          "id": "2280215031"
+        }
+      ],
+      "year": 2024,
+      "venue": "SocioEconomic Challenges",
+      "score": 0.7805474913430727,
+      "abstract": "In the global financial landscape, a transformational shift towards digitization is known, and a comparative analysis of two key components is of particular relevance: central bank digital currency (CBDC) and quantum financial system (QFS). This article explores the dynamic relationship between traditional monetary instruments and new digital currencies, considering the transformative impact and regional nuances of CBDC. The article provides a historical overview of the evolution of the development and implementation of CBDC in the world, analyzes the key factors affecting its implementation in different regions, identifies key technological advances that are the disruptive force of QFS, as well as their impact on the transformation of traditional financial transactions. In the context of the development of CBDC and QFS, the legal frameworks that regulate their work, facilitate or hinder their broad integration into existing financial systems, their impact on traditional monetary policy and, accordingly, on economic stability, inflation and interest rates, and the format of the technological infrastructure are determined, which must be ensured for their successful implementation and operation, as well as the main challenges related to this and ways to solve security and privacy problems in their application. The paper combines qualitative and quantitative analysis to provide a comprehensive and validated dataset for a thorough understanding of digital financial paradigms. Qualitative research was conducted based on structured interviews with experts in the development and implementation of CBDC and QFS, as well as reporting and analytical information on central banks, regulators, and other financial institutions. The empirical study is based on the built OLS model, which describes the dependence coefficient using CBDC (the share of the population that uses it) on the traditional interest rate set by the central bank (taking into account the corrections for the possibility of variation of its changes and unobservable factors). The Python programming language with R libraries and the Stata software package are used for modeling. Tests confirmed the model’s statistical significance and high R-squared value (0.756 ) to begin its ability to explain a significant portion of the variability in CBDC adoption rates. The results showed that, on average, per skin unit increase in the traditional interest rate, post-CBDC rate growth is expected to be 1.74%; when the conventional interest rate is zero, the settlement rate after CBDC is 11.14%. The results of this study can be used to predict the dynamics of public perception of digital currencies. In addition, central banks can adjust interest rates to stimulate or moderate the adoption of CBDCs based on broader strategic macroeconomic measures: 1) during economic downturns, higher interest rates can be used to stimulate the adoption of digital currencies as an alternative financial instrument; 2) during periods of economic growth, interest rates may be lowered to mitigate the intended overheating of CBDC adoption.",
+      "corpusId": 269195950,
+      "url": "https://api.semanticscholar.org/CorpusId:269195950"
+    },
+    {
+      "title": "Central Bank Digital Currencies and financial integrity: finding a new trade-off between privacy and traceability within a changing financial architecture",
+      "authors": [
+        {
+          "name": "G. Soana",
+          "id": "2247850261"
+        },
+        {
+          "name": "Thomaz de Arruda",
+          "id": "2292621271"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Banking Regulation",
+      "score": 0.7804800737472358,
+      "abstract": "In an increasingly digitised world, and within the new reality of digital finance, a fully digitised public currency seems to be a natural step. To this end, central banks have been testing the possibility to issue a digital form of the traditional fiat currency (so-called Central Bank Digital Currency-CBDC). As these projects steadily progress, and in some cases, reach the implementation phase, a myriad of questions, from legal to macroeconomic, arise. This paper aims to focus, in particular, on two complementary and co-related aspects involving CBCDs: (i) how can the full digitalisation and centralisation of the transaction ledger be combined with privacy and (ii) to what extent CBDCs affect the allocation of burden and the responsibility over supervision of retail transactions. Eminently, the use of cash ensures a form of default privacy that protects the individual against State and private intrusion. While this privacy has caused concern, due to its criminogenic potential, and has been consequently limited by anti-money laundering (AML) regulations, the remaining cone of shadow cash guarantees is a crucial limit to control. In the context of a shifting financial system, undergoing deep transformation due to increasing datafication and decentralisation of the market, a new governance of financial supervision and record-keeping—up to now based on a unique and centralised ledger—is crucial to redefine the trade-off between financial integrity and privacy. This article will examine the origins and characteristics of CBDCs, to then analyse how the trade-off between control and privacy is set to reshape this new architecture.",
+      "corpusId": 268602886,
+      "url": "https://api.semanticscholar.org/CorpusId:268602886"
+    },
+    {
+      "title": "Is CBDC undermining the Process of Money Creation?",
+      "authors": [
+        {
+          "name": "Samuele Bibi",
+          "id": "123458653"
+        },
+        {
+          "name": "Rosa Canelli",
+          "id": "147884632"
+        }
+      ],
+      "year": 2024,
+      "venue": "Social Science Research Network",
+      "score": 0.7801117651542812,
+      "abstract": "ABSTRACT Several policymakers and academic works have been discussing the nature of Central Bank Digital Currency (CBDC) as well as its debated relationship with crypto-assets. CBDC would allow the private (non-financial) sector to access the central bank’s reserves. Given its superior hierarchy in the money spectrum, CBDC adoption could trigger a strong or mild conversion from deposits, depending on its design, with strong impacts on the assets and liabilities composition and magnitude of different actors. The aim of this paper is to study the dynamics related to the transmigration process from deposits to CBDC as well as the process of money creation through a detailed step-by-step analysis, tracking the transactions between the institutions involved in its adoption. It underlines the validity of the endogenous money theory (EMT) in describing those transactions while clarifying the maintenance of the commercial banks’ vital role in the process of money creation, in a world with the emergence of CBDC.",
+      "corpusId": 267007345,
+      "url": "https://api.semanticscholar.org/CorpusId:267007345"
+    },
+    {
+      "title": "Banking Crises Under a Central Bank Digital Currency (CBDC)",
+      "authors": [
+        {
+          "name": "Lea Bitter",
+          "id": "2037213822"
+        }
+      ],
+      "year": 2024,
+      "venue": "Jahrbücher für Nationalökonomie und Statistik",
+      "score": 0.7789188409383582,
+      "abstract": "Abstract One of the main concerns associated with central bank digital currencies (CBDC) is the disintermediating effect on the banking sector in general, and the risk of bank runs in times of crisis in particular. This paper examines the implications of an interest-bearing CBDC on banking crises in a dynamic bank run model with a financial accelerator. The analysis distinguishes between bank failures due to illiquidity and due to insolvency. In a numerical exercise, CBDC leads to a reduction in the net worth of banks in normal times but mitigates the risk of a bank run in times of crisis. The financial stability implications also depend on how CBDC is accounted for on the asset side of the central bank balance sheet: if CBDC issuance is complemented by asset purchases, it delays the onset of both types of bank failures to larger shocks. In contrast, if CBDC issuance is complemented by loans to banks, it substantially impedes failures due to illiquidity, but only marginally affects bank failures due to insolvency.",
+      "corpusId": 271995843,
+      "url": "https://api.semanticscholar.org/CorpusId:271995843"
+    },
+    {
+      "title": "Privacy implications of central bank digital currencies (CBDCs): a systematic review of literature",
+      "authors": [
+        {
+          "name": "Guneet Kaur",
+          "id": "2311562189"
+        }
+      ],
+      "year": 2024,
+      "venue": "EDPACS: The EDP Audit, Control, and Security Newsletter",
+      "score": 0.7787972760041906,
+      "abstract": "Abstract This study employs a systematic review of the literature to critically analyze the privacy implications of central bank digital currencies (CBDCs). Against the backdrop of a global digital revolution spurred by financial crises and the rise of cryptocurrencies, the emergence of CBDCs has garnered substantial attention from central banks worldwide. The study’s main objective is to fill a significant gap in the literature by providing an evidence-based assessment of the privacy issues of CBDCs. Through a meticulous analysis of the 46 selected papers, the study identifies key findings, including diverse perspectives on CBDC models, aspects and gaps in CBDC research, and various privacy concerns, such as extensive data collection in the direct CBDC model, challenges related to central bank data retention in the hybrid CBDC model, and increased operational complexity in the intermediated CBDC approach associated with CBDC implementation. The critical analysis points toward the urgent need for more extensive research into the privacy and security aspects of CBDCs to ensure user protection and trust. The findings contribute valuable insights for policymakers, regulators, and stakeholders in shaping the responsible creation and use of CBDCs.",
+      "corpusId": 271235771,
+      "url": "https://api.semanticscholar.org/CorpusId:271235771"
+    },
+    {
+      "title": "HybCBDC: A Design for Central Bank Digital Currency Systems Enabling Digital Cash",
+      "authors": [
+        {
+          "name": "Ricky Lamberty",
+          "id": "122426791"
+        },
+        {
+          "name": "Daniel Kirste",
+          "id": "2211969185"
+        },
+        {
+          "name": "Niclas Kannengießer",
+          "id": "93997972"
+        },
+        {
+          "name": "A. Sunyaev",
+          "id": "1697247"
+        }
+      ],
+      "year": 2024,
+      "venue": "IEEE Access",
+      "score": 0.7780989183042515,
+      "abstract": "Central Bank Digital Currencies (CBDCs) have the potential to increase the financial reliability of digital payment systems by offering direct interactions between payment system participants, including institutional and private ones. To unfold the potential of CBDCs, CBDC systems need to offer confidential payments to protect participants from surveillance. However, confidential payments lay at odds with requirements for transparency of payments in CBDC systems to enforce regulations, such as anti-money laundering (AML) and countering the financing of terrorism (CFT) regulations. This work presents HybCBDC, a CBDC system design that tackles the tension between confidential payments and the enforceability of regulations. We iteratively refined HybCBDC in three rounds of focus group interviews with finance and industry experts. HybCBDC offers cash-like confidential payments and means to enforce regulations. HybCBDC builds on a hybrid access model for using monetary items of a CBDC and combines an account-based and an unspent transaction output (UTXO)-based subsystem to record payments. The main purpose of this work is to support the design of CBDC systems that can tackle the tension between offering payments with cash-like confidentiality while allowing for enforcement of regulations related to AML and CFT.",
+      "corpusId": 272612008,
+      "url": "https://api.semanticscholar.org/CorpusId:272612008"
+    },
+    {
+      "title": "CENTRAL BANK DIGITAL CURRENCIES: THE ADVENT OF ITS IT GOVERNANCE IN THE FINANCIAL MARKETS.",
+      "authors": [
+        {
+          "name": "Carlos Alberto Durigan Junior",
+          "id": "2302154212"
+        },
+        {
+          "name": "M. Spinola",
+          "id": "2390421827"
+        },
+        {
+          "name": "Rodrigo Franco Gonccalves",
+          "id": "2411787489"
+        },
+        {
+          "name": "Fernando Laurindo",
+          "id": "2390414529"
+        }
+      ],
+      "year": 2024,
+      "venue": "CONTECSI International Conference on Information Systems and Technology Management",
+      "score": 0.7778184687664464,
+      "abstract": "Central Bank Digital Currency (CBDC) can be defined as a virtual currency based on node network and digital encryption algorithm issued by a country which has a legal credit protection. CBDCs are supported by Distributed Ledger Technologies (DLTs), and they may allow a universal means of payments for the digital era. There are many ways to proceed, they all require central banks to develop technological expertise. Considering these points, it is important to understand the new IT governance in the financial markets due to CBDC and digital economy. Information Technology is an essential driver that will allow the new financial industry design. This paper has the objective to answer two questions through an updated Systematic Literature Review (SLR). The first question is What IT resources and tools have been considered or applied to set the governance of CBDC adoption? The second; Identify IT governance models in the financial market due to CBDC adoption. Bank for International Settlements (BIS) publications, Scopus and Web of Science were considered as sources of studies. After the strings and including criteria were applied, fourteen papers were analyzed. This paper finds many IT resources used in the CBDC adoption and some preliminary IT design related to the IT governance of CBDC, in the results and discussion section the findings are more detailed. Finally, limitations and future work are considered. Keywords: Blockchain, Central Bank Digital Currency (CBDC), Digital Economy, Distributed Ledger Technology (DLT), Information Technology (IT), IT governance.",
+      "corpusId": 271098111,
+      "url": "https://api.semanticscholar.org/CorpusId:271098111"
+    },
+    {
+      "title": "Central Bank Digital Currency Development, Challenges and Future Recommendations in Global Countries",
+      "authors": [
+        {
+          "name": "Yilun Zhang",
+          "id": "2302120393"
+        }
+      ],
+      "year": 2024,
+      "venue": "Highlights in Business, Economics and Management",
+      "score": 0.7777880632443028,
+      "abstract": "The introduction of Central Bank Digital Currency (CBDC) is an inevitable trend in the context of the deepening of digital finance. In recent years, the innovation of financial technology has received the attention of various countries, and many new tools have appeared in the field of payment and settlement of medium of exchange, and the use of cash in many countries has shown a clear trend of reduction. As the impact of the development of the digital economy gradually strengthens, central banks have begun to explore the feasibility and necessity of CBDC issuance. This paper provides a literature review of the current status of CBDC development in each major country in the world, so as to analyse and derive an analysis of the problems and challenges in the development of global CBDC, and ultimately give suggestions for the future development of CBDC.",
+      "corpusId": 267272937,
+      "url": "https://api.semanticscholar.org/CorpusId:267272937"
+    },
+    {
+      "title": "The Future of Digital Currency: Implications for Global Financial Systems and Trade",
+      "authors": [
+        {
+          "name": "Arun Chandra Mudhol",
+          "id": "2321016909"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Innovative Science and Research Technology",
+      "score": 0.7776955231910329,
+      "abstract": "This article explores the evolving landscape of digital currencies, including Central Bank Digital Currencies (CBDCs) and cryptocurrencies, and their potential impacts on global financial systems and international trade. As digital currencies become increasingly significant, their influence on monetary policy, financial stability, and transaction efficiency warrants a thorough examination. The article provides a comprehensive review of existing literature, identifies gaps, and outlines the potential implications of digital currencies, particularly focusing on the Indian market. The discussionincludes theoretical frameworks, practical implications, and strategic recommendations for policymakers and businesses. This conceptual analysis aims to offer insights into how digital currencies could reshape financial systems and trade dynamics in both developed and emerging markets.",
+      "corpusId": 272641166,
+      "url": "https://api.semanticscholar.org/CorpusId:272641166"
+    },
+    {
+      "title": "Retail CBDC purposes and risk transfers to the central bank",
+      "authors": [
+        {
+          "name": "Romain Baeriswyl",
+          "id": "30745945"
+        },
+        {
+          "name": "Samuel Reynard",
+          "id": "91523950"
+        },
+        {
+          "name": "A. Swoboda",
+          "id": "2219958561"
+        }
+      ],
+      "year": 2024,
+      "venue": "Swiss Journal of Economics and Statistics",
+      "score": 0.7776891797469662,
+      "abstract": "The issuance of retail central bank digital currency (CBDC) involves a transfer of risk from commercial banks to the central bank. Mechanisms that limit the transfer of risk, such as an unattractive interest rate, a quantity ceiling or the non-convertibility of cash and reserves into CBDC, are likely to discourage the use of CBDC as a medium of exchange and thus defeat the purpose of issuing CBDC.",
+      "corpusId": 259142083,
+      "url": "https://api.semanticscholar.org/CorpusId:259142083"
+    },
+    {
+      "title": "Positioning Central Bank Digital Currency in the Payments Landscape",
+      "authors": [
+        {
+          "name": "Manisha Patel",
+          "id": "2264237238"
+        }
+      ],
+      "year": 2024,
+      "venue": "FinTech Notes",
+      "score": 0.777580630269152,
+      "abstract": "2021",
+      "corpusId": 273113511,
+      "url": "https://api.semanticscholar.org/CorpusId:273113511"
+    },
+    {
+      "title": "Synthetic Central Bank Digital Currencies and Systemic Liquidity Risks",
+      "authors": [
+        {
+          "name": "John Marthinsen",
+          "id": "119170425"
+        },
+        {
+          "name": "Steven R. Gordon",
+          "id": "2285257250"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Financial Studies",
+      "score": 0.7772662271782387,
+      "abstract": "The failure of major banks in 2023, such as Silicon Valley Bank (SVB), Signature Bank, First Republic Bank, and Credit Suisse, points to the continuing need for financial institutions to price liquidity risk properly and for financial systems to find alternative sources of liquidity in times of dire need. Central bank digital currencies (CBDCs), fiat-backed stablecoins (fsCOINs), and synthetic central bank digital currencies (sCBDCs) could offer improvements, but each comes with its own set of problems and conditions. Prior research reaches conflicting conclusions about the effect that each of these three financial assets has on systemic bank liquidity and fails to adequately address their net benefits relative to each other. This paper addresses these issues, including those connected to financial disintermediation, bank runs, outsourcing central bank activities, financial interoperability, cash equivalents, maturity transformation, required reserves, and changes in nations’ monetary bases. After addressing the strengths and weaknesses of fsCOINs and CBDCs, we conclude that sCBDCs provide the most significant net liquidity benefits when risks and returns are considered.",
+      "corpusId": 267974054,
+      "url": "https://api.semanticscholar.org/CorpusId:267974054"
+    },
+    {
+      "title": "Research on Digital Currency and Financial Technology Innovation of the People’s Bank of China",
+      "authors": [
+        {
+          "name": "Boxuan Li",
+          "id": "2374146452"
+        }
+      ],
+      "year": 2024,
+      "venue": "SHS Web of Conferences",
+      "score": 0.777069637256095,
+      "abstract": "Digital currencies are becoming increasingly important to governments and financial institutions around the world as advanced technology develops. The central bank of China has led research on digital currency around the world since China has one of the largest electronic payment markets. With this digital currency, the People's Bank of China is promoting inclusive financial growth, enhancing monetary policy transmission, and improving payment efficiency. As well as its impact on international monetary systems, financial security, privacy protection, and financial security protection will also be profoundly affected. In this paper, the focus will be on the Chinese central bank's digital currency development, technical foundation, and application status. As well as analyzing its impact on future innovations in financial technology, opportunities and challenges will also be discussed. By developing a digital currency, China has expressed its interest in the future of the modern financial system in a positive way with forward-looking and responsive layouts. DCEP, as a new payment tool, aims to replace some cash and improve the speed and security of fund circulation. Compared with traditional electronic payment methods, CBDC is expected to bring breakthroughs in user privacy protection, reduced transaction costs, and improved cross-border payment convenience.",
+      "corpusId": 273759222,
+      "url": "https://api.semanticscholar.org/CorpusId:273759222"
+    },
+    {
+      "title": "Do CBDCs promote financial inclusion and strengthen the monetary regulations?",
+      "authors": [
+        {
+          "name": "Farrukh Nawaz",
+          "id": "2278560879"
+        },
+        {
+          "name": "A. Aysan",
+          "id": "80055162"
+        },
+        {
+          "name": "U. Kayani",
+          "id": "107960896"
+        },
+        {
+          "name": "Hassan Nasseredine",
+          "id": "2318138064"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Infrastructure Policy and Development",
+      "score": 0.7770431366098164,
+      "abstract": "Digital currencies are impacting the financial lives of people and countries around the world; particularly developing countries see the retail Central Bank Digital Currencies (CBDCs) as an opportunity to increase financial inclusion and introduce new monetary policy implementation mechanisms. The decision to launch a digital currency mainly depends upon the goals and objectives being set by the Central Bank of any respective country. Digital currencies help to implement monetary policy more effectively to achieve the financial system stability. Kazakhstan is the leading economy in the Commonwealth of Independent States region; the digital payments market is changing rapidly in Kazakhstan, being driven by fintech innovations and public investments in payment technologies. In this article, we thoroughly discussed how launching of “Digital Tenge” is promoting financial inclusion and strengthening the monetary regulations across Kazakhstan. We took the case of Kazakhstan because it’s the first country from Central Asia which took the initiative of launching digital currency, and the National Bank of Kazakhstan has already announced that implementation of “Digital Tenge” would be completed in Kazakhstan by the end of 2025. The implementation of a “Digital Tenge” as a CBDC in Kazakhstan would expand the range of financial services being available to the nation. Having direct authority over the digital currency will empower the National Bank of Kazakhstan to adopt more efficient monetary policy, exerting influence over interest rates, money supply, and general economic stability. Furthermore, by providing digital financial services to marginalized communities, the digital Tenge would also help to solve the difficulties of financial inclusion in Kazakhstan. The article provides the possible policy routes for the governments of developing countries and the financial regulators about adopting CBDCs for promoting financial inclusion and to strengthen the monetary regulations. ",
+      "corpusId": 272173400,
+      "url": "https://api.semanticscholar.org/CorpusId:272173400"
+    },
+    {
+      "title": "Will Central Bank Digital Currencies (CBDC) and blockchain cryptocurrencies coexist in the post quantum era?",
+      "authors": [
+        {
+          "name": "Abraham Itzhak Weinberg",
+          "id": "2293615138"
+        },
+        {
+          "name": "P. Petratos",
+          "id": "40229503"
+        },
+        {
+          "name": "Alessio Faccia",
+          "id": "2286060476"
+        }
+      ],
+      "year": 2024,
+      "venue": "Discover Analytics",
+      "score": 0.7762147908332894,
+      "abstract": "This paper explores the coexistence possibilities of Central Bank Digital Currencies (CBDCs) and blockchain-based cryptocurrencies within a post-quantum computing landscape. It examines the implications of emerging quantum algorithms and cryptographic techniques such as Multi-Party Computation (MPC) and Oblivious Transfer (OT). While exploring how CBDCs and cryptocurrencies might integrate defenses like post-quantum cryptography, it highlights the substantial hurdles in transitioning legacy systems and fostering widespread adoption of new standards. The paper includes comprehensive evaluations of CBDCs in a quantum context. It also features comparisons to alternative cryptocurrency models. Additionally, the paper provides insightful analyses of pertinent quantum methodologies. Examinations of interfaces between these methods and blockchain architectures are also included. The paper carries out considered appraisals of quantum threats and their relevance for cryptocurrency schemes. Furthermore, it features discussions of the influence of anticipated advances in quantum computing on algorithms and their applications. The paper renders the judicious conclusion that long-term coexistence is viable provided challenges are constructively addressed through ongoing collaborative efforts to validate solutions and guide evolving policies.",
+      "corpusId": 273963380,
+      "url": "https://api.semanticscholar.org/CorpusId:273963380"
+    },
+    {
+      "title": "How to design a Public Key Infrastructure for a Central Bank Digital Currency",
+      "authors": [
+        {
+          "name": "Makan Rafiee",
+          "id": "2235822120"
+        },
+        {
+          "name": "Lars Hupel",
+          "id": "2313209223"
+        }
+      ],
+      "year": 2024,
+      "venue": "Proceedings of the 22nd International Conference on Security and Cryptography",
+      "score": 0.7758635077987106,
+      "abstract": "Central Bank Digital Currency (CBDC) is a new form of money, issued by a country's or region's central bank, that can be used for a variety of payment scenarios. Depending on its concrete implementation, there are many participants in a production CBDC ecosystem, including the central bank, commercial banks, merchants, individuals, and wallet providers. There is a need for robust and scalable Public Key Infrastructure (PKI) for CBDC to ensure the continued trust of all entities in the system. This paper discusses the criteria that should flow into the design of a PKI and proposes a certificate hierarchy, together with a rollover concept ensuring continuous operation of the system. We further consider several peculiarities, such as the circulation of offline-capable hardware wallets.",
+      "corpusId": 274514916,
+      "url": "https://api.semanticscholar.org/CorpusId:274514916"
+    },
+    {
+      "title": "Retail Central Bank Digital Currency: Motivations, Opportunities, and Mistakes",
+      "authors": [
+        {
+          "name": "Geoffrey Goodell",
+          "id": "1388007160"
+        },
+        {
+          "name": "Hazem Danny Al-Nakib",
+          "id": "1736741863"
+        },
+        {
+          "name": "T. Aste",
+          "id": "8903071"
+        }
+      ],
+      "year": 2024,
+      "venue": "Social Science Research Network",
+      "score": 0.7758460711611972,
+      "abstract": "Nations around the world are conducting research into the design of central bank digital currency (CBDC), a new, digital form of money that would be issued by central banks alongside cash and central bank reserves. Retail CBDC would be used by individuals and businesses as form of money suitable for routine commerce. An important motivating factor in the development of retail CBDC is the decline of the popularity of central bank money for retail purchases and the increasing use of digital money created by the private sector for such purposes. The debate about how retail CBDC would be designed and implemented has led to many proposals, which have sparked considerable debate about business models, regulatory frameworks, and the socio-technical role of money in general. Here, we present a critical analysis of the existing proposals. We examine their motivations and themes, as well as their underlying assumptions. We also offer a reflection of the opportunity that retail CBDC represents and suggest a way forward in furtherance of the public interest.",
+      "corpusId": 268363603,
+      "url": "https://api.semanticscholar.org/CorpusId:268363603"
+    },
+    {
+      "title": "A critical evaluation of Central Bank Digital Currencies (CBDCs): payments’ final frontier?",
+      "authors": [
+        {
+          "name": "E. Avgouleas",
+          "id": "1406347867"
+        },
+        {
+          "name": "W. Blair",
+          "id": "2070926683"
+        }
+      ],
+      "year": 2024,
+      "venue": "Capital Markets Law Journal",
+      "score": 0.7752082503405396,
+      "abstract": "\n Central Bank Digital Currencies (CBDCs) are the latest advancement in the area of digital money and payments. CBDCs would constitute a claim on the central bank, a central bank liability; CBDCs may be not only for domestic use, as, subject to the connectivity of the chosen type of technology, the digitization of international payments means that some CBDCs may potentially be used on a cross-border basis. One key challenge concerning CBDCs refers to the preservation of the privacy of citizens’ payments. Another is the role to be played by the private banking sector in the distribution and storage of CBDCs. A number of rationales have been suggested for the introduction of CBDCs, from financial inclusion to making innovation work for the common good. On the other hand, there is no widespread consensus as to the utility of CBDCs. The majority view is that CBDCs will be introduced as a form of digital money that is entirely distinct from cryptocurrencies, and will remain so.",
+      "corpusId": 268212300,
+      "url": "https://api.semanticscholar.org/CorpusId:268212300"
+    },
+    {
+      "title": "Analysis of the Impact of Central bank Digital Currency on the Demand for Transactional Currency",
+      "authors": [
+        {
+          "name": "Ruimin Song",
+          "id": "2257036476"
+        },
+        {
+          "name": "Tiantian Zhao",
+          "id": "2114773720"
+        },
+        {
+          "name": "Chunhui Zhou",
+          "id": "2257314039"
+        }
+      ],
+      "year": 2024,
+      "venue": "unknown",
+      "score": 0.7747790131611972,
+      "abstract": "This paper takes the development of Central bank digital currencies as a perspective, introduces it into the Baumol-Tobin money demand theoretical framework, establishes the transactional money demand model under Central bank Digital Currency, and qualitatively analyzes the influence mechanism of Central bank digital currencies on transactional money demand; meanwhile, quarterly data from 2010-2022 are selected to test the relationship between Central bank digital currencies and transactional money demand through the ARDL model. The long-run equilibrium and short-run dynamics between the demand for Central bank digital currencies and transactional currency are examined by ARDL model. The empirical results show that the issuance and circulation of Central bank digital currencies will reduce the demand for transactional money. Based on the theoretical analysis and empirical test, this paper proposes that China should explore a more effective Currency policy in the context of Central bank digital currencies while promoting the development of Central bank digital currencies in a prudent manner in the future.",
+      "corpusId": 266977538,
+      "url": "https://api.semanticscholar.org/CorpusId:266977538"
+    },
+    {
+      "title": "Impact of Centralized Blockchain Digital Currency (CBDC): For Financial Inclusion and Sustainability",
+      "authors": [
+        {
+          "name": "M. K. M.",
+          "id": "2144973214"
+        },
+        {
+          "name": "P. S. Aithal",
+          "id": "2300666256"
+        },
+        {
+          "name": "S. K. R. S.",
+          "id": "2144977296"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Management, Technology, and Social Sciences",
+      "score": 0.7743355998466337,
+      "abstract": "Purpose: A central bank Digital currency or Digital rupee or e-Rupee is a legal tender digital form backed by sovereign currency attributed to Nobel laureate James Tobin economist In the year 1980, more than 105 countries were exploring CBDC among 50 countries in the advance phase of digital currency (as per NASCUS tracker) to create an environment for a cashless economy with the Government owned Blockchain Distributed ledge Technology (DLT) along Conventional centrally controlled database structure of Digital Public infrastructure of India Stack technology-driven and 5G digital revolution and innovation to close the gaps in Financial innovation and the financial inclusion, Government of India and RBI has made provision in the legal framework in the RBI ACT 1934, Banking Regulation Act 1949, Finance Act, 2022, The coinage Act,2011, FEMA Act 1999, Information Technology Act, 2000 and Payment and Settlement Act,2007 to expand access to financial services and cashless economy with blockchain technology $1.1 trillion has impact on Indian GDP. RBI has created a Retail transaction in P2P, P2M and wholesale transactions in the secondary market including commercial papers, corporate bonds, and deposit certificates. In contrast, retail transactions stood at 2.73 cores and wholesale CBDC transactions stood at 1329. The tokenization of global illiquid assets is estimated to be$16 a trillion-business opportunity by 2030 (BCG analysis) for the payment system of token-based and account-based for sustainable prosperities and Five C ‘s FI CBDC approach has created a wide range of Financial Inclusion and to achieve Sustainability Development Goals.\nMethodology: The research draws upon secondary data from publications such as journals, magazines, websites, and periodicals, in addition to a review of previous conceptual and empirical studies to assess the paper's objectives.\nResult/Analysis: The implementation of the RBI's CBDC has a substantial impact on reaching the SDGs. It increases prospects for FinTech entrepreneurs while lowering operational expenses as compared to traditional money systems.\nOriginality/Value: The study’s significant contribution of 5 C's Approach towards CBDC.\nSocial Implications: The research article will create more insight into digital currency and Financial Inclusion.\nType of Research: Descriptive Analysis.",
+      "corpusId": 270180747,
+      "url": "https://api.semanticscholar.org/CorpusId:270180747"
+    },
+    {
+      "title": "A Review of Central Bank Digital Currency: Current Status and Changing Trends",
+      "authors": [
+        {
+          "name": "Fatih Ceylan",
+          "id": "2294950896"
+        }
+      ],
+      "year": 2024,
+      "venue": "İzmir İktisat Dergisi",
+      "score": 0.7742309942256403,
+      "abstract": "Since the emergence of the Central Bank Digital Currency (CBDC), which digitally represents the legal currency of the country in which it is created, significant developments have been experienced in the global financial environment as a result of the changes brought about by the innovations. Although CBDCs offer various advantages, such as cost reduction, financial inclusion, and increasing the efficiency of payment systems, they may create some disadvantages, such as the risk of dysfunctionalization of the banking sector or decreasing the level of security. At this point, it is necessary to be aware of the possible risks it may create and to develop an optimum strategy in case such risks arise to establish a successful CBDC system and benefit from its advantages. In this context, the aim of this study is to analyze all aspects (emergence process, positive/negative sides, projects, use cases, and technical infrastructure to be used) of this digital currency and to make a comprehensive evaluation of CBDC applications around the world. The evaluations show that many countries are not indifferent to this new digital currency, which has a very high development potential, and continue their research intensively in order not to fall behind the steps taken in CBDC.",
+      "corpusId": 268897054,
+      "url": "https://api.semanticscholar.org/CorpusId:268897054"
+    },
+    {
+      "title": "Making Tax Smart: Feasibility of Distributed Ledger Technology for building tax compliance functionality to Central Bank Digital Currency",
+      "authors": [
+        {
+          "name": "P. Louvieris",
+          "id": "2982765"
+        },
+        {
+          "name": "Georgios Ioannou",
+          "id": "48662484"
+        },
+        {
+          "name": "Gareth White",
+          "id": "2054438362"
+        }
+      ],
+      "year": 2024,
+      "venue": "Applied System Innovation",
+      "score": 0.7741495040756919,
+      "abstract": "The latest advancements in distributed ledger technology (DLT) and payment architectures such as the UK’s New Payments Architecture present opportunities for leveraging the hidden informational value and intelligence within payments. In this paper, we present Smart Money, an infrastructure capability for a central bank digital currency (CBDC) which enables real-time value-added tax split payments, oversight, controlled access, and smart policy implementation. This capability is implemented as a prototype called Making Tax Smart (MTS), which utilises the open-source R3 Corda DLT framework. The results presented herein confirm that it is feasible to build an MTS capability which is scalable and co-exists with the current payment systems. Smart Money CBDC has the potential to mobilise payments data, transforming the role of money from a blunt instrument to a government policy sensor and actuator without disrupting the existing money system. DLT, smart contracts, and programmable money have a crucial role to play with benefits for government departments, the economy, and society as a whole.",
+      "corpusId": 270710906,
+      "url": "https://api.semanticscholar.org/CorpusId:270710906"
+    },
+    {
+      "title": "Central Bank Digital Currencies (CBDCs): An Evaluation from Islamic Law and Islamic Economics Perspectives",
+      "authors": [
+        {
+          "name": "Ömer Faruk Tekdoğan",
+          "id": "2098078222"
+        },
+        {
+          "name": "Necmeddin Güney",
+          "id": "120744102"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Islamic Economics and Finance Studies",
+      "score": 0.7738999674053648,
+      "abstract": "Central Bank Digital Currencies (CBDCs) garnered significant attention from economists, policymakers, and financial institutions worldwide. As a digital currency issued and managed by central banks, CBDCs are being explored by 130 countries, with 11 fully launched. The development of CBDCs has been accelerated by technological advancements and the global Covid-19 pandemic. Within the Organization of Islamic Countries (OIC), CBDC exploration varies in speed and interest among stakeholders. While most CBDC initiatives are still in the pilot phase, there is no universally agreed upon standardized format. This article evaluates the issue of CBDC from both Islamic law and economics perspectives by examining CBDCs' status as money in Islamic law and explores key aspects from the Islamic economics perspective, including monetary sovereignty, money market monitoring, and fiscal policies. Although CBDCs hold great potential, their successful implementation requires careful consideration of regulatory and technological challenges while adhering to Islamic principles. Integrating CBDCs into an Islamic economic framework offers an opportunity for sound economic development that aligns with Islamic values. Further research focusing on CBDC pilot projects and Islamic economic model designs is recommended to gain a deeper understanding of their implications.",
+      "corpusId": 272810482,
+      "url": "https://api.semanticscholar.org/CorpusId:272810482"
+    },
+    {
+      "title": "ElasticPay: Instant Peer-to-Peer Offline Extended Digital Payment System",
+      "authors": [
+        {
+          "name": "A. S. K. Reddy",
+          "id": "2373642940"
+        },
+        {
+          "name": "Gourinath Banda",
+          "id": "1726036"
+        }
+      ],
+      "year": 2024,
+      "venue": "Italian National Conference on Sensors",
+      "score": 0.7738582520756918,
+      "abstract": "The widespread reliance on paper-based currency poses significant drawbacks, such as counterfeiting, lack of transparency, and environmental impacts. While Central Bank Digital Currencies (CBDCs) address many of these issues, their dependence on continuous internet connectivity limits their usability in scenarios with poor or no network access. To overcome such limitations, this paper introduces ElasticPay, a novel Peer-to-Peer (P2P) Offline Digital Payment System that leverages advanced hardware security measures realised through Trusted Platform Modules (TPMs), Trusted Execution Environments (TEEs), and Secure Elements (SEs). ElasticPay ensures transaction privacy, unforgeability, and immediate settlement while preventing double spending. Our approach integrates robust recovery mechanisms and provides a scalable solution for diverse environments. Extensive experimentation validates the system’s reliability and practicality, highlighting its potential to advance secure and inclusive CBDC ecosystems. We demonstrate the proposed solution implementation on the iPhone mobilephone because it has an inbuilt Secure Enclave, which is an integrated implementation of the necessary TPM, TEE, and SE functionalities.",
+      "corpusId": 274832998,
+      "url": "https://api.semanticscholar.org/CorpusId:274832998"
+    },
+    {
+      "title": "Digital Rupiah as An Alternative Digital Transaction in Indonesia",
+      "authors": [
+        {
+          "name": "Zafira Putri Novitasari",
+          "id": "2329621024"
+        },
+        {
+          "name": "Avicenna Raihan Kusuma",
+          "id": "2329614291"
+        },
+        {
+          "name": "Kholilah Kholilah",
+          "id": "2089991233"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Multicultural and Multireligious Understanding",
+      "score": 0.7738115547910617,
+      "abstract": "Digitalization in the financial industry revolutionized the transaction system with the emergence of Cryptography-based Digital Currencies. It has recently evolved into digital currencies issued by central banks, known as Central Bank Digital Currency (CBDC). Bank Indonesia responds by developing a plan to release Digital Rupiah as part of the digital transformation initiative in the national payment system. This study aims to determine the authors' interest in discussing Indonesia's CBDC as seen through article publication trends. This research uses the systematic literature review (SLR) method. The results show that there is an increasing trend in the publication of articles on Digital Rupiah. The published articles discuss Digital Rupiah from various sides such as legality, implementation mechanism, challenges opportunities and impacts, to its potential implementation.",
+      "corpusId": 273883938,
+      "url": "https://api.semanticscholar.org/CorpusId:273883938"
+    },
+    {
+      "title": "Central Bank Digital Currency: Driving the Shift Towards a Global Cashless Society",
+      "authors": [
+        {
+          "name": "Sushma Yadav",
+          "id": "2291081277"
+        },
+        {
+          "name": "Vidhi Bhargava",
+          "id": "2290803865"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal For Multidisciplinary Research",
+      "score": 0.7737367434053649,
+      "abstract": "The evolution of money from traditional physical cash to Digital Currency marks a significant paradigm shift in the global financial landscape. This conceptual paper provides an overview of the emerging form of central bank money known as Central Bank Digital Currency (CBDC) and its progression amidst the digitalization era. It discusses the transition from cash to CBDC, exploring global advancements and initiatives. Drawing upon existing literature, it comprehensively addresses CBDC's forms, features, types, motivations, and implications. Specifically, it emphasizes the practical application of CBDC through pilot projects in India, highlighting the interoperability of Unified Payments Interface (UPI) with CBDC, a significant step towards adoption by the Reserve Bank of India (RBI). This study contributes to existing literature by highlighting the necessity for further research to understand the complexities and implications of CBDC adoption, crucial for its widespread acceptance. It underscores the imperative need for additional research and practical exploration to fully understand the ramifications of CBDC adoption, particularly within the Indian context and beyond.",
+      "corpusId": 268358015,
+      "url": "https://api.semanticscholar.org/CorpusId:268358015"
+    },
+    {
+      "title": "How Will Central Bank Digital Currencies (CBDCs) Influence Tax Administration in Developing Countries?",
+      "authors": [
+        {
+          "name": "Moyo Arewa",
+          "id": "2304685258"
+        }
+      ],
+      "year": 2024,
+      "venue": "unknown",
+      "score": 0.7735113774053649,
+      "abstract": "This paper explores the potential benefits and risks to tax administrations of implementing central bank digital currencies (CBDCs), a digital version of national currencies that is gaining momentum worldwide. It outlines some of the key features of CBDCs and then considers their implications for tax administration in low- and middle-income countries (LMICs) generally. The emergence of CBDCs provides LMICs with a significant opportunity to improve financial inclusion, improve payment systems and increase tax collection. CBDCs provide greater transparency, security and traceability, which could help tax authorities track income and net worth, detect tax evasion and increase tax revenue. However, there are also complex combinations of risks associated with deploying CBDCs. The revenue authorities need to thoroughly assess how they should adapt to these challenges. Governments must also ensure that CBDCs are developed and implemented transparently, fairly and consistently with broader public policy goals. This will help maximise the potential benefits of CBDC adoption while mitigating the risks – which may be particularly significant in LMICs.",
+      "corpusId": 270248259,
+      "url": "https://api.semanticscholar.org/CorpusId:270248259"
+    },
+    {
+      "title": "THE IMPACT OF CENTRAL BANK DIGITAL CURRENCY (CBDC) VOLATILITY ON MONETARY POLICY EFFICIENCY IN FINANCIAL INCLUSION AND INVESTMENT",
+      "authors": [
+        {
+          "name": "Eva Novita Pratiwi",
+          "id": "2332853264"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Social Economics Research",
+      "score": 0.7733653794053648,
+      "abstract": "This paper explores the impact of Central Bank Digital Currency (CBDC) volatility on the efficiency of monetary policy, focusing on its role in financial inclusion and investment. As the world increasingly embraces digital currencies, central banks are exploring the potential benefits and risks associated with CBDCs. Volatility in CBDCs may have significant implications for the effectiveness of monetary policy, potentially influencing inflation control, interest rates, and economic stability. Moreover, CBDCs' introduction could either enhance or hinder financial inclusion by providing new opportunities for unbanked populations or exacerbating existing disparities. The paper reviews existing literature on CBDCs, highlighting key findings on their volatility and its effects on policy formulation. Furthermore, it assesses how volatility may impact investment decisions, both in terms of risk perception and market behavior. By examining the intersection of monetary policy, financial inclusion, and investment, this paper aims to provide a comprehensive understanding of CBDCs' potential in shaping modern economies. It is critical for policymakers to consider the dynamic nature of CBDC volatility when designing strategies for effective financial inclusion and sustainable investment. The paper concludes by identifying gaps in the current literature and proposing future research directions to further explore CBDC's impact on global economic systems. Ultimately, this review underscores the importance of mitigating volatility to maximize CBDCs' benefits in fostering inclusive economic growth.",
+      "corpusId": 274362579,
+      "url": "https://api.semanticscholar.org/CorpusId:274362579"
+    },
+    {
+      "title": "How Will Central Bank Digital Currencies (CBDCs) Influence Tax Administration in Developing Countries?",
+      "authors": [
+        {
+          "name": "Moyo Arewa",
+          "id": "2304685258"
+        },
+        {
+          "name": "Celeste Scarpini",
+          "id": "2314485646"
+        },
+        {
+          "name": "Kelbesa Megersa",
+          "id": "118750677"
+        },
+        {
+          "name": "Barry J. Cooper",
+          "id": "2262710723"
+        },
+        {
+          "name": "Antonia Esser",
+          "id": "152447474"
+        },
+        {
+          "name": "Megan Campbell",
+          "id": "2265115407"
+        }
+      ],
+      "year": 2024,
+      "venue": "unknown",
+      "score": 0.7732715079910617,
+      "abstract": "Developing countries are driving the emergence of central bank digital currencies (CBDCs) – digital versions of sovereign currencies issued by central banks. While CBDCs can potentially improve financial inclusion, improve payment systems, and increase tax collection in lower-income countries, they are also associated with a complex combination of operational and security risks. This research sheds light on the tax implications of CBDCs, including the potential risks and benefits of their implementation. It outlines some of their key features and considers challenges common to revenue authorities in developing countries. Ultimately, the paper argues that a) governments adopting CBDCs must ensure that the currencies are developed and implemented transparently, fairly, and consistently with broader public policy goals while attending to context-specific challenges, and b) tax authorities should exercise more influence on CBDC design and implementation to maximise tax system benefits and reduce the possibility of worsening current challenges and inequities. Summary of ICTD Working Paper 189.",
+      "corpusId": 271662169,
+      "url": "https://api.semanticscholar.org/CorpusId:271662169"
+    },
+    {
+      "title": "Analysis of the Potential Impact of Central Bank Digital Currency (CBDC) on Banking in Indonesia",
+      "authors": [
+        {
+          "name": "R. Gunawan",
+          "id": "2325271857"
+        },
+        {
+          "name": "Muh. Asrul Yatimi",
+          "id": "2325459605"
+        },
+        {
+          "name": "Farahiyah Sartika",
+          "id": "118849552"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Business and Applied Economics",
+      "score": 0.7728090954053648,
+      "abstract": "This research aims to analyze the potential impact of implementing Central Bank Digital Currency (CBDC) on banking stability in Indonesia and identify factors that influence economic actors in using CBDC. This research used descriptive qualitative methods with literature studies. The data sources for research are bibliographic or come from various types of literature, including books, journals, articles, newspapers, modules, personal documents, etc. The research results show that implementing CBDC can reduce the number of deposits in banks, increase competition, and change banking business models. However, CBDCs can also improve financial inclusion and payment system efficiency. Factors that influence the use of CBDC include the level of trust, security, cost, and public literacy and education. The implication of this research is to enrich financial literature by introducing a new concept regarding digital money issued by central banks. In addition, the research results can be used to design risk mitigation strategies that may arise due to switching from cash to digital money.",
+      "corpusId": 273283222,
+      "url": "https://api.semanticscholar.org/CorpusId:273283222"
+    },
+    {
+      "title": "The digital euro: a materialization of (in)security",
+      "authors": [
+        {
+          "name": "C. Westermeier",
+          "id": "50010085"
+        }
+      ],
+      "year": 2024,
+      "venue": "Review of International Political Economy",
+      "score": 0.7723056106457618,
+      "abstract": "Abstract The European Central Bank (ECB) has entered the preparation phase for the potential issuance of a digital euro. The digital euro under consideration represents a retail central bank digital currency (CBDC), a digital representation of central bank money that is intended for use by the general public. This article foregrounds the digital euro as an infrastructure that furthers European security ambitions. It argues that the development of the digital euro is a materialization of European (in)security rationales that aim to secure pan-European financial transactions amid growing geopolitical tensions. It focuses on the development of the technology and analyses how central bankers’ scenarios of the future manifest in the anticipated design and prototypes. While the provision of a financial infrastructure is the most decisive security-related implication of the digital euro, the introduction of a new form of public money is the decisive financial feature with potentially wide-ranging implications for banks. Although the ECB seeks to balance the interests of banks and other financial actors in the development of the digital euro, its plans are still met with criticism. Finally, the article argues that the ECB exerts itself more explicitly than before as a geopolitical actor in its own regard.",
+      "corpusId": 269901851,
+      "url": "https://api.semanticscholar.org/CorpusId:269901851"
+    },
+    {
+      "title": "The Role of Financial Sanctions and Financial Development Factors on Central Bank Digital Currency Implementation",
+      "authors": [
+        {
+          "name": "Medina Ayta Mohammed",
+          "id": "2249552237"
+        },
+        {
+          "name": "Carmen De-Pablos-Heredero",
+          "id": "1402907929"
+        },
+        {
+          "name": "José Luis Montes Botella",
+          "id": "2164643339"
+        }
+      ],
+      "year": 2024,
+      "venue": "FinTech",
+      "score": 0.769230307444181,
+      "abstract": "This study investigates the influence of a country’s financial access and stability and the adoption of retail central bank digital currencies (CBDCs) across 71 countries. Using an ordinal logit model, we examine how individual financial access, the ownership of credit cards, financing accessibility by firms, offshore loans, financial sanctions, and the ownership structure of financial institutions influence the probability of CBDC adoption in nations. These findings reveal that nations facing financial sanctions and those with substantial offshore bank loans are more inclined to adopt CBDCs. Furthermore, a significant relationship is observed in countries where many people have restricted financial access, indicating heightened interest in CBDC adoption. Interestingly, no statistically significant relationship was found between the adoption of CBDCs and the percentage of foreign-owned banks in each country. The results show that countries with low financial stability and financial access adopt CBDCs faster. This study expands our knowledge of how a nation’s financial situation influences its adoption of CBDCs. The results provide important and relevant insights into the current discussion of the direction of global finance.",
+      "corpusId": 267714811,
+      "url": "https://api.semanticscholar.org/CorpusId:267714811"
+    },
+    {
+      "title": "DLT Options for CBDC",
+      "authors": [
+        {
+          "name": "Sky Guo",
+          "id": "2186527843"
+        },
+        {
+          "name": "Joseph Kreitem",
+          "id": "2186338140"
+        },
+        {
+          "name": "T. Moser",
+          "id": "145140500"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Central Banking Theory and Practice",
+      "score": 0.7691914510002439,
+      "abstract": "Abstract This paper provides an overview of the distributed ledger technology (DLT) options available to central banks for issuing central bank digital currency (CBDC). We discuss the main requirements that a DLT solution must fulfill and analyze the various structures for implementation offered by DLT — public, permissioned and private — and the implications that each has for the central bank and the existing financial system. While a CBDC built on an open, permissionless system would provide the full functionality offered by DLT, it is also far more disruptive to the existing financial system and consequently requires more new infrastructure on the part of the central bank.",
+      "corpusId": 252575902,
+      "url": "https://api.semanticscholar.org/CorpusId:252575902"
+    },
+    {
+      "title": "Financial Stability Implications of CBDC",
+      "authors": [
+        {
+          "name": "Francesca Carapella",
+          "id": "2534205"
+        },
+        {
+          "name": "Jin-Wook Chang",
+          "id": "2296413488"
+        },
+        {
+          "name": "Sebastian Infante",
+          "id": "2268562402"
+        },
+        {
+          "name": "Melissa Leistra",
+          "id": "2296911234"
+        },
+        {
+          "name": "Arazi Lubis",
+          "id": "2183802171"
+        },
+        {
+          "name": "Alexandros P. Vardoulakis",
+          "id": "118715772"
+        }
+      ],
+      "year": 2024,
+      "venue": "Finance and Economics Discussion Series",
+      "score": 0.7687037318702467,
+      "abstract": "A Central Bank Digital Currency (CBDC) is a form of digital money that is denominated in the national unit of account, constitutes a direct liability of the central bank, and can be distinguished from other central bank liabilities. We examine the positive and negative implications for financial stability of a CBDC under different design options. We base our analysis on the lessons derived from historical case studies as well as on analytical frameworks useful to characterize the mechanisms through which a CBDC can affect financial stability. We further discuss various policy tools that can be employed to mitigate financial stability risks.",
+      "corpusId": 269177921,
+      "url": "https://api.semanticscholar.org/CorpusId:269177921"
+    },
+    {
+      "title": "Retail Central Bank Digital Currency Design Choices: Guide for Policymakers",
+      "authors": [
+        {
+          "name": "Anastasia Tsareva",
+          "id": "2300755594"
+        },
+        {
+          "name": "M. Komarov",
+          "id": "2136274962"
+        }
+      ],
+      "year": 2024,
+      "venue": "IEEE Access",
+      "score": 0.7686124829502751,
+      "abstract": "Central bank digital currencies (CBDCs), particularly retail CBDCs intended for daily public transactions, have garnered attention globally. Benefits of CBDC implementation heavily depend on its design, which, if not executed well, can lead to technological and privacy issues. Through case study examination, decision tree analysis, and IT system architecture modelling, this paper identifies key architectural and technological facets of retail CBDCs. We propose a decision-making methodology allowing policymakers to tailor CBDC design to their unique circumstances and requirements. In achieving this, we first outline core and optional CBDC properties and examine design choices from existing projects, form a list of assumptions affecting CBDC architecture and design, as well as vital design choices and trade-offs. Our research includes the development of 36 distinct IT architectures for CBDCs, demonstrating how different assumptions linked to policy objectives can influence the CBDC system design. These findings offer practical guidelines for policymakers, emphasizing the necessity to clearly define and prioritize policy objectives to form correct assumptions before applying our methodology. This approach helps to ensure that the CBDC design is optimally aligned with national economic goals and technological capabilities.",
+      "corpusId": 269699204,
+      "url": "https://api.semanticscholar.org/CorpusId:269699204"
+    },
+    {
+      "title": "OPTIMAL CENTRAL BANK DIGITAL CURRENCY DESIGN FOR EMERGING ECONOMIES",
+      "authors": [
+        {
+          "name": "Ferry Syarifuddin",
+          "id": "2300026039"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Central Banking Law and Institutions",
+      "score": 0.7686064907502751,
+      "abstract": "The growth of digitalisation presents the possibility for Central Bank Digital Currency (CBDC) to emerge as a secure and efficient payment method. However, despite the benefits, CBDC implementation needs to be adapted to the capabilities and needs of each country. This study uses meta-strength, weakness, opportunity, and threat (meta-SWOT) analysis to assess the internal strengths and weaknesses, as well as the external opportunities and threats, to determine the most optimal CBDC design for emerging economies. In analysing internal aspects, CBDC allows for an efficient payment system, followed by a more effective monetary policy. Furthermore, the technology creates the possibility to boost financial inclusion and trace many illicit activities. However, to achieve that, high investment costs and privacy issues must be accommodated, followed by technological risks such as the digital divide and electrical outages. Turning to external aspects, growing technology, the network effect, enthusiasm for CBDC, and the impracticality of cash usage have become catalysts for CBDC development. Despite these opportunities, central banks should be wary of the threat of cyberattacks, quickening bank disintermediation, legal issues within their respective countries, and competition with private crypto companies. Altogether, the most optimal CBDC design in emerging economies is retail and wholesale coverage, interest-bearing (wholesale) and noninterest-bearing (retail) remuneration, account-based and token-based paymentsystems, a traceable degree of anonymity, hybrid architecture, a Decentralised Ledger Technology (DLT) ledger system, and domestic and cross-border scope. These results are supported by rigorous examination of global CBDC research and development.",
+      "corpusId": 269599410,
+      "url": "https://api.semanticscholar.org/CorpusId:269599410"
+    },
+    {
+      "title": "MAPPING CENTRAL BANK DIGITAL CURRENCY LITERATURE: LESSONS FOR GOVERNMENTS AND RESEARCH",
+      "authors": [
+        {
+          "name": "Ririn Riani",
+          "id": "2283670831"
+        },
+        {
+          "name": "Nashr Akbar",
+          "id": "100552505"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Central Banking Law and Institutions",
+      "score": 0.7684672573292817,
+      "abstract": "CBDC has gained popularity in many countries as a result of technological development. Central banks in a number of nations have been experimenting, piloting, launching, and promoting CBDC. Therefore, this study maps CBDC-related literature using a bibliometric approach and content analysis of the Scopus database. The Biblioshiny R Package was used in this study to analyse 190 documents with the keywords “central bank digital currency”. The analysis focuses on the main information about all documents, analysis of scientific production by areas (journals, authors, and countries), document and keyword analysis, and policy recommendations from the previous literature. The results show that CBDCs have had profound effects on monetary and payment systems, and their development could set the stage for a global central bank. The review also addresses the motivations and advantages of issuing a CBDC, including increasing financial inclusion, enhancing monetary policy, andpromoting efficient digital payments. The analysis also reveals that numerous central banks are investigating the possibility of issuing CBDCs due to the numerous advantages of this form of money. There is a lot of potential for theoretical expansion, contextual coverage, and methodological contributions. Furthermore, some policy recommendations from previous literature and directions for future studies are provided in this study.",
+      "corpusId": 269592966,
+      "url": "https://api.semanticscholar.org/CorpusId:269592966"
+    },
+    {
+      "title": "Development and Practice of Digital Currency, Challenges and Opportunities: The Case of Digital RMB",
+      "authors": [
+        {
+          "name": "Yan Yu",
+          "id": "2307859258"
+        }
+      ],
+      "year": 2024,
+      "venue": "Advances in Economics, Management and Political Sciences",
+      "score": 0.768258216294703,
+      "abstract": "mid the vigorous development of the digital economy, the digital RMB is gradually becoming a key issue in the field of financial technology. The digital transformation of the RMB provides the financial industry with a strategic opportunity to shift from informatization to digital operations, aiming to enhance the efficiency of the financial system in serving the real economy, expand financial inclusion, and lay the foundation for the internationalization of the digital RMB. As the influence of the digital RMB continues to expand, the challenges encountered in its development, such as market adaptability, technical challenges, mechanism constraints, and the complex international environment, have become increasingly prominent. Therefore, in advancing the digital RMB, it is essential to continuously improve the monetary and financial legal system and regulatory framework, and to emphasize the importance of strengthening the construction of an international cooperation system, in order to promote the healthy development of the digital RMB and address the challenges of globalization.",
+      "corpusId": 270660231,
+      "url": "https://api.semanticscholar.org/CorpusId:270660231"
+    },
+    {
+      "title": "Complementing Money Functions: Central Bank Digital Currencies and Currency Competition",
+      "authors": [
+        {
+          "name": "Jörg J. Dötsch",
+          "id": "2294452974"
+        },
+        {
+          "name": "Tamás Ginter",
+          "id": "2294452724"
+        }
+      ],
+      "year": 2024,
+      "venue": "Financial and economic review",
+      "score": 0.7682050385090062,
+      "abstract": "Central bank digital currencies (CBDCs) are currently one of the most vital issues in monetary policy worldwide. While several aspects of the emergence of digital currencies have been addressed in the respective literature, little focus has been directed to one important underlying parameter: the new role of technology in the digital age, which complements the traditional money functions and hence may exert an effect on currency competition. In this paper, we first provide an overview of money functions, currency competition and digital money. We then state that with the emergence of CBDCs, technology has become a new and important functional parameter born by the CBDC itself. We conclude that while technological competition has arisen as a factor of currency competition, stability remains its most decisive factor.",
+      "corpusId": 268836703,
+      "url": "https://api.semanticscholar.org/CorpusId:268836703"
+    },
+    {
+      "title": "Design of a Central Bank Digital Currency in a Highly Dollarized Emerging Market Economy: The Case of Cambodia",
+      "authors": [
+        {
+          "name": "K. Ueda",
+          "id": "2292839703"
+        },
+        {
+          "name": "Chanthol Hay",
+          "id": "2292834711"
+        }
+      ],
+      "year": 2024,
+      "venue": "Asian Economic Policy Review",
+      "score": 0.7681939580702467,
+      "abstract": "Cambodia is one of the first two countries that adopted a retail central bank digital currency (CBDC) in October 2020. The design of the CBDC, called the Bakong, is a bit unique. We find a few design flaws that could potentially damage the central bank and then the Cambodian economy as a whole. We show some key statistics from our own survey in 2022 to support our arguments. The Bakong is offered in two currencies, the Khmer Riel (KHR) and the US dollar (USD), as Cambodia has been highly dollarized. We discuss theoretical predictions for the CBDC based on three kinds of substitutes: paper money, bank deposits, and foreign currencies. The third one is specific to the Bakong. Unlike a typical local currency CBDC, the USD Bakong may substitute for the KHR more. Moreover, it has been announced that the retail Bakong is legally not a liability of the central bank, but from the viewpoint of the underlying technology and economics, it is a central bank liability.",
+      "corpusId": 268623082,
+      "url": "https://api.semanticscholar.org/CorpusId:268623082"
+    },
+    {
+      "title": "The Conceptual Design e-Wallet for Rupiah Digital",
+      "authors": [
+        {
+          "name": "Mohamad Faisal Zulmy",
+          "id": "2346951565"
+        },
+        {
+          "name": "Monica Vivi Kurniawati",
+          "id": "2346951632"
+        },
+        {
+          "name": "Setiadi Yazid",
+          "id": "2343381041"
+        }
+      ],
+      "year": 2024,
+      "venue": "Jurnal Ilmu Komputer dan Informasi",
+      "score": 0.7681793765090063,
+      "abstract": "This research study the advancement of Central Bank Digital Currencies (CBDCs) spurred by fi-nancial technology progress. It focuses on Rupiah Digital, Indonesia's CBDC initiative led by the Bank of Indonesia (BI). The study explores the technical aspects of Wholesale and Retail Digital Rupiah, proposes an e-wallet system for seamless digital transactions in related to blockchain technology, specifically Permissioned Distributed Ledger Technology (DLT). The objective of this research to provide recommendations to BI regarding appropriate e-wallet conceptual design based on study literature review (LR) methods and qualitative research method by conducting interviews throughs forum group discussion (FGD) and e-mail with leading economic (banks), legal (BI and Government), and technical experts (banks, academic expert on this field, BI and Government) to get reviews and input regarding the e-wallet conceptual design that was proposed. As result, we recommended the architecture for Rupiah Digital using Hyperledger Fabric blockchain with two-tiered distribution and user layer backed by digital token using ID on mobile apps to enhance the security of the system. The FGD with experts and executor result in approval on those conceptual design to be part of the option on development of CBDC in Indonesia.",
+      "corpusId": 276571461,
+      "url": "https://api.semanticscholar.org/CorpusId:276571461"
+    },
+    {
+      "title": "The New Frontier of Banking in India: Leveraging the Latest Global Technologies to Drive an Innovative Transformation",
+      "authors": [
+        {
+          "name": "A. Manoj Kumar",
+          "id": "2401379654"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Science and Research (IJSR)",
+      "score": 0.768091661694703,
+      "abstract": ":",
+      "corpusId": 273214990,
+      "url": "https://api.semanticscholar.org/CorpusId:273214990"
+    },
+    {
+      "title": "Digital currency of the Central bank in Russia and in the world: current status and development prospects",
+      "authors": [
+        {
+          "name": "D. V. Baranov",
+          "id": "2081646232"
+        },
+        {
+          "name": "P. Shcherbachenko",
+          "id": "147842877"
+        }
+      ],
+      "year": 2024,
+      "venue": "Вестник университета",
+      "score": 0.768054500094703,
+      "abstract": "The article presents an analysis of the main trends and prospects for the development of central bank digital currencies (hereinafter referred to as CBDC) in the global context and in the Russian Federation (hereinafter referred to as RF, Russia), comparing them with cryptocurrencies and traditional fiat currencies. Special attention is given to identifying such advantages of digital currencies over conventional ones as independence, security, transparency and the possibility of using smart contracts. However, CBDC, unlike cryptocurrencies, are subject to control and depend on the actions of central banks. The article includes an overview of the experience of various countries such as Russia, China, India, United Arab Emirates, France, and Nigeria. The analysis of the ratio of commission and interest income in the activities of Russian banks has also been conducted. It has been found that commission income in the banking sector is important, and the impact of introducing the digital ruble by the Central Bank of Russia on the banking system has been assessed. In conclusion, recommendations are proposed for introduction of the digital ruble into the daily activities of Russian banks, including consideration of the difficulties for them and active customer engagement as well as the need to create a separate organisation to control the operations of the digital ruble.",
+      "corpusId": 270841702,
+      "url": "https://api.semanticscholar.org/CorpusId:270841702"
+    },
+    {
+      "title": "From Cash to Code: The Transition to Central Bank Digital Currencies in Pakistan",
+      "authors": [
+        {
+          "name": "Saeed Ahmed",
+          "id": "2323120480"
+        }
+      ],
+      "year": 2024,
+      "venue": "Oblik i finansi",
+      "score": 0.768009346494703,
+      "abstract": "The introduction of Central Bank Digital Currencies (CBDCs) in Pakistan presents a transformative opportunity to enhance the nation's financial landscape by providing a more efficient, inclusive, and secure medium for financial transactions. CBDCs can facilitate cross-border payments, enhance financial inclusion and control for financial crime. However, the success of implementing digital currencies depends very much on society's acceptance of this idea. This study uses a quantitative descriptive design to explore public opinion, awareness and readiness to adopt the Central Bank Digital Currencies in Pakistan. A survey was conducted with respondents from diverse demographic backgrounds to assess their understanding of CBDCs, concern regarding privacy and financial security, and overall willingness to adopt digital currencies issued by the central bank. In this study, the factors that may influence or predict the success of Central Bank Digital Currency in Pakistan's economy are independent variables. The success of CBDC in usage and integration in Pakistan's economy is the dependent variable. Gender and profession are control variables. The analysis that was conducted highlights a generally positive outlook towards CBDC among the survey participants, tempered by notable concerns about trust and sustainability. However, the findings suggest that while there is cautious interest in CBDCs among common Pakistanis, substantial efforts are needed to address the knowledge gap and mitigate concerns about security and privacy. Digital education of the population is one of the key factors in successfully implementing digital currencies in any country, particularly Pakistan. In addition, trust issues remain a critical barrier, especially among those aware of CBDC's benefits. Thus, the results of this study will be useful for policymakers and financial institutions in the context of planning activities for implementing CBDC in Pakistan.",
+      "corpusId": 272011289,
+      "url": "https://api.semanticscholar.org/CorpusId:272011289"
+    },
+    {
+      "title": "Digital Currencies of Central Banks (CBDC) as a New Institution of Digital Money Circulation: Legal Essence, History, Foreign Experience",
+      "authors": [
+        {
+          "name": "I. S. Ismailov",
+          "id": "2327790186"
+        }
+      ],
+      "year": 2024,
+      "venue": "Courier of the Kutafin Moscow State Law University",
+      "score": 0.768001396494703,
+      "abstract": "The article is devoted to the study of the genesis of the institute of digital currencies issued by central banks, motives and key stages of launching projects for their implementation. The article analyzes the cases of foreign countries in the field of launching their national digital currencies, compares approaches to the legal regulation of digital currencies of central banks and their types. Also, the possibilities for the cross-border use of CBDC and other digital tools in the context of current sanctions restrictions are explored. The article analyzes in detail the legal essence of digital currencies of central banks, and particularly the digital ruble, as well as the features of the legal technique of legislative acts regulating public relations in the field of introduction and circulation of the digital ruble.",
+      "corpusId": 274108545,
+      "url": "https://api.semanticscholar.org/CorpusId:274108545"
+    },
+    {
+      "title": "Digital RMB: Regulation of Central Bank Digital Currency (CBDC) in China",
+      "authors": [
+        {
+          "name": "Y. Kuchina",
+          "id": "2293122795"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Law and Administration",
+      "score": 0.767914260294703,
+      "abstract": "Introduction. “Digital RMB” is the digital currency of the People's Bank of China that has attracted the attention of researchers around the world. This project is not the first to be put into circulation, but it is the largest in terms of the volume of issued currency and the number of people using the CBDC as a means of payment.Materials and methods. The analysis of the practice of putting into effect, as well as the basics of regulating the CBDC of the PRC, can become a source of information that allows, when making a comparison, to develop a policy of action for the regulator in relation to the digital currencies of other countries.This article considers only the CBDC of the PRC, its features, technological and non-technological components. The main source of analysis is the Program Document or the Whitepaper of the CBDC of the PRC, which is currently the only official source of information on how the currency regulation is structured. This document is one of those establishing regulatory principles and is an example of a generally accepted method of regulating innovative financial technologies at the pilot stage.Results of the study. Based on the analysis, the article offers conclusions, current and final, about what the PRC CBDC is, what its structure is, what are the features and of the PRC CBDC.Discussion and conclusion. Areas of application of the PRC CBDC are being considered, the legal effect of its implementation.",
+      "corpusId": 273326789,
+      "url": "https://api.semanticscholar.org/CorpusId:273326789"
+    },
+    {
+      "title": "Digital Money in the Indian Context: An In-depth Exploration of its Evolution, Implications, and Future Prospects within the Framework of Central Bank Digital Currency",
+      "authors": [
+        {
+          "name": "Et al. August Keshav",
+          "id": "2271771397"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Electrical Systems",
+      "score": 0.7679046269502751,
+      "abstract": "This study conducts a thorough investigation of digital Money in the distinctive context of India, clarifying its development, consequences, and future possibilities, specifically in relation to Central Bank Digital Currency (CBDC), analyzing its potential in the Indian context, its crucial role in the current digital revolution, and the advantages it offers to our country, enterprises, and various user groups.The study proposes aligning our economy with the ongoing digital transition in the global technology scene. In an intangible domain characterized by inexorable advancement, the shift towards a digital economy becomes essential to enhancing our worldwide position.This research, conducted as an exploratory study, utilizes ideas derived from current literature, case studies, books, and electronic resources. this comprehensive approach offers a clear understanding of key aspects of digital money, such as the idea of blockchain, its many forms and sectors, including wholesale and retail, and the examination of real-world applications in different nations. The study examines investigating phenomena such as initial coin offers (ICOs) and the revolutionary possibilities of Central Bank Digital Currency (CBDC) and examines important literature issued by the Reserve Bank of India, the Bank of England, and existing works on centrally backed currency, as well as by the Bank for International Settlements (BIS).The data is enhanced through documentary analysis. The article concludes with a detailed and thoughtful discussion, providing valuable ideas and outlining potential future paths. As a result, it is essential to thoroughly categorize user groups for virtual currencies, especially those that have central bank support. this study provides a comprehensive grasp of the complex processes surrounding digital money and its potential to revolutionize the Indian socio-economic system. It is a significant resource for policymakers, industry experts, and researchers.",
+      "corpusId": 267346378,
+      "url": "https://api.semanticscholar.org/CorpusId:267346378"
+    },
+    {
+      "title": "DIGITAL CURRENCIES OF CENTRAL BANKS OF STATE (CBDC): GLOBAL TRENDS AND DEVELOPMENT PROSPECTS IN RUSSIA",
+      "authors": [
+        {
+          "name": "L. Gusarova",
+          "id": "2379504777"
+        }
+      ],
+      "year": 2024,
+      "venue": "Фундаментальные исследования (Fundamental research)",
+      "score": 0.7678910225090062,
+      "abstract": "The purpose of the article is to assess the prospects for the development of the digital ruble in the Russian Federation. Based on the analysis of the prerequisites for the introduction and global trends in the development of Central Bank Digital Currency, the need to introduce a new type of electronic currency to improve the competitiveness of the domestic economy is substantiated. The essential characteristics and distinctive features of the digital currency from other forms of money are considered. New opportunities for citizens and companies, promising areas of application of the digital ruble both in internal settlements and for financial transactions with foreign participants in economic relations are assessed. The prospects of the digital ruble are substantiated from the point of view of ensuring transparency and traceability of settlements, which is especially important from the point of view of control over the targeted and effective use of each ruble paid from the country’s budget system. The use of blockchain technologies will eliminate the possibility of implementing various shadow schemes in the economy. Emphasizing the undoubted advantages, the author identifies the limitations and risks of the development of this form of digital settlements in domestic practice. Priority measures for the implementation and popularization of the new financial instrument at this stage of the digital ruble development are highlighted.",
+      "corpusId": 275735520,
+      "url": "https://api.semanticscholar.org/CorpusId:275735520"
+    },
+    {
+      "title": "Monetary Reform and Central Bank Digital Currencies: The Impact on Retail Banking",
+      "authors": [
+        {
+          "name": "Adam Abdullah",
+          "id": "2289407795"
+        }
+      ],
+      "year": 2024,
+      "venue": "Turkish Journal of Islamic Economics",
+      "score": 0.7678595953292817,
+      "abstract": "This research aims to clarify the impact of monetary reform on retail banking, with the introduction of private crypto-currencies (CCs) and retail central bank digital currencies (CBDCs). Given the exponential increase in private de-centralized CCs, involving stablecoins and non-backed digital assets, total crypto assets have now developed into a USD 1.04 trillion market capitalization. Governments and monetary authorities were initially reticent, but now a number of central banks are developing their own wholesale and retail CBDCs. By conducting library research, document and content analysis involving secondary data, this research confirms, involving central bank admission, that the current centralized monetary system allows commercial banks to lend the vast majority of deposit money into existence. However, the impact of private CCs and introduction of retail CBDCs will eliminate credit creation, thus rendering the commercial banking model obsolete. This will inevitably involve a structural change in the global financial system, with the separation of the public issuance of money and the private issuance of equity finance and investment. Ultimately, retail CBDCs will have to develop into public stablecoins that are pegged to intrinsic value to satisfy the store of value function of money and provide stability as the common denominator for all economic transactions.",
+      "corpusId": 268189371,
+      "url": "https://api.semanticscholar.org/CorpusId:268189371"
+    },
+    {
+      "title": "Shaping the Future of Money: Public Perceptions on Central Bank Digital Currencies and the Digital Rupee",
+      "authors": [
+        {
+          "name": "Yashwanth G",
+          "id": "2303555752"
+        },
+        {
+          "name": "Suresh A S",
+          "id": "2303555716"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal For Multidisciplinary Research",
+      "score": 0.767534620494703,
+      "abstract": "This research project examines public attitudes towards Central Bank Digital Currencies (CBDCs) and the Digital Rupee through surveys and data analysis. It uncovers a significant level of awareness and growing interest in digital currency concepts among respondents. Trust in central banks is highlighted as crucial for successful CBDC implementation. Positive attitudes towards adoption are noted, with perceived benefits including faster transactions and enhanced security. However, concerns about cybersecurity risks and privacy issues require attention. Collaboration between public and private sectors is emphasized for effective implementation. Overall, this study provides valuable insights for policymakers and financial institutions navigating the digital finance landscape, informing strategies to promote digital currency adoption and address potential challenges.",
+      "corpusId": 270077139,
+      "url": "https://api.semanticscholar.org/CorpusId:270077139"
+    },
+    {
+      "title": "Infrastructural power, institutional karma, and existential choices",
+      "authors": [
+        {
+          "name": "Saule T. Omarova",
+          "id": "84316202"
+        }
+      ],
+      "year": 2024,
+      "venue": "Finance and Society",
+      "score": 0.7674456638947029,
+      "abstract": "\n Leon Wansleben’s new book, The Rise of Central Banks: State Power in Financial Capitalism, tells an intricately complex story of the world’s most influential central banks successfully harnessing the forces of financial globalization to build their institutional power as the principal managers of their national economies. The book argues that, regardless of central banks’ rationales and rationalizations, the resulting expansion of global money markets has failed to generate the intended macroeconomic and societal benefits. Instead, as became evident in the post-2008 era, the world’s most powerful central banks are now structurally dependent on the increasingly self-referential markets for financial assets. While the book’s narrative is focused on inflation targeting and other monetary policy innovations since the 1970s, it raises much broader questions and invites further reflection on the nonlinear dynamics of power in today’s financial markets and the uncertain future of central banks.",
+      "corpusId": 268351033,
+      "url": "https://api.semanticscholar.org/CorpusId:268351033"
+    },
+    {
+      "title": "Foreign experience in defining the legal framework, implementation and research of digital currencies",
+      "authors": [
+        {
+          "name": "E. Musatov",
+          "id": "2269625948"
+        },
+        {
+          "name": "A. M. Musatov",
+          "id": "2269654764"
+        },
+        {
+          "name": "I. S. Paramonov",
+          "id": "2269082511"
+        }
+      ],
+      "year": 2024,
+      "venue": "Scientific notes of the Russian academy of entrepreneurship",
+      "score": 0.766744040094703,
+      "abstract": "Digital currencies of national banks are becoming more and more tightly integrated into the modern reality. Many countries around the world are at different stages of creating, piloting and implementing digital currencies. Undoubtedly, digital currencies as a third form of money will become our reality very soon. However, each country chooses its own model of creating, piloting and implementing digital currency based on its own preferences, the preferences of the population and the objectives of the digital currency. In this article, we will try to explore the concept of CBDC. Understand what CBDC or digital currency is. We will consider the experience of piloting and implementation of digital currency on the example of China, as well as consider the experience of legal regulation of digital currencies. Thanks to this analysis, we will try to give an unambiguous answer to what CBDC is, which of the existing methods is the most interesting and promising from our point of view, as well as what difficulties arise from the legal point of view with the emergence of digital currency.",
+      "corpusId": 267137945,
+      "url": "https://api.semanticscholar.org/CorpusId:267137945"
+    },
+    {
+      "title": "E-Rupee: Unlocking India's Digital Economy, Challenges, and Opportunities",
+      "authors": [
+        {
+          "name": "Shallu Sehgal",
+          "id": "2312579575"
+        },
+        {
+          "name": "Mohd Yasir",
+          "id": "2312444771"
+        },
+        {
+          "name": "Sukhleen Kour",
+          "id": "2312610699"
+        }
+      ],
+      "year": 2024,
+      "venue": "South Asian Journal of Social Studies and Economics",
+      "score": 0.7667347321793333,
+      "abstract": "This paper explores the concept of digital currency, differentiating between digitization and digitalization, and analyzes its different forms, specifically centralized and decentralized digital currencies. The analysis comprehensively examines Central Bank Digital Currencies (CBDCs), specifically focusing on India's e-rupee. It delves into the various forms of CBDCs, their management strategies, and the potential economic consequences they may have. The significance of digital currency in promoting financial inclusion, improving transaction efficiency, and influencing monetary policy is emphasized. Moreover, the study discusses the difficulties and dangers linked to the deployment of digital money, such as cyber-attacks, financial instability, privacy issues, and regulatory obstacles. The paper emphasizes the significance of strong risk management systems and consistent monitoring to guarantee the efficiency and safety of digital currencies. This study offers unique insights into the revolutionary potential of digital currencies and the strategic considerations required for their effective adoption by conducting a thorough assessment of the digital currency ecosystem. Moreover, the emergence of the 4th Industrial Revolution (4.0), driven by digital technologies, is transforming industries on a global scale within the field of agriculture, digitalization is transforming farming methods by implementing smart farming, precision agriculture, and digital agriculture. This paper also provides the guidelines for mitigating operational risks associated with digital currency, which may be found in the NIST Risk Management Framework and the CPMI-IOSCO Principles for Financial Market Infrastructures. \nUltimately, the embrace of digital currencies and the digitization of numerous industries have the potential to stimulate economic growth, enhance financial accessibility, and proper technological advancement.",
+      "corpusId": 271371908,
+      "url": "https://api.semanticscholar.org/CorpusId:271371908"
+    },
+    {
+      "title": "Implications of a U.S. CBDC for International Payments and the Role of the Dollar",
+      "authors": [
+        {
+          "name": "J. Flemming",
+          "id": "2381928848"
+        },
+        {
+          "name": "Ruth A. Judson",
+          "id": "2286835438"
+        }
+      ],
+      "year": 2024,
+      "venue": "FEDS Notes",
+      "score": 0.7588366218259553,
+      "abstract": "",
+      "corpusId": 268018114,
+      "url": "https://doi.org/10.17016/2380-7172.3435"
+    },
+    {
+      "title": "Central Bank Digital Currency (CBDC): Design Requirements & Challenges",
+      "authors": [
+        {
+          "name": "B. Pillai",
+          "id": "47944111"
+        },
+        {
+          "name": "G. Sorwar",
+          "id": "1782229"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Conference on Blockchain",
+      "score": 0.7583365844740846,
+      "abstract": "",
+      "corpusId": 271936825,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10634472"
+    },
+    {
+      "title": "Evaluating the evolution, implementation, and future prospects of central bank-based digital currencies: A case study of Nigeria’s e-Naira",
+      "authors": [
+        {
+          "name": "Idiege Chindu",
+          "id": "2391551058"
+        },
+        {
+          "name": "P. Idisi",
+          "id": "2090161019"
+        },
+        {
+          "name": "Benjamin A. Adeagbo",
+          "id": "2391550369"
+        },
+        {
+          "name": "Chindu Joseph Idiege",
+          "id": "2391550876"
+        },
+        {
+          "name": "Hassan Isah",
+          "id": "2276644147"
+        },
+        {
+          "name": "J. Si̇mpa",
+          "id": "97907520"
+        },
+        {
+          "name": "P. Atteh",
+          "id": "2280088932"
+        }
+      ],
+      "year": 2024,
+      "venue": "World Journal of Advanced Research and Reviews",
+      "score": 0.7579007471809991,
+      "abstract": "",
+      "corpusId": 271006095,
+      "url": "https://doi.org/10.30574/wjarr.2024.22.3.1940"
+    },
+    {
+      "title": "DIGITAL REVOLUTION IN FINANCE: A COMPREHENSIVE ANALYSIS OF CENTRAL BANK DIGITAL CURRENCY IMPLEMENTATION",
+      "authors": [
+        {
+          "name": "Ashwarya Kapoor",
+          "id": "2036671818"
+        },
+        {
+          "name": "R. Sindwani",
+          "id": "2091937591"
+        },
+        {
+          "name": "Manisha Goel",
+          "id": "1916388"
+        }
+      ],
+      "year": 2024,
+      "venue": "Sachetas",
+      "score": 0.7578388356185125,
+      "abstract": "",
+      "corpusId": 270842798,
+      "url": "https://doi.org/10.55955/320001"
+    },
+    {
+      "title": "Financial Innovation through CBDC – A New Era of Digital Payments in India",
+      "authors": [
+        {
+          "name": "Ms. Sumathi Ms. Sumathi",
+          "id": "2367424119"
+        },
+        {
+          "name": "Mr. Prashanth Kumar A",
+          "id": "2367425948"
+        },
+        {
+          "name": "Mr. Sudheesha Poojary",
+          "id": "2232981497"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Advances in Engineering and Management",
+      "score": 0.7578217332185126,
+      "abstract": "",
+      "corpusId": 279432358,
+      "url": "https://doi.org/10.35629/5252-0611610614"
+    },
+    {
+      "title": "New Forms of Currency in the Digitalized World: Legal Assessment and Challenges",
+      "authors": [
+        {
+          "name": "R. Conley",
+          "id": "30761982"
+        },
+        {
+          "name": "Eleadora Juliana Suico Cruz",
+          "id": "2318731388"
+        }
+      ],
+      "year": 2024,
+      "venue": "Science of Law",
+      "score": 0.7578059616185125,
+      "abstract": "",
+      "corpusId": 272290520,
+      "url": "https://doi.org/10.55284/sol.v2024i1.123"
+    },
+    {
+      "title": "Impacts of Central Bank Digital Currency on Regional Economic Integration: Evidence from the Greater Bay Area of China",
+      "authors": [
+        {
+          "name": "Weng Chi Lei",
+          "id": "2293960512"
+        },
+        {
+          "name": "Xinru Wang",
+          "id": "2124914902"
+        }
+      ],
+      "year": 2024,
+      "venue": "Chinese Economy",
+      "score": 0.7575601511809992,
+      "abstract": "",
+      "corpusId": 268755665,
+      "url": "https://doi.org/10.1080/10971475.2024.2333124"
+    },
+    {
+      "title": "The Regulatory Sandbox for the Pilot Project of Retail E-rupee Currency: Consideration for Reserve Bank of India",
+      "authors": [
+        {
+          "name": "R. Nikam",
+          "id": "145777663"
+        }
+      ],
+      "year": 2024,
+      "venue": "Passagens",
+      "score": 0.7575573356328157,
+      "abstract": "Recent advancements in technology-based payment methods have prompted central banks all over the world to consider the possible advantages and hazards of issuing Central Bank Digital Currencies (CBDC) in order to keep up with the current innovation trend. The Indian payment system is no exception to this fintech innovation trend. As a result, the Reserve Bank of India (RBI) must begin considering related patterns and develop a phased implementation plan that progresses gradually through the pilot project. The present research is proposing a Pilot project on the issuance of retail e-rupee first. The research is primarily based on the normative method presenting a qualitative analysis of the creation of a digital rupee possibly like paper money and its smooth implementation. The study examines the potential effects of retail e-rupee implementation on the banking industry, monetary policy, technology architecture options, potential retail e-rupee applications, issuance methods, etc., as well as privacy issues. Thus, it will assist RBI in making policy decisions.",
+      "corpusId": 270505911,
+      "url": "https://doi.org/10.15175/1984-2503-202416202"
+    },
+    {
+      "title": "Benchmarking the performance of a self-custody, non-ledger-based, obliviously managed digital payment system",
+      "authors": [
+        {
+          "name": "William Macpherson",
+          "id": "1773740890"
+        },
+        {
+          "name": "Geoffrey Goodell",
+          "id": "2297671129"
+        }
+      ],
+      "year": 2024,
+      "venue": "arXiv.org",
+      "score": 0.7572610910328158,
+      "abstract": "As global governments intensify efforts to operationalize retail central bank digital currencies (CBDCs), the imperative for architectures that preserve user privacy has never been more pronounced. This paper advances an existing retail CBDC framework developed at University College London. Utilizing the capabilities of the Comet research framework, our proposed design allows users to retain direct custody of their assets without the need for intermediary service providers, all while preserving transactional anonymity. The study unveils a novel technique to expedite the retrieval of Proof of Provenance, significantly accelerating the verification of transaction legitimacy through the refinement of Merkle Trie structures. In parallel, we introduce a streamlined Digital Ledger designed to offer fast, immutable, and decentralized transaction validation within a permissioned ecosystem. The ultimate objective of this research is to benchmark the performance of the legacy system formulated by the original Comet research team against the newly devised system elucidated in this paper. Our endeavour is to establish a foundational design for a scalable national infrastructure proficient in seamlessly processing thousands of transactions in real-time, without compromising consumer privacy or data integrity.",
+      "corpusId": 269282942,
+      "url": "https://arxiv.org/pdf/2404.12821.pdf"
+    },
+    {
+      "title": "Blockchain for Finance: A Survey",
+      "authors": [
+        {
+          "name": "Hanjie Wu",
+          "id": "2287758165"
+        },
+        {
+          "name": "Q. Yao",
+          "id": "2121939596"
+        },
+        {
+          "name": "Zhenguang Liu",
+          "id": "2287811475"
+        },
+        {
+          "name": "Butian Huang",
+          "id": "2287879279"
+        },
+        {
+          "name": "Zhuang Yuan",
+          "id": "2349742382"
+        },
+        {
+          "name": "Huayun Tang",
+          "id": "2112701544"
+        },
+        {
+          "name": "Erwu Liu",
+          "id": "2287828834"
+        }
+      ],
+      "year": 2024,
+      "venue": "IET Blockchain",
+      "score": 0.692773109897423,
+      "abstract": "As an innovative technology for enhancing authenticity, security, and risk management, blockchain is being widely adopted in trade and finance systems. The unique capabilities of blockchain, such as immutability and transparency, enable new business models of distributed data storage, point‐to‐point transactions, and decentralized autonomous organizations. Here, the authors focus on blockchain‐based securities trading, in which blockchain technology plays a vital role in financial services as it ultimately lifts trust and frees the need for third‐party verification by using consensus‐based verification. The 12 most popular blockchain platforms are investigated and 6 platforms that are related to finance are elaborated on, seeking to provide a panorama of securities trading practices. Meanwhile, this survey provides a comprehensive summary of blockchain‐based securities trading applications. Numerous practical applications of blockchain‐based securities trading are gathered and they are categorized into four distinct categories. For each category, a typical example is introduced and how blockchain contributes to solving the key problems faced by FinTech companies and researchers explained. Finally, interesting observations are provided ranging from mainstream blockchain‐based financial institutions to security issues of decentralized finance applications, aiming to picture the current blockchain ecosystem in finance.",
+      "corpusId": 268032119,
+      "url": "https://api.semanticscholar.org/CorpusId:268032119"
+    },
+    {
+      "title": "So far, Central Bank Digital Currencies have failed",
+      "authors": [
+        {
+          "name": "K. Dowd",
+          "id": "2412260590"
+        }
+      ],
+      "year": 2024,
+      "venue": "Economic Affairs",
+      "score": 0.6744386530002439,
+      "abstract": "This article examines the experiences of Central Bank Digital Currencies (CBDCs) implemented so far. To date, CBDCs have been implemented in two countries (Finland and Ecuador) where they have failed and been abandoned. They have also been implemented in three Caribbean cases and in China and Nigeria; these five cases are ongoing. These experiences can be summarised as a series of abandoned experiments, embarrassing flops and monumental exercises in policymaker hubris, one of which has already produced a major disaster. In each case where data exist to assess the situation, the public demand for CBDCs has been extremely low. Experience suggests that CBDCs do not offer tangible benefits which existing alternatives cannot already deliver. One might speculate that future CBDCs will fail for similar reasons.",
+      "corpusId": 268210914,
+      "url": "https://api.semanticscholar.org/CorpusId:268210914"
+    },
+    {
+      "title": "Mitigating Risk in the Digital Age: An Analysis of Security Measures for Cashless Payments in Developing Countries",
+      "authors": [
+        {
+          "name": "M. Samonte",
+          "id": "9307946"
+        },
+        {
+          "name": "Mark Vincent O. Ibarreta",
+          "id": "2336313908"
+        },
+        {
+          "name": "Kirk Audi A. Ilagan",
+          "id": "2336318095"
+        },
+        {
+          "name": "Arvin Rico L. Justo",
+          "id": "2336320305"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Conference on Conceptual Structures",
+      "score": 0.4697159330328159,
+      "abstract": "",
+      "corpusId": 274896013,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10795842"
+    },
+    {
+      "title": "Monetary Policy Transmission Mechanisms in the Digital Economy: Federal Reserve Effectiveness in the Cryptocurrency Era",
+      "authors": [
+        {
+          "name": "Nurudeen Olalekan Bello",
+          "id": "2388093868"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Scientific Research and Modern Technology",
+      "score": 0.4679946456185127,
+      "abstract": "",
+      "corpusId": 282451906,
+      "url": "https://doi.org/10.38124/ijsrmt.v3i7.931"
+    }
+  ]
+}

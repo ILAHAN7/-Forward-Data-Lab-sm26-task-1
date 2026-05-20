@@ -1,0 +1,32 @@
+# ── Large raw data (regenerable via the collection scripts) ──
+# 59 MB of raw Asta API responses. Processed outputs under data/q1/
+# (queries.json, google_scholar/, results/, scores/) are kept.
+data/q1/asta/
+
+# ── Copyrighted reference PDFs (not redistributable) ──
+docs/references/
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+
+# ── Office / build temp files ──
+*.bak_*
+*.tmp
+.~lock.*#
+~$*
+
+# ── Report build artifacts ──
+reports/q3/*.jpg
+reports/**/_preview*.png
+
+# ── OS / editor ──
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ── Secrets ──
+.env
+*.key

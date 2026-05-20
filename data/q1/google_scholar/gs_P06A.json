@@ -1,0 +1,100 @@
+{
+  "query_id": "P06A",
+  "query": "Disparate Impact and Fairness Constraints in Machine Learning Credit Scoring",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T17:59:05Z",
+  "result_count": 10,
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Algorithmic fairness in financial decision-making: Detection and mitigation of bias in credit scoring applications",
+      "link": "https://scipublication.com/index.php/JACS/article/view/156",
+      "snippet": "… machine learning techniques, and fairness metrics, this study quantifies disparate impacts … Figure 5 visualizes the impact of different fairness constraints on protected group outcomes …",
+      "publication_info": "TK Trinh, D Zhang - Journal of Advanced Computing Systems, 2024 - scipublication.com",
+      "year": 2024,
+      "citation_count": 76
+    },
+    {
+      "rank": 2,
+      "title": "Fairness in credit scoring: Assessment, implementation and profit implications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0377221721005385",
+      "snippet": "… -making has spawned much research on fair machine learning (ML). Financial institutions … a range of credit-related decisions. Yet, the literature on fair ML in credit scoring is scarce. The …",
+      "publication_info": "N Kozodoi, J Jacob, S Lessmann - European Journal of Operational …, 2022 - Elsevier",
+      "year": 2022,
+      "citation_count": 281
+    },
+    {
+      "rank": 3,
+      "title": "The fairness of credit scoring models",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03888",
+      "snippet": "… In credit markets, disparate impact refers to lending practices … consists in using reinforcement learning methods with a … We impose no constraint on the function f: it can be parametric (…",
+      "publication_info": "C Hurlin, C Pérignon, S Saurin - Management Science, 2026 - pubsonline.informs.org",
+      "year": 2026,
+      "citation_count": 86
+    },
+    {
+      "rank": 4,
+      "title": "An Analytical Framework for Bias Mitigation in Credit Scoring Systems through Fairness-Constrained Neural Optimization",
+      "link": "https://ijaidsml.org/index.php/ijaidsml/article/view/205",
+      "snippet": "… dataset, we demonstrate that the proposed framework effectively reduces disparate impact across sensitive attributes such as race and gender while maintaining predictive performance…",
+      "publication_info": "SKS Nagaraj - … Intelligence, Data Science, and Machine Learning, 2025 - ijaidsml.org",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 5,
+      "title": "Enhancing fairness in credit assessment: Mitigation strategies and implementation",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10766588/",
+      "snippet": "… Bias detection techniques, such as disparate impact analysis… use of Machine Learning (ML) was considered to train a credit … , this paper acknowledges limitations in the scope of fairness …",
+      "publication_info": "M Kisten, M Khosa - IEEE Access, 2024 - ieeexplore.ieee.org",
+      "year": 2024,
+      "citation_count": 7
+    },
+    {
+      "rank": 6,
+      "title": "Fairness-Accuracy Trade-offs in AI Credit Scoring: A Comparative Evaluation of Reweighting and Resampling Strategies Under Multiple Fairness Constraints",
+      "link": "https://ciajournal.com/index.php/jcia/article/view/69",
+      "snippet": "… reliance on machine learning algorithms for credit risk assessment has … evaluation protocols on financial credit data. It quantifies the differential impact of three fairness constraints on …",
+      "publication_info": "Z Wang, J Lai - Journal of Computing Innovations and Applications, 2026 - ciajournal.com",
+      "year": 2026,
+      "citation_count": 2
+    },
+    {
+      "rank": 7,
+      "title": "Balancing Fairness, Explainability, and Performance in AI-Based Credit Scoring: A Systematic Literature Review",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5784362",
+      "snippet": "… , mainly due to their adverse impact upon funda45 mental human … share 460 similarities, deep learning demonstrates greater … they concluded that fairness constraints reduce accuracy …",
+      "publication_info": "R Bahlool, N Hewahi, W Elmedany - … in AI-Based Credit Scoring: A … - papers.ssrn.com",
+      "year": null,
+      "citation_count": 1
+    },
+    {
+      "rank": 8,
+      "title": "Fair models in credit: Intersectional discrimination and the amplification of inequity",
+      "link": "https://link.springer.com/article/10.1007/s10479-026-07086-0",
+      "snippet": "… sources and machine learning technology in credit modeling … credit scoring models typically include previous credit history … Lastly, we highlight a major limitation to anti-discrimination …",
+      "publication_info": "S Kim, S Lessmann, G Andreeva… - Annals of Operations …, 2026 - Springer",
+      "year": 2026,
+      "citation_count": 23
+    },
+    {
+      "rank": 9,
+      "title": "Algorithmic decision making methods for fair credit scoring",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10151887/",
+      "snippet": "… process using machine learning algorithms. Since the … the disparate impact (described in subsection Bias assessment … literature review) that all fairness constraints cannot be satisfied at …",
+      "publication_info": "D Moldovan - IEEE access, 2023 - ieeexplore.ieee.org",
+      "year": 2023,
+      "citation_count": 31
+    },
+    {
+      "rank": 10,
+      "title": "An experimental study on fairness-aware machine learning for credit scoring problem",
+      "link": "https://arxiv.org/abs/2412.20298",
+      "snippet": "… for the social impact of lending decisions with credit scoring [12]. Without constraints, a scoring model … Similarly, the disparate impact remover adjusts feature values to enhance group …",
+      "publication_info": "HGT Thu, TV Doan, TL Quy - arXiv preprint arXiv:2412.20298, 2024 - arxiv.org",
+      "year": 2024,
+      "citation_count": 5
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "query_id": "P24A",
+  "query": "Real-Time Gross Settlement Systems and Systemic Liquidity Risk",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:08:12Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Real-Time Gross Settlement Systems and Systemic Liquidity Risk",
+    "year": 2023,
+    "abstract": "We model intraday liquidity dynamics in RTGS payment systems using agent-based simulation, identifying conditions under which gridlock cascades propagate across settlement participants.",
+    "domain": [
+      "RTGS",
+      "payment systems",
+      "systemic risk",
+      "liquidity"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Estimating the contribution of liquidity sources in the Colombian large-value real-time gross settlement payment system: A preliminary approach",
+      "link": "https://www.ingentaconnect.com/content/hsp/jpss/2012/00000006/00000002/art00006",
+      "snippet": "… settlement of transactions and to mitigate liquidity risk in the real-time gross settlement system… macroprudential policies to mitigate liquidity risk and systemic risk. The authors believe this …",
+      "publication_info": "J Bernal, F Cepeda, F Ortega - … of Payments Strategy & Systems, 2012 - ingentaconnect.com",
+      "year": 2012,
+      "citation_count": 23
+    },
+    {
+      "rank": 2,
+      "title": "Developments in the Short-term Money Market—Settlement Risk and the Real Time Gross Settlement (RTGS) System",
+      "link": "https://www.nli-research.co.jp/files/topics/51172_ext_18_en_0.pdf",
+      "snippet": "… of the real time gross settlement (RTGS) system in January 2001, one of the most critical issues is the reduction of settlement risk. … The risk of such a chain reaction is called systemic risk. …",
+      "publication_info": "T Ueda - NLI Research Institute Research Paper, 2001 - nli-research.co.jp",
+      "year": 2001,
+      "citation_count": 1
+    },
+    {
+      "rank": 3,
+      "title": "Liquidity saving in real-time gross settlement systems: An overview",
+      "link": "https://www.ingentaconnect.com/content/hsp/jpss/2010/00000004/00000003/art00006",
+      "snippet": "… During the past two decades, Large Value Payment Systems … settled on a Real-Time Gross Settlement (RTGS) basis. Such systems eliminate inter-bank credit risk in the payment system …",
+      "publication_info": "B Norman - Journal of Payments Strategy & Systems, 2010 - ingentaconnect.com",
+      "year": 2010,
+      "citation_count": 45
+    },
+    {
+      "rank": 4,
+      "title": "The evolution of real-time gross settlement",
+      "link": "https://documents1.worldbank.org/curated/en/736521468331852042/pdf/490020WP0TheEv10Box338937B01PUBLIC1.pdf",
+      "snippet": "… , another type of systemic credit and liquidity risk, namely, that … liquidity and end-of-day (balance sheet) liquidity; and between liquidity risks arising in a payment system and funding risks …",
+      "publication_info": "P Allsopp, B Summers, J Veale - The World Bank …, 2009 - documents1.worldbank.org",
+      "year": 2009,
+      "citation_count": 31
+    },
+    {
+      "rank": 5,
+      "title": "Real-Time Gross Settlement Systems: a Dual Approach",
+      "link": "https://www.researchgate.net/profile/Rodrigo-Penaloza/publication/316427716_Real-time_gross_settlement_systems_a_dual_approach/links/58fd2dd4aca2723d79dbd70d/Real-time-gross-settlement-systems-a-dual-approach.pdf",
+      "snippet": "… The main risks in payment systems are: credit risk and liquidity risk. Credit … minimize systemic liquidity. In chapter 2 we present a formal description of real-time gross settlement systems. …",
+      "publication_info": "RA de Souza Peñaloza - 2002 - researchgate.net",
+      "year": 2002,
+      "citation_count": null
+    },
+    {
+      "rank": 6,
+      "title": "Optimizing liquidity usage and settlement speed in payment systems",
+      "link": "https://www.econstor.eu/handle/10419/211847",
+      "snippet": "… on systemic risk that … settlement and real-time gross settlement systems. However, efficiency comparisons between different implementations of net or real-time gross settlement systems …",
+      "publication_info": "H Leinonen, K Soramäki - 1999 - econstor.eu",
+      "year": 1999,
+      "citation_count": 108
+    },
+    {
+      "rank": 7,
+      "title": "Anomaly detection in real-time gross settlement systems",
+      "link": "https://www.academia.edu/download/98570715/63330.pdf",
+      "snippet": "… system-level anomalies in a real-time gross settlement system by reconstructing a set of liquidity … the APS resilience to systemic risk, focusing on its vulnerability in case of failures in the …",
+      "publication_info": "R Heijmans, R Triepels - … on Enterprise Information Systems, 2017 - academia.edu",
+      "year": 2017,
+      "citation_count": 17
+    },
+    {
+      "rank": 8,
+      "title": "A Risk Analysis of Prominent Risks Associated with Real Time Gross Settlement System of Fund Transfer in Zambia",
+      "link": "https://jcrm.psgim.ac.in/index.php/jcrm/article/view/449",
+      "snippet": "… services are to increase safety and efficiency in systemically important payment systems, … the following types of risks; credit risk, strategic risk, liquidity risk, country risk and reputational …",
+      "publication_info": "C Mudenda - Journal of Contemporary Research in Management …, 2016 - jcrm.psgim.ac.in",
+      "year": 2016,
+      "citation_count": 1
+    },
+    {
+      "rank": 9,
+      "title": "Real-Time Gross Settlement and hybrid payment systems: a comparison",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=724042",
+      "snippet": "… This paper considers the issue of payment system design. … We present the model for the benchmark payment system design, Real-Time Gross Settlement (RTGS). There are n, risk-…",
+      "publication_info": "M Willison - Available at SSRN 724042, 2005 - papers.ssrn.com",
+      "year": 2005,
+      "citation_count": 52
+    },
+    {
+      "rank": 10,
+      "title": "Intra-day liquidity and real time gross settlement-18 months on",
+      "link": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/bulletins/1999/1999dec62-4Hampton.pdf",
+      "snippet": "… Zealand banking system shifted to a system of real-time gross settlement (RTGS) of wholesale financial market transactions3. Under this system, each transaction is settled individually …",
+      "publication_info": "T Hampton - Reserve Bank of New Zealand Bulletin, 1999 - rbnz.govt.nz",
+      "year": 1999,
+      "citation_count": 5
+    }
+  ]
+}

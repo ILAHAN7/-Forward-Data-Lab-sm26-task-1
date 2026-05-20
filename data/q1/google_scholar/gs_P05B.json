@@ -1,0 +1,100 @@
+{
+  "query_id": "P05B",
+  "query": "stablecoins systemic risk DeFi",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T17:58:56Z",
+  "result_count": 10,
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Mapping systemic tail risk in crypto markets: Defi, stablecoins, and infrastructure tokens",
+      "link": "https://www.mdpi.com/1911-8074/18/6/329",
+      "snippet": "… To explore this core issue, we investigate the following sub-questions: (i) How are systemic risks distributed across major crypto-asset groups, such as DeFi tokens, stablecoins, and …",
+      "publication_info": "N Naifar - Journal of Risk and Financial Management, 2025 - mdpi.com",
+      "year": 2025,
+      "citation_count": 11
+    },
+    {
+      "rank": 2,
+      "title": "Real-World Asset Tokenization, DeFi, and Systemic Risk: Lessons from Stablecoins and the First Brands Collapse",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6378221",
+      "snippet": "This paper examines how the rapid growth of real-world asset (RWA) tokenization interacts with decentralized finance (DeFi) to create new channels of systemic risk. By early 2026, …",
+      "publication_info": "D Krause - DeFi, and Systemic Risk: Lessons from Stablecoins …, 2026 - papers.ssrn.com",
+      "year": 2026,
+      "citation_count": null
+    },
+    {
+      "rank": 3,
+      "title": "Systemic Risk in Decentralized Finance: Stablecoins, Runs, and Shock Transmission",
+      "link": "https://ijnrefm.com/wp-content/uploads/ijnrefm-vol-2-issue1-114.pdf",
+      "snippet": "… aim of the article is to examine how the stablecoins, dynamics of running-like … systemic risk in DeFi ecosystems. The analysis is aimed at becoming familiar with the role of stablecoins in …",
+      "publication_info": "OA Malysheva - ijnrefm.com",
+      "year": null,
+      "citation_count": 29
+    },
+    {
+      "rank": 4,
+      "title": "Risks of Stablecoins in the DeFi Ecosystem",
+      "link": "https://books.google.com/books?hl=en&lr=&id=QqTEEQAAQBAJ&oi=fnd&pg=PA113&dq=stablecoins+systemic+risk+DeFi&ots=G-kNJz_GAT&sig=ADiFRtYkKA0DzNvhp43cwwrY2fc",
+      "snippet": "… In summary, research reveals that systemic risk in stablecoins arises through multiple interdependent layers. At the reserve level, the composition and liquidity of backing assets …",
+      "publication_info": "H Wang - Proceedings of the 5th International Conference on …, 2026 - books.google.com",
+      "year": 2026,
+      "citation_count": 1
+    },
+    {
+      "rank": 5,
+      "title": "Wrapped Stablecoins and the DeFi Systemic Risk",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6223420",
+      "snippet": "… Taken together, we highlight that while deep liquidity and low systemic risk are both desirable features of stablecoin markets, they are fundamentally distinct and respond differently to …",
+      "publication_info": "P Koh, K Pukthuanthong - Available at SSRN 6223420, 2026 - papers.ssrn.com",
+      "year": 2026,
+      "citation_count": null
+    },
+    {
+      "rank": 6,
+      "title": "Stablecoins and the DeFi-TradFi Entanglement: Systemic Risk and Connection Conditions",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5989958",
+      "snippet": "… II by explaining how the DeFi–TradFi composite financial system functions in normal times and how it sustains its stability. While the explanation focuses on stablecoins, this analysis …",
+      "publication_info": "T Kobori, J Angel - Available at SSRN 5989958, 2025 - papers.ssrn.com",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 7,
+      "title": "Stablecoins: Business Model, Systemic Risks and Policy Perspectives",
+      "link": "https://www.seacen.org/publications/RePEc/702001-100493-PDF.pdf",
+      "snippet": "… in the DeFi ecosystem by serving as the medium of exchange in a wide range of activities (BIS, 2023). First, they provide liquidity to the DeFi … Third, stablecoins are widely used on DeFi …",
+      "publication_info": "S Ramaswamy - 2024 - seacen.org",
+      "year": 2024,
+      "citation_count": 4
+    },
+    {
+      "rank": 8,
+      "title": "Stablecoins: The Cornerstone of DeFi",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394271801.ch10",
+      "snippet": "… , stablecoins have the potential to become a prominent tool in reshaping the financial industry. In conclusion, stablecoins in DeFi … In the future, stablecoins are expected to play a crucial …",
+      "publication_info": "Reepu, P Kumar, S Taneja… - Decentralized Finance and …, 2025 - Wiley Online Library",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 9,
+      "title": "Mapping Microscopic and Systemic Risks in TradFi and DeFi: a literature review",
+      "link": "https://arxiv.org/abs/2508.12007",
+      "snippet": "… of stablecoins and other crypto assets by traditional financial institutions – the potential for systemic risk to spill over into the broader financial system … instability in DeFi markets could …",
+      "publication_info": "S Aufiero, S Bartolucci, F Caccioli, P Vivo - arXiv preprint arXiv …, 2025 - arxiv.org",
+      "year": 2025,
+      "citation_count": 13
+    },
+    {
+      "rank": 10,
+      "title": "Wrapped Stablecoins and Systemic Risk in DeFi",
+      "link": "https://www.kuntara.net/uploads/1/1/4/9/114945401/wrapped_stablecoin_afa_submission.pdf",
+      "snippet": "… Taken together, we highlight that while deep liquidity and low systemic risk are both desirable features of stablecoin markets, they are fundamentally distinct and respond differently to …",
+      "publication_info": "P Koh, K Pukthuanthong - kuntara.net",
+      "year": null,
+      "citation_count": null
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "query_id": "P13A",
+  "query": "Transformer Architectures for High-Frequency Stock Price Prediction Using Limit Order Book Data",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:06:47Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Transformer Architectures for High-Frequency Stock Price Prediction Using Limit Order Book Data",
+    "year": 2024,
+    "abstract": "We apply Transformer and Temporal Fusion Transformer models to predict mid-price movements from limit order book snapshots at millisecond resolution, achieving superior performance over LSTM baselines.",
+    "domain": [
+      "algorithmic trading",
+      "Transformer",
+      "limit order book",
+      "price prediction"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Tlob: A novel transformer model with dual attention for price trend prediction with limit order book data",
+      "link": "https://arxiv.org/abs/2502.15757",
+      "snippet": "… SPTP, particularly utilizing Limit Order Book (LOB) data, lies within highfrequency trading, where … , a Transformerbased architecture specifically designed for Limit Order Book data. Each …",
+      "publication_info": "L Berti, G Kasneci - arXiv preprint arXiv:2502.15757, 2025 - arxiv.org",
+      "year": 2025,
+      "citation_count": 4
+    },
+    {
+      "rank": 2,
+      "title": "Vit-lob: Efficient vision transformer for stockprice trend prediction using limit order books",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10547868/",
+      "snippet": "… Predicting stock price trends in High-frequency … Transformer (ViT) [22] architecture from the field of computer vision to the task of stock price trend prediction using Limit Order Book data, …",
+      "publication_info": "Z Liu, CW Sham, L Ma, C Fu - 2024 10th International …, 2024 - ieeexplore.ieee.org",
+      "year": 2024,
+      "citation_count": 9
+    },
+    {
+      "rank": 3,
+      "title": "Deep Learning Architectures for High-Frequency Stock Price Prediction: An Empirical Evaluation",
+      "link": "https://al-kindipublishers.org/index.php/jefas/article/view/11044",
+      "snippet": "… of multiple deep learning architectures including Long Short-… ), and Transformers for high-frequency stock price prediction. The … in predicting mid-price movements from limit order …",
+      "publication_info": "RM Zakaria, SMS Arefin, SA Al Shiam… - Journal of …, 2025 - al-kindipublishers.org",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 4,
+      "title": "Predicting high-frequency stock movement with differential transformer neural network",
+      "link": "https://www.mdpi.com/2079-9292/12/13/2943",
+      "snippet": "… from Limit Order Books (LOBs) is a key point in high-frequency … Stock market forecasting has become an interdisciplinary … is based on the transformer architecture but leverages linguistic …",
+      "publication_info": "S Lai, M Wang, S Zhao, GR Arce - Electronics, 2023 - mdpi.com",
+      "year": 2023,
+      "citation_count": 17
+    },
+    {
+      "rank": 5,
+      "title": "Stock price prediction using a frequency decomposition based GRU transformer neural network",
+      "link": "https://www.mdpi.com/2076-3417/13/1/222",
+      "snippet": "… FDG-transformer model to analyze Limit Order Book data and … into one trend component of high frequency data (price trend) … This architecture does a well trade-off between capturing …",
+      "publication_info": "C Li, G Qian - Applied Sciences, 2022 - mdpi.com",
+      "year": 2022,
+      "citation_count": 90
+    },
+    {
+      "rank": 6,
+      "title": "Integrating CNNs and Transformers for Mid-price Prediction in High-Frequency Trading",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-96-6310-1_5",
+      "snippet": "… with Transformer to create a CNN-Transformer architecture, the … Considering the nature of limit order book data, we typically use … And in the first two layers, using small kernels to extract …",
+      "publication_info": "Y Tang, S Ding, D Zhang - BenchCouncil International Symposium on …, 2024 - Springer",
+      "year": 2024,
+      "citation_count": null
+    },
+    {
+      "rank": 7,
+      "title": "An Efficient deep learning model to Predict Stock Price Movement Based on Limit Order Book",
+      "link": "https://arxiv.org/abs/2505.22678",
+      "snippet": "… In high-frequency trading (HFT), leveraging limit order books … novel approach in which leverages the Siamese architecture … the use of transformer structures for price forecasting, but the …",
+      "publication_info": "J Yang, R Fang, M Zhang, J Zhou - arXiv preprint arXiv:2505.22678, 2025 - arxiv.org",
+      "year": 2025,
+      "citation_count": 1
+    },
+    {
+      "rank": 8,
+      "title": "Bitcoin high frequency trading with Transformers",
+      "link": "https://dione.lib.unipi.gr/xmlui/handle/unipi/17815",
+      "snippet": "… the patterns and dynamics within limit order books, we can … To address this issue, we will simplify the model architecture by … of transformer models for predicting Bitcoin price movements…",
+      "publication_info": "A Marinis - 2025 - dione.lib.unipi.gr",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 9,
+      "title": "mWDN-Transformer: Utilizing cyclical patterns for short-term forecasting of limit order book in china markets",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3670105.3670134",
+      "snippet": "… -term forecasting of Limit Order Book (LOB) in highfrequency … and Transformer-based architectures for accurate short-term … on limit order book market price prediction techniques and …",
+      "publication_info": "Y Wu, S Wang, X Fu - Proceedings of the 2024 5th International …, 2024 - dl.acm.org",
+      "year": 2024,
+      "citation_count": 2
+    },
+    {
+      "rank": 10,
+      "title": "Feature Extraction with Time Series Foundation Models for High-Frequency Limit Order Book",
+      "link": "https://upcommons.upc.edu/entities/publication/cba50abd-3113-47c9-8acf-53cf48f830c5",
+      "snippet": "… High-Frequency Trading (HFT). These challenges complicate the task of building effective financial price trend prediction … with complex transformer-based architectures while using over …",
+      "publication_info": "J Solé Casalé - 2026 - upcommons.upc.edu",
+      "year": 2026,
+      "citation_count": null
+    }
+  ]
+}

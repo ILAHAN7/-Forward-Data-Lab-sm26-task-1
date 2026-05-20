@@ -1,0 +1,100 @@
+{
+  "query_id": "P05A",
+  "query": "Stablecoin Design Tradeoffs: Collateralization, Algorithmic Stability, and Systemic Risk",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T17:58:53Z",
+  "result_count": 10,
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Systemic Risk in Decentralized Finance: Stablecoins, Runs, and Shock Transmission",
+      "link": "https://ijnrefm.com/wp-content/uploads/ijnrefm-vol-2-issue1-114.pdf",
+      "snippet": "… Algorithmic, or semi-collateralised stablecoins, on the other … Third, algorithmic or semi-collateralized stablecoins are … security measures have significant design trade-offs. As an example…",
+      "publication_info": "OA Malysheva - ijnrefm.com",
+      "year": null,
+      "citation_count": 29
+    },
+    {
+      "rank": 2,
+      "title": "Stablecoin Architecture and Price Stability: A Comprehensive Review of Peg Mechanisms and Collateral Frameworks in Digital Finance",
+      "link": "https://sarcouncil.com/2025/08/stablecoin-architecture-and-price-stability-a-comprehensive-review-of-peg-mechanisms-and-collateral-frameworks-in-digital-finance",
+      "snippet": "… stablecoins like USDC, traditional currency reserves are maintained on a one-for-one basis. Algorithmic stablecoins … systems—offer different trade-offs among decentralization, capital …",
+      "publication_info": "NR Dendi - Journal Of Applied Sciences, 2025 - sarcouncil.com",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 3,
+      "title": "Built to fail: The inherent fragility of algorithmic stablecoins",
+      "link": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/wflron11&section=9",
+      "snippet": "… backed by an algorithmic stablecoin with no real collateral or … of sustainable price stability, 110 algorithmic stablecoins have … Their systemic risk considerations harken the Treasury-led …",
+      "publication_info": "R Clements - Wake Forest L. Rev. Online, 2021 - HeinOnline",
+      "year": 2021,
+      "citation_count": 101
+    },
+    {
+      "rank": 4,
+      "title": "Risk Management Frameworks for Stablecoin Transactions",
+      "link": "https://www.researchgate.net/profile/Charles-James-16/publication/400662731_Risk_Management_Frameworks_for_Stablecoin_Transactions/links/698c0bd95d60ab48356c947d/Risk-Management-Frameworks-for-Stablecoin-Transactions.pdf",
+      "snippet": "… weigh trade-offs between decentralization principles and risk … risk modeling indicates that collateral-backed stablecoins … Systemic risk evaluation indicates that stablecoin ecosystems …",
+      "publication_info": "AJ Whitman, ML Brooks, ZD Price, VT James, C James - researchgate.net",
+      "year": null,
+      "citation_count": null
+    },
+    {
+      "rank": 5,
+      "title": "Financial Stability and Systemic Risks of Stablecoins",
+      "link": "https://www.igi-global.com/chapter/financial-stability-and-systemic-risks-of-stablecoins/400526",
+      "snippet": "… The TerraUSD (UST) algorithmic stablecoin contributed significantly to that growth in late … a conservative, fully- collateralized stablecoin can be only as stable as the traditional banking …",
+      "publication_info": "HK Seegolam, L Joseph - Stablecoins and the Future of Financial …, 2026 - igi-global.com",
+      "year": 2026,
+      "citation_count": 1
+    },
+    {
+      "rank": 6,
+      "title": "On the economic design of stablecoins",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3899499",
+      "snippet": "… -collateralized to account for the lack of an intermediary. While these … the main trade-offs different choices entail. Ultimately, all … these stablecoins typically rely on algorithmic stabilization …",
+      "publication_info": "C Catalini, A de Gortari - Available at SSRN 3899499, 2021 - papers.ssrn.com",
+      "year": 2021,
+      "citation_count": 63
+    },
+    {
+      "rank": 7,
+      "title": "Decentralized stablecoins and collateral risk",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4420816",
+      "snippet": "… post collateral, which exposes her to potential collateral losses… trade-off between decentralization and arbitrage design in … as Compound, which employ algorithms to automatically set …",
+      "publication_info": "R Kozhan, G Viswanath-Natraj - WBS Finance Group research …, 2021 - papers.ssrn.com",
+      "year": 2021,
+      "citation_count": 85
+    },
+    {
+      "rank": 8,
+      "title": "A Risk Mitigation Model of Monetary Ecosystem with Stablecoins",
+      "link": "https://arxiv.org/abs/2510.10469",
+      "snippet": "… collateral: The reserves supporting fiat currency stablecoins may not … • Systemic risk: If a single stablecoin is widely used on … end-users to those trade-offs: Preserving commercial bank …",
+      "publication_info": "H Wen, RSM Lau - arXiv preprint arXiv:2510.10469, 2025 - arxiv.org",
+      "year": 2025,
+      "citation_count": 2
+    },
+    {
+      "rank": 9,
+      "title": "Intelligent design: stablecoins (in) stability and collateral during market turbulence",
+      "link": "https://link.springer.com/article/10.1186/s40854-023-00492-4",
+      "snippet": "… resultant volatility in multiple important stablecoins, demonstrated the fragility of algorithmic stablecoins and the importance of credible collateral for stablecoins linked to fiat currencies. …",
+      "publication_info": "R De Blasis, L Galati, A Webb, RI Webb - Financial Innovation, 2023 - Springer",
+      "year": 2023,
+      "citation_count": 53
+    },
+    {
+      "rank": 10,
+      "title": "Algorithmic stablecoins: Mechanisms, risks, and lessons from the fall of TerraUSD",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5092827",
+      "snippet": "… , inadequate risk management, and systemic risks to broader … mechanics, risks, and implications of algorithmic stablecoins, … crypto-collateralized stablecoins, algorithmic designs do …",
+      "publication_info": "D Krause - Risks, and Lessons from the Fall of TerraUSD (January …, 2025 - papers.ssrn.com",
+      "year": 2025,
+      "citation_count": 9
+    }
+  ]
+}

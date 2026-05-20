@@ -1,0 +1,100 @@
+{
+  "query_id": "P04B",
+  "query": "oracle problem DeFi smart contracts",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T17:58:49Z",
+  "result_count": 10,
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Safeguarding defi smart contracts against oracle deviations",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3597503.3639225",
+      "snippet": "… We investigate how oracle deviation would affect the behavior of popular DeFi contracts and whether the … algorithm that is tailored to DeFi smart contracts to address the above issues. …",
+      "publication_info": "X Deng, SM Beillahi, C Minwalla, H Du… - Proceedings of the …, 2024 - dl.acm.org",
+      "year": 2024,
+      "citation_count": 27
+    },
+    {
+      "rank": 2,
+      "title": "The blockchain oracle problem in decentralized finance—a multivocal approach",
+      "link": "https://www.mdpi.com/2076-3417/11/16/7572",
+      "snippet": "… the oracle problem in DeFi and … DeFi hacks were possible by exploiting oracle-related vulnerabilities [6,7]. While developers are familiar with smart contract vulnerabilities, price oracle …",
+      "publication_info": "G Caldarelli, J Ellul - Applied Sciences, 2021 - mdpi.com",
+      "year": 2021,
+      "citation_count": 239
+    },
+    {
+      "rank": 3,
+      "title": "A first look into defi oracles",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9566195/",
+      "snippet": "… these issues, presenting the first comprehensive study on DeFi oracles. First, we explain oracle … by acting as a decentralized oracle network bridging on-chain smart contracts with the off-…",
+      "publication_info": "B Liu, P Szalachowski, J Zhou - 2021 IEEE international …, 2021 - ieeexplore.ieee.org",
+      "year": 2021,
+      "citation_count": 149
+    },
+    {
+      "rank": 4,
+      "title": "Tackle the Oracle Problem: Enhancing Trust and Functionality for Smart Contracts Through Blockchain Oracle",
+      "link": "https://ro.uow.edu.au/ndownloader/files/50575734/1",
+      "snippet": "… dependability of smart contract executions in the DeFi … question seeks to propose a design model for oracle networks that can adapt to future developments in smart contracts and DeFi. …",
+      "publication_info": "NM Vu - 2024 - ro.uow.edu.au",
+      "year": 2024,
+      "citation_count": 1
+    },
+    {
+      "rank": 5,
+      "title": "Introduction to smart contracts and DeFi",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-23340-1_2",
+      "snippet": "… of smart contracts and decentralized finance. It brings forward the technical operational process of smart contracts … The famous oracle problem finds its place before the chapter finishes. …",
+      "publication_info": "G Kaur, A Habibi Lashkari, I Sharafaldin… - … , Strategies, and Trends, 2023 - Springer",
+      "year": 2023,
+      "citation_count": 8
+    },
+    {
+      "rank": 6,
+      "title": "Smart Contracts and the'Oracle Problem'in the Context of InsurTech",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390271",
+      "snippet": "… Second, given that smart contracts by definition can only control and release cryptocurrencies, the insured must be willing to accept payouts in the form of cryptocurrencies. This may …",
+      "publication_info": "E Mik - European Insurance Contract Law: The Promises and …, 2023 - papers.ssrn.com",
+      "year": 2023,
+      "citation_count": 5
+    },
+    {
+      "rank": 7,
+      "title": "Smart contracts and the “Oracle Problem” in the context of InsurTech",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-96496-1_12",
+      "snippet": "… Second, as smart contracts by definition can only control and release cryptocurrencies, the insured must be willing to accept payouts in the form of cryptocurrencies. This may present a …",
+      "publication_info": "E Mik - European Insurance Law within the Digital Age, 2025 - Springer",
+      "year": 2025,
+      "citation_count": 2
+    },
+    {
+      "rank": 8,
+      "title": "Your smart contracts are not secure: Investigating arbitrageurs and oracle manipulators in ethereum",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3474374.3486916",
+      "snippet": "… Through the deployment of and interaction with smart contracts, DeFi replicates traditional financial … This research addresses this issue by empowering smart contract engineers with an …",
+      "publication_info": "K Tjiam, R Wang, H Chen, K Liang - … of the 3rd workshop on cyber …, 2021 - dl.acm.org",
+      "year": 2021,
+      "citation_count": 33
+    },
+    {
+      "rank": 9,
+      "title": "From trust to truth: Advancements in mitigating the Blockchain Oracle problem",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1084804523000917",
+      "snippet": "… Smart contracts gave a new dimension to Blockchain applications. Subsequently, … provided by smart contracts. Oracles provide a mechanism to input data to the smart contracts for …",
+      "publication_info": "A Hassan, I Makhdoom, W Iqbal, A Ahmad… - Journal of Network and …, 2023 - Elsevier",
+      "year": 2023,
+      "citation_count": 72
+    },
+    {
+      "rank": 10,
+      "title": "Understanding the blockchain oracle problem: A call for action",
+      "link": "https://www.mdpi.com/2078-2489/11/11/509",
+      "snippet": "… comes from the cryptographer Nick Szabo [2], who provided the following definition: “a set … smart contract applications are outlined, showing how and to what extent the oracle problem …",
+      "publication_info": "G Caldarelli - Information, 2020 - mdpi.com",
+      "year": 2020,
+      "citation_count": 297
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "query_id": "P14A",
+  "query": "Deep Reinforcement Learning for Portfolio Optimization Under Transaction Costs",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:06:54Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Deep Reinforcement Learning for Portfolio Optimization Under Transaction Costs",
+    "year": 2023,
+    "abstract": "We formulate multi-asset portfolio optimization as a Markov Decision Process and train a proximal policy optimization agent that learns to trade while minimizing transaction costs and maximizing risk-adjusted returns.",
+    "domain": [
+      "reinforcement learning",
+      "portfolio optimization",
+      "algorithmic trading"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Cost-sensitive portfolio selection via deep reinforcement learning",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9031418/",
+      "snippet": "… of portfolio selection, instead of supervised learning, we adopt reinforcement learning to optimize … To solve this, we further constrain the transaction cost proportion ct. Let vt:¼1Àct be the …",
+      "publication_info": "Y Zhang, P Zhao, Q Wu, B Li, J Huang… - IEEE Transactions on …, 2020 - ieeexplore.ieee.org",
+      "year": 2020,
+      "citation_count": 177
+    },
+    {
+      "rank": 2,
+      "title": "Deep reinforcement learning for portfolio management of markets with a dynamic number of assets",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0957417420307776",
+      "snippet": "… This work proposes a novel portfolio management method using deep reinforcement learning … Further, transaction cost minimization is considered when formulating the problem. For this …",
+      "publication_info": "C Betancourt, WH Chen - Expert Systems with Applications, 2021 - Elsevier",
+      "year": 2021,
+      "citation_count": 127
+    },
+    {
+      "rank": 3,
+      "title": "Reinforcement learning in finance: QTRAN for portfolio optimization",
+      "link": "https://ashpress.org/index.php/jcts/article/view/144",
+      "snippet": "… of transaction costs in the strategy optimization … trading efficiency. Finally, this paper also conducted a feasibility simulation experiment of the reinforcement learning portfolio optimization …",
+      "publication_info": "Z Xu, Q Bao, Y Wang, H Feng, J Du… - Journal of Computer …, 2025 - ashpress.org",
+      "year": 2025,
+      "citation_count": 18
+    },
+    {
+      "rank": 4,
+      "title": "Deep reinforcement learning for portfolio selection",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1044028324000887",
+      "snippet": "… a twin-delayed deep deterministic policy gradient (… transaction cost-sensitive portfolio that combines advanced exploration strategies and dynamic policy updates. The proposed portfolio …",
+      "publication_info": "Y Jiang, J Olmo, M Atwi - Global Finance Journal, 2024 - Elsevier",
+      "year": 2024,
+      "citation_count": 53
+    },
+    {
+      "rank": 5,
+      "title": "Deep reinforcement learning for stock portfolio optimization",
+      "link": "https://arxiv.org/abs/2012.06325",
+      "snippet": "… we can apply Reinforcement Learning for the task … transaction cost and risk factor into the state as well. On top of that, we will apply various state-of-the-art Deep Reinforcement Learning …",
+      "publication_info": "LT Hieu - arXiv preprint arXiv:2012.06325, 2020 - arxiv.org",
+      "year": 2012,
+      "citation_count": 19
+    },
+    {
+      "rank": 6,
+      "title": "Financial portfolio optimization with online deep reinforcement learning and restricted stacked autoencoder—DeepBreath",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0957417420302803",
+      "snippet": "… the risk, is known as portfolio management. In this paper, a portfolio management framework is developed based on a deep reinforcement learning framework called DeepBreath. The …",
+      "publication_info": "F Soleymani, E Paquet - Expert Systems with Applications, 2020 - Elsevier",
+      "year": 2020,
+      "citation_count": 212
+    },
+    {
+      "rank": 7,
+      "title": "Deep reinforcement learning for optimizing finance portfolio management",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8701368/",
+      "snippet": "… Besides, transaction overheads, such as transaction fees and tax, should be considered when computing the risk-adjusted reward function to obtain total effective rewards. …",
+      "publication_info": "YJ Hu, SJ Lin - 2019 amity international conference on artificial …, 2019 - ieeexplore.ieee.org",
+      "year": 2019,
+      "citation_count": 129
+    },
+    {
+      "rank": 8,
+      "title": "A deep reinforcement learning framework for the financial portfolio management problem",
+      "link": "https://arxiv.org/abs/1706.10059",
+      "snippet": "… Reinforcement Learning framework to provide a deep machine learning solution to the portfolio … For example, it is difficult for a prediction-based network to consider transaction cost as a …",
+      "publication_info": "Z Jiang, D Xu, J Liang - arXiv preprint arXiv:1706.10059, 2017 - arxiv.org",
+      "year": 2017,
+      "citation_count": 782
+    },
+    {
+      "rank": 9,
+      "title": "Advancing investment frontiers: Industry-grade deep reinforcement learning for portfolio optimization",
+      "link": "https://arxiv.org/abs/2403.07916",
+      "snippet": "… algorithms, recognized for their effectiveness in literature under conditions of low or negligible transaction costs, but also on a comprehensive consideration of real-world financial factors…",
+      "publication_info": "P Ndikum, S Ndikum - arXiv preprint arXiv:2403.07916, 2024 - arxiv.org",
+      "year": 2024,
+      "citation_count": 21
+    },
+    {
+      "rank": 10,
+      "title": "Deep Reinforcement Learning for Dynamic Portfolio Optimization in Financial Markets",
+      "link": "https://www.isipress.org/index.php/IJAIR/article/view/81",
+      "snippet": "… reinforcement learning focuses on the cumulative outcome of a series of actions. In a portfolio … is actively managing the trade-offs between transaction costs, risk exposure, and long-term …",
+      "publication_info": "HJ Sterling, MV Thorne - International Journal of Artificial Intelligence …, 2026 - isipress.org",
+      "year": 2026,
+      "citation_count": null
+    }
+  ]
+}

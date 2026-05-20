@@ -1,0 +1,100 @@
+{
+  "query_id": "P01A",
+  "query": "Flash Loan Attacks and DeFi Protocol Stability: A Game-Theoretic Analysis",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T17:58:21Z",
+  "result_count": 10,
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Prevention of Flash Loan Attacking on the Decentralized Finance System of a Public Blockchain",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-95-2566-9_29",
+      "snippet": "… that make flash loans appealing also expose DeFi ecosystems … We formalize the problem via a game-theoretic model, … risk and sustain the long-term stability and growth of the …",
+      "publication_info": "Y Wang, R He, H Guo, H Wang, Y Zhang… - … Conference of Pioneering …, 2025 - Springer",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 2,
+      "title": "Game-Theory Approach Using Blockchain to Enhance Trust in Decentralized Finance Systems",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-032-18985-1_1",
+      "snippet": "… user-centric game-theoretic models can enhance efficiency and user engagement in DeFi. The … like Nash Equilibrium (for understanding stable states in lending markets), the Prisoner’s …",
+      "publication_info": "K Dubey, P Mukherjee, S Chakraborty… - … Symposium on Applied …, 2025 - Springer",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 3,
+      "title": "on the Decentralized Finance System of a Public",
+      "link": "https://books.google.com/books?hl=en&lr=&id=b4GWEQAAQBAJ&oi=fnd&pg=PA431&dq=Flash+Loan+Attacks+and+DeFi+Protocol+Stability:+A+Game-Theoretic+Analysis&ots=zt7gF1FpjM&sig=sp6SpZa-9xkA5FcfiFeJUIDMa9M",
+      "snippet": "… analysis of flash loan attack methodologies, their implications, and potential countermeasures. We formalize the problem via a gametheoretic … risk and sustain the long-term stability and …",
+      "publication_info": "R He, H Guo, H Wang, Y Zhang - Data Science: 11th International …, 2025 - books.google.com",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 4,
+      "title": "A study on blockchain sandwich attack strategies based on mechanism design game theory",
+      "link": "https://www.mdpi.com/2079-9292/12/21/4417",
+      "snippet": "… Through a meticulous analysis of this game-theoretic approach… its market efficiency and stability. Consequently, formulating … for mitigating sandwich attacks in the DeFi sector, potentially …",
+      "publication_info": "Y Liang, X Wang, YC Wu, H Fu, M Zhou - Electronics, 2023 - mdpi.com",
+      "year": 2023,
+      "citation_count": 33
+    },
+    {
+      "rank": 5,
+      "title": "Decentralized finance security: A survey of attacks, defenses, and open challenges",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2667295226000024",
+      "snippet": "… , DeFi introduces a unique and highly adversarial security landscape characterized by immutable transactions, complex protocol … a comprehensive systematization of DeFi security, …",
+      "publication_info": "S Jiang, W You, S Xuan, J Shen - High-Confidence Computing, 2026 - Elsevier",
+      "year": 2026,
+      "citation_count": 1
+    },
+    {
+      "rank": 6,
+      "title": "An Integrated Simulation Framework for Decentralised Finance Protocols: cadCAD, Reinforcement Learning, Game Theory, and Mechanism Design",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6323618",
+      "snippet": "… for decentralised finance (DeFi) protocols of which we are … (RL) traders, game-theoretic Nash equilibrium analysis, and … stable but fails the ι = 0 riba test is invalid; a protocol that is …",
+      "publication_info": "S Ahmed - … Learning, Game Theory, and Mechanism Design …, 2026 - papers.ssrn.com",
+      "year": 2026,
+      "citation_count": null
+    },
+    {
+      "rank": 7,
+      "title": "Towards secure and trustworthy flash loans: A blockchain-based trust management approach",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-23020-2_28",
+      "snippet": "… and quantified the instability of existing lending protocols. … A flash loan attack is a DeFi attack in which a loan was … A game-theoretic analysis of cross-chain atomic swaps with HTLCs. In: …",
+      "publication_info": "Y Xie, X Kang, T Li, CK Chu, H Wang - International Conference on …, 2022 - Springer",
+      "year": 2022,
+      "citation_count": 5
+    },
+    {
+      "rank": 8,
+      "title": "Detecting Deceptive Behaviors in Decentralized Finance",
+      "link": "https://atrium.lib.uoguelph.ca/items/544a9c1e-bbba-443e-b940-65621da96fee",
+      "snippet": "… studies provided me with the stability and guidance I needed to … [154] use a gametheoretic model supported by on-chain data … summarized features to get Flash Loan transactions in the …",
+      "publication_info": "R Gan - 2026 - atrium.lib.uoguelph.ca",
+      "year": 2026,
+      "citation_count": null
+    },
+    {
+      "rank": 9,
+      "title": "Front-running attack in decentralized finance in the metaverse: A systematic review",
+      "link": "https://www.researchgate.net/profile/Tamimul-Alam/publication/378461312_Front-running_attack_in_decentralized_finance_in_the_metaverse_A_systematic_review/links/65da0956adc608480ae878d7/Front-running-attack-in-decentralized-finance-in-the-metaverse-A-systematic-review.pdf",
+      "snippet": "… -running attacks are one of the biggest security risks in DeFi, … -time, partial-information game-theoretic model. The team … , and AMM model stabilization reduces liquidity concentration in …",
+      "publication_info": "T Alam, MA Ali, MH Rahman - Int. J. Sci. Res. Arch, 2024 - researchgate.net",
+      "year": 2024,
+      "citation_count": 12
+    },
+    {
+      "rank": 10,
+      "title": "Sok: Decentralized finance (defi)",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3558535.3559780",
+      "snippet": "… Flash loans leverage a blockchain’s atomicity (ie, the … Following the standard game theoretic approach, we denote the … questions to economic stability apply to protocols other than …",
+      "publication_info": "S Werner, D Perez, L Gudgeon… - Proceedings of the 4th …, 2022 - dl.acm.org",
+      "year": 2022,
+      "citation_count": 730
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "calibration_rate": 0.6635,
+  "n_claims_perfectly_relevant": 416,
+  "n_claims_on_topic": 276,
+  "skipped_queries_with_other_intent": 0,
+  "per_query": {
+    "P01A": {
+      "intent": "DeFi_Blockchain",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 8
+    },
+    "P01B": {
+      "intent": "DeFi_Blockchain",
+      "n_perfectly_relevant": 9,
+      "n_on_topic": 9
+    },
+    "P02A": {
+      "intent": "DeFi_Blockchain",
+      "n_perfectly_relevant": 7,
+      "n_on_topic": 7
+    },
+    "P02B": {
+      "intent": "DeFi_Blockchain",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 6
+    },
+    "P03A": {
+      "intent": "DeFi_Blockchain",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 9
+    },
+    "P03B": {
+      "intent": "DeFi_Blockchain",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 9
+    },
+    "P04A": {
+      "intent": "DeFi_Blockchain",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 9
+    },
+    "P04B": {
+      "intent": "DeFi_Blockchain",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 7
+    },
+    "P05A": {
+      "intent": "DeFi_Blockchain",
+      "n_perfectly_relevant": 9,
+      "n_on_topic": 8
+    },
+    "P05B": {
+      "intent": "DeFi_Blockchain",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 10
+    },
+    "P06A": {
+      "intent": "Credit_Lending",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 4
+    },
+    "P06B": {
+      "intent": "Credit_Lending",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 7
+    },
+    "P07A": {
+      "intent": "Credit_Lending",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 8
+    },
+    "P07B": {
+      "intent": "Credit_Lending",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 9
+    },
+    "P08A": {
+      "intent": "Credit_Lending",
+      "n_perfectly_relevant": 4,
+      "n_on_topic": 1
+    },
+    "P08B": {
+      "intent": "Credit_Lending",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 8
+    },
+    "P09A": {
+      "intent": "Credit_Lending",
+      "n_perfectly_relevant": 1,
+      "n_on_topic": 1
+    },
+    "P09B": {
+      "intent": "Credit_Lending",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 6
+    },
+    "P10A": {
+      "intent": "Fraud_Detection",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 10
+    },
+    "P10B": {
+      "intent": "Fraud_Detection",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 10
+    },
+    "P11A": {
+      "intent": "Fraud_Detection",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 3
+    },
+    "P11B": {
+      "intent": "Fraud_Detection",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 6
+    },
+    "P12A": {
+      "intent": "DeFi_Blockchain",
+      "n_perfectly_relevant": 3,
+      "n_on_topic": 2
+    },
+    "P12B": {
+      "intent": "DeFi_Blockchain",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 9
+    },
+    "P13A": {
+      "intent": "Algo_Trading",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 9
+    },
+    "P13B": {
+      "intent": "Algo_Trading",
+      "n_perfectly_relevant": 6,
+      "n_on_topic": 5
+    },
+    "P14A": {
+      "intent": "Algo_Trading",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 5
+    },
+    "P14B": {
+      "intent": "Algo_Trading",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 8
+    },
+    "P15A": {
+      "intent": "Algo_Trading",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 5
+    },
+    "P15B": {
+      "intent": "Algo_Trading",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 7
+    },
+    "P16A": {
+      "intent": "CBDC_Monetary",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 10
+    },
+    "P16B": {
+      "intent": "CBDC_Monetary",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 9
+    },
+    "P17A": {
+      "intent": "CBDC_Monetary",
+      "n_perfectly_relevant": 2,
+      "n_on_topic": 2
+    },
+    "P17B": {
+      "intent": "CBDC_Monetary",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 8
+    },
+    "P18A": {
+      "intent": "RegTech",
+      "n_perfectly_relevant": 7,
+      "n_on_topic": 3
+    },
+    "P18B": {
+      "intent": "RegTech",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 0
+    },
+    "P19A": {
+      "intent": "Fraud_Detection",
+      "n_perfectly_relevant": 5,
+      "n_on_topic": 2
+    },
+    "P19B": {
+      "intent": "Fraud_Detection",
+      "n_perfectly_relevant": 4,
+      "n_on_topic": 2
+    },
+    "P20A": {
+      "intent": "RegTech",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 0
+    },
+    "P20B": {
+      "intent": "RegTech",
+      "n_perfectly_relevant": 5,
+      "n_on_topic": 0
+    },
+    "P21A": {
+      "intent": "Insurtech_Risk",
+      "n_perfectly_relevant": 4,
+      "n_on_topic": 2
+    },
+    "P21B": {
+      "intent": "Insurtech_Risk",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 4
+    },
+    "P22A": {
+      "intent": "Insurtech_Risk",
+      "n_perfectly_relevant": 5,
+      "n_on_topic": 3
+    },
+    "P22B": {
+      "intent": "Insurtech_Risk",
+      "n_perfectly_relevant": 2,
+      "n_on_topic": 1
+    },
+    "P23A": {
+      "intent": "Open_Banking",
+      "n_perfectly_relevant": 5,
+      "n_on_topic": 3
+    },
+    "P23B": {
+      "intent": "Open_Banking",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 5
+    },
+    "P24A": {
+      "intent": "Open_Banking",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 6
+    },
+    "P24B": {
+      "intent": "Open_Banking",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 7
+    },
+    "P25A": {
+      "intent": "RegTech",
+      "n_perfectly_relevant": 8,
+      "n_on_topic": 2
+    },
+    "P25B": {
+      "intent": "RegTech",
+      "n_perfectly_relevant": 10,
+      "n_on_topic": 2
+    }
+  }
+}

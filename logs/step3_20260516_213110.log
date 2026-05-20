@@ -1,0 +1,78 @@
+2026-05-16 21:31:10 [INFO] =======================================================
+2026-05-16 21:31:10 [INFO] STEP 3b — Save Asta results from browser JSON to disk
+2026-05-16 21:31:10 [INFO] Run ID  : 20260516_213110
+2026-05-16 21:31:10 [INFO] Source  : /sessions/modest-eager-feynman/mnt/LAB/data/q1/asta/asta_raw.json
+2026-05-16 21:31:10 [INFO] =======================================================
+2026-05-16 21:31:10 [INFO] Loaded 50 results from asta_raw.json
+2026-05-16 21:31:10 [INFO]   P01A [specific] -> 65 papers | 35 from 2023+ | years: 2018-2026
+2026-05-16 21:31:10 [INFO]   P01B [broad   ] -> 75 papers | 36 from 2023+ | years: 2007-2026
+2026-05-16 21:31:10 [INFO]   P02A [specific] -> 62 papers | 45 from 2023+ | years: 2019-2026
+2026-05-16 21:31:10 [INFO]   P02B [broad   ] -> 71 papers | 54 from 2023+ | years: 2019-2026
+2026-05-16 21:31:10 [INFO]   P03A [specific] -> 74 papers | 59 from 2023+ | years: 2020-2026
+2026-05-16 21:31:10 [INFO]   P03B [broad   ] -> 75 papers | 55 from 2023+ | years: 2016-2025
+2026-05-16 21:31:11 [INFO]   P04A [specific] -> 69 papers | 28 from 2023+ | years: 2017-2025
+2026-05-16 21:31:11 [INFO]   P04B [broad   ] -> 72 papers | 26 from 2023+ | years: 2017-2025
+2026-05-16 21:31:11 [INFO]   P05A [specific] -> 71 papers | 34 from 2023+ | years: 2019-2026
+2026-05-16 21:31:11 [INFO]   P05B [broad   ] -> 75 papers | 51 from 2023+ | years: 2019-2026
+2026-05-16 21:31:11 [INFO]   P06A [specific] -> 58 papers | 22 from 2023+ | years: 2010-2026
+2026-05-16 21:31:11 [INFO]   P06B [broad   ] -> 74 papers | 49 from 2023+ | years: 2011-2026
+2026-05-16 21:31:11 [INFO]   P07A [specific] -> 62 papers | 43 from 2023+ | years: 2017-2026
+2026-05-16 21:31:11 [INFO]   P07B [broad   ] -> 74 papers | 52 from 2023+ | years: 2016-2026
+2026-05-16 21:31:11 [INFO]   P08A [specific] -> 67 papers | 21 from 2023+ | years: 2015-2025
+2026-05-16 21:31:11 [INFO]   P08B [broad   ] -> 75 papers | 45 from 2023+ | years: 2012-2026
+2026-05-16 21:31:11 [INFO]   P09A [specific] -> 20 papers | 14 from 2023+ | years: 2019-2024
+2026-05-16 21:31:12 [INFO]   P09B [broad   ] -> 38 papers | 30 from 2023+ | years: 2020-2025
+2026-05-16 21:31:12 [INFO]   P10A [specific] -> 74 papers | 63 from 2023+ | years: 2018-2026
+2026-05-16 21:31:12 [INFO]   P10B [broad   ] -> 74 papers | 51 from 2023+ | years: 2016-2026
+2026-05-16 21:31:12 [INFO]   P11A [specific] -> 75 papers | 62 from 2023+ | years: 2019-2026
+2026-05-16 21:31:12 [INFO]   P11B [broad   ] -> 72 papers | 53 from 2023+ | years: 2014-2026
+2026-05-16 21:31:12 [INFO]   P12A [specific] -> 73 papers | 41 from 2023+ | years: 2019-2026
+2026-05-16 21:31:12 [INFO]   P12B [broad   ] -> 75 papers | 55 from 2023+ | years: 2021-2026
+2026-05-16 21:31:12 [INFO]   P13A [specific] -> 71 papers | 40 from 2023+ | years: 2012-2026
+2026-05-16 21:31:12 [INFO]   P13B [broad   ] -> 74 papers | 31 from 2023+ | years: 2008-2025
+2026-05-16 21:31:13 [INFO]   P14A [specific] -> 75 papers | 44 from 2023+ | years: 2018-2026
+2026-05-16 21:31:13 [INFO]   P14B [broad   ] -> 74 papers | 45 from 2023+ | years: 1997-2026
+2026-05-16 21:31:13 [INFO]   P15A [specific] -> 75 papers | 60 from 2023+ | years: 2009-2026
+2026-05-16 21:31:13 [INFO]   P15B [broad   ] -> 75 papers | 48 from 2023+ | years: 2015-2026
+2026-05-16 21:31:13 [INFO]   P16A [specific] -> 75 papers | 43 from 2023+ | years: 2016-2026
+2026-05-16 21:31:13 [INFO]   P16B [broad   ] -> 74 papers | 36 from 2023+ | years: 2016-2026
+2026-05-16 21:31:13 [INFO]   P17A [specific] -> 35 papers | 20 from 2023+ | years: 2020-2025
+2026-05-16 21:31:13 [INFO]   P17B [broad   ] -> 75 papers | 48 from 2023+ | years: 2020-2026
+2026-05-16 21:31:13 [INFO]   P18A [specific] -> 71 papers | 12 from 2023+ | years: 2016-2025
+2026-05-16 21:31:13 [INFO]   P18B [broad   ] -> 75 papers | 22 from 2023+ | years: 2016-2026
+2026-05-16 21:31:14 [INFO]   P19A [specific] -> 73 papers | 45 from 2023+ | years: 2007-2026
+2026-05-16 21:31:14 [INFO]   P19B [broad   ] -> 12 papers | 5 from 2023+ | years: 2018-2025
+2026-05-16 21:31:14 [INFO]   P20A [specific] -> 73 papers | 30 from 2023+ | years: 2011-2026
+2026-05-16 21:31:14 [INFO]   P20B [broad   ] -> 59 papers | 39 from 2023+ | years: 2011-2026
+2026-05-16 21:31:14 [INFO]   P21A [specific] -> 69 papers | 25 from 2023+ | years: 2007-2026
+2026-05-16 21:31:14 [INFO]   P21B [broad   ] -> 74 papers | 35 from 2023+ | years: 2016-2025
+2026-05-16 21:31:14 [INFO]   P22A [specific] -> 74 papers | 24 from 2023+ | years: 2004-2026
+2026-05-16 21:31:14 [INFO]   P22B [broad   ] -> 74 papers | 27 from 2023+ | years: 2006-2026
+2026-05-16 21:31:14 [INFO]   P23A [specific] -> 68 papers | 27 from 2023+ | years: 2016-2025
+2026-05-16 21:31:14 [INFO]   P23B [broad   ] -> 74 papers | 22 from 2023+ | years: 2016-2026
+2026-05-16 21:31:15 [INFO]   P24A [specific] -> 69 papers | 7 from 2023+ | years: 1995-2026
+2026-05-16 21:31:15 [INFO]   P24B [broad   ] -> 71 papers | 10 from 2023+ | years: 1990-2025
+2026-05-16 21:31:15 [INFO]   P25A [specific] -> 70 papers | 64 from 2023+ | years: 2020-2026
+2026-05-16 21:31:15 [INFO]   P25B [broad   ] -> 71 papers | 67 from 2023+ | years: 2019-2026
+2026-05-16 21:31:19 [INFO] Combined file saved -> /sessions/modest-eager-feynman/mnt/LAB/data/q1/asta/asta_all.json
+2026-05-16 21:31:19 [INFO] =======================================================
+2026-05-16 21:31:19 [INFO] RUN SUMMARY — step3b_save_asta_results
+2026-05-16 21:31:19 [INFO] =======================================================
+2026-05-16 21:31:19 [INFO]   Results loaded   : 50
+2026-05-16 21:31:19 [INFO]   Files saved      : 50
+2026-05-16 21:31:19 [INFO]   Validation warns : 0
+2026-05-16 21:31:19 [INFO]   Total papers     : 3400
+2026-05-16 21:31:19 [INFO]   Papers from 2023+: 1900 / 3400
+2026-05-16 21:31:19 [INFO]   Avg papers/query : 68.0
+2026-05-16 21:31:19 [INFO]   Year distribution:
+2026-05-16 21:31:19 [INFO]     2026: 129 papers
+2026-05-16 21:31:19 [INFO]     2025: 620 papers
+2026-05-16 21:31:19 [INFO]     2024: 667 papers
+2026-05-16 21:31:19 [INFO]     2023: 484 papers
+2026-05-16 21:31:19 [INFO]     2022: 382 papers
+2026-05-16 21:31:19 [INFO]     2021: 344 papers
+2026-05-16 21:31:19 [INFO]   Elapsed          : 9.5s
+2026-05-16 21:31:19 [INFO]   Individual files : /sessions/modest-eager-feynman/mnt/LAB/data/q1/asta
+2026-05-16 21:31:19 [INFO]   Combined file    : /sessions/modest-eager-feynman/mnt/LAB/data/q1/asta/asta_all.json
+2026-05-16 21:31:19 [INFO]   Log file         : /sessions/modest-eager-feynman/mnt/LAB/logs/step3_20260516_213110.log
+2026-05-16 21:31:19 [INFO] =======================================================

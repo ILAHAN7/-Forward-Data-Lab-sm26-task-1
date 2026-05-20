@@ -1,0 +1,111 @@
+{
+  "query_id": "P16A",
+  "query": "Central Bank Digital Currency Design: Privacy, Financial Stability, and Monetary Policy Transmission",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:13Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Central Bank Digital Currency Design: Privacy, Financial Stability, and Monetary Policy Transmission",
+    "year": 2024,
+    "abstract": "We model CBDC design choices along three dimensions - anonymity, programmability, and interest-bearing features - and analyze their implications for bank disintermediation and monetary policy effectiveness.",
+    "domain": [
+      "CBDC",
+      "monetary policy",
+      "financial stability",
+      "privacy"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Design choices for central bank digital currency: Policy and technical considerations",
+      "link": "https://www.nber.org/papers/w27634",
+      "snippet": "… The central bank could effectively use monetary policy to create … primarily by concerns about financial stability. The sharp decline … We consider two types of privacy that a digital currency …",
+      "publication_info": "S Allen, S Čapkun, I Eyal, G Fanti, BA Ford… - 2020 - nber.org",
+      "year": 2020,
+      "citation_count": 310
+    },
+    {
+      "rank": 2,
+      "title": "Central Bank Digital Currencies and financial integrity: finding a new trade-off between privacy and traceability within a changing financial architecture",
+      "link": "https://link.springer.com/article/10.1057/s41261-024-00241-2",
+      "snippet": "… step not only for monetary policy, but also for financial integrity. The … concerns spanning from financial stability to bank runs. … Design choices for central bank digital currency: Policy and …",
+      "publication_info": "G Soana, T de Arruda - Journal of Banking Regulation, 2024 - Springer",
+      "year": 2024,
+      "citation_count": 35
+    },
+    {
+      "rank": 3,
+      "title": "Design choices for central bank digital currency",
+      "link": "https://infoscience.epfl.ch/entities/publication/fe56a4d4-f8f4-458e-ad90-398bf9da92ce",
+      "snippet": "… The central bank could effectively use monetary policy to create … primarily by concerns about financial stability. The sharp decline … We consider two types of privacy that a digital currency …",
+      "publication_info": "S Allen, S Čapkun, I Eyal, G Fanti, BA Ford… - 2020 - infoscience.epfl.ch",
+      "year": 2020,
+      "citation_count": 13
+    },
+    {
+      "rank": 4,
+      "title": "Designing Retail Central Bank Digital Currencies: A Systematic Literature Review of Trade-Offs Between Security, Privacy, and Financial Stability",
+      "link": "https://www.mdpi.com/2227-7072/14/5/122",
+      "snippet": "… CBDC design trilemma, the claim that central banks cannot simultaneously maximize privacy, financial stability, … monetary policy transmission (the interest rate on CBDC provides a new …",
+      "publication_info": "JE Said, J Lánský - International Journal of Financial Studies, 2026 - mdpi.com",
+      "year": 2026,
+      "citation_count": null
+    },
+    {
+      "rank": 5,
+      "title": "Central bank digital currency and the monetary policy and financial stability implications",
+      "link": "https://www.igi-global.com/chapter/central-bank-digital-currency-and-the-monetary-policy-and-financial-stability-implications/336722",
+      "snippet": "… , and transmit financial stability risks to the financial system. Also, issuing a central bank digital currency can strengthen monetary policy … , they need to carefully design the CBDC to have …",
+      "publication_info": "PK Ozili - Digital Currency Assets and Challenges to Financial …, 2024 - igi-global.com",
+      "year": 2024,
+      "citation_count": 12
+    },
+    {
+      "rank": 6,
+      "title": "Central bank digital currency data use and privacy protection",
+      "link": "https://books.google.com/books?hl=en&lr=&id=UBgfEQAAQBAJ&oi=fnd&pg=PA6&dq=Central+Bank+Digital+Currency+Design:+Privacy,+Financial+Stability,+and+Monetary+Policy+Transmission&ots=SauhB774lA&sig=YYWITR058Qs4nvYMbJmF_SFryNg",
+      "snippet": "… level by the Financial Action Task Force (FATF), the Financial Stability Board (FSB), G7, … central banks for better informing monetary policy decisions and understanding the transmission …",
+      "publication_info": "K Murphy, MKP Murphy, T Sun, YS Zhou, N Tsuda… - 2024 - books.google.com",
+      "year": 2024,
+      "citation_count": 31
+    },
+    {
+      "rank": 7,
+      "title": "From cash to central bank digital currencies and cryptocurrencies: a balancing act between modernity and monetary stability",
+      "link": "https://www.emerald.com/jes/article/47/4/911/226207",
+      "snippet": "… itself or independently) and safeguarding financial stability … for monetary policy is that a central bank digital currency could … level of privacy that may prove difficult to replicate in its digital …",
+      "publication_info": "A Belke, E Beretta - Journal of Economic Studies, 2020 - emerald.com",
+      "year": 2020,
+      "citation_count": 127
+    },
+    {
+      "rank": 8,
+      "title": "The impact of digital currency on the transformation of monetary policy",
+      "link": "http://www.baltijapublishing.lv/index.php/threeseas/article/view/1534",
+      "snippet": "… issue and circulation of digital money by central banks, to summarize … of money transmission and ensuring financial stability … data confidentiality requirements, coordinate the activities of …",
+      "publication_info": "V Mishchenko, S Naumenkova - Three Seas Economic Journal, 2021 - baltijapublishing.lv",
+      "year": 2021,
+      "citation_count": 20
+    },
+    {
+      "rank": 9,
+      "title": "Central bank digital currency and monetary policy",
+      "link": "https://www.elgaronline.com/abstract/book/9781035341405/chapter23.xml",
+      "snippet": "… design choices, such as privacy protections, programmability, and interest rates, to balance innovation with financial stability. … central banks’ monetary policy tools and the transmission …",
+      "publication_info": "JY Abor, JA Abugre, CJ Green - The Elgar Companion to Financial …, 2025 - elgaronline.com",
+      "year": 2025,
+      "citation_count": null
+    },
+    {
+      "rank": 10,
+      "title": "Central bank digital currency and monetary policy: a literature review",
+      "link": "https://mpra.ub.uni-muenchen.de/id/eprint/96663",
+      "snippet": "… on design on central bank digital currently. … of monetary policy transmission mechanism which could resemble dollarisation of the economy, financial stability threats related to currency …",
+      "publication_info": "P Beniak - 2019 - mpra.ub.uni-muenchen.de",
+      "year": 2019,
+      "citation_count": 48
+    }
+  ]
+}

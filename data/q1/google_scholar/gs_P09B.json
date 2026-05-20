@@ -1,0 +1,111 @@
+{
+  "query_id": "P09B",
+  "query": "BNPL regulation consumer credit",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:06:10Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Buy Now Pay Later Regulatory Frameworks: Consumer Protection and Credit Risk",
+    "year": 2024,
+    "abstract": "We compare BNPL regulatory approaches across the US, EU, and Australia, analyze default risk patterns using transaction-level data, and assess systemic risk from BNPL integration with traditional credit markets.",
+    "domain": [
+      "BNPL",
+      "regulation",
+      "consumer credit",
+      "financial risk"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Analyzing the impacts of financial services regulation to make the case that buy-now-pay-later regulation is failing",
+      "link": "https://www.mdpi.com/2071-1050/13/4/1992",
+      "snippet": "… the take-up of BNPL. Then after setting that … BNPL consumer payment arrangements, which typically fall out of scope of existing consumer credit protection laws, suffer from regulatory …",
+      "publication_info": "D Johnson, J Rodwell, T Hendry - Sustainability, 2021 - mdpi.com",
+      "year": 2021,
+      "citation_count": 66
+    },
+    {
+      "rank": 2,
+      "title": "Buy now, pay later consumer credit behavior: impacts on financing decisions",
+      "link": "https://www.emerald.com/qrfm/article/18/1/287/1255868",
+      "snippet": "… of BNPL services on consumer financial behaviors, contributing to the literature on consumer credit … -making by highlighting the specific role of BNPL in shaping credit adoption trends. …",
+      "publication_info": "EM Cervellati, U Filotto, D Sgrulletti… - Qualitative Research in …, 2026 - emerald.com",
+      "year": 2026,
+      "citation_count": 26
+    },
+    {
+      "rank": 3,
+      "title": "Regulatory and ethical challenges in AI-driven and machine learning credit risk assessment for Buy Now, Pay Later (BNPL) in US e-commerce: Compliance, fair …",
+      "link": "https://al-kindipublishers.org/index.php/jbms/article/view/8945",
+      "snippet": "… examines the regulatory and ethical implications of AI-driven BNPL credit risk assessment, … , and consumer protection. It assesses the current legal landscape governing BNPL credit …",
+      "publication_info": "A Mishra, SN Mou, J Ara… - Journal of Business and …, 2025 - al-kindipublishers.org",
+      "year": 2025,
+      "citation_count": 24
+    },
+    {
+      "rank": 4,
+      "title": "Buy Now, Pay Later: An Analysis of Consumer Financial Protection Bureau Research and Regulatory Actions",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237925",
+      "snippet": "… (BNPL) services has transformed consumer credit and payment systems, particularly in the digital retail economy. BNPL allows consumers … current state of BNPL regulation through the …",
+      "publication_info": "D Krause - … Bureau Research and Regulatory Actions (May 01 …, 2025 - papers.ssrn.com",
+      "year": 2025,
+      "citation_count": 4
+    },
+    {
+      "rank": 5,
+      "title": "Buy Now, Pay Later: How this Fintech Consumer Credit Product Preys on Unwary Borrowers and Evades Regulation",
+      "link": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/jcorl49&section=10",
+      "snippet": "… 9 BNPL consumers are generally not subject to interest … the consumer credit scene in the mid-2010s, the BNPL model experienced a significant rise in popularity among consumers and …",
+      "publication_info": "SR Mitchell - J. Corp. L., 2023 - HeinOnline",
+      "year": 2023,
+      "citation_count": 6
+    },
+    {
+      "rank": 6,
+      "title": "Buy now, pay later (BNPL)... on your credit card",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2214635023000023",
+      "snippet": "… product enabling consumers to defer payments into interest-free … study BNPL using UK credit card transaction data. We document consumers charging BNPL transactions to their credit …",
+      "publication_info": "B Guttman-Kenney, C Firth, J Gathergood - Journal of Behavioral and …, 2023 - Elsevier",
+      "year": 2023,
+      "citation_count": 167
+    },
+    {
+      "rank": 7,
+      "title": "Regulating buy now, pay later",
+      "link": "https://www.jstor.org/stable/27264956",
+      "snippet": "… unregulated status quo, this regulatory response is hardly a … fact that consumers often do not even view BNPL as credit in the … Thus, in addition to being a form of consumer credit, BNPL …",
+      "publication_info": "S Soni - Columbia Law Review, 2023 - JSTOR",
+      "year": 2023,
+      "citation_count": 37
+    },
+    {
+      "rank": 8,
+      "title": "'Buy Now, Pay Later'(BNPL) Payment Services: Opportunities and Legal Challenges for EU Consumers and Businesses",
+      "link": "https://orbilu.uni.lu/handle/10993/60784",
+      "snippet": "… of BNPL credit agreements’,9 we argue that BNPL services … as a form of short-term credit line, since they are specialised in … to analyse the regulation of consumer credit and payment …",
+      "publication_info": "A Machura-Urbaniak, M Lupinu - Journal of European Consumer and …, 2023 - orbilu.uni.lu",
+      "year": 2023,
+      "citation_count": 9
+    },
+    {
+      "rank": 9,
+      "title": "Buy Now, But Pay For It Later: How BNPLs Allow Unsecured Consumer Debt to Accumulate Without Regulation",
+      "link": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/illbslwjn27&section=7",
+      "snippet": "… practices or consumer literacy regarding BNPL, and limits on BNPL's monetary penalties for … how much debt an individual accumulates is central to the Consumer Credit Protection Act …",
+      "publication_info": "A Klimowicz - Ill. Bus. LJ, 2022 - HeinOnline",
+      "year": 2022,
+      "citation_count": 1
+    },
+    {
+      "rank": 10,
+      "title": "Use now, regulate later?: The competing regulatory approaches of the buy-now, pay-later sector and consumer protection in Australia",
+      "link": "https://search.informit.org/doi/abs/10.3316/informit.828900691362942",
+      "snippet": "… consumers before lending.50 Given the prima facie similarity … bNPL services with consumer credit, there have been repeated calls for bNPL services to be regulated as consumer credit.…",
+      "publication_info": "J Rizk - Victoria University Law and Justice Journal, 2021 - search.informit.org",
+      "year": 2021,
+      "citation_count": 4
+    }
+  ]
+}

@@ -1,0 +1,1787 @@
+{
+  "asta": {
+    "per_query": {
+      "P01A": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.8,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "other"
+        ]
+      },
+      "P01B": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P02A": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "other"
+        ]
+      },
+      "P02B": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.6,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "Algo_Trading",
+          "other",
+          "other",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P03A": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P03B": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P04A": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P04B": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.7,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P05A": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.9,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "Algo_Trading",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P05B": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P06A": {
+        "intent": "Credit_Lending",
+        "hit_rate": 0.4,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "Credit_Lending",
+          "Credit_Lending",
+          "other",
+          "other",
+          "Credit_Lending",
+          "other",
+          "Credit_Lending",
+          "other",
+          "other"
+        ]
+      },
+      "P06B": {
+        "intent": "Credit_Lending",
+        "hit_rate": 0.7,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "other",
+          "Credit_Lending",
+          "other",
+          "Credit_Lending",
+          "Credit_Lending",
+          "other",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending"
+        ]
+      },
+      "P07A": {
+        "intent": "Credit_Lending",
+        "hit_rate": 0.8,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "other",
+          "Credit_Lending",
+          "other",
+          "Credit_Lending"
+        ]
+      },
+      "P07B": {
+        "intent": "Credit_Lending",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "other",
+          "Credit_Lending",
+          "Credit_Lending"
+        ]
+      },
+      "P08A": {
+        "intent": "Credit_Lending",
+        "hit_rate": 0.7,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "other",
+          "other",
+          "other",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending"
+        ]
+      },
+      "P08B": {
+        "intent": "Credit_Lending",
+        "hit_rate": 0.8,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "Credit_Lending",
+          "other",
+          "other",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending"
+        ]
+      },
+      "P09A": {
+        "intent": "Credit_Lending",
+        "hit_rate": 0.5,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "Credit_Lending",
+          "other",
+          "other",
+          "Credit_Lending",
+          "Algo_Trading",
+          "other",
+          "other",
+          "Credit_Lending",
+          "Credit_Lending"
+        ]
+      },
+      "P09B": {
+        "intent": "Credit_Lending",
+        "hit_rate": 0.6,
+        "breadth": 3,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "other",
+          "Credit_Lending",
+          "other",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "RegTech",
+          "Algo_Trading"
+        ]
+      },
+      "P10A": {
+        "intent": "Fraud_Detection",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection"
+        ]
+      },
+      "P10B": {
+        "intent": "Fraud_Detection",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection"
+        ]
+      },
+      "P11A": {
+        "intent": "Fraud_Detection",
+        "hit_rate": 0.3,
+        "breadth": 3,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "Fraud_Detection",
+          "other",
+          "other",
+          "DeFi_Blockchain",
+          "Fraud_Detection",
+          "other",
+          "Insurtech_Risk",
+          "Fraud_Detection",
+          "other"
+        ]
+      },
+      "P11B": {
+        "intent": "Fraud_Detection",
+        "hit_rate": 0.6,
+        "breadth": 3,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "Insurtech_Risk",
+          "Fraud_Detection",
+          "DeFi_Blockchain",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "other"
+        ]
+      },
+      "P12A": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.7,
+        "breadth": 3,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "Credit_Lending",
+          "DeFi_Blockchain",
+          "other",
+          "Fraud_Detection",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P12B": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P13A": {
+        "intent": "Algo_Trading",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "other",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading"
+        ]
+      },
+      "P13B": {
+        "intent": "Algo_Trading",
+        "hit_rate": 0.7,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Fraud_Detection",
+          "Algo_Trading",
+          "other",
+          "other",
+          "Algo_Trading"
+        ]
+      },
+      "P14A": {
+        "intent": "Algo_Trading",
+        "hit_rate": 0.5,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "other",
+          "Algo_Trading",
+          "other",
+          "Algo_Trading",
+          "other",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P14B": {
+        "intent": "Algo_Trading",
+        "hit_rate": 0.8,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Algo_Trading",
+          "Algo_Trading",
+          "other",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "other",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading"
+        ]
+      },
+      "P15A": {
+        "intent": "Algo_Trading",
+        "hit_rate": 0.5,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "other",
+          "Algo_Trading",
+          "Algo_Trading",
+          "other",
+          "Algo_Trading",
+          "Algo_Trading",
+          "other",
+          "Algo_Trading",
+          "other"
+        ]
+      },
+      "P15B": {
+        "intent": "Algo_Trading",
+        "hit_rate": 0.7,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "other",
+          "other",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "other"
+        ]
+      },
+      "P16A": {
+        "intent": "CBDC_Monetary",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary"
+        ]
+      },
+      "P16B": {
+        "intent": "CBDC_Monetary",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "other",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary"
+        ]
+      },
+      "P17A": {
+        "intent": "CBDC_Monetary",
+        "hit_rate": 0.8,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "other",
+          "CBDC_Monetary",
+          "other",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary"
+        ]
+      },
+      "P17B": {
+        "intent": "CBDC_Monetary",
+        "hit_rate": 0.8,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "DeFi_Blockchain",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "DeFi_Blockchain",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary"
+        ]
+      },
+      "P18A": {
+        "intent": "RegTech",
+        "hit_rate": 0.5,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "RegTech",
+          "other",
+          "RegTech",
+          "RegTech",
+          "other",
+          "Insurtech_Risk",
+          "other",
+          "RegTech",
+          "other",
+          "RegTech"
+        ]
+      },
+      "P18B": {
+        "intent": "RegTech",
+        "hit_rate": 0.0,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "Credit_Lending",
+          "other",
+          "other",
+          "other",
+          "Credit_Lending",
+          "other",
+          "other",
+          "Credit_Lending",
+          "Insurtech_Risk"
+        ]
+      },
+      "P19A": {
+        "intent": "Fraud_Detection",
+        "hit_rate": 0.6,
+        "breadth": 3,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "RegTech",
+          "other",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "DeFi_Blockchain",
+          "Fraud_Detection"
+        ]
+      },
+      "P19B": {
+        "intent": "Fraud_Detection",
+        "hit_rate": 0.5,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "other",
+          "other",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "other",
+          "other",
+          "other"
+        ]
+      },
+      "P20A": {
+        "intent": "RegTech",
+        "hit_rate": 0.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "Insurtech_Risk",
+          "other",
+          "other",
+          "other",
+          "other",
+          "other",
+          "other",
+          "other",
+          "other"
+        ]
+      },
+      "P20B": {
+        "intent": "RegTech",
+        "hit_rate": 0.0,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Fraud_Detection",
+          "other",
+          "Credit_Lending",
+          "Fraud_Detection",
+          "other",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "other",
+          "Fraud_Detection",
+          "Fraud_Detection"
+        ]
+      },
+      "P21A": {
+        "intent": "Insurtech_Risk",
+        "hit_rate": 0.6,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "DeFi_Blockchain",
+          "Insurtech_Risk"
+        ]
+      },
+      "P21B": {
+        "intent": "Insurtech_Risk",
+        "hit_rate": 0.4,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Insurtech_Risk",
+          "DeFi_Blockchain",
+          "Insurtech_Risk",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "other"
+        ]
+      },
+      "P22A": {
+        "intent": "Insurtech_Risk",
+        "hit_rate": 0.6,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "other",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "other",
+          "Insurtech_Risk",
+          "other",
+          "Insurtech_Risk"
+        ]
+      },
+      "P22B": {
+        "intent": "Insurtech_Risk",
+        "hit_rate": 0.5,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "Insurtech_Risk",
+          "other",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "other",
+          "other",
+          "Insurtech_Risk",
+          "other"
+        ]
+      },
+      "P23A": {
+        "intent": "Open_Banking",
+        "hit_rate": 0.5,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "other",
+          "other",
+          "other",
+          "Open_Banking",
+          "Open_Banking",
+          "other"
+        ]
+      },
+      "P23B": {
+        "intent": "Open_Banking",
+        "hit_rate": 0.5,
+        "breadth": 3,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "CBDC_Monetary",
+          "Open_Banking",
+          "other",
+          "Credit_Lending",
+          "other"
+        ]
+      },
+      "P24A": {
+        "intent": "Open_Banking",
+        "hit_rate": 0.6,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "DeFi_Blockchain",
+          "Open_Banking",
+          "Open_Banking",
+          "other",
+          "other",
+          "other",
+          "Open_Banking"
+        ]
+      },
+      "P24B": {
+        "intent": "Open_Banking",
+        "hit_rate": 0.7,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Open_Banking",
+          "Open_Banking",
+          "other",
+          "CBDC_Monetary",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "other",
+          "Open_Banking"
+        ]
+      },
+      "P25A": {
+        "intent": "RegTech",
+        "hit_rate": 0.2,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "other",
+          "RegTech",
+          "other",
+          "RegTech",
+          "other",
+          "other",
+          "other",
+          "other",
+          "other"
+        ]
+      },
+      "P25B": {
+        "intent": "RegTech",
+        "hit_rate": 0.2,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "other",
+          "other",
+          "RegTech",
+          "RegTech",
+          "other",
+          "other",
+          "other",
+          "other",
+          "other"
+        ]
+      }
+    },
+    "mean_hit_rate": 0.65,
+    "mean_breadth": 1.52
+  },
+  "google_scholar": {
+    "per_query": {
+      "P01A": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P01B": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.8,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P02A": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P02B": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P03A": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 1,
+        "cluster_assignments": [
+          "DeFi_Blockchain"
+        ]
+      },
+      "P03B": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P04A": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P04B": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P05A": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P05B": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P06A": {
+        "intent": "Credit_Lending",
+        "hit_rate": 0.8,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "other",
+          "Credit_Lending",
+          "Credit_Lending",
+          "other",
+          "Credit_Lending",
+          "Credit_Lending"
+        ]
+      },
+      "P06B": {
+        "intent": "Credit_Lending",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "other",
+          "Credit_Lending"
+        ]
+      },
+      "P07A": {
+        "intent": "Credit_Lending",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending"
+        ]
+      },
+      "P07B": {
+        "intent": "Credit_Lending",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending"
+        ]
+      },
+      "P08A": {
+        "intent": "Credit_Lending",
+        "hit_rate": 0.7,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "other",
+          "Credit_Lending",
+          "other",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending"
+        ]
+      },
+      "P08B": {
+        "intent": "Credit_Lending",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending"
+        ]
+      },
+      "P09A": {
+        "intent": "Credit_Lending",
+        "hit_rate": 0.5,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "other",
+          "RegTech",
+          "Credit_Lending",
+          "RegTech",
+          "Credit_Lending",
+          "RegTech",
+          "Credit_Lending",
+          "Credit_Lending",
+          "other"
+        ]
+      },
+      "P09B": {
+        "intent": "Credit_Lending",
+        "hit_rate": 0.7,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Credit_Lending",
+          "Credit_Lending",
+          "Credit_Lending",
+          "RegTech",
+          "Credit_Lending",
+          "Credit_Lending",
+          "other",
+          "Credit_Lending",
+          "Credit_Lending",
+          "RegTech"
+        ]
+      },
+      "P10A": {
+        "intent": "Fraud_Detection",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection"
+        ]
+      },
+      "P10B": {
+        "intent": "Fraud_Detection",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection"
+        ]
+      },
+      "P11A": {
+        "intent": "Fraud_Detection",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 1,
+        "cluster_assignments": [
+          "Fraud_Detection"
+        ]
+      },
+      "P11B": {
+        "intent": "Fraud_Detection",
+        "hit_rate": 0.8,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Fraud_Detection",
+          "other",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "other",
+          "Fraud_Detection",
+          "Fraud_Detection"
+        ]
+      },
+      "P12A": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "other",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P12B": {
+        "intent": "DeFi_Blockchain",
+        "hit_rate": 0.7,
+        "breadth": 3,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "Fraud_Detection",
+          "DeFi_Blockchain",
+          "Credit_Lending",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "Credit_Lending",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P13A": {
+        "intent": "Algo_Trading",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "other",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading"
+        ]
+      },
+      "P13B": {
+        "intent": "Algo_Trading",
+        "hit_rate": 0.8,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "Algo_Trading",
+          "Algo_Trading"
+        ]
+      },
+      "P14A": {
+        "intent": "Algo_Trading",
+        "hit_rate": 0.8,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "Algo_Trading",
+          "Algo_Trading",
+          "other",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading"
+        ]
+      },
+      "P14B": {
+        "intent": "Algo_Trading",
+        "hit_rate": 0.8,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "other",
+          "other"
+        ]
+      },
+      "P15A": {
+        "intent": "Algo_Trading",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 1,
+        "cluster_assignments": [
+          "Algo_Trading"
+        ]
+      },
+      "P15B": {
+        "intent": "Algo_Trading",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading",
+          "Algo_Trading"
+        ]
+      },
+      "P16A": {
+        "intent": "CBDC_Monetary",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary"
+        ]
+      },
+      "P16B": {
+        "intent": "CBDC_Monetary",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary"
+        ]
+      },
+      "P17A": {
+        "intent": "CBDC_Monetary",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "other",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary"
+        ]
+      },
+      "P17B": {
+        "intent": "CBDC_Monetary",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary",
+          "CBDC_Monetary"
+        ]
+      },
+      "P18A": {
+        "intent": "RegTech",
+        "hit_rate": 0.5,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "RegTech",
+          "RegTech",
+          "Credit_Lending",
+          "other",
+          "RegTech",
+          "RegTech",
+          "other",
+          "other",
+          "RegTech",
+          "other"
+        ]
+      },
+      "P18B": {
+        "intent": "RegTech",
+        "hit_rate": 0.6,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "RegTech",
+          "other",
+          "RegTech",
+          "other",
+          "RegTech",
+          "other",
+          "RegTech",
+          "other",
+          "RegTech",
+          "RegTech"
+        ]
+      },
+      "P19A": {
+        "intent": "Fraud_Detection",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "other",
+          "Fraud_Detection",
+          "Fraud_Detection"
+        ]
+      },
+      "P19B": {
+        "intent": "Fraud_Detection",
+        "hit_rate": 0.8,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "other",
+          "Fraud_Detection",
+          "Fraud_Detection",
+          "DeFi_Blockchain",
+          "Fraud_Detection",
+          "Fraud_Detection"
+        ]
+      },
+      "P20A": {
+        "intent": "RegTech",
+        "hit_rate": 0.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "other",
+          "other",
+          "other",
+          "other",
+          "other",
+          "other",
+          "Insurtech_Risk",
+          "other",
+          "other"
+        ]
+      },
+      "P20B": {
+        "intent": "RegTech",
+        "hit_rate": 0.0,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Fraud_Detection",
+          "other",
+          "Credit_Lending",
+          "Credit_Lending",
+          "other",
+          "Fraud_Detection",
+          "other",
+          "other",
+          "Fraud_Detection",
+          "Fraud_Detection"
+        ]
+      },
+      "P21A": {
+        "intent": "Insurtech_Risk",
+        "hit_rate": 0.5,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "DeFi_Blockchain",
+          "Insurtech_Risk",
+          "DeFi_Blockchain",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P21B": {
+        "intent": "Insurtech_Risk",
+        "hit_rate": 0.1,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "Insurtech_Risk",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain",
+          "DeFi_Blockchain"
+        ]
+      },
+      "P22A": {
+        "intent": "Insurtech_Risk",
+        "hit_rate": 0.8,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "other",
+          "Fraud_Detection",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk"
+        ]
+      },
+      "P22B": {
+        "intent": "Insurtech_Risk",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk",
+          "Insurtech_Risk"
+        ]
+      },
+      "P23A": {
+        "intent": "Open_Banking",
+        "hit_rate": 0.9,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Open_Banking",
+          "Open_Banking",
+          "Credit_Lending",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking"
+        ]
+      },
+      "P23B": {
+        "intent": "Open_Banking",
+        "hit_rate": 0.9,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Credit_Lending",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking"
+        ]
+      },
+      "P24A": {
+        "intent": "Open_Banking",
+        "hit_rate": 1.0,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking"
+        ]
+      },
+      "P24B": {
+        "intent": "Open_Banking",
+        "hit_rate": 0.9,
+        "breadth": 1,
+        "k": 10,
+        "cluster_assignments": [
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "Open_Banking",
+          "other",
+          "Open_Banking",
+          "Open_Banking"
+        ]
+      },
+      "P25A": {
+        "intent": "RegTech",
+        "hit_rate": 0.2,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "other",
+          "RegTech",
+          "other",
+          "other",
+          "other",
+          "RegTech",
+          "other",
+          "Algo_Trading",
+          "other",
+          "other"
+        ]
+      },
+      "P25B": {
+        "intent": "RegTech",
+        "hit_rate": 0.1,
+        "breadth": 2,
+        "k": 10,
+        "cluster_assignments": [
+          "Algo_Trading",
+          "other",
+          "Algo_Trading",
+          "other",
+          "other",
+          "RegTech",
+          "other",
+          "other",
+          "other",
+          "other"
+        ]
+      }
+    },
+    "mean_hit_rate": 0.8,
+    "mean_breadth": 1.3
+  }
+}

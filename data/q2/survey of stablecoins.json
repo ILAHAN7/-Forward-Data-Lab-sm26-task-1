@@ -1,0 +1,1618 @@
+{
+  "papers": [
+    {
+      "title": "A Systematic Literature Review of Empirical Research on Stablecoins",
+      "authors": [
+        {
+          "name": "Lennart Ante",
+          "id": "113611772"
+        },
+        {
+          "name": "Ingo Fiedler",
+          "id": "1741406448"
+        },
+        {
+          "name": "Jan M. Willruth",
+          "id": "2200624941"
+        },
+        {
+          "name": "Fred Steinmetz",
+          "id": "2064432463"
+        }
+      ],
+      "year": 2023,
+      "venue": "FinTech",
+      "score": 0.9865488864929458,
+      "abstract": "This study reviews the current state of empirical literature on stablecoins. Based on a sample of 22 peer-reviewed articles, we analyze statistical approaches, data sources, variables, and metrics, as well as stablecoin types investigated and future research avenues. The analysis reveals three major clusters: (1) studies on the stability or volatility of different stablecoins, their designs, and safe-haven-properties, (2) the interrelations of stablecoins with other crypto assets and markets, specifically Bitcoin, and (3) the relationship of stablecoins with (non-crypto) macroeconomic factors. Based on our analysis, we note future research should explore diverse methodological approaches, data sources, different stablecoins, or more granular datasets and identify five topics we consider most significant and promising: (1) the use of stablecoins in emerging markets, (2) the effect of stablecoins on the stability of currencies, (3) analyses of stablecoin users, (4) adoption and use cases of stablecoins outside of crypto markets, and (5) algorithmic stablecoins.",
+      "corpusId": 255732420,
+      "url": "https://pdfs.semanticscholar.org/703a/9a39bf9d79c4fc8cd09b7ff6391945b94486.pdf"
+    },
+    {
+      "title": "What is Stablecoin?: A Survey on Price Stabilization Mechanisms for Decentralized Payment Systems",
+      "authors": [
+        {
+          "name": "Makiko Mita",
+          "id": "147540327"
+        },
+        {
+          "name": "Kensuke Ito",
+          "id": "2111419787"
+        },
+        {
+          "name": "Shohei Ohsawa",
+          "id": "2058088"
+        },
+        {
+          "name": "Hideyuki Tanaka",
+          "id": "152801227"
+        }
+      ],
+      "year": 2019,
+      "venue": "IIAI International Conference on Advanced Applied Informatics",
+      "score": 0.9810014963979626,
+      "abstract": "Since the first theoretical concept of blockchains was proposed, over 100 digital currencies have been issued by online platformers as cryptocurrencies and traded by online consumers mainly in emerging countries. From the perspective of online payment systems, several studies have regarded blockchains as decentralized payment systems (DPSs), enabling international payment with lower cost and higher traceability with sophisticated peer-to-peer protocols in contrast to other centralized systems. Despite the advantages, DPSs are not chosen by the owners of online shops due to the high volatility of cryptocurrency prices. Stablecoins are cryptocurrencies with price stabilization mechanisms to match the price of another currency with lower volatility. Our motivation is to gather various price stabilization mechanisms for the purpose of comparing them from the perspective of implementation and enterprise usage. After dividing the methods into four collateral types (fiat, crypto, commodity, and non-collateralized) and two layers (protocol and application), we show that non-collateralized stablecoin on the application layer is the simplest approach for implementation. Moreover, we discuss their connection with traditional economic studies on Hayek money, Seigniorage Share, and Tobin tax. Some current stablecoin projects are also discussed and compared. This is the first survey of stablecoins to the best of our knowledge.",
+      "corpusId": 189898088,
+      "url": "https://api.semanticscholar.org/CorpusId:189898088"
+    },
+    {
+      "title": "Stablecoins 2.0: Economic Foundations and Risk-based Models",
+      "authors": [
+        {
+          "name": "Ariah Klages-Mundt",
+          "id": "1419721052"
+        },
+        {
+          "name": "D. Harz",
+          "id": "47185343"
+        },
+        {
+          "name": "L. Gudgeon",
+          "id": "115386340"
+        },
+        {
+          "name": "Jun-You Liu",
+          "id": "2108365175"
+        },
+        {
+          "name": "Andreea Minca",
+          "id": "40460441"
+        }
+      ],
+      "year": 2020,
+      "venue": "Conference on Advances in Financial Technologies",
+      "score": 0.980132888141275,
+      "abstract": "Stablecoins are one of the most widely capitalized type of cryptocurrency. However, their risks vary significantly according to their design and are often poorly understood. We seek to provide a sound foundation for stablecoin theory, with a risk-based functional characterization of the economic structure of stablecoins. First, we match existing economic models to the disparate set of custodial systems. Next, we characterize the unique risks that emerge in non-custodial stablecoins and develop a model framework that unifies existing models from economics and computer science. We further discuss how this modeling framework is applicable to a wide array of cryptoeconomic systems, including cross-chain protocols, collateralized lending, and decentralized exchanges. These unique risks yield unanswered research questions that will form the crux of research in decentralized finance going forward.",
+      "corpusId": 219965898,
+      "url": "http://dl.acm.org/citation.cfm?id=3423261"
+    },
+    {
+      "title": "A Classification Framework for Stablecoin Designs",
+      "authors": [
+        {
+          "name": "Amani Moin",
+          "id": "119750095"
+        },
+        {
+          "name": "E. G. Sirer",
+          "id": "3326762"
+        },
+        {
+          "name": "Kevin Sekniqi",
+          "id": "3482466"
+        }
+      ],
+      "year": 2019,
+      "venue": "Financial Cryptography",
+      "score": 0.9796389992048553,
+      "abstract": "Stablecoins promise to bridge fiat currencies with the world of cryptocurrencies. They provide a way for users to take advantage of the benefits of digital currencies, such as ability to transfer assets over the internet, provide assurance on minting schedules and scarcity, and enable new asset classes, while also partially mitigating their volatility risks. In this paper, we systematically discuss general design, decompose existing stablecoins into various component design elements, explore their strengths and drawbacks, and identify future directions.",
+      "corpusId": 211143957,
+      "url": "https://arxiv.org/pdf/1910.10098.pdf"
+    },
+    {
+      "title": "In Search for Stability in Crypto-Assets: Are Stablecoins the Solution?",
+      "authors": [
+        {
+          "name": "Dirk Bullmann",
+          "id": "1387153373"
+        },
+        {
+          "name": "J. Klemm",
+          "id": "2071714318"
+        },
+        {
+          "name": "A. Pinna",
+          "id": "50693419"
+        }
+      ],
+      "year": 2019,
+      "venue": "Social Science Research Network",
+      "score": 0.9763273881269173,
+      "abstract": "",
+      "corpusId": 203469212,
+      "url": "https://doi.org/10.2139/ssrn.3444847"
+    },
+    {
+      "title": "Stablecoins: Fundamentals, Emerging Issues, and Open Challenges",
+      "authors": [
+        {
+          "name": "Ahmed Mahrous",
+          "id": "2267583833"
+        },
+        {
+          "name": "Maurantonio Caprolu",
+          "id": "88727359"
+        },
+        {
+          "name": "Roberto Di Pietro",
+          "id": "2239503106"
+        }
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "score": 0.9751209429666698,
+      "abstract": "Stablecoins, with a capitalization exceeding 200 billion USD as of January 2025, have shown significant growth, with annual transaction volumes exceeding 10 trillion dollars in 2023 and nearly doubling that figure in 2024. This exceptional success has attracted the attention of traditional financial institutions, with an increasing number of governments exploring the potential of Central Bank Digital Currencies (CBDCs). Although academia has recognized the importance of stablecoins, research in this area remains fragmented, incomplete, and sometimes contradictory. In this paper, we aim to address the cited gap with a structured literature analysis, correlating recent contributions to present a picture of the complex economic, technical, and regulatory aspects of stablecoins. To achieve this, we formulate the main research questions and categorize scientific contributions accordingly, identifying main results, data sources, methodologies, and open research questions. The research questions we address in this survey paper cover several topics, such as the stability of various stablecoins, novel designs and implementations, and relevant regulatory challenges. The studies employ a wide range of methodologies and data sources, which we critically analyze and synthesize. Our analysis also reveals significant research gaps, including limited studies on security and privacy, underexplored stablecoins, unexamined failure cases, unstudied governance mechanisms, and the treatment of stablecoins under financial accounting standards, among other areas.",
+      "corpusId": 280049598,
+      "url": "https://api.semanticscholar.org/CorpusId:280049598"
+    },
+    {
+      "title": "SoK: Stablecoin Designs, Risks, and the Stablecoin LEGO",
+      "authors": [
+        {
+          "name": "Shengchen Ling",
+          "id": "2370935383"
+        },
+        {
+          "name": "Yuefeng Du",
+          "id": "2111745166"
+        },
+        {
+          "name": "Yajin Zhou",
+          "id": "152641282"
+        },
+        {
+          "name": "Lei Wu",
+          "id": "2370950079"
+        },
+        {
+          "name": "Cong Wang",
+          "id": "2332529141"
+        },
+        {
+          "name": "Xiaohua Jia",
+          "id": "2152322296"
+        },
+        {
+          "name": "Houmin Yan",
+          "id": "2260335944"
+        }
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "score": 0.972968249291512,
+      "abstract": "Stablecoins have become significant assets in modern finance, with a market capitalization exceeding USD 246 billion (May 2025). Yet, despite their systemic importance, a comprehensive and risk-oriented understanding of crucial aspects like their design trade-offs, security dynamics, and interdependent failure pathways often remains underdeveloped. This SoK confronts this gap through a large-scale analysis of 157 research studies, 95 active stablecoins, and 44 major security incidents. Our analysis establishes four pivotal insights: 1) stability is best understood not an inherent property but an emergent, fragile state reliant on the interplay between market confidence and continuous liquidity; 2) stablecoin designs demonstrate trade-offs in risk specialization instead of mitigation; 3) the widespread integration of yield mechanisms imposes a\"dual mandate\"that creates a systemic tension between the core mission of stability and the high-risk financial engineering required for competitive returns; and 4) major security incidents act as acute\"evolutionary pressures\", forging resilience by stress-testing designs and aggressively redefining the security frontier. We introduce the Stablecoin LEGO framework, a quantitative methodology mapping historical failures to current designs. Its application reveals that a lower assessed risk strongly correlates with integrating lessons from past incidents. We hope this provides a systematic foundation for building, evaluating, and regulating more resilient stablecoins.",
+      "corpusId": 280000117,
+      "url": "https://api.semanticscholar.org/CorpusId:280000117"
+    },
+    {
+      "title": "Monetary Stabilization in Cryptocurrencies – Design Approaches and Open Questions",
+      "authors": [
+        {
+          "name": "I. Pernice",
+          "id": "121160410"
+        },
+        {
+          "name": "Sebastian A. Henningsen",
+          "id": "40444471"
+        },
+        {
+          "name": "Roman Proskalovich",
+          "id": "121605790"
+        },
+        {
+          "name": "Martin Florian",
+          "id": "1792092"
+        },
+        {
+          "name": "Hermann W. Elendner",
+          "id": "116699057"
+        },
+        {
+          "name": "Björn Scheuermann",
+          "id": "1776439"
+        }
+      ],
+      "year": 2019,
+      "venue": "Crypto Valley Conference on Blockchain Technology",
+      "score": 0.9719588177407427,
+      "abstract": "The price volatility of cryptocurrencies is often cited as a major hindrance to their wide-scale adoption. Consequently, during the last two years, multiple so called stablecoins have surfaced – cryptocurrencies focused on maintaining stable exchange rates. In this paper, we systematically explore and analyze the stablecoin landscape. Based on a survey of 24 specific stablecoin projects, we go beyond individual coins for extracting general concepts and approaches. We combine our findings with learnings from classical monetary policy, resulting in a comprehensive taxonomy of cryptocurrency stabilization. We use our taxonomy to highlight the current state of development from different perspectives and show blank spots. For instance, while over 91% of projects promote 1-to-1 stabilization targets to external assets, monetary policy literature suggests that the smoothing of short term volatility is often a more sustainable alternative. Our taxonomy bridges computer science and economics, fostering the transfer of expertise. For example, we find that 38% of the reviewed projects use a combination of exchange rate targeting and specific stabilization techniques that can render them vulnerable to speculative economic attacks – an avoidable design flaw.",
+      "corpusId": 167217286,
+      "url": "https://api.semanticscholar.org/CorpusId:167217286"
+    },
+    {
+      "title": "Some Simple Economics of Stablecoins",
+      "authors": [
+        {
+          "name": "Christian Catalini",
+          "id": "2142201"
+        },
+        {
+          "name": "A. de Gortari",
+          "id": "1741314922"
+        },
+        {
+          "name": "Nihar Shah",
+          "id": "2114063503"
+        }
+      ],
+      "year": 2022,
+      "venue": "Social Science Research Network",
+      "score": 0.9701617122870293,
+      "abstract": "",
+      "corpusId": 245416451,
+      "url": "https://doi.org/10.2139/ssrn.3985699"
+    },
+    {
+      "title": "Reducing the Volatility of Cryptocurrencies - A Survey of Stablecoins",
+      "authors": [
+        {
+          "name": "Ayten Kahya",
+          "id": "2051805528"
+        },
+        {
+          "name": "B. Krishnamachari",
+          "id": "1701475"
+        },
+        {
+          "name": "Seokgu Yun",
+          "id": "1830391567"
+        }
+      ],
+      "year": 2021,
+      "venue": "arXiv.org",
+      "score": 0.9698974052995536,
+      "abstract": "In the wake of financial crises, stablecoins are gaining adoption among digital currencies. We discuss how stablecoins help reduce the volatility of cryptocurrencies by surveying different types of stablecoins and their stability mechanisms. We classify different approaches to stablecoins in three main categories i) fiat or asset backed, ii) crypto-collateralized and iii) algorithmic stablecoins, giving examples of concrete projects in each class. We assess the relative tradeoffs between the different approaches. We also discuss challenges associated with the future of stablecoins and their adoption, their adoption and point out future research directions.",
+      "corpusId": 232092643,
+      "url": "https://api.semanticscholar.org/CorpusId:232092643"
+    },
+    {
+      "title": "SoK: Stablecoins in Retail Payments",
+      "authors": [
+        {
+          "name": "Yuquan Li",
+          "id": "2395718508"
+        },
+        {
+          "name": "Yuexin Xiang",
+          "id": "2398000358"
+        },
+        {
+          "name": "Qin Wang",
+          "id": "2342983646"
+        },
+        {
+          "name": "Tsz Hon Yuen",
+          "id": "1742143"
+        },
+        {
+          "name": "A. Deppeler",
+          "id": "102344005"
+        },
+        {
+          "name": "Jiangshan Yu",
+          "id": "2269420884"
+        }
+      ],
+      "year": 2026,
+      "venue": "unknown",
+      "score": 0.9695641690192053,
+      "abstract": "Stablecoins have emerged as a rapidly growing digital payment instrument, raising the question of whether blockchain-based settlement can function as a substitute for incumbent card networks in retail payments. This Systematization of Knowledge (SoK) provides a systematic comparison between stablecoin payment arrangements and card networks by situating both within a unified analytical framework. We first map their respective payment infrastructures, participant roles, and transaction lifecycles, highlighting fundamental differences in how authorization, settlement, and recourse are organized. Building on this mapping, we introduce the CLEAR framework, which evaluates retail payment systems across five dimensions: cost, legality, experience, architecture, and reach. Our analysis shows that stablecoins deliver efficient, continuous, and programmable settlement, often compressing rail-level merchant fees and enabling 24/7 value transfer. However, these advantages are accompanied by an inversion of the traditional pricing and risk-allocation structure. Card networks internalize consumer-side frictions through subsidies, standardized liability rules, and post-transaction recourse, thereby supporting mass-market adoption. Stablecoin arrangements, by contrast, externalize transaction fees, error prevention, and dispute resolution to users, intermediaries, and courts, resulting in weaker consumer protection, higher cognitive burden at the point of interaction, and fragmented acceptance. Accordingly, stablecoins exhibit a conditional comparative advantage in closed-loop environments, cross-border corridors, and high-friction payment contexts, but remain structurally disadvantaged as open-loop retail payment instruments.",
+      "corpusId": 284475336,
+      "url": "https://api.semanticscholar.org/CorpusId:284475336"
+    },
+    {
+      "title": "A Review on Decentralized Finance Ecosystems",
+      "authors": [
+        {
+          "name": "Andry Alamsyah",
+          "id": "51448419"
+        },
+        {
+          "name": "Gede Natha Wijaya Kusuma",
+          "id": "2289550642"
+        },
+        {
+          "name": "D. P. Ramadhani",
+          "id": "51432790"
+        }
+      ],
+      "year": 2024,
+      "venue": "Future Internet",
+      "score": 0.9683649857424736,
+      "abstract": "The future of the internet is moving toward decentralization, with decentralized networks and blockchain technology playing essential roles in different sectors. Decentralized networks offer equality, accessibility, and security at a societal level, while blockchain technology guarantees security, authentication, and openness. Integrating blockchain technology with decentralized characteristics has become increasingly significant in finance; we call this “decentralized finance” (DeFi). As of January 2023, the DeFi crypto market capitalized USD 46.21 billion and served over 6.6 million users. As DeFi continues to outperform traditional finance (TradFi), it provides reduced fees, increased inclusivity, faster transactions, enhanced security, and improved accessibility, transparency, and programmability; it also eliminates intermediaries. For end users, DeFi presents asset custody options, peer-to-peer transactions, programmable control features, and innovative financial solutions. Despite its rapid growth in recent years, there is limited comprehensive research on mapping DeFi’s benefits and risks alongside its role as an enabling technology within the financial services sector. This research addresses these gaps by developing a DeFi classification system, organizing information, and clarifying connections among its various aspects. The research goal is to improve the understanding of DeFi in both academic and industrial circles to promote comprehension of DeFi taxonomy. This well-organized DeFi taxonomy aids experts, regulators, and decision-makers in making informed and strategic decisions, thereby fostering responsible integration into TradFi for effective risk management. This study enhances DeFi security by providing users with clear guidance on existing mechanisms and risks in DeFi, reducing susceptibility to misinformation, and promoting secure participation. Additionally, it offers an overview of DeFi’s role in shaping the future of the internet.",
+      "corpusId": 268185735,
+      "url": "https://api.semanticscholar.org/CorpusId:268185735"
+    },
+    {
+      "title": "From Tether to Libra: Stablecoins, Digital Currency and the Future of Money",
+      "authors": [
+        {
+          "name": "A. Lipton",
+          "id": "39013717"
+        },
+        {
+          "name": "Aetienne Sardon",
+          "id": "1720801402"
+        },
+        {
+          "name": "Fabian Schär",
+          "id": "2083839088"
+        },
+        {
+          "name": "Christian Schüpbach",
+          "id": "1725008521"
+        }
+      ],
+      "year": 2020,
+      "venue": "arXiv.org",
+      "score": 0.9670647071416361,
+      "abstract": "This paper provides an overview on stablecoins and introduces a novel terminology to help better identify stablecoins with truly disruptive potential. It provides a compact definition for stablecoins, identifying the unique features that make them distinct from previously known payment systems. Furthermore, it surveys the different use cases for stablecoins as well as the underlying economic incentives for creating them. Finally, it outlines critical regulatory considerations that constrain stablecoins and summarizes key factors that are driving their rapid development.",
+      "corpusId": 218900856,
+      "url": "https://api.semanticscholar.org/CorpusId:218900856"
+    },
+    {
+      "title": "Economic Nature and Classification of Stablecoins",
+      "authors": [
+        {
+          "name": "D. Kochergin",
+          "id": "2106578020"
+        }
+      ],
+      "year": 2020,
+      "venue": "Finance: Theory and Practice",
+      "score": 0.9659689832873107,
+      "abstract": "The article discusses the nature of stablecoins and their specifics in the financial market. The aim of the article is to reveal the economic nature and characteristics of various types of stablecoins. The author used system-functional and system-structural research methods as well as methods of statistical analysis and synthesis. The paper analyses different approaches to the interpretation of stablecoins and their regulation in developed countries, as well as provides the author’s interpretation and classification of stablecoins. The article analyses the main indicators of stablecoins and identifies the potential benefits and risks associated with payment. The conclusion is that stablecoins are to be interpreted as a new hybrid type of digital financial assets. Stablecoins are not homogeneous and may have different economic and legal characteristics. Clearly identified blockchain-based issuers issue most stablecoins as tradable digital bonds or depository receipts that can be used as a means of exchange, savings, and payment. The major economic and functional criteria for the classification of stablecoins are: the form of collateral, the category of users, and the scale of circulation. The research has shown that currently the most widely used are centralized stablecoins, backed by fiat currencies and gold, used for exchange transactions and retail payments. Local stablecoins are primarily a store of value and a medium of exchange. Their widespread use can significantly affect the development of the crypto-asset market by increasing its liquidity and stimulating the development of more stable forms of digital financial assets. Global stablecoins may gain widespread use as a cross-border means of payment. They can increase the speed of crossborder settlements and reduce their costs, as well as provide wider financial inclusion for users without bank accounts. To realize the potential benefits of stablecoins, one should address the legal, regulatory and supervisory challenges associated with national and cross-border circulation of stablecoins.",
+      "corpusId": 230578288,
+      "url": "https://api.semanticscholar.org/CorpusId:230578288"
+    },
+    {
+      "title": "Decentralized Finance (DeFi): A Survey",
+      "authors": [
+        {
+          "name": "E. Jiang",
+          "id": "2228519340"
+        },
+        {
+          "name": "Bo Qin",
+          "id": "144704897"
+        },
+        {
+          "name": "Qin Wang",
+          "id": "1832563310"
+        },
+        {
+          "name": "Zhipeng Wang",
+          "id": "2108060369"
+        },
+        {
+          "name": "Qianhong Wu",
+          "id": "35127810"
+        },
+        {
+          "name": "Jian Weng",
+          "id": "2257207775"
+        },
+        {
+          "name": "Xinyu Li",
+          "id": "2198034429"
+        },
+        {
+          "name": "Chenyang Wang",
+          "id": "2318237847"
+        },
+        {
+          "name": "Yuhang Ding",
+          "id": "2157762060"
+        },
+        {
+          "name": "Yanran Zhang",
+          "id": "2108155830"
+        }
+      ],
+      "year": 2023,
+      "venue": "IACR Cryptology ePrint Archive",
+      "score": 0.9653195431190632,
+      "abstract": "Decentralized Finance (DeFi) is a new paradigm in the creation, distribution, and utilization of financial services via the integration of blockchain technology. Our research conducts a comprehensive introduction and meticulous classification of various DeFi applications. Beyond that, we thoroughly analyze these risks from both technical and economic perspectives, spanning multiple layers. We point out research gaps and revenues, covering technical advancements, innovative economics, and sociology and ecology optimization.",
+      "corpusId": 260775555,
+      "url": "https://api.semanticscholar.org/CorpusId:260775555"
+    },
+    {
+      "title": "Stablecoins: Classification, functional features and development prospects",
+      "authors": [
+        {
+          "name": "D. Kochergin",
+          "id": "2311531781"
+        },
+        {
+          "name": "A. Ivanova",
+          "id": "2064950766"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of the New Economic Association",
+      "score": 0.9642105694000106,
+      "abstract": "The article is devoted to stablecoins and their prospects for use in the financial market. The authors propose the interpretation and classification of stablecoins and analyze their functional features and development prospects. Also impact of the global economic crisis on stablecoins is analyzed. The findings illustrated that stablecoins differ from traditional electronic money, as well as classic cryptocurrencies, and they can be interpreted as hybrid digital financial assets. Currently, the commonest digital coins with a stable rate are local stablecoins with backing. At the same time, both in terms of capitalization and transaction volume, dominated by centralized fiat-backed and gold-backed stablecoins. Decentralized non-backed stablecoins are not widespread, despite a number of technological innovations that may underlie their stabilization mechanism. The authors have identified main scenarios for the use of local and global stablecoins in the near future. It was observed that at a time of decreased volatility stablecoins are currently predominantly used as a tool to minimize the risk of price volatility in the crypto-assets market. In contrast, the growing interest in applying of global stablecoins under the new reduction volatility mechanisms, may encourage the extensive use of stablecoins in both retail and wholesale payments at the international level. In addition, the development of global stablecoins may entail risks to financial stability and the functioning of monetary systems, to minimize which it is necessary to develop a regulatory framework and financial procedures that take into account the possibility of a wide circulation of stablecoins.",
+      "corpusId": 248072560,
+      "url": "https://api.semanticscholar.org/CorpusId:248072560"
+    },
+    {
+      "title": "The Four Types of Stablecoins: A Comparative Analysis",
+      "authors": [
+        {
+          "name": "Matthias Hafner",
+          "id": "2059108220"
+        },
+        {
+          "name": "Marco Henriques Pereira",
+          "id": "2333756923"
+        },
+        {
+          "name": "H. Dietl",
+          "id": "37795548"
+        },
+        {
+          "name": "Juan Beccuti",
+          "id": "31429271"
+        }
+      ],
+      "year": 2023,
+      "venue": "Ledger",
+      "score": 0.9635685695292036,
+      "abstract": "\n \n \nStablecoins have gained significant popularity recently, with their market cap rising to over $180 billion. However, recent events have raised concerns about their stability. In this paper, we classify stablecoins into four types based on the source and management of collateral and investigate the stability of each type under different conditions. We highlight each type’s potential instabilities and underlying tradeoffs using agent-based simulations. The results emphasize the importance of carefully evaluating the origin of a stablecoin’s collateral and its collateral management mechanism to ensure stability and minimize risks. Enhanced understanding of stablecoins should be informative to regulators, policymakers, and investors alike. \n \n \n",
+      "corpusId": 260886887,
+      "url": "https://api.semanticscholar.org/CorpusId:260886887"
+    },
+    {
+      "title": "Stablecoins As a New Word in the Cryptocurrency Market",
+      "authors": [
+        {
+          "name": "T. A. Gorbacheva",
+          "id": "144318765"
+        }
+      ],
+      "year": 2022,
+      "venue": "Financial Journal",
+      "score": 0.9622152013470904,
+      "abstract": "In the past few years, along with the crypto assets market, a new term has appeared: stablecoins. Unlike cryptocurrencies, however, not so much research has been devoted to this topic. The emergence of global stablecoin projects, a significant increase in the volume of investment initiatives, and growth in the number of transactions have forced central banks to seriously pay attention to these in order to ensure financial stability as one of their functions. This topic is undoubtedly relevant due to the novelty of the concept which has appeared. The purpose of this article is to study the economic essence of stablecoins, their types, and the current state of this market. The methods of comparative analysis as well as critical and systematic approach to the study of information are used in the work. Existing ways to define the concept of stablecoins are investigated. The classifications of stablecoins and the main types of the most reliable coins on the market are examined. The current state of the stablecoin market is analyzed. As a result of the study, a number of conclusions have been made. Despite the lack of a legally fixed and generally accepted definition of stablecoins, in general, stablecoins are tokens secured by different types of assets. The economic essence of stablecoins is revealed through the goals of their creation, types of security and stabilization mechanisms, as well as the nature of the relationship between the issuer and the owner of the stablecoin. Over the past three years, the stablecoin market has grown almost fivefold. Such growth means significant penetration into the payment system, and then into the global financial system, which requires the development of international regulatory standards to minimize possible risks and preserve financial stability. The prospects for the development of stablecoins are associated with the creation and promotion of digital currencies of central banks (central securities) and cross-border payments in one or more central securities.",
+      "corpusId": 247145067,
+      "url": "https://api.semanticscholar.org/CorpusId:247145067"
+    },
+    {
+      "title": "Stablecoins and the Emerging Hybrid Monetary Ecosystems",
+      "authors": [
+        {
+          "name": "Hongzhe Wen",
+          "id": "2363128044"
+        },
+        {
+          "name": "Songbai Li",
+          "id": "2362189536"
+        },
+        {
+          "name": "R.S.M. Lau",
+          "id": "2385465811"
+        },
+        {
+          "name": "Jamie Zhang",
+          "id": "2366438009"
+        }
+      ],
+      "year": 2025,
+      "venue": "unknown",
+      "score": 0.9617601042234566,
+      "abstract": "With market capitalization exceeding USD250 billion by mid-2025, stablecoins have evolved from a crypto-focused innovation into a vital component of the global monetary structure. This paper identifies the characteristics of stablecoins from an analytical perspective and investigates the role of stablecoins in forming a hybrid monetary ecosystem where public (fiat, CBDC) and private (USDC, USDT, DAI) monies coexist. Through a number of econometric analysis models, we find that stablecoins maintain strong peg stability, while each type exhibiting distinctive responses to market variables such as trading volume and capitalization depending on the mechanisms behind. We also introduce a hybrid system design that proposes a two-layer structure, which private stablecoin issuers are backed by central bank reserves, ensuring uniformity, security, and programmability. This model takes advantages of both decentralized finance and payment innovation, while utilizing the Federal Reserve's institutional trust. A case study on the SVB-USDC de-peg event in 2023 illustrates how such a hybrid system could have prevented panic-induced instability through transparent reserves, secured liquidity, and interoperable assets. Through examination of the Dybvig model and simulation, we conclude that a hybrid monetary model not only enhances financial inclusivity, scalability, and dollar utility in digital ecosystems, but it also strengthens systemic resilience, offering a credible blueprint for future digital dollar architectures.",
+      "corpusId": 278715105,
+      "url": "https://api.semanticscholar.org/CorpusId:278715105"
+    },
+    {
+      "title": "SoK: A Structured Analysis of Economic and Technical Stablecoin-Related Research",
+      "authors": [
+        {
+          "name": "Ahmed Mahrous",
+          "id": "2267583833"
+        },
+        {
+          "name": "Maurantonio Caprolu",
+          "id": "88727359"
+        },
+        {
+          "name": "Roberto Di Pietro",
+          "id": "2239503106"
+        }
+      ],
+      "year": 2025,
+      "venue": "International Conference on Blockchain",
+      "score": 0.961184189195223,
+      "abstract": "",
+      "corpusId": 280663718,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11114650"
+    },
+    {
+      "title": "SoK: Stablecoins for Digital Transformation -- Design, Metrics, and Application with Real World Asset Tokenization as a Case Study",
+      "authors": [
+        {
+          "name": "Luyao Zhang",
+          "id": "2318804214"
+        }
+      ],
+      "year": 2025,
+      "venue": "unknown",
+      "score": 0.9610775052080825,
+      "abstract": "Stablecoins have become a foundational component of the digital asset ecosystem, with their market capitalization exceeding 230 billion USD as of May 2025. As fiat-referenced and programmable assets, stablecoins provide low-latency, globally interoperable infrastructure for payments, decentralized finance, DeFi, and tokenized commerce. Their accelerated adoption has prompted extensive regulatory engagement, exemplified by the European Union's Markets in Crypto-assets Regulation, MiCA, the US Guiding and Establishing National Innovation for US Stablecoins Act, GENIUS Act, and Hong Kong's Stablecoins Bill. Despite this momentum, academic research remains fragmented across economics, law, and computer science, lacking a unified framework for design, evaluation, and application. This study addresses that gap through a multi-method research design. First, it synthesizes cross-disciplinary literature to construct a taxonomy of stablecoin systems based on custodial structure, stabilization mechanism, and governance. Second, it develops a performance evaluation framework tailored to diverse stakeholder needs, supported by an open-source benchmarking pipeline to ensure transparency and reproducibility. Third, a case study on Real World Asset tokenization illustrates how stablecoins operate as programmable monetary infrastructure in cross-border digital systems. By integrating conceptual theory with empirical tools, the paper contributes: a unified taxonomy for stablecoin design; a stakeholder-oriented performance evaluation framework; an empirical case linking stablecoins to sectoral transformation; and reproducible methods and datasets to inform future research. These contributions support the development of trusted, inclusive, and transparent digital monetary infrastructure.",
+      "corpusId": 280421983,
+      "url": "https://api.semanticscholar.org/CorpusId:280421983"
+    },
+    {
+      "title": "Deciphering DeFi: A Comprehensive Analysis and Visualization of Risks in Decentralized Finance",
+      "authors": [
+        {
+          "name": "Tim Weingärtner",
+          "id": "2261027723"
+        },
+        {
+          "name": "Fabian Fasser",
+          "id": "2261022218"
+        },
+        {
+          "name": "Pedro Reis Sá da Costa",
+          "id": "2261027383"
+        },
+        {
+          "name": "Walter Farkas",
+          "id": "2412147078"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Risk and Financial Management",
+      "score": 0.960525754309457,
+      "abstract": "Decentralized finance (DeFi) promises a revolution in financial accessibility, transparency, and automation. Yet, its very novelty exposes participants to a number of additional risks and challenges. This study aims to address the risks associated with DeFi, while also conducting a comparative analysis to those of classical/traditional finance (TradFi). After introducing DeFi and its defining characteristics, such as the use of smart contracts, blockchain technology, and decentralized governance, the paper outlines the principal risks associated with DeFi. Drawing insights from an extensive literature review of 200 recent articles, of which 50 were thoroughly analyzed, the study compares risks of DeFi and TradFi, categorizing these into systematic and unsystematic risks. Furthermore, we introduce the ‘risk wheel’, an innovative tool tailored to understand and navigate the subtleties of DeFi risks, finding potential applications in risk assessment, management, and even education. This paper’s primary objective is to provide a detailed and impartial examination of the risks associated with DeFi and their comparison to traditional finance in order to assist stakeholders in making informed decisions and mitigating possible losses.",
+      "corpusId": 264400712,
+      "url": "https://api.semanticscholar.org/CorpusId:264400712"
+    },
+    {
+      "title": "What is Stablecoin?: A Survey on Its Mechanism and Potential as Decentralized Payment Systems",
+      "authors": [
+        {
+          "name": "Kensuke Ito",
+          "id": "2111419787"
+        },
+        {
+          "name": "Makiko Mita",
+          "id": "147540327"
+        },
+        {
+          "name": "Shohei Ohsawa",
+          "id": "2058088"
+        },
+        {
+          "name": "Hideyuki Tanaka",
+          "id": "152801227"
+        }
+      ],
+      "year": 2020,
+      "venue": "International journal of service and knowledge management",
+      "score": 0.9583024779542639,
+      "abstract": "",
+      "corpusId": 238133683,
+      "url": "https://doi.org/10.52731/ijskm.v4.i2.574"
+    },
+    {
+      "title": "SoK: Demystifying Stablecoins",
+      "authors": [
+        {
+          "name": "Jeremy Clark",
+          "id": "2109655642"
+        },
+        {
+          "name": "Didem Demirag",
+          "id": "118233200"
+        },
+        {
+          "name": "Seyedehmahsa Moosavi",
+          "id": "3224745"
+        }
+      ],
+      "year": 2019,
+      "venue": "Social Science Research Network",
+      "score": 0.9549884777599078,
+      "abstract": "",
+      "corpusId": 216655787,
+      "url": "https://doi.org/10.2139/ssrn.3466371"
+    },
+    {
+      "title": "STABLECOINS IN CRYPTOECONOMICS: FROM INITIAL COIN OFFERINGS TO CENTRAL BANK DIGITAL CURRENCIES",
+      "authors": [
+        {
+          "name": "Marco Dell’Erba",
+          "id": "1460142576"
+        }
+      ],
+      "year": 2019,
+      "venue": "unknown",
+      "score": 0.9497871220080227,
+      "abstract": "",
+      "corpusId": 221969251,
+      "url": "https://nyujlpp.org/wp-content/uploads/2019/12/DellErba-Stablecoins-in-Cryptoeconomics-22-nyujllp-1.pdf"
+    },
+    {
+      "title": "Revisiting Stablecoins: Regulation, Risk, and Their Role in Enhancing the Competitiveness of an Investment Portfolio",
+      "authors": [
+        {
+          "name": "Rosario J. Girasa",
+          "id": "121989566"
+        },
+        {
+          "name": "Carol C. Huang",
+          "id": "120218247"
+        },
+        {
+          "name": "Chris, C Hsu",
+          "id": "1741263305"
+        },
+        {
+          "name": "Emilio Collar",
+          "id": "2387561351"
+        }
+      ],
+      "year": 2025,
+      "venue": "International Journal of Global Business and Competitiveness",
+      "score": 0.9492621484576682,
+      "abstract": "",
+      "corpusId": 282354879,
+      "url": "https://doi.org/10.1007/s42943-025-00133-w"
+    },
+    {
+      "title": "A Survey of Blockchain-Based Stablecoin: Cryptocurrencies and Central Bank Digital Currencies",
+      "authors": [
+        {
+          "name": "Jin-ling Zhu",
+          "id": "2312342775"
+        },
+        {
+          "name": "Jun Zou",
+          "id": "2114312957"
+        },
+        {
+          "name": "Yingxia Jing",
+          "id": "2099677436"
+        },
+        {
+          "name": "Weiwei Yao",
+          "id": "2217099646"
+        },
+        {
+          "name": "Yifan Mo",
+          "id": "83188074"
+        },
+        {
+          "name": "Zibin Zheng",
+          "id": "2148256392"
+        }
+      ],
+      "year": 2022,
+      "venue": "International Conference on Blockchain and Trustworthy Systems",
+      "score": 0.9485019998075962,
+      "abstract": "",
+      "corpusId": 254593145,
+      "url": "https://doi.org/10.1007/978-981-19-8043-5_13"
+    },
+    {
+      "title": "On The Legislation Prospective For Consumer Protection Of Stablecoin",
+      "authors": [
+        {
+          "name": "Zhiqin Shi",
+          "id": "2110399759"
+        },
+        {
+          "name": "Weiping He",
+          "id": "48591223"
+        },
+        {
+          "name": "Josephine Liu",
+          "id": "2108420592"
+        }
+      ],
+      "year": 2021,
+      "venue": "International Congress on Blockchain and Applications",
+      "score": 0.9445053871264636,
+      "abstract": "",
+      "corpusId": 246290976,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9680548"
+    },
+    {
+      "title": "The State Of Stablecoins- Why They Matter & Five Use Cases",
+      "authors": [
+        {
+          "name": "S. Irfan",
+          "id": "2395824665"
+        },
+        {
+          "name": "Robert E. Lin",
+          "id": "2068169226"
+        },
+        {
+          "name": "Mark Conrad",
+          "id": "48635465"
+        }
+      ],
+      "year": 2019,
+      "venue": "unknown",
+      "score": 0.9421801156904761,
+      "abstract": "Price-stable cryptocurrencies, commonly referred to as stablecoins, have received a significant amount of attention recently. Much of this has been in hopes that they can fix some of the issues with cryptocurrency—most notably price instability. However, little analysis has been done with respect to the drivers and investment potential of stablecoins. Stablecoins fulfill different functions of money based on their implementation. As a result, they have unique trade-offs from one another and from physical currency (fiat) itself. Stablecoins offer a similar value proposition to fiat, but the two should not be compared on a one-to-one basis as stablecoins contain unique trade-offs and benefits. These differences will drive the demand for these tokens while enabling specific use cases. The purpose of this paper is to shed light on the adoption and the potential of market share growth for stablecoins given five selected use cases: dollarization, smart contracts, peer to peer (P2P) and peer to business (P2B payments), safe haven for exchanges, and as a reserve currency. We will discuss the opportunities within each of these use cases and assess the factors which will determine the success of stablecoins. Using insights contained in this paper, technologists can think about how best to position themselves in the short, medium, and long term.",
+      "corpusId": 201270557,
+      "url": "https://api.semanticscholar.org/CorpusId:201270557"
+    },
+    {
+      "title": "11. Stablecoins, Digital Currency, and the Future of Money",
+      "authors": [
+        {
+          "name": "A. Lipton",
+          "id": "39013717"
+        },
+        {
+          "name": "Aetienne Sardon",
+          "id": "1720801402"
+        },
+        {
+          "name": "Fabian Schär",
+          "id": "2083839088"
+        },
+        {
+          "name": "Christian Schüpbach",
+          "id": "1725008521"
+        }
+      ],
+      "year": 2020,
+      "venue": "unknown",
+      "score": 0.9382665180425073,
+      "abstract": "",
+      "corpusId": 225936007,
+      "url": "https://api.semanticscholar.org/CorpusId:225936007"
+    },
+    {
+      "title": "The Trilemma of Stablecoin",
+      "authors": [
+        {
+          "name": "Yujin Kwon",
+          "id": "2115207047"
+        },
+        {
+          "name": "Jihee Kim",
+          "id": "120086176"
+        },
+        {
+          "name": "Yongdae Kim",
+          "id": "2107910879"
+        },
+        {
+          "name": "D. Song",
+          "id": "143711382"
+        }
+      ],
+      "year": 2021,
+      "venue": "Social Science Research Network",
+      "score": 0.9359252387602595,
+      "abstract": "",
+      "corpusId": 244973782,
+      "url": "https://doi.org/10.2139/ssrn.3917430"
+    },
+    {
+      "title": "Stablecoins for Transferring Value in the Cryptocurrency Market",
+      "authors": [
+        {
+          "name": "Peerapat Wattanasin",
+          "id": "2203023864"
+        },
+        {
+          "name": "Pongsakorn Limna",
+          "id": "2148362795"
+        },
+        {
+          "name": "Pongsakorn Limna",
+          "id": "2148362795"
+        }
+      ],
+      "year": 2024,
+      "venue": "KnE Social Sciences",
+      "score": 0.40269801170190583,
+      "abstract": "Stablecoins have gained prominence as an effective means to mitigate the inherent volatility in the cryptocurrency markets by providing a stable and reliable medium for value preservation and transfer. This research paper investigates the attributes that render stablecoins a preferable vehicle for value retention and transaction within these markets. By employing a quantitative methodology, this study collected data through surveys, with a sample size of 714 individuals chosen via purposive sampling techniques. To analyze the data, both descriptive and inferential statistical methods were applied. The demographic profiles of the sample were summarized using descriptive statistics such as frequencies and percentages. For examining the relationships between demographic factors (such as gender, age, education, income, and place of residence) and the perceived efficacy of stablecoins, inferential techniques including Chi-square tests and logistic regression were utilized. The logistic regression analysis specifically assessed how these variables influenced the likelihood of participants favoring stablecoins for financial transactions. The results indicate that the preference for stablecoins as a means of holding or transferring value within the cryptocurrency domain in Thailand varies significantly across different demographic groups, specifically influenced by factors such as gender, education, income, and place of residence. These outcomes provide insightful implications concerning the demographic influences on the adoption and utilization of stablecoins in financial activities. \nKeywords: stablecoin, holding, transferring, value, cryptocurrency market",
+      "corpusId": 273417768,
+      "url": "https://api.semanticscholar.org/CorpusId:273417768"
+    },
+    {
+      "title": "Does the Design of Stablecoins Impact Their Volatility?",
+      "authors": [
+        {
+          "name": "Klaudia Jarno",
+          "id": "121184397"
+        },
+        {
+          "name": "Hanna Kołodziejczyk",
+          "id": "2085164940"
+        }
+      ],
+      "year": 2021,
+      "venue": "Journal of Risk and Financial Management",
+      "score": 0.4015019465715578,
+      "abstract": "In this paper, we shall compare the average volatility that characterises the main stablecoin design types with a view to answering the question of whether all stablecoin designs accomplish the goal of minimising their price fluctuations to the same degree. Our research is motivated by the lack of rigorous studies comparing volatility of different stablecoin types stressed in the literature as well as the practical importance of such a comparison from the investors’ viewpoint. We opted for a standard volatility measure, i.e., standard deviation of return rates, corrected it for autocorrelation, and detected differences between distributions of the measure in three stablecoin groups using various non-parametric tests, i.e., the Kruskal–Wallis test, the bootstrap F-test, post-hoc tests and non-parametric contrasts. We proved that stablecoins do not deliver equally on the promise to provide stable market value with tokenised funds being leaders. Tokenised funds design involves complete coverage of the stablecoin supply in units of the currency of reference as well as great dependence on the trusted third-party acting as a trustee for the collateral. Our study reveals that existing complex stablecoins designs hardly compete with this simple design in terms of volatility.",
+      "corpusId": 234123411,
+      "url": "https://pdfs.semanticscholar.org/3aa9/57950a3803745c9b623524c23fc9ca4086d8.pdf"
+    },
+    {
+      "title": "Stablecoins: Growth Potential and Impact on Banking",
+      "authors": [
+        {
+          "name": "Gordon Y. Liao",
+          "id": "46617236"
+        },
+        {
+          "name": "John Caramichael",
+          "id": "2135251017"
+        }
+      ],
+      "year": 2022,
+      "venue": "International Finance Discussion Paper",
+      "score": 0.400183268438547,
+      "abstract": "Stablecoins have experienced tremendous growth in the past year, serving as a possible breakthrough innovation in the future of payments. In this paper, we discuss the current use cases and growth opportunities of stablecoins, and we analyze the potential for stablecoins to broadly impact the banking system. The impact of stablecoin adoption on traditional banking and credit provision can vary depending on the sources of inflow and the composition of stablecoin reserves. Among the various scenarios, a two-tiered banking system can both support stablecoin issuance and maintain traditional forms of credit creation. In contrast, a narrow bank approach for digital currencies can lead to disintermediation of traditional banking, but may provide the most stable peg to fiat currencies. Additionally, dollar-pegged stablecoins backed by adequately safe and liquid collateral can potentially serve as a digital safe haven currency during periods of crypto market distress.",
+      "corpusId": 246518865,
+      "url": "https://doi.org/10.17016/ifdp.2022.1334"
+    },
+    {
+      "title": "Anatomy of a Stablecoin's failure: the Terra-Luna case",
+      "authors": [
+        {
+          "name": "Antonio Briola",
+          "id": "1816753523"
+        },
+        {
+          "name": "David Vidal-Tom'as",
+          "id": "2179443176"
+        },
+        {
+          "name": "Yuanrong Wang",
+          "id": "2146016329"
+        },
+        {
+          "name": "T. Aste",
+          "id": "8903071"
+        }
+      ],
+      "year": 2022,
+      "venue": "Finance Research Letters",
+      "score": 0.3999086834817671,
+      "abstract": "We quantitatively describe the main events that led to the Terra project's failure in May 2022. We first review, in a systematic way, news from heterogeneous social media sources; we discuss the fragility of the Terra project and its vicious dependence on the Anchor protocol. We hence identify the crash's trigger events, analysing hourly and transaction data for Bitcoin, Luna, and TerraUSD. Finally, using state-of-the-art techniques from network science, we study the evolution of dependency structures for 61 highly capitalised cryptocurrencies during the down-market and we also highlight the absence of herding behaviour analysing cross-sectional absolute deviation of returns.",
+      "corpusId": 251135283,
+      "url": "https://arxiv.org/pdf/2207.13914.pdf"
+    },
+    {
+      "title": "Collateral Portfolio Optimization in Crypto-Backed Stablecoins",
+      "authors": [
+        {
+          "name": "B. Hajek",
+          "id": "2214204863"
+        },
+        {
+          "name": "Daniël Reijsbergen",
+          "id": "3160578"
+        },
+        {
+          "name": "Anwitaman Datta",
+          "id": "145688317"
+        },
+        {
+          "name": "Jussi Keppo",
+          "id": "2276927653"
+        }
+      ],
+      "year": 2024,
+      "venue": "MaRBLe",
+      "score": 0.3986930599081967,
+      "abstract": "Stablecoins - crypto tokens whose value is pegged to a real-world asset such as the US Dollar - are an important component of the DeFi ecosystem as they mitigate the impact of token price volatility. In crypto-backed stablecoins, the peg is founded on the guarantee that in case of system shutdown, each stablecoin can be exchanged for a basket of other crypto tokens worth approximately its nominal value. However, price fluctuations that affect the collateral tokens may cause this guarantee to be invalidated. In this work, we investigate the impact of the collateral portfolio's composition on the resilience to this type of catastrophic event. For stablecoins whose developers maintain a significant portion of the collateral (e.g., MakerDAO's Dai), we propose two portfolio optimization methods, based on convex optimization and (semi)variance minimization, that account for the correlation between the various token prices. We compare the optimal portfolios to the historical evolution of Dai's collateral portfolio, and to aid reproducibility, we have made our data and code publicly available.",
+      "corpusId": 269761564,
+      "url": "https://api.semanticscholar.org/CorpusId:269761564"
+    },
+    {
+      "title": "Cross-sectional data on stablecoin characteristics",
+      "authors": [
+        {
+          "name": "Katarzyna Włosik",
+          "id": "1413285758"
+        },
+        {
+          "name": "Blanka Łęt",
+          "id": "93141674"
+        },
+        {
+          "name": "Konrad Sobański",
+          "id": "2102274401"
+        },
+        {
+          "name": "Wojciech Świder",
+          "id": "2076263531"
+        }
+      ],
+      "year": 2022,
+      "venue": "F1000Research",
+      "score": 0.39807969983104563,
+      "abstract": "The article presents a dataset on the characteristics of stablecoins. Stablecoins represent a relatively young but increasingly important branch of the cryptocurrency market. Although they all share the same goal of maintaining a stable value in the digital market, they form a highly heterogeneous group. They differ in terms of collateral and stabilization mechanism, peg, availability of the technical documentation, presence on crypto exchanges or age. The dataset is cross-sectional and was created based on internet research. Individual information was collected from websites of the stablecoin projects and a crypto-data aggregator, and to a lesser extent from other auxiliary sources (websites related to finance and cryptocurrencies). The dataset is unique as there are no publicly available databases encompassing the features of stablecoins. It can be used in all stablecoin-related analyses to characterise the examined coins and to investigate the relationship between cryptocurrency market developments and stablecoin features.",
+      "corpusId": 252977356,
+      "url": "https://api.semanticscholar.org/CorpusId:252977356"
+    },
+    {
+      "title": "Analysis of the Possible Demand of Stablecoins",
+      "authors": [
+        {
+          "name": "Hantian Zhang",
+          "id": "2016429687"
+        }
+      ],
+      "year": 2023,
+      "venue": "Advances in Economics, Management and Political Sciences",
+      "score": 0.39513812976831664,
+      "abstract": "Stablecoins, which are anchored by certain assets, have been gaining market attention in recent years as a branch of cryptocurrencies. The dollar domination in currency markets exists in cryptocurrency since some mainstream stablecoins anchor dollar. Looking back to when the Bretton Woods system was established, the dollar was pegged to gold and gradually became the worlds main currency. Dollar-based global stablecoins havent been completely developed, and their use on a global scale carries financial risks. This paper discusses the objectives of stablecoins and the differences between vision and reality based on existing literature and research data. In the process of realizing price stability, stablecoins also generate credit risk, and fall into the logical dilemma that leaving fiat currency and achieving price stability cannot be achieved simultaneously. This paper suggests that the compromise of stablecoin to centralization can solve part of current problems. Nevertheless, decentralization needs to be studied continuously in order to achieve stablecoins objectives.",
+      "corpusId": 259798768,
+      "url": "https://api.semanticscholar.org/CorpusId:259798768"
+    },
+    {
+      "title": "“Shiny” crypto assets: A systemic look at gold-backed cryptocurrencies during the COVID-19 pandemic",
+      "authors": [
+        {
+          "name": "A. Jalan",
+          "id": "120902403"
+        },
+        {
+          "name": "R. Matkovskyy",
+          "id": "69924584"
+        },
+        {
+          "name": "L. Yarovaya",
+          "id": "89235719"
+        }
+      ],
+      "year": 2021,
+      "venue": "International Review of Financial Analysis",
+      "score": 0.39507982182433743,
+      "abstract": "In this paper, we empirically analyse the performance of five gold-backed stablecoins during the COVID-19 pandemic and compare them to gold, Bitcoin and Tether. In the digital assets' ecosystem, gold-backed cryptocurrencies have the potential to address regulatory and policy concerns by decreasing volatility of cryptocurrency prices and facilitating broader cryptocurrency adoption. We find that during the COVID-19 pandemic, gold-backed cryptocurrencies were susceptible to volatility transmitted from gold markets. Our results indicate that for the selected gold-backed cryptocurrencies, their volatility, and as a consequence, risks associated with volatility, remained comparable to the Bitcoin. In addition, gold-backed cryptocurrencies did not show safe-haven potential comparable to their underlying precious metal, gold.",
+      "corpusId": 233749539,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/36532660"
+    },
+    {
+      "title": "SoK: Decentralized Finance (DeFi)",
+      "authors": [
+        {
+          "name": "Sam M. Werner",
+          "id": "34699197"
+        },
+        {
+          "name": "Daniel Perez",
+          "id": "144355279"
+        },
+        {
+          "name": "L. Gudgeon",
+          "id": "115386340"
+        },
+        {
+          "name": "Ariah Klages-Mundt",
+          "id": "1419721052"
+        },
+        {
+          "name": "D. Harz",
+          "id": "47185343"
+        },
+        {
+          "name": "W. Knottenbelt",
+          "id": "1786779"
+        }
+      ],
+      "year": 2021,
+      "venue": "Conference on Advances in Financial Technologies",
+      "score": 0.3938458480025937,
+      "abstract": "Decentralized Finance (DeFi), a blockchain powered peer-to-peer financial system, is mushrooming. Two years ago the total value locked in DeFi systems was approximately 700m USD, now, as of April 2022, it stands at around 150bn USD. The frenetic evolution of the ecosystem has created challenges in understanding the basic principles of these systems and their security risks. In this Systematization of Knowledge (SoK) we delineate the DeFi ecosystem along the following axes: its primitives, its operational protocol types and its security. We provide a distinction between technical security, which has a healthy literature, and economic security, which is largely unexplored, connecting the latter with new models and thereby synthesizing insights from computer science, economics and finance. Finally, we outline the open research challenges in the ecosystem across these security types.",
+      "corpusId": 231662215,
+      "url": "http://dl.acm.org/citation.cfm?id=3559780"
+    },
+    {
+      "title": "What Drives the (In)stability of a Stablecoin?",
+      "authors": [
+        {
+          "name": "Yujin Kwon",
+          "id": "2115207047"
+        },
+        {
+          "name": "Kornrapat Pongmala",
+          "id": "2185412746"
+        },
+        {
+          "name": "Kaihua Qin",
+          "id": "151484842"
+        },
+        {
+          "name": "Ariah Klages-Mundt",
+          "id": "1419721052"
+        },
+        {
+          "name": "Philipp Jovanovic",
+          "id": "31329226"
+        },
+        {
+          "name": "Christine A. Parlour",
+          "id": "2206185"
+        },
+        {
+          "name": "Arthur Gervais",
+          "id": "39000631"
+        },
+        {
+          "name": "D. Song",
+          "id": "2112739603"
+        }
+      ],
+      "year": 2023,
+      "venue": "International Conference on Blockchain",
+      "score": 0.3924038947626927,
+      "abstract": "In May 2022, an apparent speculative attack, followed by market panic, led to the precipitous downfall of UST, one of the most popular stablecoins at that time. However, UST is not the only stablecoin to have been depegged in the past. Designing resilient and long-term stable coins, therefore, appears to present a hard challenge. To further scrutinize existing stablecoin designs and ultimately lead to more robust systems, we need to understand where volatility emerges. Our work provides a game-theoretical model aiming to help identify why stablecoins suffer from a depeg. This game-theoretical model reveals that stablecoins have different price equilibria depending on the coin’s architecture and mechanism to minimize volatility. Moreover, our theory is supported by extensive empirical data, spanning 1 year. To that end, we collect daily prices for 22 stablecoins and on-chain data from five blockchains including the Ethereum and the Terra blockchain.",
+      "corpusId": 260125147,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10634419"
+    },
+    {
+      "title": "Modeling and Analysis of Crypto-Backed Over-Collateralized Stable Derivatives in DeFi",
+      "authors": [
+        {
+          "name": "Zhen-Hua Feng",
+          "id": "2366134823"
+        },
+        {
+          "name": "Hardhik Mohanty",
+          "id": "2106411757"
+        },
+        {
+          "name": "Bhaskar Krishnamachari",
+          "id": "2174866863"
+        }
+      ],
+      "year": 2024,
+      "venue": "Frontiers Blockchain",
+      "score": 0.39122587240627094,
+      "abstract": "In decentralized finance (DeFi), stablecoins like DAI are designed to offer a stable value amidst the fluctuating nature of cryptocurrencies. We examine the class of crypto-backed stable derivatives, focusing on mechanisms for price stabilization and exemplified by the well-known stablecoin DAI from MakerDAO. For simplicity, we consider a single-collateral setting. We introduce a belief parameter to the simulation model of DAI in a previous work (DAISIM), reflecting market sentiments about the value and stability of DAI, and show that it better matches the expected behavior when this parameter is set within a particular range of values. Our methods include comparing simulated data with real-world data, focusing on monthly correlations between ETH and DAI prices and scatter plots illustrating the relationship of their price trends over time. We also propose a simple mathematical model of DAI price to explain its stability and dependency on ETH price. Finally, we analyze possible risk factors associated with these stable derivatives to provide valuable insights for stakeholders in the DeFi ecosystem.",
+      "corpusId": 268041278,
+      "url": "https://api.semanticscholar.org/CorpusId:268041278"
+    },
+    {
+      "title": "Exploring the Security Issues of Real World Assets (RWA)",
+      "authors": [
+        {
+          "name": "Shijian Chen",
+          "id": "2275539463"
+        },
+        {
+          "name": "Muhui Jiang",
+          "id": "20723566"
+        },
+        {
+          "name": "Xiapu Luo",
+          "id": "2277571024"
+        }
+      ],
+      "year": 2024,
+      "venue": "DeFi@CCS",
+      "score": 0.3905187757916588,
+      "abstract": "Having real-world assets (RWA) tokenized on blockchains has recently been intensively discussed and recognized by DeFi ecosystem and traditional financial institutions as the next growth frontier, with its total value locked (TVL) surpassing \\2.5 billion as of September 30, 2023. However, the operational mechanics and security issues of RWA remain largely uncharted. To fill this gap, we propose the ever-first research on its anatomy and security issues. We initially outline two strategies for tokenizing real-world assets, and then we analyze the potential security risks within six associated entities (e.g., investors and smart contracts). Furthermore, we conduct a measurement of 39 mainstream RWA projects and reveal that RWA projects are facing risk deficiencies in areas of on-chain investors, stablecoins, blockchain oracles, project teams, and off-chain assets. Our research proves potential risks and threats in the RWA area and offers guidance for the burgeoning RWA market.",
+      "corpusId": 274166684,
+      "url": "https://api.semanticscholar.org/CorpusId:274166684"
+    },
+    {
+      "title": "Are the stabilities of stablecoins connected?",
+      "authors": [
+        {
+          "name": "B. Thanh",
+          "id": "1834429"
+        },
+        {
+          "name": "Thai Nguyen Vu Hong",
+          "id": "2151124433"
+        },
+        {
+          "name": "H. Pham",
+          "id": "121562159"
+        },
+        {
+          "name": "Thanh Nguyen Cong",
+          "id": "2150728238"
+        },
+        {
+          "name": "Thu Do Thi Anh",
+          "id": "2144324235"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Industrial and Business Economics",
+      "score": 0.38709964720762424,
+      "abstract": "This study analyzes the interconnection of the stability of prominent stablecoins including Tether (USDT), USD Coin (USDC), Paxos Standard (PAX), TrueUSD (TUSD) and DAI from 23/11/2019 to 1/04/2021. We find (i) market price fluctuations vary across stablecoins, (ii) instabilities in USDT and USDC significantly drive those of other stablecoins but less convincing evidence for the reverse impact, and (iii) that increases (decreases) in USDT market prices significantly depress (raise) the market prices of the other stablecoins. Interestingly, the algorithmic stablecoin, DAI, is found to be less stable than its USD-backed counterparts.",
+      "corpusId": 246091774,
+      "url": "https://api.semanticscholar.org/CorpusId:246091774"
+    },
+    {
+      "title": "Stablecoins: legal issues and legal framework",
+      "authors": [
+        {
+          "name": "Гражданский процесс",
+          "id": "2425348209"
+        },
+        {
+          "name": "Irsti",
+          "id": "2295926487"
+        }
+      ],
+      "year": 2023,
+      "venue": "Eurasian Scientific Journal of Law",
+      "score": 0.38543968016800445,
+      "abstract": "This study is devoted to the legal regulation of one of the types of cryptocurrencies – stablecoins. The article deals with issues of legal nature, essence, as well as relatively limited judicial practice in relation to stablecoins. Stablecoins are digital assets that are designed to maintain a stable value relative to some underlying asset or basket of assets, often through the use of algorithms and market mechanisms. The regulation of stablecoins can vary depending on the jurisdiction in which they are offered and used, as well as the specific features of the stablecoin in question. In general, stablecoins that are designed to function as a medium of exchange, store of value, or unit of account may be subject to financial regulatory requirements, such as anti-money laundering (AML) and know-your-customer (KYC) requirements, as well as licensing and reporting obligations. In the United States, for example, stablecoins that are classified as securities may be subject to regulation by the Securities and Exchange Commission (SEC), while stablecoins that are considered commodities may be subject to regulation by the Commodity Futures Trading Commission (CFTC). Additionally, some stablecoins may be considered to be a type of \"money service business\" and subject to regulation by the Financial Crimes Enforcement Network (FinCEN) [1]. In the European Union, stablecoins may be subject to regulation under the EU's revised Payment Services Directive (PSD2) and the forthcoming Digital Finance Strategy [2]. It is important to note that the regulatory landscape for stablecoins is rapidly evolving, and the specific requirements that apply to a particular stablecoin may depend on a number of factors, including the structure of the stablecoin, the specific legal jurisdiction(s) in which it is offered, and the manner in which it is used. As such, the different approach of countries in the regulation of stablecoins has created the need to study this issue from a legal point of view.",
+      "corpusId": 259943313,
+      "url": "https://api.semanticscholar.org/CorpusId:259943313"
+    },
+    {
+      "title": "Stablecoins, Central Bank Digital Currencies and US Dollar Hegemony",
+      "authors": [
+        {
+          "name": "L. Fantacci",
+          "id": "152135262"
+        },
+        {
+          "name": "Lucio Gobbi",
+          "id": "32197019"
+        }
+      ],
+      "year": 2021,
+      "venue": "Accounting, Economics, and Law: A Convivium",
+      "score": 0.38514368557908113,
+      "abstract": "",
+      "corpusId": 234243603,
+      "url": "https://doi.org/10.1515/AEL-2020-0053"
+    },
+    {
+      "title": "Unveiling the Mechanisms of DAI: A Logic-Based Approach to Stablecoin Analysis",
+      "authors": [
+        {
+          "name": "Francesco De Sclavis",
+          "id": "2176186200"
+        },
+        {
+          "name": "Giuseppe Galano",
+          "id": "2130210220"
+        },
+        {
+          "name": "Aldo Glielmo",
+          "id": "2346587383"
+        },
+        {
+          "name": "Matteo Nardelli",
+          "id": "2266189325"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Conference on Blockchain",
+      "score": 0.3845433588077012,
+      "abstract": "Stablecoins are digital assets designed to maintain a stable value, typically pegged to traditional currencies. Despite their growing prominence, many stablecoins have struggled to consistently meet stability expectations, and their underlying mechanisms often remain opaque and challenging to analyze. This paper focuses on the DAI stablecoin, which combines crypto-collateralization and algorithmic mechanisms. We propose a formal logic-based framework for representing the policies and operations of DAI, implemented in Prolog and released as opensource software. Our framework enables detailed analysis and simulation of DAI’s stability mechanisms, providing a foundation for understanding its robustness and identifying potential vulnerabilities.",
+      "corpusId": 274964887,
+      "url": "https://api.semanticscholar.org/CorpusId:274964887"
+    },
+    {
+      "title": "Stablecoins: Survivorship, Transactions Costs, and Exchange Microstructure",
+      "authors": [
+        {
+          "name": "Bruce Mizrach",
+          "id": "2417948"
+        }
+      ],
+      "year": 2021,
+      "venue": "Social Science Research Network",
+      "score": 0.38412666509557747,
+      "abstract": "This article compares stablecoins to non-digital assets they potentially could displace. We find that the collateral structure of the leading stable coins resembles money market mutual funds, but they hold more cash than most government funds. Tokens with liquid collateral are more stable, yet the overall failure rate is similar to tokens that are not designed to be stable. Centralized and decentralized exchanges are the most active nodes and largest wallets on the blockchain. Four of the top 10 tokens have more concentrated holdings than the US banking system, even though decentralization has been one of the purported goals of digital assets. Turnover on centralized exchanges is significantly higher than popular technology stocks on the Nasdaq, and the share of high frequency trading is similar. Median transfer fees on-chain rose to over $40 in 2021, but have fallen back to single digits. Tether and USD Coin now have significantly lower interchange fees than Venmo. Transactions of under $50,000 generally can be done more cheaply off-chain.",
+      "corpusId": 236580182,
+      "url": "https://api.semanticscholar.org/CorpusId:236580182"
+    },
+    {
+      "title": "Fintech, Risk-Based Thinking and Cyber Risk",
+      "authors": [
+        {
+          "name": "Milena Vučinić",
+          "id": "145643740"
+        },
+        {
+          "name": "Radoica Luburić",
+          "id": "119416157"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Central Banking Theory and Practice",
+      "score": 0.38090349064952933,
+      "abstract": "Abstract Financial technology innovations (Fintech) are changing the provision of traditional financial services. Although they bring with them various benefits and opportunities, they also have weaknesses and pose potential threats to financial systems. The paper examines the latest developments in the area of Fintech and outlines the potential benefits and associated risks. It highlights the vital role of the monetary authorities in the context of the policies and initiatives required in order to modernize the financial system, including research and the potential issuance of central bank digital currency, while simultaneously fulfilling their core objectives of preserving monetary and financial stability. The authors highlight the importance of artificial intelligence in Fintech development. They create a Fintech SWOT to support and analyse the above. It goes on further to explain the new management concept of “Risk-based thinking” as a way to approach these potential opportunities and threats of Fintech. Finally, the paper looks at cyber risk in the Fintech landscape as the latest and potentially greatest threat springing from these turbulent and uncertain times.",
+      "corpusId": 248452676,
+      "url": "https://api.semanticscholar.org/CorpusId:248452676"
+    },
+    {
+      "title": "Stablecoins and Central Bank Digital Currencies: Policy and Regulatory Challenges*",
+      "authors": [
+        {
+          "name": "Barry Eichengreen",
+          "id": "66207189"
+        },
+        {
+          "name": "Ganesh Viswanath-Natraj",
+          "id": "1581733697"
+        }
+      ],
+      "year": 2022,
+      "venue": "Asian Economic Papers",
+      "score": 0.3805194634006524,
+      "abstract": "Abstract Stablecoins and central bank digital currencies are on the horizon in Asia, and in some cases have already arrived. This paper provides new analysis and a critique of the use case for both forms of digital currency. It provides time-varying estimates of devaluation risk for the leading stablecoin, Tether, using data from the futures market. It describes the formidable obstacles to widespread use of central bank digital currencies in cross-border transactions, the context in which their utility is arguably greatest. The bottom line is that significant uncertainties continue to dog the region's digital currency initiatives.",
+      "corpusId": 245866286,
+      "url": "https://doi.org/10.1162/asep_a_00843"
+    },
+    {
+      "title": "Stablecoin-Based Digital Trading and Investment Platforms and Their Potential in Overcoming Sanctions Restrictions",
+      "authors": [
+        {
+          "name": "E. Travkina",
+          "id": "46303366"
+        },
+        {
+          "name": "A. Fiapshev",
+          "id": "100778743"
+        },
+        {
+          "name": "Marianna Belova",
+          "id": "2186929159"
+        }
+      ],
+      "year": 2022,
+      "venue": "Economies",
+      "score": 0.38029030177016454,
+      "abstract": "The current article summarizes the main properties of stablecoins and explores their potential use in digital platforms to solve problems of supporting foreign trade and investment processes in countries subjected to restrictions on a wide range of its interactions with foreign countries, companies and international markets. Empirical results show that gold-backed stablecoins, being effective at hedging assets in certain situations, provide countries with the opportunity to distance themselves from traditional financial institutions and reserve currencies in the context of external operations. Digital trading and investment platforms created on its basis do not exclude the risks inherent to the instrument. Moreover, they are exacerbated by continuing and increasing sanctions pressure on the economy integrated with such platforms. However, at the same time, these assets remain one of the most effective ways to support foreign trade and investment processes in these countries. The thesis is proven using an informalized method based on expert evaluations regarding the possibility of digital platforms overcoming trade and investment sanctions, the effects of which on the Russian economy cannot yet be accurately predicted. The study proposes two scenarios for the development of these platforms, potentially expanding the boundaries of foreign trade and investment interaction of the country subjected to sanctions with international markets.",
+      "corpusId": 252785559,
+      "url": "https://api.semanticscholar.org/CorpusId:252785559"
+    },
+    {
+      "title": "Preferring stablecoin over dollar: Evidence from a survey of Ethereum platform traders",
+      "authors": [
+        {
+          "name": "Feng Jin",
+          "id": "2166716695"
+        },
+        {
+          "name": "Jingwei Li",
+          "id": "2167474894"
+        },
+        {
+          "name": "Yi Xue",
+          "id": "1739107638"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of International Money and Finance",
+      "score": 0.3769234967558653,
+      "abstract": "",
+      "corpusId": 255261027,
+      "url": "https://doi.org/10.1016/j.jimonfin.2022.102796"
+    },
+    {
+      "title": "Beyond the blockchain hype: addressing legal and regulatory challenges",
+      "authors": [
+        {
+          "name": "A. Zhuk",
+          "id": "153570181"
+        }
+      ],
+      "year": 2025,
+      "venue": "SN Social Sciences",
+      "score": 0.3762808597425064,
+      "abstract": "Blockchain technology has gained widespread attention and adoption in various industries. However, despite its potential benefits, there are still numerous challenges and issues that need to be addressed. This paper provides an overview of the legal, regulatory, and technical challenges related to the use of blockchain technology. It explores the challenges associated with privacy, data protection, and data security, and analyses the regulatory challenges and implications. Additionally, it identifies future challenges and issues that may arise in the field of blockchain technology, including the integration with emerging technologies such as the Internet of Things (IoT), artificial intelligence (AI), and big data. The paper concludes by discussing the need for collaboration among stakeholders and the development of comprehensive legal and regulatory frameworks to address the challenges and ensure the successful implementation of blockchain technology in various sectors.",
+      "corpusId": 275805087,
+      "url": "https://api.semanticscholar.org/CorpusId:275805087"
+    },
+    {
+      "title": "A Theoretical Approach to Stablecoin Design via Price Windows",
+      "authors": [
+        {
+          "name": "Katherine Molinet",
+          "id": "2412071978"
+        },
+        {
+          "name": "Aris Filos-Ratsikas",
+          "id": "1403863711"
+        }
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "score": 0.37352507544240193,
+      "abstract": "In this paper, we explore the short- and long-term stability of backed stablecoins offering constant mint and redeem prices to all agents. We refer to such designs as price window-based, since the mint and redeem prices constrain the stablecoin's market equilibrium. We show that, without secondary stabilization mechanisms, price window designs cannot achieve both short- and long-term stability unless they are backed by already-stable reserves. In particular, the mechanism faces a tradeoff: either risk eventual reserve depletion through persistent arbitrage by a speculator, or widen the distance between mint and redeem prices enough to disincentivize arbitrage. In the latter case, however, the market price of the stablecoin inherits the volatility of its backing asset, with fluctuations that can be proportional to the backing asset's own volatility.",
+      "corpusId": 285726191,
+      "url": "https://api.semanticscholar.org/CorpusId:285726191"
+    },
+    {
+      "title": "Stablecoin Billionaires - A Descriptive Analysis of the Ethereum-based Stablecoin Ecosystem",
+      "authors": [
+        {
+          "name": "Anton Wahrstätter",
+          "id": "2088466246"
+        }
+      ],
+      "year": 2020,
+      "venue": "Social Science Research Network",
+      "score": 0.37259237510025245,
+      "abstract": "While Ethereum, the second largest public blockchain after Bitcoin, was experiencing a story of success over the past few years, Stablecoins grew to an integral component within the Ethereum-based decentralized finance (DeFi) ecosystem. Various issuers of cryptographically-secured digital money emerged and in particular Tether, the most widespread dollar-pegged cryptocurrency, received much attention in recent time. Using empirical data broadcasted by seven different Stablecoins and their Smart Contracts, I statistically examine both Ethereum’s Stablecoin landscape as a whole and the individual token ecosystems. By incorporating qualitative information obtained by analyzing the contracts’ Solidity code, I discovered extreme concentrations of power within the token contracts of centralized Stablecoins, while decentralized tokens such as DAI lacked structural power imbalances. Analyzing the costs, empirical data revealed that transfers of Stablecoins that are primarily used in decentralized environments, were on average up to eight times more expensive than those carried out with ‘centralized’ tokens, which could be traced back to an efficiency trade-off in favor of decentralization. Furthermore, I found that emissionand destruction policies have a decisive impact on basic statistical measures such as the mean transfer amount or its standard deviation, both of which depend heavily on the applied distribution mechanism of a token. In an attempt to identify ‘High Rollers’ within the analyzed ecosystem, the exchanges Huobi and Binance were exposed as Stablecoin billionaires, who together control 20 % of Ethereum’s Stablecoin supply. Finally a very unequal distribution of wealth in favour of crypto-exchanges and DeFi applications was revealed.",
+      "corpusId": 233766797,
+      "url": "https://api.semanticscholar.org/CorpusId:233766797"
+    },
+    {
+      "title": "Can Cryptocurrencies Be Green? The Role of Stablecoins Toward a Carbon Footprint and Sustainable Ecosystem",
+      "authors": [
+        {
+          "name": "Dimitrios Koemtzopoulos",
+          "id": "2339889025"
+        },
+        {
+          "name": "Georgia Zournatzidou",
+          "id": "2217725623"
+        },
+        {
+          "name": "Nikolaos Sariannidis",
+          "id": "2326781851"
+        }
+      ],
+      "year": 2025,
+      "venue": "Sustainability",
+      "score": 0.36800720907139994,
+      "abstract": "(1) Background: Cryptocurrencies have a substantial environmental impact. In particular, the mining procedure that is employed to produce and finalize the transaction is energy-intensive and generates carbon emissions. Consequently, the objective of the present investigation is to investigate the function of cryptocurrencies in a sustainable development. This research specifically investigates the function of stablecoins, a novel subject in finance and academia that has the potential to foster a sustainable business environment. (2) Methods: A bibliometric analysis was performed using the R statistical programming language together with the bibliometric tools Biblioshiny and VOSviewer to fulfill the research objective. Data were obtained from the Scopus database, and their selection was completed using the PRISMA methodology. (3) Results: The results of the current research highlight the crucial role of stablecoins in promoting an alternative decentralized financial sector, offering a unique opportunity for the market to create a more inclusive and environmentally friendly financial ecosystem. Moreover, research indicates that stablecoins might convert Ethereum into a stable currency and enhance their ecologically friendly path. (4) Conclusions: Stablecoins have become a crucial tool in the unpredictable bitcoin environment, offering stability in a tumultuous market. The research indicates that users need to acknowledge the sustainability of asset collateral, and so far, only the regulation of stablecoins is progressing in this area.",
+      "corpusId": 275504536,
+      "url": "https://api.semanticscholar.org/CorpusId:275504536"
+    },
+    {
+      "title": "Time-Varying Coefficient DAR Model and Stability Measures for Stablecoin Prices: An Application to Tether",
+      "authors": [
+        {
+          "name": "Antoine Djobenou",
+          "id": "2199118272"
+        },
+        {
+          "name": "Emre Inan",
+          "id": "2199117999"
+        },
+        {
+          "name": "J. Jasiak",
+          "id": "103775962"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of International Money and Finance",
+      "score": 0.3658357620949292,
+      "abstract": "This paper examines the dynamics of Tether, the stablecoin with the largest market capitalization. We show that the distributional and dynamic properties of Tether/USD rates have been evolving from 2017 to 2021. We use local analysis methods to detect and describe the local patterns, such as short-lived trends, time-varying volatility and persistence. To accommodate these patterns, we consider a time varying parameter Double Autoregressive tvDAR(1) model under the assumption of local stationarity of Tether/USD rates. We estimate the tvDAR model non-parametrically and test hypotheses on the functional parameters. In the application to Tether, the model provides a good fit and reliable out-of-sample forecasts at short horizons, while being robust to time-varying persistence and volatility. In addition, the model yields a simple plug-in measure of stability for Tether and other stablecoins for assessing and comparing their stability.",
+      "corpusId": 255372774,
+      "url": "https://api.semanticscholar.org/CorpusId:255372774"
+    },
+    {
+      "title": "Real-time Risk Metrics for Programmatic Stablecoin Crypto Asset-Liability Management (CALM)",
+      "authors": [
+        {
+          "name": "Marcel Bluhm",
+          "id": "50882067"
+        },
+        {
+          "name": "Adrian Cachinero Vasiljevi'c",
+          "id": "2280909924"
+        },
+        {
+          "name": "S. Derivaux",
+          "id": "3132260"
+        },
+        {
+          "name": "Søren Jessen",
+          "id": "2260957832"
+        }
+      ],
+      "year": 2024,
+      "venue": "Social Science Research Network",
+      "score": 0.3625700181004212,
+      "abstract": "Stablecoins have turned out to be the\"killer\"use case of the growing digital asset space. However, risk management frameworks, including regulatory ones, have been largely absent. In this paper, we address the critical question of measuring and managing risk in stablecoin protocols, which operate on public blockchain infrastructure. The on-chain environment makes it possible to monitor risk and automate its management via transparent smart-contracts in real-time. We propose two risk metrics covering capitalization and liquidity of stablecoin protocols. We then explore in a case-study type analysis how our risk management framework can be applied to DAI, the biggest decentralized stablecoin by market capitalisation to-date, governed by MakerDAO. Based on our findings, we recommend that the protocol explores implementing automatic capital buffer adjustments and dynamic maturity gap matching. Our analysis demonstrates the practical benefits for scalable (prudential) risk management stemming from real-time availability of high-quality, granular, tamper-resistant on-chain data in the digital asset space. We name this approach Crypto Asset-Liability Management (CALM).",
+      "corpusId": 267200194,
+      "url": "https://api.semanticscholar.org/CorpusId:267200194"
+    },
+    {
+      "title": "A regulatory and financial stability perspective on global stablecoins",
+      "authors": [
+        {
+          "name": "Mitsutoshi M. Adachi",
+          "id": "119036190"
+        },
+        {
+          "name": "Matteo Cominetta",
+          "id": "118967020"
+        },
+        {
+          "name": "Christoph Kaufmann",
+          "id": "50605318"
+        },
+        {
+          "name": "A. V. D. Kraaij",
+          "id": "2775030"
+        }
+      ],
+      "year": 2020,
+      "venue": "unknown",
+      "score": 0.3609569168765424,
+      "abstract": "",
+      "corpusId": 225908943,
+      "url": "https://api.semanticscholar.org/CorpusId:225908943"
+    },
+    {
+      "title": "Are Stable Coins Stable?",
+      "authors": [
+        {
+          "name": "Usman W. Chohan",
+          "id": "81605006"
+        }
+      ],
+      "year": 2020,
+      "venue": "Social Science Research Network",
+      "score": 0.35961244513338814,
+      "abstract": "",
+      "corpusId": 197801209,
+      "url": "https://doi.org/10.2139/SSRN.3326823"
+    },
+    {
+      "title": "The analysis of diversification properties of stablecoins through the Shannon entropy measure",
+      "authors": [
+        {
+          "name": "Mohavia Ben Amid Sinon",
+          "id": "2304039265"
+        },
+        {
+          "name": "Jules Clement Mba",
+          "id": "2267795830"
+        }
+      ],
+      "year": 2024,
+      "venue": "Knowledge and Information Systems",
+      "score": 0.3587978387116617,
+      "abstract": "The common goal for investors is to minimise the risk and maximise the returns on their investments. This is often achieved through diversification, where investors spread their investments across various assets. This study aims to use the MAD-entropy model to minimise the absolute deviation, maximise the mean return, and maximise the Shannon entropy of the portfolio. The MAD model is used because it is a linear programming model, allowing it to resolve large-scale problems and nonnormally distributed data. Entropy is added to the MAD model because it can better diversify the weight of assets in the portfolios. The analysed portfolios consist of cryptocurrencies, stablecoins, and selected world indices such as the SP500 and FTSE obtained from Yahoo Finance. The models found that stablecoins pegged to the US dollar, followed by stablecoins pegged to gold, are better diversifiers for traditional cryptocurrencies and stocks. These results are probably due to their low volatility compared to the other assets. Findings from this study may assist investors since the MAD-Entropy model outperforms the MAD model by providing more significant portfolio mean returns with minimal risk. Therefore, crypto investors can design a well-diversified portfolio using MAD entropy to reduce unsystematic risk. Further research integrating mad entropy with machine learning techniques may improve accuracy and risk management.",
+      "corpusId": 270154559,
+      "url": "https://api.semanticscholar.org/CorpusId:270154559"
+    },
+    {
+      "title": "Cryptocurrencies and Financial Markets: Assessing Volatility, Risk, and Regulation",
+      "authors": [
+        {
+          "name": "Gauri Singh Bhadauria",
+          "id": "2164451471"
+        },
+        {
+          "name": "S. Divakar",
+          "id": "2363077526"
+        },
+        {
+          "name": "Tushar Eknath Diukar",
+          "id": "2363078092"
+        },
+        {
+          "name": "Abhijit Aditya",
+          "id": "2363076620"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Neonatal Surgery",
+      "score": 0.35531598818266813,
+      "abstract": "",
+      "corpusId": 278850032,
+      "url": "https://doi.org/10.63682/jns.v14i6.3949"
+    },
+    {
+      "title": "Rational Ponzi Games in Algorithmic Stablecoin",
+      "authors": [
+        {
+          "name": "Shange Fu",
+          "id": "9334461"
+        },
+        {
+          "name": "Qin Wang",
+          "id": "2258434078"
+        },
+        {
+          "name": "Jiangshan Yu",
+          "id": "2269420884"
+        },
+        {
+          "name": "Shiping Chen",
+          "id": "2237658510"
+        }
+      ],
+      "year": 2022,
+      "venue": "arXiv.org",
+      "score": 0.3541213915498891,
+      "abstract": "Algorithmic stablecoins (AS) are one special type of stablecoins that are not backed by any asset (equiv. without collateral). They stand to revolutionize the way a sovereign fiat operates. As implemented, these coins are poorly stabilized in most cases, easily deviating from the price target or even falling into a catastrophic collapse (a.k.a. Death spiral), and are as a result dismissed as a Ponzi scheme. However, is this the whole picture? In this paper, we try to reveal the truth and clarify such a deceptive concept. We find that Ponzi is basically a financial protocol that pays existing investors with funds collected from new ones. Running a Ponzi, however, does not necessarily imply that any participant is in any sense losing out, as long as the game can be perpetually rolled over. Economists call such realization as a \\textit{rational Ponzi game}. We thereby propose a rational model in the context of AS and draw its holding conditions. We apply the model to examine: \\textit{whether or not the algorithmic stablecoin is a rational Ponzi game.} Accordingly, we discuss two types of algorithmic stablecoins (\\text{Rebase} \\&\\text{Seigniorage shares}) and dig into the historical market performance of two impactful projects (\\text{Ampleforth} \\&\\text{TerraUSD}, respectively) to demonstrate the effectiveness of our model.",
+      "corpusId": 275590004,
+      "url": "https://api.semanticscholar.org/CorpusId:275590004"
+    },
+    {
+      "title": "Central Bank Digital Currencies: a proper reaction to private digital money?",
+      "authors": [
+        {
+          "name": "S. Cesaratto",
+          "id": "83969149"
+        },
+        {
+          "name": "Eladio Febrero",
+          "id": "116631083"
+        }
+      ],
+      "year": 2023,
+      "venue": "Review of Keynesian Economics",
+      "score": 0.35407292802544726,
+      "abstract": "",
+      "corpusId": 265327823,
+      "url": "https://doi.org/10.4337/roke.2023.04.05"
+    },
+    {
+      "title": "Characteristics of proliferating cryptocurrencies: a comparative study between stable and non-stable cryptocurrencies",
+      "authors": [
+        {
+          "name": "Cheuk Hang Au",
+          "id": "31171308"
+        },
+        {
+          "name": "Gerrard Li",
+          "id": "2209370561"
+        },
+        {
+          "name": "W. Hsu",
+          "id": "2215512585"
+        },
+        {
+          "name": "Po-Hsu Shieh",
+          "id": "2215512250"
+        },
+        {
+          "name": "Kris M. Y. Law",
+          "id": "2244716413"
+        }
+      ],
+      "year": 2024,
+      "venue": "Enterprise Information Systems",
+      "score": 0.3518765013591913,
+      "abstract": "ABSTRACT The emergence of cryptocurrencies has caught the attention worldwide. Some parties have considered issuing cryptocurrencies an excellent opportunity to raise capital and other businesses. However, the factors that foster the proliferation of cryptocurrency are not fully explored. This paper documented a comparative case study of USDT (a successful stablecoin) and EOS (a successful non-stable cryptocurrency). Based on our findings and previous literature, we suggested a Technology-Institution-Market (TIM) framework for cryptocurrency proliferation. We also elaborated on previous FinTech product development and adoption theories and provided some practical implications for cryptocurrency investors, issuers and regulators.",
+      "corpusId": 270131674,
+      "url": "https://api.semanticscholar.org/CorpusId:270131674"
+    },
+    {
+      "title": "Mitigating Cryptocurrency Misuse: A Survey with a Cross-Domain Adaptive Framework",
+      "authors": [
+        {
+          "name": "Vaibhavi Tiwari",
+          "id": "2214761606"
+        },
+        {
+          "name": "Venkata Sai Ram Dasari",
+          "id": "2396514334"
+        },
+        {
+          "name": "Krishanu Agrawal",
+          "id": "2411495984"
+        }
+      ],
+      "year": 2025,
+      "venue": "IEEE Annual Information Technology, Electronics and Mobile Communication Conference",
+      "score": 0.3513064343326681,
+      "abstract": "",
+      "corpusId": 285729781,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11381178"
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "per_query": {
+    "P01A": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P01B": {
+      "matched": 1,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.1
+    },
+    "P02A": {
+      "matched": 1,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.1
+    },
+    "P02B": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P03A": {
+      "matched": 1,
+      "asta_k": 10,
+      "gs_k": 1,
+      "overlap_fraction": 0.1
+    },
+    "P03B": {
+      "matched": 2,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.2
+    },
+    "P04A": {
+      "matched": 2,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.2
+    },
+    "P04B": {
+      "matched": 2,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.2
+    },
+    "P05A": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P05B": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P06A": {
+      "matched": 3,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.3
+    },
+    "P06B": {
+      "matched": 4,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.4
+    },
+    "P07A": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P07B": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P08A": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P08B": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P09A": {
+      "matched": 1,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.1
+    },
+    "P09B": {
+      "matched": 2,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.2
+    },
+    "P10A": {
+      "matched": 4,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.4
+    },
+    "P10B": {
+      "matched": 4,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.4
+    },
+    "P11A": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 1,
+      "overlap_fraction": 0.0
+    },
+    "P11B": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P12A": {
+      "matched": 2,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.2
+    },
+    "P12B": {
+      "matched": 1,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.1
+    },
+    "P13A": {
+      "matched": 4,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.4
+    },
+    "P13B": {
+      "matched": 4,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.4
+    },
+    "P14A": {
+      "matched": 2,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.2
+    },
+    "P14B": {
+      "matched": 1,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.1
+    },
+    "P15A": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 1,
+      "overlap_fraction": 0.0
+    },
+    "P15B": {
+      "matched": 1,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.1
+    },
+    "P16A": {
+      "matched": 2,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.2
+    },
+    "P16B": {
+      "matched": 1,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.1
+    },
+    "P17A": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P17B": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P18A": {
+      "matched": 1,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.1
+    },
+    "P18B": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P19A": {
+      "matched": 2,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.2
+    },
+    "P19B": {
+      "matched": 2,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.2
+    },
+    "P20A": {
+      "matched": 3,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.3
+    },
+    "P20B": {
+      "matched": 1,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.1
+    },
+    "P21A": {
+      "matched": 3,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.3
+    },
+    "P21B": {
+      "matched": 1,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.1
+    },
+    "P22A": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P22B": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P23A": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P23B": {
+      "matched": 1,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.1
+    },
+    "P24A": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P24B": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    },
+    "P25A": {
+      "matched": 1,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.1
+    },
+    "P25B": {
+      "matched": 0,
+      "asta_k": 10,
+      "gs_k": 10,
+      "overlap_fraction": 0.0
+    }
+  },
+  "mean": 0.12,
+  "values": [
+    0.0,
+    0.1,
+    0.1,
+    0.0,
+    0.1,
+    0.2,
+    0.2,
+    0.2,
+    0.0,
+    0.0,
+    0.3,
+    0.4,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.1,
+    0.2,
+    0.4,
+    0.4,
+    0.0,
+    0.0,
+    0.2,
+    0.1,
+    0.4,
+    0.4,
+    0.2,
+    0.1,
+    0.0,
+    0.1,
+    0.2,
+    0.1,
+    0.0,
+    0.0,
+    0.1,
+    0.0,
+    0.2,
+    0.2,
+    0.3,
+    0.1,
+    0.3,
+    0.1,
+    0.0,
+    0.0,
+    0.0,
+    0.1,
+    0.0,
+    0.0,
+    0.1,
+    0.0
+  ]
+}

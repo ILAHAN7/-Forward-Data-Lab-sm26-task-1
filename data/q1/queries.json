@@ -1,0 +1,868 @@
+{
+  "meta": {
+    "generated_at": "2026-05-16T18:03:06Z",
+    "run_id": "20260516_180306",
+    "script": "step1_generate_queries.py",
+    "total_queries": 50,
+    "total_papers": 25,
+    "description": "50 FinTech search queries (25 papers x 2 types) for Asta vs Google Scholar evaluation. Type A = exact paper title (specific), Type B = domain keyword tags (broad)."
+  },
+  "query_type_definitions": {
+    "specific": "Exact paper title — targets precise retrieval, enables ground-truth matching",
+    "broad": "Domain keyword tags — tests general recall, simulates non-expert searcher"
+  },
+  "queries": [
+    {
+      "query_id": "P01A",
+      "query": "Flash Loan Attacks and DeFi Protocol Stability: A Game-Theoretic Analysis",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Flash Loan Attacks and DeFi Protocol Stability: A Game-Theoretic Analysis",
+        "year": 2024,
+        "abstract": "We model flash loan interactions in DeFi protocols using game theory, showing that rational attackers exploit price oracle vulnerabilities to extract value, and propose mechanism design solutions to improve protocol stability.",
+        "domain": [
+          "DeFi",
+          "game theory",
+          "blockchain",
+          "security"
+        ]
+      }
+    },
+    {
+      "query_id": "P01B",
+      "query": "DeFi game theory blockchain",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Flash Loan Attacks and DeFi Protocol Stability: A Game-Theoretic Analysis",
+        "year": 2024,
+        "abstract": "We model flash loan interactions in DeFi protocols using game theory, showing that rational attackers exploit price oracle vulnerabilities to extract value, and propose mechanism design solutions to improve protocol stability.",
+        "domain": [
+          "DeFi",
+          "game theory",
+          "blockchain",
+          "security"
+        ]
+      }
+    },
+    {
+      "query_id": "P02A",
+      "query": "Maximal Extractable Value in Ethereum: Quantification and Mitigation Strategies",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Maximal Extractable Value in Ethereum: Quantification and Mitigation Strategies",
+        "year": 2024,
+        "abstract": "We quantify MEV extraction across Ethereum transactions, analyze its economic impact on retail users, and evaluate Layer 2 rollup solutions as MEV mitigation mechanisms.",
+        "domain": [
+          "MEV",
+          "Ethereum",
+          "blockchain economics",
+          "L2"
+        ]
+      }
+    },
+    {
+      "query_id": "P02B",
+      "query": "MEV Ethereum blockchain economics",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Maximal Extractable Value in Ethereum: Quantification and Mitigation Strategies",
+        "year": 2024,
+        "abstract": "We quantify MEV extraction across Ethereum transactions, analyze its economic impact on retail users, and evaluate Layer 2 rollup solutions as MEV mitigation mechanisms.",
+        "domain": [
+          "MEV",
+          "Ethereum",
+          "blockchain economics",
+          "L2"
+        ]
+      }
+    },
+    {
+      "query_id": "P03A",
+      "query": "Smart Contract Vulnerability Detection Using Graph Neural Networks",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Smart Contract Vulnerability Detection Using Graph Neural Networks",
+        "year": 2023,
+        "abstract": "We propose a GNN-based framework for detecting reentrancy and integer overflow vulnerabilities in Ethereum smart contracts, achieving state-of-the-art F1 scores on benchmark datasets.",
+        "domain": [
+          "smart contracts",
+          "GNN",
+          "vulnerability detection"
+        ]
+      }
+    },
+    {
+      "query_id": "P03B",
+      "query": "smart contracts GNN vulnerability detection",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Smart Contract Vulnerability Detection Using Graph Neural Networks",
+        "year": 2023,
+        "abstract": "We propose a GNN-based framework for detecting reentrancy and integer overflow vulnerabilities in Ethereum smart contracts, achieving state-of-the-art F1 scores on benchmark datasets.",
+        "domain": [
+          "smart contracts",
+          "GNN",
+          "vulnerability detection"
+        ]
+      }
+    },
+    {
+      "query_id": "P04A",
+      "query": "Decentralized Oracle Networks and the Oracle Problem in Blockchain Finance",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Decentralized Oracle Networks and the Oracle Problem in Blockchain Finance",
+        "year": 2023,
+        "abstract": "We analyze the oracle problem in decentralized finance, evaluate existing oracle solutions including Chainlink and UMA, and propose a cryptographic commitment scheme for tamper-resistant price feeds.",
+        "domain": [
+          "oracle problem",
+          "DeFi",
+          "smart contracts",
+          "price feeds"
+        ]
+      }
+    },
+    {
+      "query_id": "P04B",
+      "query": "oracle problem DeFi smart contracts",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Decentralized Oracle Networks and the Oracle Problem in Blockchain Finance",
+        "year": 2023,
+        "abstract": "We analyze the oracle problem in decentralized finance, evaluate existing oracle solutions including Chainlink and UMA, and propose a cryptographic commitment scheme for tamper-resistant price feeds.",
+        "domain": [
+          "oracle problem",
+          "DeFi",
+          "smart contracts",
+          "price feeds"
+        ]
+      }
+    },
+    {
+      "query_id": "P05A",
+      "query": "Stablecoin Design Tradeoffs: Collateralization, Algorithmic Stability, and Systemic Risk",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Stablecoin Design Tradeoffs: Collateralization, Algorithmic Stability, and Systemic Risk",
+        "year": 2024,
+        "abstract": "We evaluate the stability properties of collateral-backed, algorithmic, and hybrid stablecoins using a dynamic systems model, demonstrating conditions under which each design is susceptible to depegging spirals.",
+        "domain": [
+          "stablecoins",
+          "systemic risk",
+          "DeFi",
+          "monetary economics"
+        ]
+      }
+    },
+    {
+      "query_id": "P05B",
+      "query": "stablecoins systemic risk DeFi",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Stablecoin Design Tradeoffs: Collateralization, Algorithmic Stability, and Systemic Risk",
+        "year": 2024,
+        "abstract": "We evaluate the stability properties of collateral-backed, algorithmic, and hybrid stablecoins using a dynamic systems model, demonstrating conditions under which each design is susceptible to depegging spirals.",
+        "domain": [
+          "stablecoins",
+          "systemic risk",
+          "DeFi",
+          "monetary economics"
+        ]
+      }
+    },
+    {
+      "query_id": "P06A",
+      "query": "Disparate Impact and Fairness Constraints in Machine Learning Credit Scoring",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Disparate Impact and Fairness Constraints in Machine Learning Credit Scoring",
+        "year": 2024,
+        "abstract": "We empirically evaluate fairness-aware credit scoring models under ECOA regulatory constraints, showing that standard fairness metrics (demographic parity, equalized odds) are often mutually incompatible.",
+        "domain": [
+          "credit scoring",
+          "fairness",
+          "machine learning",
+          "regulation"
+        ]
+      }
+    },
+    {
+      "query_id": "P06B",
+      "query": "credit scoring fairness machine learning",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Disparate Impact and Fairness Constraints in Machine Learning Credit Scoring",
+        "year": 2024,
+        "abstract": "We empirically evaluate fairness-aware credit scoring models under ECOA regulatory constraints, showing that standard fairness metrics (demographic parity, equalized odds) are often mutually incompatible.",
+        "domain": [
+          "credit scoring",
+          "fairness",
+          "machine learning",
+          "regulation"
+        ]
+      }
+    },
+    {
+      "query_id": "P07A",
+      "query": "Explainable AI for Consumer Credit Decisions: SHAP Values and Regulatory Compliance",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Explainable AI for Consumer Credit Decisions: SHAP Values and Regulatory Compliance",
+        "year": 2023,
+        "abstract": "We apply SHAP-based explanations to gradient boosting credit models and evaluate whether model-agnostic explanations satisfy adverse action notice requirements under the Fair Credit Reporting Act.",
+        "domain": [
+          "XAI",
+          "credit scoring",
+          "SHAP",
+          "regulatory compliance"
+        ]
+      }
+    },
+    {
+      "query_id": "P07B",
+      "query": "XAI credit scoring SHAP",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Explainable AI for Consumer Credit Decisions: SHAP Values and Regulatory Compliance",
+        "year": 2023,
+        "abstract": "We apply SHAP-based explanations to gradient boosting credit models and evaluate whether model-agnostic explanations satisfy adverse action notice requirements under the Fair Credit Reporting Act.",
+        "domain": [
+          "XAI",
+          "credit scoring",
+          "SHAP",
+          "regulatory compliance"
+        ]
+      }
+    },
+    {
+      "query_id": "P08A",
+      "query": "Alternative Data in Credit Underwriting: Rent Payment History and Telecom Data",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Alternative Data in Credit Underwriting: Rent Payment History and Telecom Data",
+        "year": 2023,
+        "abstract": "Using a panel of 2 million US consumers, we estimate the incremental predictive value of rent payment and telecom data for credit scoring thin-file borrowers, with implications for financial inclusion.",
+        "domain": [
+          "alternative data",
+          "credit underwriting",
+          "financial inclusion"
+        ]
+      }
+    },
+    {
+      "query_id": "P08B",
+      "query": "alternative data credit underwriting financial inclusion",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Alternative Data in Credit Underwriting: Rent Payment History and Telecom Data",
+        "year": 2023,
+        "abstract": "Using a panel of 2 million US consumers, we estimate the incremental predictive value of rent payment and telecom data for credit scoring thin-file borrowers, with implications for financial inclusion.",
+        "domain": [
+          "alternative data",
+          "credit underwriting",
+          "financial inclusion"
+        ]
+      }
+    },
+    {
+      "query_id": "P09A",
+      "query": "Buy Now Pay Later Regulatory Frameworks: Consumer Protection and Credit Risk",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Buy Now Pay Later Regulatory Frameworks: Consumer Protection and Credit Risk",
+        "year": 2024,
+        "abstract": "We compare BNPL regulatory approaches across the US, EU, and Australia, analyze default risk patterns using transaction-level data, and assess systemic risk from BNPL integration with traditional credit markets.",
+        "domain": [
+          "BNPL",
+          "regulation",
+          "consumer credit",
+          "financial risk"
+        ]
+      }
+    },
+    {
+      "query_id": "P09B",
+      "query": "BNPL regulation consumer credit",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Buy Now Pay Later Regulatory Frameworks: Consumer Protection and Credit Risk",
+        "year": 2024,
+        "abstract": "We compare BNPL regulatory approaches across the US, EU, and Australia, analyze default risk patterns using transaction-level data, and assess systemic risk from BNPL integration with traditional credit markets.",
+        "domain": [
+          "BNPL",
+          "regulation",
+          "consumer credit",
+          "financial risk"
+        ]
+      }
+    },
+    {
+      "query_id": "P10A",
+      "query": "Graph Neural Networks for Real-Time Transaction Fraud Detection",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Graph Neural Networks for Real-Time Transaction Fraud Detection",
+        "year": 2024,
+        "abstract": "We model payment networks as dynamic heterogeneous graphs and apply temporal GNNs to detect fraudulent transactions with sub-millisecond latency, outperforming XGBoost baselines on industry datasets.",
+        "domain": [
+          "fraud detection",
+          "GNN",
+          "real-time",
+          "payment systems"
+        ]
+      }
+    },
+    {
+      "query_id": "P10B",
+      "query": "fraud detection GNN real-time",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Graph Neural Networks for Real-Time Transaction Fraud Detection",
+        "year": 2024,
+        "abstract": "We model payment networks as dynamic heterogeneous graphs and apply temporal GNNs to detect fraudulent transactions with sub-millisecond latency, outperforming XGBoost baselines on industry datasets.",
+        "domain": [
+          "fraud detection",
+          "GNN",
+          "real-time",
+          "payment systems"
+        ]
+      }
+    },
+    {
+      "query_id": "P11A",
+      "query": "Federated Learning for Cross-Institutional Financial Fraud Detection with Differential Privacy",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Federated Learning for Cross-Institutional Financial Fraud Detection with Differential Privacy",
+        "year": 2024,
+        "abstract": "We develop a federated learning framework allowing banks to collaboratively train fraud detection models without sharing customer data, using DP-SGD to provide formal privacy guarantees.",
+        "domain": [
+          "federated learning",
+          "fraud detection",
+          "differential privacy",
+          "finance"
+        ]
+      }
+    },
+    {
+      "query_id": "P11B",
+      "query": "federated learning fraud detection differential privacy",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Federated Learning for Cross-Institutional Financial Fraud Detection with Differential Privacy",
+        "year": 2024,
+        "abstract": "We develop a federated learning framework allowing banks to collaboratively train fraud detection models without sharing customer data, using DP-SGD to provide formal privacy guarantees.",
+        "domain": [
+          "federated learning",
+          "fraud detection",
+          "differential privacy",
+          "finance"
+        ]
+      }
+    },
+    {
+      "query_id": "P12A",
+      "query": "Multichain DeFi Fraud Detection Using Machine Learning on On-Chain Data",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Multichain DeFi Fraud Detection Using Machine Learning on On-Chain Data",
+        "year": 2023,
+        "abstract": "We extract behavioral features from Ethereum, BSC, and Polygon transactions across 23 DeFi protocols to train XGBoost and neural network classifiers for detecting rug pulls and wash trading.",
+        "domain": [
+          "DeFi",
+          "fraud detection",
+          "blockchain analytics",
+          "machine learning"
+        ]
+      }
+    },
+    {
+      "query_id": "P12B",
+      "query": "DeFi fraud detection blockchain analytics",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Multichain DeFi Fraud Detection Using Machine Learning on On-Chain Data",
+        "year": 2023,
+        "abstract": "We extract behavioral features from Ethereum, BSC, and Polygon transactions across 23 DeFi protocols to train XGBoost and neural network classifiers for detecting rug pulls and wash trading.",
+        "domain": [
+          "DeFi",
+          "fraud detection",
+          "blockchain analytics",
+          "machine learning"
+        ]
+      }
+    },
+    {
+      "query_id": "P13A",
+      "query": "Transformer Architectures for High-Frequency Stock Price Prediction Using Limit Order Book Data",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Transformer Architectures for High-Frequency Stock Price Prediction Using Limit Order Book Data",
+        "year": 2024,
+        "abstract": "We apply Transformer and Temporal Fusion Transformer models to predict mid-price movements from limit order book snapshots at millisecond resolution, achieving superior performance over LSTM baselines.",
+        "domain": [
+          "algorithmic trading",
+          "Transformer",
+          "limit order book",
+          "price prediction"
+        ]
+      }
+    },
+    {
+      "query_id": "P13B",
+      "query": "algorithmic trading Transformer limit order book",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Transformer Architectures for High-Frequency Stock Price Prediction Using Limit Order Book Data",
+        "year": 2024,
+        "abstract": "We apply Transformer and Temporal Fusion Transformer models to predict mid-price movements from limit order book snapshots at millisecond resolution, achieving superior performance over LSTM baselines.",
+        "domain": [
+          "algorithmic trading",
+          "Transformer",
+          "limit order book",
+          "price prediction"
+        ]
+      }
+    },
+    {
+      "query_id": "P14A",
+      "query": "Deep Reinforcement Learning for Portfolio Optimization Under Transaction Costs",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Deep Reinforcement Learning for Portfolio Optimization Under Transaction Costs",
+        "year": 2023,
+        "abstract": "We formulate multi-asset portfolio optimization as a Markov Decision Process and train a proximal policy optimization agent that learns to trade while minimizing transaction costs and maximizing risk-adjusted returns.",
+        "domain": [
+          "reinforcement learning",
+          "portfolio optimization",
+          "algorithmic trading"
+        ]
+      }
+    },
+    {
+      "query_id": "P14B",
+      "query": "reinforcement learning portfolio optimization algorithmic trading",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Deep Reinforcement Learning for Portfolio Optimization Under Transaction Costs",
+        "year": 2023,
+        "abstract": "We formulate multi-asset portfolio optimization as a Markov Decision Process and train a proximal policy optimization agent that learns to trade while minimizing transaction costs and maximizing risk-adjusted returns.",
+        "domain": [
+          "reinforcement learning",
+          "portfolio optimization",
+          "algorithmic trading"
+        ]
+      }
+    },
+    {
+      "query_id": "P15A",
+      "query": "Sentiment Analysis of Financial News for Stock Return Prediction Using Large Language Models",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Sentiment Analysis of Financial News for Stock Return Prediction Using Large Language Models",
+        "year": 2024,
+        "abstract": "We fine-tune FinBERT and GPT-based models on financial news corpora to predict next-day stock returns, analyzing whether LLM-derived sentiment factors generate alpha beyond traditional momentum signals.",
+        "domain": [
+          "NLP",
+          "sentiment analysis",
+          "stock prediction",
+          "LLM",
+          "finance"
+        ]
+      }
+    },
+    {
+      "query_id": "P15B",
+      "query": "NLP sentiment analysis stock prediction",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Sentiment Analysis of Financial News for Stock Return Prediction Using Large Language Models",
+        "year": 2024,
+        "abstract": "We fine-tune FinBERT and GPT-based models on financial news corpora to predict next-day stock returns, analyzing whether LLM-derived sentiment factors generate alpha beyond traditional momentum signals.",
+        "domain": [
+          "NLP",
+          "sentiment analysis",
+          "stock prediction",
+          "LLM",
+          "finance"
+        ]
+      }
+    },
+    {
+      "query_id": "P16A",
+      "query": "Central Bank Digital Currency Design: Privacy, Financial Stability, and Monetary Policy Transmission",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Central Bank Digital Currency Design: Privacy, Financial Stability, and Monetary Policy Transmission",
+        "year": 2024,
+        "abstract": "We model CBDC design choices along three dimensions - anonymity, programmability, and interest-bearing features - and analyze their implications for bank disintermediation and monetary policy effectiveness.",
+        "domain": [
+          "CBDC",
+          "monetary policy",
+          "financial stability",
+          "privacy"
+        ]
+      }
+    },
+    {
+      "query_id": "P16B",
+      "query": "CBDC monetary policy financial stability",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Central Bank Digital Currency Design: Privacy, Financial Stability, and Monetary Policy Transmission",
+        "year": 2024,
+        "abstract": "We model CBDC design choices along three dimensions - anonymity, programmability, and interest-bearing features - and analyze their implications for bank disintermediation and monetary policy effectiveness.",
+        "domain": [
+          "CBDC",
+          "monetary policy",
+          "financial stability",
+          "privacy"
+        ]
+      }
+    },
+    {
+      "query_id": "P17A",
+      "query": "Cross-Border CBDC Interoperability: Technical Standards and Geopolitical Implications",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Cross-Border CBDC Interoperability: Technical Standards and Geopolitical Implications",
+        "year": 2023,
+        "abstract": "We survey cross-border CBDC initiatives (mBridge, Project Dunbar) and evaluate the role of technical interoperability standards (ISO 20022, atomic swaps) in shaping dollar hegemony under digital currency regimes.",
+        "domain": [
+          "CBDC",
+          "cross-border payments",
+          "interoperability",
+          "geopolitics"
+        ]
+      }
+    },
+    {
+      "query_id": "P17B",
+      "query": "CBDC cross-border payments interoperability",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Cross-Border CBDC Interoperability: Technical Standards and Geopolitical Implications",
+        "year": 2023,
+        "abstract": "We survey cross-border CBDC initiatives (mBridge, Project Dunbar) and evaluate the role of technical interoperability standards (ISO 20022, atomic swaps) in shaping dollar hegemony under digital currency regimes.",
+        "domain": [
+          "CBDC",
+          "cross-border payments",
+          "interoperability",
+          "geopolitics"
+        ]
+      }
+    },
+    {
+      "query_id": "P18A",
+      "query": "Regulatory Sandbox Effects on FinTech Innovation: Evidence from Southeast Asia",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Regulatory Sandbox Effects on FinTech Innovation: Evidence from Southeast Asia",
+        "year": 2023,
+        "abstract": "Using a difference-in-differences design, we estimate the causal effect of regulatory sandbox programs in Singapore, Malaysia, and Thailand on FinTech startup formation, funding, and product launches.",
+        "domain": [
+          "regulatory sandbox",
+          "FinTech innovation",
+          "Southeast Asia",
+          "policy"
+        ]
+      }
+    },
+    {
+      "query_id": "P18B",
+      "query": "regulatory sandbox FinTech innovation Southeast Asia",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Regulatory Sandbox Effects on FinTech Innovation: Evidence from Southeast Asia",
+        "year": 2023,
+        "abstract": "Using a difference-in-differences design, we estimate the causal effect of regulatory sandbox programs in Singapore, Malaysia, and Thailand on FinTech startup formation, funding, and product launches.",
+        "domain": [
+          "regulatory sandbox",
+          "FinTech innovation",
+          "Southeast Asia",
+          "policy"
+        ]
+      }
+    },
+    {
+      "query_id": "P19A",
+      "query": "Anti-Money Laundering Compliance Using Network Analysis and NLP",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Anti-Money Laundering Compliance Using Network Analysis and NLP",
+        "year": 2024,
+        "abstract": "We combine transaction graph analysis with NLP processing of SWIFT message narratives to identify money laundering typologies, reducing false positive rates by 60% compared to rule-based systems.",
+        "domain": [
+          "AML",
+          "network analysis",
+          "NLP",
+          "compliance",
+          "SWIFT"
+        ]
+      }
+    },
+    {
+      "query_id": "P19B",
+      "query": "AML network analysis NLP",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Anti-Money Laundering Compliance Using Network Analysis and NLP",
+        "year": 2024,
+        "abstract": "We combine transaction graph analysis with NLP processing of SWIFT message narratives to identify money laundering typologies, reducing false positive rates by 60% compared to rule-based systems.",
+        "domain": [
+          "AML",
+          "network analysis",
+          "NLP",
+          "compliance",
+          "SWIFT"
+        ]
+      }
+    },
+    {
+      "query_id": "P20A",
+      "query": "Machine Learning for Systemic Risk Monitoring in Financial Networks",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Machine Learning for Systemic Risk Monitoring in Financial Networks",
+        "year": 2023,
+        "abstract": "We apply graph convolutional networks to interbank exposure networks to predict systemic stress events, evaluating model performance against CoVaR and SRISK benchmarks using data from 48 countries.",
+        "domain": [
+          "systemic risk",
+          "financial networks",
+          "GCN",
+          "macroprudential"
+        ]
+      }
+    },
+    {
+      "query_id": "P20B",
+      "query": "systemic risk financial networks GCN",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Machine Learning for Systemic Risk Monitoring in Financial Networks",
+        "year": 2023,
+        "abstract": "We apply graph convolutional networks to interbank exposure networks to predict systemic stress events, evaluating model performance against CoVaR and SRISK benchmarks using data from 48 countries.",
+        "domain": [
+          "systemic risk",
+          "financial networks",
+          "GCN",
+          "macroprudential"
+        ]
+      }
+    },
+    {
+      "query_id": "P21A",
+      "query": "Parametric Insurance Smart Contracts for Climate Risk Using Satellite Data",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Parametric Insurance Smart Contracts for Climate Risk Using Satellite Data",
+        "year": 2024,
+        "abstract": "We design and simulate parametric crop insurance contracts on Ethereum that automatically trigger payouts when NDVI satellite indices fall below drought thresholds, eliminating claims adjustment costs.",
+        "domain": [
+          "insurtech",
+          "parametric insurance",
+          "smart contracts",
+          "climate risk"
+        ]
+      }
+    },
+    {
+      "query_id": "P21B",
+      "query": "insurtech parametric insurance smart contracts",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Parametric Insurance Smart Contracts for Climate Risk Using Satellite Data",
+        "year": 2024,
+        "abstract": "We design and simulate parametric crop insurance contracts on Ethereum that automatically trigger payouts when NDVI satellite indices fall below drought thresholds, eliminating claims adjustment costs.",
+        "domain": [
+          "insurtech",
+          "parametric insurance",
+          "smart contracts",
+          "climate risk"
+        ]
+      }
+    },
+    {
+      "query_id": "P22A",
+      "query": "Cyber Risk Quantification for Financial Institutions Using Bayesian Networks",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Cyber Risk Quantification for Financial Institutions Using Bayesian Networks",
+        "year": 2023,
+        "abstract": "We develop a Bayesian network model for quantifying operational cyber risk in banking, calibrated on FDIC loss data and publicly disclosed breach events, and estimate cyber VaR for stress testing.",
+        "domain": [
+          "cyber risk",
+          "operational risk",
+          "Bayesian networks",
+          "banking"
+        ]
+      }
+    },
+    {
+      "query_id": "P22B",
+      "query": "cyber risk operational risk Bayesian networks",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Cyber Risk Quantification for Financial Institutions Using Bayesian Networks",
+        "year": 2023,
+        "abstract": "We develop a Bayesian network model for quantifying operational cyber risk in banking, calibrated on FDIC loss data and publicly disclosed breach events, and estimate cyber VaR for stress testing.",
+        "domain": [
+          "cyber risk",
+          "operational risk",
+          "Bayesian networks",
+          "banking"
+        ]
+      }
+    },
+    {
+      "query_id": "P23A",
+      "query": "Open Banking API Adoption and Consumer Financial Outcomes: Evidence from PSD2",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Open Banking API Adoption and Consumer Financial Outcomes: Evidence from PSD2",
+        "year": 2024,
+        "abstract": "Using transaction-level data from the EU Payment Services Directive 2 rollout, we estimate the causal effect of open banking API adoption on consumer saving behavior, credit access, and financial literacy.",
+        "domain": [
+          "open banking",
+          "PSD2",
+          "API",
+          "consumer finance",
+          "policy"
+        ]
+      }
+    },
+    {
+      "query_id": "P23B",
+      "query": "open banking PSD2 API",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Open Banking API Adoption and Consumer Financial Outcomes: Evidence from PSD2",
+        "year": 2024,
+        "abstract": "Using transaction-level data from the EU Payment Services Directive 2 rollout, we estimate the causal effect of open banking API adoption on consumer saving behavior, credit access, and financial literacy.",
+        "domain": [
+          "open banking",
+          "PSD2",
+          "API",
+          "consumer finance",
+          "policy"
+        ]
+      }
+    },
+    {
+      "query_id": "P24A",
+      "query": "Real-Time Gross Settlement Systems and Systemic Liquidity Risk",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Real-Time Gross Settlement Systems and Systemic Liquidity Risk",
+        "year": 2023,
+        "abstract": "We model intraday liquidity dynamics in RTGS payment systems using agent-based simulation, identifying conditions under which gridlock cascades propagate across settlement participants.",
+        "domain": [
+          "RTGS",
+          "payment systems",
+          "systemic risk",
+          "liquidity"
+        ]
+      }
+    },
+    {
+      "query_id": "P24B",
+      "query": "RTGS payment systems systemic risk",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Real-Time Gross Settlement Systems and Systemic Liquidity Risk",
+        "year": 2023,
+        "abstract": "We model intraday liquidity dynamics in RTGS payment systems using agent-based simulation, identifying conditions under which gridlock cascades propagate across settlement participants.",
+        "domain": [
+          "RTGS",
+          "payment systems",
+          "systemic risk",
+          "liquidity"
+        ]
+      }
+    },
+    {
+      "query_id": "P25A",
+      "query": "Large Language Models for Financial Document Understanding and Regulatory Reporting",
+      "query_type": "specific",
+      "rationale": "Type A uses the exact paper title as the query. This maximises precision of the ground-truth match while reflecting how a researcher who knows the topic would phrase a targeted search.",
+      "ground_truth": {
+        "title": "Large Language Models for Financial Document Understanding and Regulatory Reporting",
+        "year": 2024,
+        "abstract": "We benchmark GPT-4, LLaMA, and FinLLM on XBRL regulatory filing extraction, SEC 10-K question answering, and Basel III capital ratio computation tasks, analyzing hallucination rates in financial contexts.",
+        "domain": [
+          "LLM",
+          "financial NLP",
+          "regulatory reporting",
+          "XBRL",
+          "hallucination"
+        ]
+      }
+    },
+    {
+      "query_id": "P25B",
+      "query": "LLM financial NLP regulatory reporting",
+      "query_type": "broad",
+      "rationale": "Type B uses high-level domain keywords derived from the paper's topic tags. This simulates a non-expert searcher and tests recall breadth rather than precision.",
+      "ground_truth": {
+        "title": "Large Language Models for Financial Document Understanding and Regulatory Reporting",
+        "year": 2024,
+        "abstract": "We benchmark GPT-4, LLaMA, and FinLLM on XBRL regulatory filing extraction, SEC 10-K question answering, and Basel III capital ratio computation tasks, analyzing hallucination rates in financial contexts.",
+        "domain": [
+          "LLM",
+          "financial NLP",
+          "regulatory reporting",
+          "XBRL",
+          "hallucination"
+        ]
+      }
+    }
+  ]
+}

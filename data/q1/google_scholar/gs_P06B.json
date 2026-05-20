@@ -1,0 +1,111 @@
+{
+  "query_id": "P06B",
+  "query": "credit scoring fairness machine learning",
+  "query_type": "broad",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:05:30Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Disparate Impact and Fairness Constraints in Machine Learning Credit Scoring",
+    "year": 2024,
+    "abstract": "We empirically evaluate fairness-aware credit scoring models under ECOA regulatory constraints, showing that standard fairness metrics (demographic parity, equalized odds) are often mutually incompatible.",
+    "domain": [
+      "credit scoring",
+      "fairness",
+      "machine learning",
+      "regulation"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Fairness in credit scoring: Assessment, implementation and profit implications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0377221721005385",
+      "snippet": "… -making has spawned much research on fair machine learning (ML). Financial institutions … a range of credit-related decisions. Yet, the literature on fair ML in credit scoring is scarce. The …",
+      "publication_info": "N Kozodoi, J Jacob, S Lessmann - European Journal of Operational …, 2022 - Elsevier",
+      "year": 2022,
+      "citation_count": 281
+    },
+    {
+      "rank": 2,
+      "title": "Algorithmic fairness in financial decision-making: Detection and mitigation of bias in credit scoring applications",
+      "link": "https://scipublication.com/index.php/JACS/article/view/156",
+      "snippet": "… machine learning algorithms deployed in credit evaluation … advanced machine learning techniques, and fairness metrics… groups in contemporary credit scoring systems. The research …",
+      "publication_info": "TK Trinh, D Zhang - Journal of Advanced Computing Systems, 2024 - scipublication.com",
+      "year": 2024,
+      "citation_count": 76
+    },
+    {
+      "rank": 3,
+      "title": "An experimental study on fairness-aware machine learning for credit scoring problem",
+      "link": "https://arxiv.org/abs/2412.20298",
+      "snippet": "… Nevertheless, their performance in the context of credit scoring has not been … study of fairness-aware machine learning in credit scoring. The study explores key aspects of credit scoring, …",
+      "publication_info": "HGT Thu, TV Doan, TL Quy - arXiv preprint arXiv:2412.20298, 2024 - arxiv.org",
+      "year": 2024,
+      "citation_count": 5
+    },
+    {
+      "rank": 4,
+      "title": "The fairness of credit scoring models",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03888",
+      "snippet": "… Another promising approach consists in using reinforcement learning methods with a … , yet (as we will show below) several of our credit scoring models will exhibit a lack of fairness. …",
+      "publication_info": "C Hurlin, C Pérignon, S Saurin - Management Science, 2026 - pubsonline.informs.org",
+      "year": 2026,
+      "citation_count": 86
+    },
+    {
+      "rank": 5,
+      "title": "AI and machine learning as tools for financial inclusion: challenges and opportunities in credit scoring",
+      "link": "https://www.researchgate.net/profile/Amos-Ogunola/publication/386277518_AI_and_machine_learning_as_tools_for_financial_inclusion_challenges_and_opportunities_in_credit_scoring/links/67554dddb558f41d0fc3e569/AI-and-machine-learning-as-tools-for-financial-inclusion-challenges-and-opportunities-in-credit-scoring.pdf",
+      "snippet": "… non-traditional metrics, credit scoring systems can become more inclusive … Machine Learning (ML) AI and ML are poised to revolutionize credit scoring by enhancing efficiency, fairness, …",
+      "publication_info": "TF Nuka, AA Ogunola - … Journal of Science and Research Archive, 2024 - researchgate.net",
+      "year": 2024,
+      "citation_count": 21
+    },
+    {
+      "rank": 6,
+      "title": "Performance, Fairness, and Explainability in AI-Based Credit Scoring: A Systematic Literature Review",
+      "link": "https://www.mdpi.com/1911-8074/19/2/104",
+      "snippet": "… boosting and deep learning (DL) architectures. Arguably, despite both approaches being extensively explored and sharing similarities, deep learning demonstrates greater suitability in …",
+      "publication_info": "R Bahlool, N Hewahi, W Elmedany - Journal of Risk and Financial …, 2026 - mdpi.com",
+      "year": 2026,
+      "citation_count": 3
+    },
+    {
+      "rank": 7,
+      "title": "Machine learning in credit scoring: A fairness approach",
+      "link": "https://www.researchgate.net/profile/Jose-Javier-Caloca-Martinez/publication/379301243_Machine_learning_in_credit_scoring_A_fairness_approach/links/66032a76907e3f27ee6b8b8d/Machine-learning-in-credit-scoring-A-fairness-approach.pdf",
+      "snippet": "… on fairness in credit scoring. The objective of this dissertation is to discuss and present machine learning applications in the context of credit scoring and implement a fairness modelling …",
+      "publication_info": "JJC Martinez - 2022 - researchgate.net",
+      "year": 2022,
+      "citation_count": null
+    },
+    {
+      "rank": 8,
+      "title": "Societal bias reinforcement through machine learning: a credit scoring perspective",
+      "link": "https://link.springer.com/article/10.1007/s43681-020-00026-z",
+      "snippet": "… In this paper, we assume that for a credit scoring data set to be unbiased, the information … of customers based on data used for credit scoring purposes. Though this paper would gain …",
+      "publication_info": "BK Hassani - AI and Ethics, 2021 - Springer",
+      "year": 2021,
+      "citation_count": 75
+    },
+    {
+      "rank": 9,
+      "title": "Enhancing fairness in credit assessment: Mitigation strategies and implementation",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10766588/",
+      "snippet": "… a rigorous evaluation and implementation of fairness in … the assessment and integration of fairness in credit assessment. It … use of Machine Learning (ML) was considered to train a credit …",
+      "publication_info": "M Kisten, M Khosa - IEEE Access, 2024 - ieeexplore.ieee.org",
+      "year": 2024,
+      "citation_count": 7
+    },
+    {
+      "rank": 10,
+      "title": "Algorithmic decision making methods for fair credit scoring",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10151887/",
+      "snippet": "… Our study addresses the problem of ensuring fairness in the automatic credit scoring process using machine learning algorithms. Since the research interest for ensuring fair processing …",
+      "publication_info": "D Moldovan - IEEE access, 2023 - ieeexplore.ieee.org",
+      "year": 2023,
+      "citation_count": 31
+    }
+  ]
+}

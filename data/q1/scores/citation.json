@@ -1,0 +1,516 @@
+{
+  "asta": {
+    "per_query": {
+      "P01A": {
+        "mean_log_citation": 3.9643,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P01B": {
+        "mean_log_citation": 3.1004,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P02A": {
+        "mean_log_citation": 2.8338,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P02B": {
+        "mean_log_citation": 5.003,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P03A": {
+        "mean_log_citation": 4.4572,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P03B": {
+        "mean_log_citation": 4.3319,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P04A": {
+        "mean_log_citation": 4.0753,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P04B": {
+        "mean_log_citation": 3.7874,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P05A": {
+        "mean_log_citation": 3.2233,
+        "with_citation": 7,
+        "missing": 3
+      },
+      "P05B": {
+        "mean_log_citation": 3.2513,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P06A": {
+        "mean_log_citation": 2.7715,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P06B": {
+        "mean_log_citation": 3.5644,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P07A": {
+        "mean_log_citation": 3.717,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P07B": {
+        "mean_log_citation": 4.0418,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P08A": {
+        "mean_log_citation": 2.2333,
+        "with_citation": 7,
+        "missing": 3
+      },
+      "P08B": {
+        "mean_log_citation": 3.8841,
+        "with_citation": 8,
+        "missing": 2
+      },
+      "P09A": {
+        "mean_log_citation": 2.1559,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P09B": {
+        "mean_log_citation": 2.1425,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P10A": {
+        "mean_log_citation": 3.011,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P10B": {
+        "mean_log_citation": 2.5297,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P11A": {
+        "mean_log_citation": 3.1489,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P11B": {
+        "mean_log_citation": 2.805,
+        "with_citation": 6,
+        "missing": 4
+      },
+      "P12A": {
+        "mean_log_citation": 2.971,
+        "with_citation": 7,
+        "missing": 3
+      },
+      "P12B": {
+        "mean_log_citation": 3.2618,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P13A": {
+        "mean_log_citation": 2.5634,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P13B": {
+        "mean_log_citation": 1.8585,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P14A": {
+        "mean_log_citation": 3.2532,
+        "with_citation": 8,
+        "missing": 2
+      },
+      "P14B": {
+        "mean_log_citation": 4.0851,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P15A": {
+        "mean_log_citation": 2.7809,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P15B": {
+        "mean_log_citation": 3.6408,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P16A": {
+        "mean_log_citation": 3.9123,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P16B": {
+        "mean_log_citation": 3.5239,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P17A": {
+        "mean_log_citation": 2.2981,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P17B": {
+        "mean_log_citation": 2.0581,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P18A": {
+        "mean_log_citation": 2.5905,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P18B": {
+        "mean_log_citation": 2.7597,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P19A": {
+        "mean_log_citation": 3.1225,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P19B": {
+        "mean_log_citation": 2.9002,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P20A": {
+        "mean_log_citation": 2.677,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P20B": {
+        "mean_log_citation": 2.2205,
+        "with_citation": 4,
+        "missing": 6
+      },
+      "P21A": {
+        "mean_log_citation": 2.321,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P21B": {
+        "mean_log_citation": 2.2661,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P22A": {
+        "mean_log_citation": 2.7008,
+        "with_citation": 8,
+        "missing": 2
+      },
+      "P22B": {
+        "mean_log_citation": 2.8769,
+        "with_citation": 7,
+        "missing": 3
+      },
+      "P23A": {
+        "mean_log_citation": 3.1607,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P23B": {
+        "mean_log_citation": 2.9945,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P24A": {
+        "mean_log_citation": 3.035,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P24B": {
+        "mean_log_citation": 3.0167,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P25A": {
+        "mean_log_citation": 2.6071,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P25B": {
+        "mean_log_citation": 2.7198,
+        "with_citation": 9,
+        "missing": 1
+      }
+    },
+    "overall_mean_log": 3.0842,
+    "total_with_citation": 455,
+    "total_missing": 45
+  },
+  "google_scholar": {
+    "per_query": {
+      "P01A": {
+        "mean_log_citation": 3.0341,
+        "with_citation": 5,
+        "missing": 5
+      },
+      "P01B": {
+        "mean_log_citation": 3.2206,
+        "with_citation": 6,
+        "missing": 4
+      },
+      "P02A": {
+        "mean_log_citation": 2.7383,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P02B": {
+        "mean_log_citation": 2.3803,
+        "with_citation": 8,
+        "missing": 2
+      },
+      "P03A": {
+        "mean_log_citation": 6.3244,
+        "with_citation": 1,
+        "missing": 0
+      },
+      "P03B": {
+        "mean_log_citation": 3.4288,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P04A": {
+        "mean_log_citation": 4.5399,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P04B": {
+        "mean_log_citation": 3.3118,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P05A": {
+        "mean_log_citation": 3.0903,
+        "with_citation": 8,
+        "missing": 2
+      },
+      "P05B": {
+        "mean_log_citation": 1.9201,
+        "with_citation": 6,
+        "missing": 4
+      },
+      "P06A": {
+        "mean_log_citation": 2.9732,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P06B": {
+        "mean_log_citation": 3.3996,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P07A": {
+        "mean_log_citation": 2.2618,
+        "with_citation": 8,
+        "missing": 2
+      },
+      "P07B": {
+        "mean_log_citation": 2.7499,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P08A": {
+        "mean_log_citation": 2.2719,
+        "with_citation": 8,
+        "missing": 2
+      },
+      "P08B": {
+        "mean_log_citation": 2.8849,
+        "with_citation": 4,
+        "missing": 6
+      },
+      "P09A": {
+        "mean_log_citation": 2.1956,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P09B": {
+        "mean_log_citation": 2.7641,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P10A": {
+        "mean_log_citation": 3.5248,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P10B": {
+        "mean_log_citation": 2.6894,
+        "with_citation": 8,
+        "missing": 2
+      },
+      "P11A": {
+        "mean_log_citation": 0.6931,
+        "with_citation": 1,
+        "missing": 0
+      },
+      "P11B": {
+        "mean_log_citation": 4.2109,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P12A": {
+        "mean_log_citation": 1.6887,
+        "with_citation": 7,
+        "missing": 3
+      },
+      "P12B": {
+        "mean_log_citation": 1.6872,
+        "with_citation": 7,
+        "missing": 3
+      },
+      "P13A": {
+        "mean_log_citation": 2.1842,
+        "with_citation": 6,
+        "missing": 4
+      },
+      "P13B": {
+        "mean_log_citation": 2.5012,
+        "with_citation": 5,
+        "missing": 5
+      },
+      "P14A": {
+        "mean_log_citation": 4.4384,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P14B": {
+        "mean_log_citation": 4.4087,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P15A": {
+        "mean_log_citation": 0.6931,
+        "with_citation": 1,
+        "missing": 0
+      },
+      "P15B": {
+        "mean_log_citation": 4.2167,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P16A": {
+        "mean_log_citation": 3.7227,
+        "with_citation": 8,
+        "missing": 2
+      },
+      "P16B": {
+        "mean_log_citation": 3.7909,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P17A": {
+        "mean_log_citation": 2.3482,
+        "with_citation": 4,
+        "missing": 6
+      },
+      "P17B": {
+        "mean_log_citation": 2.7436,
+        "with_citation": 5,
+        "missing": 5
+      },
+      "P18A": {
+        "mean_log_citation": 2.4997,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P18B": {
+        "mean_log_citation": 2.753,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P19A": {
+        "mean_log_citation": 3.0356,
+        "with_citation": 8,
+        "missing": 2
+      },
+      "P19B": {
+        "mean_log_citation": 3.4212,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P20A": {
+        "mean_log_citation": 3.2421,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P20B": {
+        "mean_log_citation": 1.7336,
+        "with_citation": 7,
+        "missing": 3
+      },
+      "P21A": {
+        "mean_log_citation": 2.3612,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P21B": {
+        "mean_log_citation": 1.8877,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P22A": {
+        "mean_log_citation": 3.8404,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P22B": {
+        "mean_log_citation": 4.345,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P23A": {
+        "mean_log_citation": 2.3617,
+        "with_citation": 8,
+        "missing": 2
+      },
+      "P23B": {
+        "mean_log_citation": 3.6618,
+        "with_citation": 10,
+        "missing": 0
+      },
+      "P24A": {
+        "mean_log_citation": 2.8003,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P24B": {
+        "mean_log_citation": 2.881,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P25A": {
+        "mean_log_citation": 2.9174,
+        "with_citation": 9,
+        "missing": 1
+      },
+      "P25B": {
+        "mean_log_citation": 1.9081,
+        "with_citation": 8,
+        "missing": 2
+      }
+    },
+    "overall_mean_log": 2.9336,
+    "total_with_citation": 393,
+    "total_missing": 80
+  }
+}

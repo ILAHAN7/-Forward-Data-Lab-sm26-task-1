@@ -1,0 +1,100 @@
+{
+  "query_id": "P02A",
+  "query": "Maximal Extractable Value in Ethereum: Quantification and Mitigation Strategies",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T17:58:32Z",
+  "result_count": 10,
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Maximum extractable value (mev) mitigation approaches in ethereum and layer-2 chains: A comprehensive survey",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10787131/",
+      "snippet": "… MEV mitigation techniques as applied to both Ethereum’s L1 and various L2 solutions. We provide a novel categorization of mitigation strategies. … analysis of MEV mitigation strategies. …",
+      "publication_info": "Z Alipanahloo, AS Hafid, K Zhang - IEEE Access, 2024 - ieeexplore.ieee.org",
+      "year": 2024,
+      "citation_count": 28
+    },
+    {
+      "rank": 2,
+      "title": "Towards understanding multi-block maximal extractable value in ethereum",
+      "link": "https://repositum.tuwien.at/handle/20.500.12708/202226",
+      "snippet": "… and quantifying Single-block Maximal Extractable Value in … -block Maximal Extractable Value (MMEV) strategies are actively … One straightforward MEV mitigation strategy is setting a limit …",
+      "publication_info": "JJ Brachmann - 2024 - repositum.tuwien.at",
+      "year": 2024,
+      "citation_count": null
+    },
+    {
+      "rank": 3,
+      "title": "Maximal extractable value: Current understanding, categorization, and open research questions",
+      "link": "https://link.springer.com/article/10.1007/s12525-024-00727-x",
+      "snippet": "… extractable value”) from the references we identified in our SLR and structuring the different … maximal extractable value”). We discuss our results in the light of MEV mitigation measures …",
+      "publication_info": "V Gramlich, D Jelito, J Sedlmeir - Electronic Markets, 2024 - Springer",
+      "year": 2024,
+      "citation_count": 36
+    },
+    {
+      "rank": 4,
+      "title": "Maximal extractable value in decentralized finance: Taxonomy, detection, and mitigation",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11202291/",
+      "snippet": "… We present a critical comparative analysis of the various MEV … in-depth analysis of various MEV mitigation strategies, such … of Ethereum protocols driven by the underlying need for MEV …",
+      "publication_info": "H Materwala, SM Naik, A Taha, TA Abed… - IEEE Transactions …, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": 5
+    },
+    {
+      "rank": 5,
+      "title": "Fairflow protocol: Equitable maximal extractable value (mev) mitigation in ethereum",
+      "link": "https://arxiv.org/abs/2312.12654",
+      "snippet": "… alongside Ethereum, especially one that encompasses encrypted transactions and additional measures to mitigate Maximal Extractable Value … Such an analysis would provide valuable …",
+      "publication_info": "D Sarkar - arXiv preprint arXiv:2312.12654, 2023 - arxiv.org",
+      "year": 2023,
+      "citation_count": 2
+    },
+    {
+      "rank": 6,
+      "title": "Decentralization or Favoritism? An Analysis of Ethereum Transactions and Maximal Extractable Value Strategies",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11114553/",
+      "snippet": "… To mitigate the potential negative impact of … value of the transaction as the maximum payment made by the smart contract, as we believe this serves as a suitable proxy for quantifying …",
+      "publication_info": "D Mancino, A Leporati, M Viviani… - 2025 IEEE International …, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": 4
+    },
+    {
+      "rank": 7,
+      "title": "The scalability challenge of ethereum: An initial quantitative analysis",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8705874/",
+      "snippet": "… Ethereum reaches a maximum transaction throughput of approximately 15 tx/s, even if the transactions do not require computations. Interestingly, this value … with a strategy that partitions …",
+      "publication_info": "M Bez, G Fornari, T Vardanega - 2019 ieee international …, 2019 - ieeexplore.ieee.org",
+      "year": 2019,
+      "citation_count": 197
+    },
+    {
+      "rank": 8,
+      "title": "Review of maximal extractable value & blockchain oracles",
+      "link": "https://www.fca.org.uk/publication/research-notes/research-note-review-and-maximal-extractable-value-blockchain-oracles.pdf",
+      "snippet": "… strategies associated with maximal extractable value. … Where possible, we provided quantitative analysis including … (2023a and 2023b) analysed MEV behaviours on the Ethereum …",
+      "publication_info": "R Humphry, P Avramovic, F Acevedo, S Alkhair… - 2024 - fca.org.uk",
+      "year": 2024,
+      "citation_count": 2
+    },
+    {
+      "rank": 9,
+      "title": "Towards quantifying cross-domain maximal extractable value for blockchain decentralisation",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-7356-9_37",
+      "snippet": "… -domain Maximal Extractable Value (MEV), even this strategy … Based on the analysis, we are successful in identifying one … an Ethereum node and using it to extract data from Ethereum …",
+      "publication_info": "JH Sjursen, W Meng, WY Chiu - International Conference on Information …, 2023 - Springer",
+      "year": 2023,
+      "citation_count": 7
+    },
+    {
+      "rank": 10,
+      "title": "Maximal extractable value (mev) protection on a dag",
+      "link": "https://arxiv.org/abs/2208.00940",
+      "snippet": "… the amount of MEV extracted on Ethereum since the 1st of Jan … In this paper, we focus on consensus-level MEV mitigation … In the future, we plan to extend our analysis and experiments…",
+      "publication_info": "D Malkhi, P Szalachowski - arXiv preprint arXiv:2208.00940, 2022 - arxiv.org",
+      "year": 2022,
+      "citation_count": 109
+    }
+  ]
+}

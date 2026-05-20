@@ -1,0 +1,111 @@
+{
+  "query_id": "P21A",
+  "query": "Parametric Insurance Smart Contracts for Climate Risk Using Satellite Data",
+  "query_type": "specific",
+  "engine": "google_scholar",
+  "fetched_at": "2026-05-16T18:07:48Z",
+  "result_count": 10,
+  "ground_truth": {
+    "title": "Parametric Insurance Smart Contracts for Climate Risk Using Satellite Data",
+    "year": 2024,
+    "abstract": "We design and simulate parametric crop insurance contracts on Ethereum that automatically trigger payouts when NDVI satellite indices fall below drought thresholds, eliminating claims adjustment costs.",
+    "domain": [
+      "insurtech",
+      "parametric insurance",
+      "smart contracts",
+      "climate risk"
+    ]
+  },
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Climate insurance for agriculture in Europe: On the merits of smart contracts and distributed ledger technologies",
+      "link": "https://www.mdpi.com/1911-8074/15/5/211",
+      "snippet": "… and better adapted to climate risks because indicators … index insurance, satellite data are used to supplement ground-based data indices or to develop remote sensing index insurance …",
+      "publication_info": "R Schwarze, O Sushchenko - Journal of Risk and Financial Management, 2022 - mdpi.com",
+      "year": 2022,
+      "citation_count": 20
+    },
+    {
+      "rank": 2,
+      "title": "Parametric insurance",
+      "link": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003319054-6/parametric-insurance-wynne-lawrence-julie-anne-tarr-nigel-brook-meg-chaperon-arnaud-sorel",
+      "snippet": "… data-driven parametric insurance against climate risk, deploying new data sources, including internet of things (“IoT”), satellite … a blockchainenabled, smart contract basis. Through the …",
+      "publication_info": "W Lawrence, JA Tarr, N Brook… - The global insurance …, 2023 - taylorfrancis.com",
+      "year": 2023,
+      "citation_count": 12
+    },
+    {
+      "rank": 3,
+      "title": "The Mitigation of Socio-natural Hazards through Smart Insurance Contracts",
+      "link": "https://ebooks.rtu.lv/wp-content/uploads/sites/32/2024/03/9789934370373-PDK_Andrea-Pagano_ENG.pdf",
+      "snippet": "… adoption of smart contracts in the insurance industry. … Changes in the willingness-to-pay-for-risk parameter are … for ‘community’ risks is proposed for environmental risks in specific …",
+      "publication_info": "AJ Pagano - 2024 - ebooks.rtu.lv",
+      "year": 2024,
+      "citation_count": 1
+    },
+    {
+      "rank": 4,
+      "title": "Blockchain, smart contracts and parametric insurance: Made for each other",
+      "link": "https://www.crowell.com/a/web/p9UpZkvqJfgPbV3otnXXoy/4TtkFW/20181116-blockchain-smart-contracts-and-parametric-insurance-made-for-each-other.pdf",
+      "snippet": "… blockchain “disrupting” the insurance industry. Many industry … use of smart contracts for “parametric” or “index” insurance … the insurance industry have to gain from smart contracts and …",
+      "publication_info": "LA Foggan, CE Cwiertny - 2018 - crowell.com",
+      "year": 2018,
+      "citation_count": 6
+    },
+    {
+      "rank": 5,
+      "title": "Privacy-preserving blockchain-enabled parametric insurance via remote sensing and IoT",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11198177/",
+      "snippet": "… parametric insurance index in a smart contract. The insuree can then submit an insurance claim with supporting data to the smart contract… Data: To prepare the dataset of satellite images …",
+      "publication_info": "M Hao, K Qian, SCK Chau - IEEE Transactions on Services …, 2025 - ieeexplore.ieee.org",
+      "year": 2025,
+      "citation_count": 8
+    },
+    {
+      "rank": 6,
+      "title": "A solution to blockchain smart contract based parametric transport and logistics insurance",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10138616/",
+      "snippet": "… processing outputs and sources of data verification in an immutable fashion for … smart contract-based parametric insurance use case from the transportation industry. The use case deals …",
+      "publication_info": "H Dutta, S Nagesh, J Talluri… - IEEE Transactions on …, 2023 - ieeexplore.ieee.org",
+      "year": 2023,
+      "citation_count": 29
+    },
+    {
+      "rank": 7,
+      "title": "The depoliticization of climate disasters: Unpacking the entanglement of satellites with parametric climate risk insurance",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2589811624000211",
+      "snippet": "… becoming entangled with parametric insurance technology. In … environmental data, satellite-based parametric insurance is increasingly promoted as an efficient way to provide …",
+      "publication_info": "R Bergsvik, S Kloppenburg - Earth System Governance, 2024 - Elsevier",
+      "year": 2024,
+      "citation_count": 14
+    },
+    {
+      "rank": 8,
+      "title": "A critical analysis on the capacity of blockchain-based parametric insurance in tackling the financial impact of climatic disasters' in In Commonwealth",
+      "link": "https://books.google.com/books?hl=en&lr=&id=qq2xDwAAQBAJ&oi=fnd&pg=PA87&dq=Parametric+Insurance+Smart+Contracts+for+Climate+Risk+Using+Satellite+Data&ots=rLvyFRuaHB&sig=0Xc2CHb5sI-_xkHfoJGTh45oCSg",
+      "snippet": "… of ClimateWise puts it: 'The climate risk protection gap presents … Smart contracts have the potential to change the way we … weather index databases and high-resolution satellite imagery …",
+      "publication_info": "C Sandland, D Schilling, A Marke - 2024 - books.google.com",
+      "year": 2024,
+      "citation_count": 2
+    },
+    {
+      "rank": 9,
+      "title": "Blockchain-enabled parametric solar energy insurance via remote sensing",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3575813.3576880",
+      "snippet": "… insurance claims with supporting data (eg, trusted third-party satellite imagery) to the smart contracts… There are already several parametric insurance providers on permissionless …",
+      "publication_info": "M Hao, K Qian, SCK Chau - Proceedings of the 14th ACM International …, 2023 - dl.acm.org",
+      "year": 2023,
+      "citation_count": 8
+    },
+    {
+      "rank": 10,
+      "title": "Implementation of blockchain technology in insurance contracts against natural hazards: a methodological multi-disciplinary approach",
+      "link": "https://sciendo.com/pdf/10.2478/rtuect-2019-0091",
+      "snippet": "… the potential use of blockchain technology for smart contracts … to the combination of parametric insurance and blockchain … could be applied for an environmental risk in a certain …",
+      "publication_info": "AJ Pagano, F Romagnoli, E Vannucci - Environmental and Climate …, 2019 - sciendo.com",
+      "year": 2019,
+      "citation_count": 42
+    }
+  ]
+}
